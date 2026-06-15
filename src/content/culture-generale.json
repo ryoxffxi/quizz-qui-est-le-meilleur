@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "culture_0001",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle est la capitale de la France ?",
+      "en": "What is the capital of France?",
+      "es": "¿Cuál es la capital de Francia?",
+      "pt": "Qual é a capital da França?"
+    },
+    "options": {
+      "fr": [
+        "Paris",
+        "Lyon",
+        "Marseille",
+        "Bordeaux"
+      ],
+      "en": [
+        "Paris",
+        "Lyon",
+        "Marseille",
+        "Bordeaux"
+      ],
+      "es": [
+        "París",
+        "Lyon",
+        "Marsella",
+        "Burdeos"
+      ],
+      "pt": [
+        "Paris",
+        "Lyon",
+        "Marselha",
+        "Bordéus"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Paris est la capitale de la France.",
+      "en": "Paris is the capital of France.",
+      "es": "París es la capital de Francia.",
+      "pt": "Paris é a capital da França."
+    }
+  },
+  {
+    "id": "culture_0002",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Combien de côtés possède un carré ?",
+      "en": "How many sides does a square have?",
+      "es": "¿Cuántos lados tiene un cuadrado?",
+      "pt": "Quantos lados tem um quadrado?"
+    },
+    "options": {
+      "fr": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "en": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "es": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "pt": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Un carré possède 4 côtés égaux.",
+      "en": "A square has 4 equal sides.",
+      "es": "Un cuadrado tiene 4 lados iguales.",
+      "pt": "Um quadrado tem 4 lados iguais."
+    }
+  },
+  {
+    "id": "culture_0003",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle planète est surnommée la planète rouge ?",
+      "en": "Which planet is nicknamed the red planet?",
+      "es": "¿Qué planeta es apodado el planeta rojo?",
+      "pt": "Qual planeta é apelidado de planeta vermelho?"
+    },
+    "options": {
+      "fr": [
+        "Mars",
+        "Vénus",
+        "Jupiter",
+        "Saturne"
+      ],
+      "en": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Saturn"
+      ],
+      "es": [
+        "Marte",
+        "Venus",
+        "Júpiter",
+        "Saturno"
+      ],
+      "pt": [
+        "Marte",
+        "Vênus",
+        "Júpiter",
+        "Saturno"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Mars doit sa couleur à l'oxyde de fer.",
+      "en": "Mars owes its color to iron oxide.",
+      "es": "Marte debe su color al óxido de hierro.",
+      "pt": "Marte deve a sua cor ao óxido de ferro."
+    }
+  },
+  {
+    "id": "culture_0004",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel est le plus grand océan du monde ?",
+      "en": "What is the largest ocean in the world?",
+      "es": "¿Cuál es el océano más grande del mundo?",
+      "pt": "Qual é o maior oceano do mundo?"
+    },
+    "options": {
+      "fr": [
+        "Pacifique",
+        "Atlantique",
+        "Indien",
+        "Arctique"
+      ],
+      "en": [
+        "Pacific",
+        "Atlantic",
+        "Indian",
+        "Arctic"
+      ],
+      "es": [
+        "Pacífico",
+        "Atlántico",
+        "Índico",
+        "Ártico"
+      ],
+      "pt": [
+        "Pacífico",
+        "Atlântico",
+        "Índico",
+        "Ártico"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Pacifique est le plus vaste des océans.",
+      "en": "The Pacific is the largest of the oceans.",
+      "es": "El Pacífico es el más vasto de los océanos.",
+      "pt": "O Pacífico é o mais vasto dos oceanos."
+    }
+  },
+  {
+    "id": "culture_0005",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Combien de jours compte une année bissextile ?",
+      "en": "How many days does a leap year have?",
+      "es": "¿Cuántos días tiene un año bisiesto?",
+      "pt": "Quantos dias tem um ano bissexto?"
+    },
+    "options": {
+      "fr": [
+        "366",
+        "365",
+        "364",
+        "367"
+      ],
+      "en": [
+        "366",
+        "365",
+        "364",
+        "367"
+      ],
+      "es": [
+        "366",
+        "365",
+        "364",
+        "367"
+      ],
+      "pt": [
+        "366",
+        "365",
+        "364",
+        "367"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Une année bissextile compte 366 jours.",
+      "en": "A leap year has 366 days.",
+      "es": "Un año bisiesto tiene 366 días.",
+      "pt": "Um ano bissexto tem 366 dias."
+    }
+  },
+  {
+    "id": "culture_0006",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel astre est au centre du système solaire ?",
+      "en": "Which celestial body is at the center of the solar system?",
+      "es": "¿Qué astro está en el centro del sistema solar?",
+      "pt": "Qual astro está no centro do sistema solar?"
+    },
+    "options": {
+      "fr": [
+        "Le Soleil",
+        "La Terre",
+        "La Lune",
+        "Jupiter"
+      ],
+      "en": [
+        "The Sun",
+        "The Earth",
+        "The Moon",
+        "Jupiter"
+      ],
+      "es": [
+        "El Sol",
+        "La Tierra",
+        "La Luna",
+        "Júpiter"
+      ],
+      "pt": [
+        "O Sol",
+        "A Terra",
+        "A Lua",
+        "Júpiter"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Soleil est au centre du système solaire.",
+      "en": "The Sun is at the center of the solar system.",
+      "es": "El Sol está en el centro del sistema solar.",
+      "pt": "O Sol está no centro do sistema solar."
+    }
+  },
+  {
+    "id": "culture_0007",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "De quelle couleur est le disque central du drapeau japonais ?",
+      "en": "What color is the central disc of the Japanese flag?",
+      "es": "¿De qué color es el disco central de la bandera japonesa?",
+      "pt": "De que cor é o disco central da bandeira japonesa?"
+    },
+    "options": {
+      "fr": [
+        "Rouge",
+        "Bleu",
+        "Vert",
+        "Noir"
+      ],
+      "en": [
+        "Red",
+        "Blue",
+        "Green",
+        "Black"
+      ],
+      "es": [
+        "Rojo",
+        "Azul",
+        "Verde",
+        "Negro"
+      ],
+      "pt": [
+        "Vermelho",
+        "Azul",
+        "Verde",
+        "Preto"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Un disque rouge sur fond blanc.",
+      "en": "A red disc on a white background.",
+      "es": "Un disco rojo sobre fondo blanco.",
+      "pt": "Um disco vermelho sobre fundo branco."
+    }
+  },
+  {
+    "id": "culture_0008",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Qui a peint la Joconde ?",
+      "en": "Who painted the Mona Lisa?",
+      "es": "¿Quién pintó la Mona Lisa?",
+      "pt": "Quem pintou a Mona Lisa?"
+    },
+    "options": {
+      "fr": [
+        "Léonard de Vinci",
+        "Michel-Ange",
+        "Raphaël",
+        "Botticelli"
+      ],
+      "en": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Botticelli"
+      ],
+      "es": [
+        "Leonardo da Vinci",
+        "Miguel Ángel",
+        "Rafael",
+        "Botticelli"
+      ],
+      "pt": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Rafael",
+        "Botticelli"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La Joconde est de Léonard de Vinci.",
+      "en": "The Mona Lisa is by Leonardo da Vinci.",
+      "es": "La Mona Lisa es de Leonardo da Vinci.",
+      "pt": "A Mona Lisa é de Leonardo da Vinci."
+    }
+  },
+  {
+    "id": "culture_0009",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel animal est surnommé le « roi des animaux » ?",
+      "en": "Which animal is nicknamed the \"king of the animals\"?",
+      "es": "¿Qué animal es apodado el «rey de los animales»?",
+      "pt": "Qual animal é apelidado de «rei dos animais»?"
+    },
+    "options": {
+      "fr": [
+        "Le lion",
+        "Le tigre",
+        "L'éléphant",
+        "L'aigle"
+      ],
+      "en": [
+        "The lion",
+        "The tiger",
+        "The elephant",
+        "The eagle"
+      ],
+      "es": [
+        "El león",
+        "El tigre",
+        "El elefante",
+        "El águila"
+      ],
+      "pt": [
+        "O leão",
+        "O tigre",
+        "O elefante",
+        "A águia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le lion est le roi des animaux.",
+      "en": "The lion is the king of the animals.",
+      "es": "El león es el rey de los animales.",
+      "pt": "O leão é o rei dos animais."
+    }
+  },
+  {
+    "id": "culture_0010",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle est la capitale de l'Italie ?",
+      "en": "What is the capital of Italy?",
+      "es": "¿Cuál es la capital de Italia?",
+      "pt": "Qual é a capital da Itália?"
+    },
+    "options": {
+      "fr": [
+        "Rome",
+        "Milan",
+        "Naples",
+        "Turin"
+      ],
+      "en": [
+        "Rome",
+        "Milan",
+        "Naples",
+        "Turin"
+      ],
+      "es": [
+        "Roma",
+        "Milán",
+        "Nápoles",
+        "Turín"
+      ],
+      "pt": [
+        "Roma",
+        "Milão",
+        "Nápoles",
+        "Turim"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Rome est la capitale de l'Italie.",
+      "en": "Rome is the capital of Italy.",
+      "es": "Roma es la capital de Italia.",
+      "pt": "Roma é a capital da Itália."
+    }
+  },
+  {
+    "id": "culture_0011",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Combien de doigts compte une main humaine ?",
+      "en": "How many fingers does a human hand have?",
+      "es": "¿Cuántos dedos tiene una mano humana?",
+      "pt": "Quantos dedos tem uma mão humana?"
+    },
+    "options": {
+      "fr": [
+        "5",
+        "4",
+        "6",
+        "10"
+      ],
+      "en": [
+        "5",
+        "4",
+        "6",
+        "10"
+      ],
+      "es": [
+        "5",
+        "4",
+        "6",
+        "10"
+      ],
+      "pt": [
+        "5",
+        "4",
+        "6",
+        "10"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Une main compte 5 doigts.",
+      "en": "A hand has 5 fingers.",
+      "es": "Una mano tiene 5 dedos.",
+      "pt": "Uma mão tem 5 dedos."
+    }
+  },
+  {
+    "id": "culture_0012",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "De quelle couleur est le ciel par beau temps ?",
+      "en": "What color is the sky in fair weather?",
+      "es": "¿De qué color es el cielo cuando hace buen tiempo?",
+      "pt": "De que cor é o céu quando o tempo está bom?"
+    },
+    "options": {
+      "fr": [
+        "Bleu",
+        "Vert",
+        "Rouge",
+        "Jaune"
+      ],
+      "en": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+      ],
+      "es": [
+        "Azul",
+        "Verde",
+        "Rojo",
+        "Amarillo"
+      ],
+      "pt": [
+        "Azul",
+        "Verde",
+        "Vermelho",
+        "Amarelo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le ciel dégagé apparaît bleu.",
+      "en": "A clear sky appears blue.",
+      "es": "El cielo despejado se ve azul.",
+      "pt": "O céu limpo parece azul."
+    }
+  },
+  {
+    "id": "culture_0013",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel animal aboie ?",
+      "en": "Which animal barks?",
+      "es": "¿Qué animal ladra?",
+      "pt": "Qual animal late?"
+    },
+    "options": {
+      "fr": [
+        "Le chien",
+        "Le chat",
+        "La vache",
+        "Le cheval"
+      ],
+      "en": [
+        "The dog",
+        "The cat",
+        "The cow",
+        "The horse"
+      ],
+      "es": [
+        "El perro",
+        "El gato",
+        "La vaca",
+        "El caballo"
+      ],
+      "pt": [
+        "O cão",
+        "O gato",
+        "A vaca",
+        "O cavalo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le chien aboie.",
+      "en": "The dog barks.",
+      "es": "El perro ladra.",
+      "pt": "O cão late."
+    }
+  },
+  {
+    "id": "culture_0014",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Combien de mois compte une année ?",
+      "en": "How many months does a year have?",
+      "es": "¿Cuántos meses tiene un año?",
+      "pt": "Quantos meses tem um ano?"
+    },
+    "options": {
+      "fr": [
+        "12",
+        "10",
+        "11",
+        "13"
+      ],
+      "en": [
+        "12",
+        "10",
+        "11",
+        "13"
+      ],
+      "es": [
+        "12",
+        "10",
+        "11",
+        "13"
+      ],
+      "pt": [
+        "12",
+        "10",
+        "11",
+        "13"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Une année compte 12 mois.",
+      "en": "A year has 12 months.",
+      "es": "Un año tiene 12 meses.",
+      "pt": "Um ano tem 12 meses."
+    }
+  },
+  {
+    "id": "culture_0015",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle est la capitale de l'Espagne ?",
+      "en": "What is the capital of Spain?",
+      "es": "¿Cuál es la capital de España?",
+      "pt": "Qual é a capital da Espanha?"
+    },
+    "options": {
+      "fr": [
+        "Madrid",
+        "Barcelone",
+        "Séville",
+        "Valence"
+      ],
+      "en": [
+        "Madrid",
+        "Barcelona",
+        "Seville",
+        "Valencia"
+      ],
+      "es": [
+        "Madrid",
+        "Barcelona",
+        "Sevilla",
+        "Valencia"
+      ],
+      "pt": [
+        "Madri",
+        "Barcelona",
+        "Sevilha",
+        "Valência"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Madrid est la capitale de l'Espagne.",
+      "en": "Madrid is the capital of Spain.",
+      "es": "Madrid es la capital de España.",
+      "pt": "Madri é a capital da Espanha."
+    }
+  },
+  {
+    "id": "culture_0016",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel métal est attiré par un aimant ?",
+      "en": "Which metal is attracted by a magnet?",
+      "es": "¿Qué metal es atraído por un imán?",
+      "pt": "Qual metal é atraído por um ímã?"
+    },
+    "options": {
+      "fr": [
+        "Le fer",
+        "L'or",
+        "L'aluminium",
+        "Le cuivre"
+      ],
+      "en": [
+        "Iron",
+        "Gold",
+        "Aluminum",
+        "Copper"
+      ],
+      "es": [
+        "El hierro",
+        "El oro",
+        "El aluminio",
+        "El cobre"
+      ],
+      "pt": [
+        "O ferro",
+        "O ouro",
+        "O alumínio",
+        "O cobre"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le fer est ferromagnétique.",
+      "en": "Iron is ferromagnetic.",
+      "es": "El hierro es ferromagnético.",
+      "pt": "O ferro é ferromagnético."
+    }
+  },
+  {
+    "id": "culture_0017",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Combien de pattes possède une araignée ?",
+      "en": "How many legs does a spider have?",
+      "es": "¿Cuántas patas tiene una araña?",
+      "pt": "Quantas patas tem uma aranha?"
+    },
+    "options": {
+      "fr": [
+        "8",
+        "6",
+        "4",
+        "10"
+      ],
+      "en": [
+        "8",
+        "6",
+        "4",
+        "10"
+      ],
+      "es": [
+        "8",
+        "6",
+        "4",
+        "10"
+      ],
+      "pt": [
+        "8",
+        "6",
+        "4",
+        "10"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Une araignée a 8 pattes.",
+      "en": "A spider has 8 legs.",
+      "es": "Una araña tiene 8 patas.",
+      "pt": "Uma aranha tem 8 patas."
+    }
+  },
+  {
+    "id": "culture_0018",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel est le plus grand mammifère du monde ?",
+      "en": "What is the largest mammal in the world?",
+      "es": "¿Cuál es el mamífero más grande del mundo?",
+      "pt": "Qual é o maior mamífero do mundo?"
+    },
+    "options": {
+      "fr": [
+        "La baleine bleue",
+        "L'éléphant",
+        "Le rhinocéros",
+        "La girafe"
+      ],
+      "en": [
+        "The blue whale",
+        "The elephant",
+        "The rhinoceros",
+        "The giraffe"
+      ],
+      "es": [
+        "La ballena azul",
+        "El elefante",
+        "El rinoceronte",
+        "La jirafa"
+      ],
+      "pt": [
+        "A baleia-azul",
+        "O elefante",
+        "O rinoceronte",
+        "A girafa"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La baleine bleue est le plus grand mammifère.",
+      "en": "The blue whale is the largest mammal.",
+      "es": "La ballena azul es el mamífero más grande.",
+      "pt": "A baleia-azul é o maior mamífero."
+    }
+  },
+  {
+    "id": "culture_0019",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle couleur obtient-on en mélangeant du bleu et du jaune ?",
+      "en": "What color do you get by mixing blue and yellow?",
+      "es": "¿Qué color se obtiene al mezclar azul y amarillo?",
+      "pt": "Que cor se obtém ao misturar azul e amarelo?"
+    },
+    "options": {
+      "fr": [
+        "Vert",
+        "Orange",
+        "Violet",
+        "Marron"
+      ],
+      "en": [
+        "Green",
+        "Orange",
+        "Purple",
+        "Brown"
+      ],
+      "es": [
+        "Verde",
+        "Naranja",
+        "Violeta",
+        "Marrón"
+      ],
+      "pt": [
+        "Verde",
+        "Laranja",
+        "Violeta",
+        "Marrom"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Bleu + jaune = vert.",
+      "en": "Blue + yellow = green.",
+      "es": "Azul + amarillo = verde.",
+      "pt": "Azul + amarelo = verde."
+    }
+  },
+  {
+    "id": "culture_0020",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle est la capitale de l'Allemagne ?",
+      "en": "What is the capital of Germany?",
+      "es": "¿Cuál es la capital de Alemania?",
+      "pt": "Qual é a capital da Alemanha?"
+    },
+    "options": {
+      "fr": [
+        "Berlin",
+        "Munich",
+        "Hambourg",
+        "Francfort"
+      ],
+      "en": [
+        "Berlin",
+        "Munich",
+        "Hamburg",
+        "Frankfurt"
+      ],
+      "es": [
+        "Berlín",
+        "Múnich",
+        "Hamburgo",
+        "Fráncfort"
+      ],
+      "pt": [
+        "Berlim",
+        "Munique",
+        "Hamburgo",
+        "Frankfurt"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Berlin est la capitale de l'Allemagne.",
+      "en": "Berlin is the capital of Germany.",
+      "es": "Berlín es la capital de Alemania.",
+      "pt": "Berlim é a capital da Alemanha."
+    }
+  },
+  {
+    "id": "culture_0021",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Combien de saisons compte une année ?",
+      "en": "How many seasons does a year have?",
+      "es": "¿Cuántas estaciones tiene un año?",
+      "pt": "Quantas estações tem um ano?"
+    },
+    "options": {
+      "fr": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "en": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "es": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "pt": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il y a 4 saisons.",
+      "en": "There are 4 seasons.",
+      "es": "Hay 4 estaciones.",
+      "pt": "Há 4 estações."
+    }
+  },
+  {
+    "id": "culture_0022",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel organe pompe le sang dans le corps ?",
+      "en": "Which organ pumps blood through the body?",
+      "es": "¿Qué órgano bombea la sangre por el cuerpo?",
+      "pt": "Qual órgão bombeia o sangue pelo corpo?"
+    },
+    "options": {
+      "fr": [
+        "Le cœur",
+        "Le foie",
+        "Les poumons",
+        "L'estomac"
+      ],
+      "en": [
+        "The heart",
+        "The liver",
+        "The lungs",
+        "The stomach"
+      ],
+      "es": [
+        "El corazón",
+        "El hígado",
+        "Los pulmones",
+        "El estómago"
+      ],
+      "pt": [
+        "O coração",
+        "O fígado",
+        "Os pulmões",
+        "O estômago"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le cœur pompe le sang.",
+      "en": "The heart pumps the blood.",
+      "es": "El corazón bombea la sangre.",
+      "pt": "O coração bombeia o sangue."
+    }
+  },
+  {
+    "id": "culture_0023",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle est la formule chimique de l'eau ?",
+      "en": "What is the chemical formula of water?",
+      "es": "¿Cuál es la fórmula química del agua?",
+      "pt": "Qual é a fórmula química da água?"
+    },
+    "options": {
+      "fr": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "en": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "es": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "pt": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'eau, c'est H2O.",
+      "en": "Water is H2O.",
+      "es": "El agua es H2O.",
+      "pt": "A água é H2O."
+    }
+  },
+  {
+    "id": "culture_0024",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel fruit est jaune et de forme allongée et courbée ?",
+      "en": "Which fruit is yellow and has a long, curved shape?",
+      "es": "¿Qué fruta es amarilla y tiene forma alargada y curvada?",
+      "pt": "Qual fruta é amarela e tem forma alongada e curvada?"
+    },
+    "options": {
+      "fr": [
+        "La banane",
+        "La pomme",
+        "La fraise",
+        "Le raisin"
+      ],
+      "en": [
+        "The banana",
+        "The apple",
+        "The strawberry",
+        "The grape"
+      ],
+      "es": [
+        "El plátano",
+        "La manzana",
+        "La fresa",
+        "La uva"
+      ],
+      "pt": [
+        "A banana",
+        "A maçã",
+        "O morango",
+        "A uva"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La banane est jaune et courbée.",
+      "en": "The banana is yellow and curved.",
+      "es": "El plátano es amarillo y curvado.",
+      "pt": "A banana é amarela e curvada."
+    }
+  },
+  {
+    "id": "culture_0025",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle est la capitale du Portugal ?",
+      "en": "What is the capital of Portugal?",
+      "es": "¿Cuál es la capital de Portugal?",
+      "pt": "Qual é a capital de Portugal?"
+    },
+    "options": {
+      "fr": [
+        "Lisbonne",
+        "Porto",
+        "Faro",
+        "Braga"
+      ],
+      "en": [
+        "Lisbon",
+        "Porto",
+        "Faro",
+        "Braga"
+      ],
+      "es": [
+        "Lisboa",
+        "Oporto",
+        "Faro",
+        "Braga"
+      ],
+      "pt": [
+        "Lisboa",
+        "Porto",
+        "Faro",
+        "Braga"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Lisbonne est la capitale du Portugal.",
+      "en": "Lisbon is the capital of Portugal.",
+      "es": "Lisboa es la capital de Portugal.",
+      "pt": "Lisboa é a capital de Portugal."
+    }
+  },
+  {
+    "id": "culture_0026",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+      "en": "What is the most abundant chemical element in the universe?",
+      "es": "¿Cuál es el elemento químico más abundante en el universo?",
+      "pt": "Qual é o elemento químico mais abundante no universo?"
+    },
+    "options": {
+      "fr": [
+        "L'hydrogène",
+        "L'hélium",
+        "L'oxygène",
+        "Le carbone"
+      ],
+      "en": [
+        "Hydrogen",
+        "Helium",
+        "Oxygen",
+        "Carbon"
+      ],
+      "es": [
+        "El hidrógeno",
+        "El helio",
+        "El oxígeno",
+        "El carbono"
+      ],
+      "pt": [
+        "O hidrogênio",
+        "O hélio",
+        "O oxigênio",
+        "O carbono"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'hydrogène est le plus abondant.",
+      "en": "Hydrogen is the most abundant.",
+      "es": "El hidrógeno es el más abundante.",
+      "pt": "O hidrogênio é o mais abundante."
+    }
+  },
+  {
+    "id": "culture_0027",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "En quelle année a eu lieu la prise de la Bastille ?",
+      "en": "In what year did the storming of the Bastille take place?",
+      "es": "¿En qué año tuvo lugar la toma de la Bastilla?",
+      "pt": "Em que ano ocorreu a tomada da Bastilha?"
+    },
+    "options": {
+      "fr": [
+        "1789",
+        "1799",
+        "1769",
+        "1804"
+      ],
+      "en": [
+        "1789",
+        "1799",
+        "1769",
+        "1804"
+      ],
+      "es": [
+        "1789",
+        "1799",
+        "1769",
+        "1804"
+      ],
+      "pt": [
+        "1789",
+        "1799",
+        "1769",
+        "1804"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le 14 juillet 1789.",
+      "en": "On July 14, 1789.",
+      "es": "El 14 de julio de 1789.",
+      "pt": "Em 14 de julho de 1789."
+    }
+  },
+  {
+    "id": "culture_0028",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la plus haute montagne d'Afrique ?",
+      "en": "What is the highest mountain in Africa?",
+      "es": "¿Cuál es la montaña más alta de África?",
+      "pt": "Qual é a montanha mais alta da África?"
+    },
+    "options": {
+      "fr": [
+        "Le Kilimandjaro",
+        "Le mont Kenya",
+        "L'Atlas",
+        "Le Ruwenzori"
+      ],
+      "en": [
+        "Kilimanjaro",
+        "Mount Kenya",
+        "The Atlas Mountains",
+        "The Rwenzori"
+      ],
+      "es": [
+        "El Kilimanjaro",
+        "El monte Kenia",
+        "El Atlas",
+        "El Ruwenzori"
+      ],
+      "pt": [
+        "O Kilimanjaro",
+        "O monte Quênia",
+        "O Atlas",
+        "O Ruwenzori"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Kilimandjaro culmine à 5 895 m.",
+      "en": "Kilimanjaro reaches a height of 5,895 m.",
+      "es": "El Kilimanjaro alcanza los 5895 m.",
+      "pt": "O Kilimanjaro atinge 5895 m."
+    }
+  },
+  {
+    "id": "culture_0029",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a formulé la théorie de la relativité générale ?",
+      "en": "Who formulated the theory of general relativity?",
+      "es": "¿Quién formuló la teoría de la relatividad general?",
+      "pt": "Quem formulou a teoria da relatividade geral?"
+    },
+    "options": {
+      "fr": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Niels Bohr",
+        "Galilée"
+      ],
+      "en": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Niels Bohr",
+        "Galileo"
+      ],
+      "es": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Niels Bohr",
+        "Galileo"
+      ],
+      "pt": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Niels Bohr",
+        "Galileu"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Einstein, en 1915.",
+      "en": "Einstein, in 1915.",
+      "es": "Einstein, en 1915.",
+      "pt": "Einstein, em 1915."
+    }
+  },
+  {
+    "id": "culture_0030",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la capitale de l'Australie ?",
+      "en": "What is the capital of Australia?",
+      "es": "¿Cuál es la capital de Australia?",
+      "pt": "Qual é a capital da Austrália?"
+    },
+    "options": {
+      "fr": [
+        "Canberra",
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ],
+      "en": [
+        "Canberra",
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ],
+      "es": [
+        "Canberra",
+        "Sídney",
+        "Melbourne",
+        "Perth"
+      ],
+      "pt": [
+        "Camberra",
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La capitale est Canberra.",
+      "en": "The capital is Canberra.",
+      "es": "La capital es Canberra.",
+      "pt": "A capital é Camberra."
+    }
+  },
+  {
+    "id": "culture_0031",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Combien de cordes possède un violon ?",
+      "en": "How many strings does a violin have?",
+      "es": "¿Cuántas cuerdas tiene un violín?",
+      "pt": "Quantas cordas tem um violino?"
+    },
+    "options": {
+      "fr": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "en": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "es": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "pt": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le violon a 4 cordes.",
+      "en": "The violin has 4 strings.",
+      "es": "El violín tiene 4 cuerdas.",
+      "pt": "O violino tem 4 cordas."
+    }
+  },
+  {
+    "id": "culture_0032",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel philosophe grec fut le précepteur d'Alexandre le Grand ?",
+      "en": "Which Greek philosopher was the tutor of Alexander the Great?",
+      "es": "¿Qué filósofo griego fue el preceptor de Alejandro Magno?",
+      "pt": "Qual filósofo grego foi o preceptor de Alexandre, o Grande?"
+    },
+    "options": {
+      "fr": [
+        "Aristote",
+        "Platon",
+        "Socrate",
+        "Épicure"
+      ],
+      "en": [
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Epicurus"
+      ],
+      "es": [
+        "Aristóteles",
+        "Platón",
+        "Sócrates",
+        "Epicuro"
+      ],
+      "pt": [
+        "Aristóteles",
+        "Platão",
+        "Sócrates",
+        "Epicuro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Aristote fut son précepteur.",
+      "en": "Aristotle was his tutor.",
+      "es": "Aristóteles fue su preceptor.",
+      "pt": "Aristóteles foi o seu preceptor."
+    }
+  },
+  {
+    "id": "culture_0033",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle unité mesure l'intensité d'un courant électrique ?",
+      "en": "Which unit measures the intensity of an electric current?",
+      "es": "¿Qué unidad mide la intensidad de una corriente eléctrica?",
+      "pt": "Qual unidade mede a intensidade de uma corrente elétrica?"
+    },
+    "options": {
+      "fr": [
+        "L'ampère",
+        "Le volt",
+        "Le watt",
+        "L'ohm"
+      ],
+      "en": [
+        "The ampere",
+        "The volt",
+        "The watt",
+        "The ohm"
+      ],
+      "es": [
+        "El amperio",
+        "El voltio",
+        "El vatio",
+        "El ohmio"
+      ],
+      "pt": [
+        "O ampere",
+        "O volt",
+        "O watt",
+        "O ohm"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'intensité se mesure en ampères.",
+      "en": "Current intensity is measured in amperes.",
+      "es": "La intensidad se mide en amperios.",
+      "pt": "A intensidade é medida em amperes."
+    }
+  },
+  {
+    "id": "culture_0034",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel pays est devenu le plus peuplé du monde en 2023 ?",
+      "en": "Which country became the most populous in the world in 2023?",
+      "es": "¿Qué país se convirtió en el más poblado del mundo en 2023?",
+      "pt": "Qual país se tornou o mais populoso do mundo em 2023?"
+    },
+    "options": {
+      "fr": [
+        "L'Inde",
+        "La Chine",
+        "Les États-Unis",
+        "L'Indonésie"
+      ],
+      "en": [
+        "India",
+        "China",
+        "The United States",
+        "Indonesia"
+      ],
+      "es": [
+        "India",
+        "China",
+        "Estados Unidos",
+        "Indonesia"
+      ],
+      "pt": [
+        "Índia",
+        "China",
+        "Estados Unidos",
+        "Indonésia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'Inde a dépassé la Chine en 2023.",
+      "en": "India overtook China in 2023.",
+      "es": "India superó a China en 2023.",
+      "pt": "A Índia ultrapassou a China em 2023."
+    }
+  },
+  {
+    "id": "culture_0035",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la langue officielle du Brésil ?",
+      "en": "What is the official language of Brazil?",
+      "es": "¿Cuál es el idioma oficial de Brasil?",
+      "pt": "Qual é o idioma oficial do Brasil?"
+    },
+    "options": {
+      "fr": [
+        "Le portugais",
+        "L'espagnol",
+        "Le français",
+        "L'anglais"
+      ],
+      "en": [
+        "Portuguese",
+        "Spanish",
+        "French",
+        "English"
+      ],
+      "es": [
+        "El portugués",
+        "El español",
+        "El francés",
+        "El inglés"
+      ],
+      "pt": [
+        "O português",
+        "O espanhol",
+        "O francês",
+        "O inglês"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Brésil est lusophone.",
+      "en": "Brazil is Portuguese-speaking.",
+      "es": "Brasil es lusófono.",
+      "pt": "O Brasil é lusófono."
+    }
+  },
+  {
+    "id": "culture_0036",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a écrit « Les Misérables » ?",
+      "en": "Who wrote \"Les Misérables\"?",
+      "es": "¿Quién escribió «Los Miserables»?",
+      "pt": "Quem escreveu «Os Miseráveis»?"
+    },
+    "options": {
+      "fr": [
+        "Victor Hugo",
+        "Émile Zola",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "en": [
+        "Victor Hugo",
+        "Émile Zola",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "es": [
+        "Victor Hugo",
+        "Émile Zola",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ],
+      "pt": [
+        "Victor Hugo",
+        "Émile Zola",
+        "Honoré de Balzac",
+        "Gustave Flaubert"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Victor Hugo, en 1862.",
+      "en": "Victor Hugo, in 1862.",
+      "es": "Victor Hugo, en 1862.",
+      "pt": "Victor Hugo, em 1862."
+    }
+  },
+  {
+    "id": "culture_0037",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est le symbole chimique du potassium ?",
+      "en": "What is the chemical symbol for potassium?",
+      "es": "¿Cuál es el símbolo químico del potasio?",
+      "pt": "Qual é o símbolo químico do potássio?"
+    },
+    "options": {
+      "fr": [
+        "K",
+        "P",
+        "Po",
+        "Pt"
+      ],
+      "en": [
+        "K",
+        "P",
+        "Po",
+        "Pt"
+      ],
+      "es": [
+        "K",
+        "P",
+        "Po",
+        "Pt"
+      ],
+      "pt": [
+        "K",
+        "P",
+        "Po",
+        "Pt"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le potassium = K (kalium).",
+      "en": "Potassium = K (from kalium).",
+      "es": "El potasio = K (de kalium).",
+      "pt": "O potássio = K (de kalium)."
+    }
+  },
+  {
+    "id": "culture_0038",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est le plus grand désert chaud du monde ?",
+      "en": "What is the largest hot desert in the world?",
+      "es": "¿Cuál es el desierto cálido más grande del mundo?",
+      "pt": "Qual é o maior deserto quente do mundo?"
+    },
+    "options": {
+      "fr": [
+        "Le Sahara",
+        "Le désert de Gobi",
+        "Le désert d'Atacama",
+        "Le désert du Kalahari"
+      ],
+      "en": [
+        "The Sahara",
+        "The Gobi Desert",
+        "The Atacama Desert",
+        "The Kalahari Desert"
+      ],
+      "es": [
+        "El Sahara",
+        "El desierto de Gobi",
+        "El desierto de Atacama",
+        "El desierto del Kalahari"
+      ],
+      "pt": [
+        "O Saara",
+        "O deserto de Gobi",
+        "O deserto do Atacama",
+        "O deserto do Kalahari"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Sahara est le plus grand désert chaud du monde.",
+      "en": "The Sahara is the largest hot desert in the world.",
+      "es": "El Sahara es el desierto cálido más grande del mundo.",
+      "pt": "O Saara é o maior deserto quente do mundo."
+    }
+  },
+  {
+    "id": "culture_0039",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "En quelle année a eu lieu le premier pas de l'Homme sur la Lune ?",
+      "en": "In what year did humankind take its first step on the Moon?",
+      "es": "¿En qué año dio el ser humano su primer paso en la Luna?",
+      "pt": "Em que ano o ser humano deu o primeiro passo na Lua?"
+    },
+    "options": {
+      "fr": [
+        "1969",
+        "1959",
+        "1972",
+        "1965"
+      ],
+      "en": [
+        "1969",
+        "1959",
+        "1972",
+        "1965"
+      ],
+      "es": [
+        "1969",
+        "1959",
+        "1972",
+        "1965"
+      ],
+      "pt": [
+        "1969",
+        "1959",
+        "1972",
+        "1965"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le 21 juillet 1969 (Apollo 11).",
+      "en": "On July 21, 1969 (Apollo 11).",
+      "es": "El 21 de julio de 1969 (Apolo 11).",
+      "pt": "Em 21 de julho de 1969 (Apollo 11)."
+    }
+  },
+  {
+    "id": "culture_0040",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la capitale du Canada ?",
+      "en": "What is the capital of Canada?",
+      "es": "¿Cuál es la capital de Canadá?",
+      "pt": "Qual é a capital do Canadá?"
+    },
+    "options": {
+      "fr": [
+        "Ottawa",
+        "Toronto",
+        "Montréal",
+        "Vancouver"
+      ],
+      "en": [
+        "Ottawa",
+        "Toronto",
+        "Montreal",
+        "Vancouver"
+      ],
+      "es": [
+        "Ottawa",
+        "Toronto",
+        "Montreal",
+        "Vancouver"
+      ],
+      "pt": [
+        "Ottawa",
+        "Toronto",
+        "Montreal",
+        "Vancouver"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La capitale est Ottawa.",
+      "en": "The capital is Ottawa.",
+      "es": "La capital es Ottawa.",
+      "pt": "A capital é Ottawa."
+    }
+  },
+  {
+    "id": "culture_0041",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est l'os le plus long du corps humain ?",
+      "en": "What is the longest bone in the human body?",
+      "es": "¿Cuál es el hueso más largo del cuerpo humano?",
+      "pt": "Qual é o osso mais longo do corpo humano?"
+    },
+    "options": {
+      "fr": [
+        "Le fémur",
+        "Le tibia",
+        "L'humérus",
+        "Le radius"
+      ],
+      "en": [
+        "The femur",
+        "The tibia",
+        "The humerus",
+        "The radius"
+      ],
+      "es": [
+        "El fémur",
+        "La tibia",
+        "El húmero",
+        "El radio"
+      ],
+      "pt": [
+        "O fêmur",
+        "A tíbia",
+        "O úmero",
+        "O rádio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le fémur est le plus long.",
+      "en": "The femur is the longest.",
+      "es": "El fémur es el más largo.",
+      "pt": "O fêmur é o mais longo."
+    }
+  },
+  {
+    "id": "culture_0042",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a peint « Guernica » ?",
+      "en": "Who painted \"Guernica\"?",
+      "es": "¿Quién pintó «Guernica»?",
+      "pt": "Quem pintou «Guernica»?"
+    },
+    "options": {
+      "fr": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Henri Matisse"
+      ],
+      "en": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Henri Matisse"
+      ],
+      "es": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Henri Matisse"
+      ],
+      "pt": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Henri Matisse"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Guernica est de Picasso (1937).",
+      "en": "Guernica is by Picasso (1937).",
+      "es": "Guernica es de Picasso (1937).",
+      "pt": "Guernica é de Picasso (1937)."
+    }
+  },
+  {
+    "id": "culture_0043",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est environ la vitesse de la lumière dans le vide ?",
+      "en": "What is approximately the speed of light in a vacuum?",
+      "es": "¿Cuál es aproximadamente la velocidad de la luz en el vacío?",
+      "pt": "Qual é aproximadamente a velocidade da luz no vácuo?"
+    },
+    "options": {
+      "fr": [
+        "≈ 300 000 km/s",
+        "≈ 30 000 km/s",
+        "≈ 3 000 km/s",
+        "≈ 3 millions km/s"
+      ],
+      "en": [
+        "≈ 300,000 km/s",
+        "≈ 30,000 km/s",
+        "≈ 3,000 km/s",
+        "≈ 3 million km/s"
+      ],
+      "es": [
+        "≈ 300 000 km/s",
+        "≈ 30 000 km/s",
+        "≈ 3000 km/s",
+        "≈ 3 millones km/s"
+      ],
+      "pt": [
+        "≈ 300 000 km/s",
+        "≈ 30 000 km/s",
+        "≈ 3000 km/s",
+        "≈ 3 milhões km/s"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Environ 299 792 km/s.",
+      "en": "About 299,792 km/s.",
+      "es": "Alrededor de 299 792 km/s.",
+      "pt": "Cerca de 299 792 km/s."
+    }
+  },
+  {
+    "id": "culture_0044",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la capitale de la Russie ?",
+      "en": "What is the capital of Russia?",
+      "es": "¿Cuál es la capital de Rusia?",
+      "pt": "Qual é a capital da Rússia?"
+    },
+    "options": {
+      "fr": [
+        "Moscou",
+        "Saint-Pétersbourg",
+        "Kiev",
+        "Minsk"
+      ],
+      "en": [
+        "Moscow",
+        "Saint Petersburg",
+        "Kyiv",
+        "Minsk"
+      ],
+      "es": [
+        "Moscú",
+        "San Petersburgo",
+        "Kiev",
+        "Minsk"
+      ],
+      "pt": [
+        "Moscou",
+        "São Petersburgo",
+        "Kiev",
+        "Minsk"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Moscou est la capitale de la Russie.",
+      "en": "Moscow is the capital of Russia.",
+      "es": "Moscú es la capital de Rusia.",
+      "pt": "Moscou é a capital da Rússia."
+    }
+  },
+  {
+    "id": "culture_0045",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est le plus petit État du monde ?",
+      "en": "What is the smallest state in the world?",
+      "es": "¿Cuál es el Estado más pequeño del mundo?",
+      "pt": "Qual é o menor Estado do mundo?"
+    },
+    "options": {
+      "fr": [
+        "Le Vatican",
+        "Monaco",
+        "Nauru",
+        "Saint-Marin"
+      ],
+      "en": [
+        "The Vatican",
+        "Monaco",
+        "Nauru",
+        "San Marino"
+      ],
+      "es": [
+        "El Vaticano",
+        "Mónaco",
+        "Nauru",
+        "San Marino"
+      ],
+      "pt": [
+        "O Vaticano",
+        "Mônaco",
+        "Nauru",
+        "San Marino"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Vatican est le plus petit État.",
+      "en": "The Vatican is the smallest state.",
+      "es": "El Vaticano es el Estado más pequeño.",
+      "pt": "O Vaticano é o menor Estado."
+    }
+  },
+  {
+    "id": "culture_0046",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui est l'auteur de la théorie de l'évolution par sélection naturelle ?",
+      "en": "Who is the author of the theory of evolution by natural selection?",
+      "es": "¿Quién es el autor de la teoría de la evolución por selección natural?",
+      "pt": "Quem é o autor da teoria da evolução por seleção natural?"
+    },
+    "options": {
+      "fr": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Jean-Baptiste de Lamarck"
+      ],
+      "en": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Jean-Baptiste de Lamarck"
+      ],
+      "es": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Jean-Baptiste de Lamarck"
+      ],
+      "pt": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Jean-Baptiste de Lamarck"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Charles Darwin (1859).",
+      "en": "Charles Darwin (1859).",
+      "es": "Charles Darwin (1859).",
+      "pt": "Charles Darwin (1859)."
+    }
+  },
+  {
+    "id": "culture_0047",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la monnaie du Japon ?",
+      "en": "What is the currency of Japan?",
+      "es": "¿Cuál es la moneda de Japón?",
+      "pt": "Qual é a moeda do Japão?"
+    },
+    "options": {
+      "fr": [
+        "Le yen",
+        "Le won",
+        "Le yuan",
+        "Le baht"
+      ],
+      "en": [
+        "The yen",
+        "The won",
+        "The yuan",
+        "The baht"
+      ],
+      "es": [
+        "El yen",
+        "El won",
+        "El yuan",
+        "El baht"
+      ],
+      "pt": [
+        "O iene",
+        "O won",
+        "O yuan",
+        "O baht"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La monnaie japonaise est le yen.",
+      "en": "The Japanese currency is the yen.",
+      "es": "La moneda japonesa es el yen.",
+      "pt": "A moeda japonesa é o iene."
+    }
+  },
+  {
+    "id": "culture_0048",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Combien de joueurs compte une équipe de football sur le terrain ?",
+      "en": "How many players does a football (soccer) team have on the field?",
+      "es": "¿Cuántos jugadores tiene un equipo de fútbol en el campo?",
+      "pt": "Quantos jogadores tem uma equipe de futebol em campo?"
+    },
+    "options": {
+      "fr": [
+        "11",
+        "10",
+        "9",
+        "12"
+      ],
+      "en": [
+        "11",
+        "10",
+        "9",
+        "12"
+      ],
+      "es": [
+        "11",
+        "10",
+        "9",
+        "12"
+      ],
+      "pt": [
+        "11",
+        "10",
+        "9",
+        "12"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "11 joueurs par équipe.",
+      "en": "11 players per team.",
+      "es": "11 jugadores por equipo.",
+      "pt": "11 jogadores por equipe."
+    }
+  },
+  {
+    "id": "culture_0049",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la capitale de l'Égypte ?",
+      "en": "What is the capital of Egypt?",
+      "es": "¿Cuál es la capital de Egipto?",
+      "pt": "Qual é a capital do Egito?"
+    },
+    "options": {
+      "fr": [
+        "Le Caire",
+        "Alexandrie",
+        "Gizeh",
+        "Louxor"
+      ],
+      "en": [
+        "Cairo",
+        "Alexandria",
+        "Giza",
+        "Luxor"
+      ],
+      "es": [
+        "El Cairo",
+        "Alejandría",
+        "Guiza",
+        "Luxor"
+      ],
+      "pt": [
+        "Cairo",
+        "Alexandria",
+        "Gizé",
+        "Luxor"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Caire est la capitale de l'Égypte.",
+      "en": "Cairo is the capital of Egypt.",
+      "es": "El Cairo es la capital de Egipto.",
+      "pt": "Cairo é a capital do Egito."
+    }
+  },
+  {
+    "id": "culture_0050",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel gaz les plantes absorbent-elles pour la photosynthèse ?",
+      "en": "Which gas do plants absorb for photosynthesis?",
+      "es": "¿Qué gas absorben las plantas para la fotosíntesis?",
+      "pt": "Qual gás as plantas absorvem para a fotossíntese?"
+    },
+    "options": {
+      "fr": [
+        "Le dioxyde de carbone",
+        "L'oxygène",
+        "L'azote",
+        "L'hélium"
+      ],
+      "en": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
+      ],
+      "es": [
+        "El dióxido de carbono",
+        "El oxígeno",
+        "El nitrógeno",
+        "El helio"
+      ],
+      "pt": [
+        "O dióxido de carbono",
+        "O oxigênio",
+        "O nitrogênio",
+        "O hélio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les plantes absorbent le CO2.",
+      "en": "Plants absorb CO2.",
+      "es": "Las plantas absorben el CO2.",
+      "pt": "As plantas absorvem o CO2."
+    }
+  },
+  {
+    "id": "culture_0051",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Combien de couleurs compte un arc-en-ciel classique ?",
+      "en": "How many colors does a classic rainbow have?",
+      "es": "¿Cuántos colores tiene un arcoíris clásico?",
+      "pt": "Quantas cores tem um arco-íris clássico?"
+    },
+    "options": {
+      "fr": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "en": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "es": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "pt": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On décrit traditionnellement 7 couleurs dans l'arc-en-ciel.",
+      "en": "A rainbow is traditionally described as having 7 colors.",
+      "es": "Tradicionalmente se describen 7 colores en el arcoíris.",
+      "pt": "Tradicionalmente descrevem-se 7 cores no arco-íris."
+    }
+  },
+  {
+    "id": "culture_0052",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel est le plus grand pays du monde par sa superficie ?",
+      "en": "What is the largest country in the world by area?",
+      "es": "¿Cuál es el país más grande del mundo por su superficie?",
+      "pt": "Qual é o maior país do mundo em área?"
+    },
+    "options": {
+      "fr": [
+        "La Russie",
+        "Le Canada",
+        "La Chine",
+        "Les États-Unis"
+      ],
+      "en": [
+        "Russia",
+        "Canada",
+        "China",
+        "The United States"
+      ],
+      "es": [
+        "Rusia",
+        "Canadá",
+        "China",
+        "Estados Unidos"
+      ],
+      "pt": [
+        "Rússia",
+        "Canadá",
+        "China",
+        "Estados Unidos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La Russie est le plus vaste pays du monde.",
+      "en": "Russia is the largest country in the world.",
+      "es": "Rusia es el país más vasto del mundo.",
+      "pt": "A Rússia é o maior país do mundo."
+    }
+  },
+  {
+    "id": "culture_0053",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle monnaie utilise-t-on en France ?",
+      "en": "Which currency is used in France?",
+      "es": "¿Qué moneda se utiliza en Francia?",
+      "pt": "Qual moeda é utilizada na França?"
+    },
+    "options": {
+      "fr": [
+        "L'euro",
+        "Le franc",
+        "La livre",
+        "Le dollar"
+      ],
+      "en": [
+        "The euro",
+        "The franc",
+        "The pound",
+        "The dollar"
+      ],
+      "es": [
+        "El euro",
+        "El franco",
+        "La libra",
+        "El dólar"
+      ],
+      "pt": [
+        "O euro",
+        "O franco",
+        "A libra",
+        "O dólar"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La France utilise l'euro depuis 2002.",
+      "en": "France has used the euro since 2002.",
+      "es": "Francia utiliza el euro desde 2002.",
+      "pt": "A França utiliza o euro desde 2002."
+    }
+  },
+  {
+    "id": "culture_0054",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Combien de minutes y a-t-il dans une heure ?",
+      "en": "How many minutes are there in an hour?",
+      "es": "¿Cuántos minutos hay en una hora?",
+      "pt": "Quantos minutos há em uma hora?"
+    },
+    "options": {
+      "fr": [
+        "60",
+        "30",
+        "90",
+        "100"
+      ],
+      "en": [
+        "60",
+        "30",
+        "90",
+        "100"
+      ],
+      "es": [
+        "60",
+        "30",
+        "90",
+        "100"
+      ],
+      "pt": [
+        "60",
+        "30",
+        "90",
+        "100"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Une heure compte 60 minutes.",
+      "en": "An hour has 60 minutes.",
+      "es": "Una hora tiene 60 minutos.",
+      "pt": "Uma hora tem 60 minutos."
+    }
+  },
+  {
+    "id": "culture_0055",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel gaz l'être humain respire-t-il pour vivre ?",
+      "en": "Which gas does a human being breathe to live?",
+      "es": "¿Qué gas respira el ser humano para vivir?",
+      "pt": "Qual gás o ser humano respira para viver?"
+    },
+    "options": {
+      "fr": [
+        "L'oxygène",
+        "L'azote",
+        "Le dioxyde de carbone",
+        "L'hélium"
+      ],
+      "en": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "es": [
+        "El oxígeno",
+        "El nitrógeno",
+        "El dióxido de carbono",
+        "El helio"
+      ],
+      "pt": [
+        "O oxigênio",
+        "O nitrogênio",
+        "O dióxido de carbono",
+        "O hélio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Nous avons besoin d'oxygène pour respirer.",
+      "en": "We need oxygen to breathe.",
+      "es": "Necesitamos oxígeno para respirar.",
+      "pt": "Precisamos de oxigênio para respirar."
+    }
+  },
+  {
+    "id": "culture_0056",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle est la capitale du Royaume-Uni ?",
+      "en": "What is the capital of the United Kingdom?",
+      "es": "¿Cuál es la capital del Reino Unido?",
+      "pt": "Qual é a capital do Reino Unido?"
+    },
+    "options": {
+      "fr": [
+        "Londres",
+        "Manchester",
+        "Édimbourg",
+        "Dublin"
+      ],
+      "en": [
+        "London",
+        "Manchester",
+        "Edinburgh",
+        "Dublin"
+      ],
+      "es": [
+        "Londres",
+        "Mánchester",
+        "Edimburgo",
+        "Dublín"
+      ],
+      "pt": [
+        "Londres",
+        "Manchester",
+        "Edimburgo",
+        "Dublin"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Londres est la capitale du Royaume-Uni.",
+      "en": "London is the capital of the United Kingdom.",
+      "es": "Londres es la capital del Reino Unido.",
+      "pt": "Londres é a capital do Reino Unido."
+    }
+  },
+  {
+    "id": "culture_0057",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Combien de pattes possède un insecte ?",
+      "en": "How many legs does an insect have?",
+      "es": "¿Cuántas patas tiene un insecto?",
+      "pt": "Quantas patas tem um inseto?"
+    },
+    "options": {
+      "fr": [
+        "6",
+        "8",
+        "4",
+        "10"
+      ],
+      "en": [
+        "6",
+        "8",
+        "4",
+        "10"
+      ],
+      "es": [
+        "6",
+        "8",
+        "4",
+        "10"
+      ],
+      "pt": [
+        "6",
+        "8",
+        "4",
+        "10"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les insectes ont six pattes.",
+      "en": "Insects have six legs.",
+      "es": "Los insectos tienen seis patas.",
+      "pt": "Os insetos têm seis patas."
+    }
+  },
+  {
+    "id": "culture_0058",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle est la capitale des États-Unis ?",
+      "en": "What is the capital of the United States?",
+      "es": "¿Cuál es la capital de Estados Unidos?",
+      "pt": "Qual é a capital dos Estados Unidos?"
+    },
+    "options": {
+      "fr": [
+        "Washington",
+        "New York",
+        "Los Angeles",
+        "Chicago"
+      ],
+      "en": [
+        "Washington",
+        "New York",
+        "Los Angeles",
+        "Chicago"
+      ],
+      "es": [
+        "Washington",
+        "Nueva York",
+        "Los Ángeles",
+        "Chicago"
+      ],
+      "pt": [
+        "Washington",
+        "Nova York",
+        "Los Angeles",
+        "Chicago"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La capitale fédérale est Washington, D.C.",
+      "en": "The federal capital is Washington, D.C.",
+      "es": "La capital federal es Washington D. C.",
+      "pt": "A capital federal é Washington, D.C."
+    }
+  },
+  {
+    "id": "culture_0059",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel océan borde la côte ouest de la France ?",
+      "en": "Which ocean borders the west coast of France?",
+      "es": "¿Qué océano bordea la costa oeste de Francia?",
+      "pt": "Qual oceano banha a costa oeste da França?"
+    },
+    "options": {
+      "fr": [
+        "L'océan Atlantique",
+        "L'océan Pacifique",
+        "L'océan Indien",
+        "L'océan Arctique"
+      ],
+      "en": [
+        "The Atlantic Ocean",
+        "The Pacific Ocean",
+        "The Indian Ocean",
+        "The Arctic Ocean"
+      ],
+      "es": [
+        "El océano Atlántico",
+        "El océano Pacífico",
+        "El océano Índico",
+        "El océano Ártico"
+      ],
+      "pt": [
+        "O oceano Atlântico",
+        "O oceano Pacífico",
+        "O oceano Índico",
+        "O oceano Ártico"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La façade ouest de la France donne sur l'Atlantique.",
+      "en": "France's western coastline faces the Atlantic.",
+      "es": "La fachada oeste de Francia da al Atlántico.",
+      "pt": "O litoral oeste da França dá para o Atlântico."
+    }
+  },
+  {
+    "id": "culture_0060",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel astre éclaire le ciel la nuit ?",
+      "en": "Which celestial body lights up the sky at night?",
+      "es": "¿Qué astro ilumina el cielo de noche?",
+      "pt": "Qual astro ilumina o céu à noite?"
+    },
+    "options": {
+      "fr": [
+        "La Lune",
+        "Le Soleil",
+        "Mars",
+        "Vénus"
+      ],
+      "en": [
+        "The Moon",
+        "The Sun",
+        "Mars",
+        "Venus"
+      ],
+      "es": [
+        "La Luna",
+        "El Sol",
+        "Marte",
+        "Venus"
+      ],
+      "pt": [
+        "A Lua",
+        "O Sol",
+        "Marte",
+        "Vênus"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La Lune éclaire le ciel nocturne en reflétant la lumière du Soleil.",
+      "en": "The Moon lights up the night sky by reflecting the Sun's light.",
+      "es": "La Luna ilumina el cielo nocturno al reflejar la luz del Sol.",
+      "pt": "A Lua ilumina o céu noturno refletindo a luz do Sol."
+    }
+  },
+  {
+    "id": "culture_0061",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle figure géométrique possède trois côtés ?",
+      "en": "Which geometric figure has three sides?",
+      "es": "¿Qué figura geométrica tiene tres lados?",
+      "pt": "Qual figura geométrica tem três lados?"
+    },
+    "options": {
+      "fr": [
+        "Le triangle",
+        "Le carré",
+        "Le cercle",
+        "Le losange"
+      ],
+      "en": [
+        "The triangle",
+        "The square",
+        "The circle",
+        "The rhombus"
+      ],
+      "es": [
+        "El triángulo",
+        "El cuadrado",
+        "El círculo",
+        "El rombo"
+      ],
+      "pt": [
+        "O triângulo",
+        "O quadrado",
+        "O círculo",
+        "O losango"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le triangle a trois côtés.",
+      "en": "The triangle has three sides.",
+      "es": "El triángulo tiene tres lados.",
+      "pt": "O triângulo tem três lados."
+    }
+  },
+  {
+    "id": "culture_0062",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel métal précieux jaune est très utilisé en bijouterie ?",
+      "en": "Which yellow precious metal is widely used in jewelry?",
+      "es": "¿Qué metal precioso amarillo se usa mucho en joyería?",
+      "pt": "Qual metal precioso amarelo é muito usado em joalheria?"
+    },
+    "options": {
+      "fr": [
+        "L'or",
+        "L'argent",
+        "Le fer",
+        "Le cuivre"
+      ],
+      "en": [
+        "Gold",
+        "Silver",
+        "Iron",
+        "Copper"
+      ],
+      "es": [
+        "El oro",
+        "La plata",
+        "El hierro",
+        "El cobre"
+      ],
+      "pt": [
+        "O ouro",
+        "A prata",
+        "O ferro",
+        "O cobre"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'or est un métal précieux de couleur jaune.",
+      "en": "Gold is a yellow-colored precious metal.",
+      "es": "El oro es un metal precioso de color amarillo.",
+      "pt": "O ouro é um metal precioso de cor amarela."
+    }
+  },
+  {
+    "id": "culture_0063",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle est la capitale de la Belgique ?",
+      "en": "What is the capital of Belgium?",
+      "es": "¿Cuál es la capital de Bélgica?",
+      "pt": "Qual é a capital da Bélgica?"
+    },
+    "options": {
+      "fr": [
+        "Bruxelles",
+        "Anvers",
+        "Bruges",
+        "Liège"
+      ],
+      "en": [
+        "Brussels",
+        "Antwerp",
+        "Bruges",
+        "Liège"
+      ],
+      "es": [
+        "Bruselas",
+        "Amberes",
+        "Brujas",
+        "Lieja"
+      ],
+      "pt": [
+        "Bruxelas",
+        "Antuérpia",
+        "Bruges",
+        "Liège"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Bruxelles est la capitale de la Belgique.",
+      "en": "Brussels is the capital of Belgium.",
+      "es": "Bruselas es la capital de Bélgica.",
+      "pt": "Bruxelas é a capital da Bélgica."
+    }
+  },
+  {
+    "id": "culture_0064",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Sur quelle planète vivons-nous ?",
+      "en": "On which planet do we live?",
+      "es": "¿En qué planeta vivimos?",
+      "pt": "Em qual planeta vivemos?"
+    },
+    "options": {
+      "fr": [
+        "La Terre",
+        "Mars",
+        "Vénus",
+        "Jupiter"
+      ],
+      "en": [
+        "Earth",
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "es": [
+        "La Tierra",
+        "Marte",
+        "Venus",
+        "Júpiter"
+      ],
+      "pt": [
+        "A Terra",
+        "Marte",
+        "Vênus",
+        "Júpiter"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Nous vivons sur la planète Terre.",
+      "en": "We live on the planet Earth.",
+      "es": "Vivimos en el planeta Tierra.",
+      "pt": "Vivemos no planeta Terra."
+    }
+  },
+  {
+    "id": "culture_0065",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Combien de roues possède une voiture classique ?",
+      "en": "How many wheels does a typical car have?",
+      "es": "¿Cuántas ruedas tiene un coche clásico?",
+      "pt": "Quantas rodas tem um carro comum?"
+    },
+    "options": {
+      "fr": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "en": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "es": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "pt": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Une voiture standard a quatre roues.",
+      "en": "A standard car has four wheels.",
+      "es": "Un coche estándar tiene cuatro ruedas.",
+      "pt": "Um carro padrão tem quatro rodas."
+    }
+  },
+  {
+    "id": "culture_0066",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est le symbole chimique de l'étain ?",
+      "en": "What is the chemical symbol for tin?",
+      "es": "¿Cuál es el símbolo químico del estaño?",
+      "pt": "Qual é o símbolo químico do estanho?"
+    },
+    "options": {
+      "fr": [
+        "Sn",
+        "Et",
+        "St",
+        "En"
+      ],
+      "en": [
+        "Sn",
+        "Et",
+        "St",
+        "En"
+      ],
+      "es": [
+        "Sn",
+        "Et",
+        "St",
+        "En"
+      ],
+      "pt": [
+        "Sn",
+        "Et",
+        "St",
+        "En"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'étain a pour symbole « Sn », du latin stannum.",
+      "en": "Tin has the symbol \"Sn\", from the Latin stannum.",
+      "es": "El estaño tiene como símbolo «Sn», del latín stannum.",
+      "pt": "O estanho tem como símbolo «Sn», do latim stannum."
+    }
+  },
+  {
+    "id": "culture_0067",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est le symbole chimique du sodium ?",
+      "en": "What is the chemical symbol for sodium?",
+      "es": "¿Cuál es el símbolo químico del sodio?",
+      "pt": "Qual é o símbolo químico do sódio?"
+    },
+    "options": {
+      "fr": [
+        "Na",
+        "So",
+        "Sd",
+        "Sm"
+      ],
+      "en": [
+        "Na",
+        "So",
+        "Sd",
+        "Sm"
+      ],
+      "es": [
+        "Na",
+        "So",
+        "Sd",
+        "Sm"
+      ],
+      "pt": [
+        "Na",
+        "So",
+        "Sd",
+        "Sm"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le sodium a pour symbole « Na », du latin natrium.",
+      "en": "Sodium has the symbol \"Na\", from the Latin natrium.",
+      "es": "El sodio tiene como símbolo «Na», del latín natrium.",
+      "pt": "O sódio tem como símbolo «Na», do latim natrium."
+    }
+  },
+  {
+    "id": "culture_0068",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la capitale du Kazakhstan ?",
+      "en": "What is the capital of Kazakhstan?",
+      "es": "¿Cuál es la capital de Kazajistán?",
+      "pt": "Qual é a capital do Cazaquistão?"
+    },
+    "options": {
+      "fr": [
+        "Astana",
+        "Almaty",
+        "Tachkent",
+        "Bichkek"
+      ],
+      "en": [
+        "Astana",
+        "Almaty",
+        "Tashkent",
+        "Bishkek"
+      ],
+      "es": [
+        "Astaná",
+        "Almatý",
+        "Taskent",
+        "Bishkek"
+      ],
+      "pt": [
+        "Astana",
+        "Almaty",
+        "Tashkent",
+        "Bishkek"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La capitale du Kazakhstan est Astana.",
+      "en": "The capital of Kazakhstan is Astana.",
+      "es": "La capital de Kazajistán es Astaná.",
+      "pt": "A capital do Cazaquistão é Astana."
+    }
+  },
+  {
+    "id": "culture_0069",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la capitale de la Nouvelle-Zélande ?",
+      "en": "What is the capital of New Zealand?",
+      "es": "¿Cuál es la capital de Nueva Zelanda?",
+      "pt": "Qual é a capital da Nova Zelândia?"
+    },
+    "options": {
+      "fr": [
+        "Wellington",
+        "Auckland",
+        "Christchurch",
+        "Hamilton"
+      ],
+      "en": [
+        "Wellington",
+        "Auckland",
+        "Christchurch",
+        "Hamilton"
+      ],
+      "es": [
+        "Wellington",
+        "Auckland",
+        "Christchurch",
+        "Hamilton"
+      ],
+      "pt": [
+        "Wellington",
+        "Auckland",
+        "Christchurch",
+        "Hamilton"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Wellington est la capitale, pas Auckland (plus peuplée).",
+      "en": "Wellington is the capital, not Auckland (the more populous city).",
+      "es": "Wellington es la capital, no Auckland (la ciudad más poblada).",
+      "pt": "Wellington é a capital, não Auckland (a cidade mais populosa)."
+    }
+  },
+  {
+    "id": "culture_0070",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est l'altitude approximative du mont Everest ?",
+      "en": "What is the approximate elevation of Mount Everest?",
+      "es": "¿Cuál es la altitud aproximada del monte Everest?",
+      "pt": "Qual é a altitude aproximada do monte Everest?"
+    },
+    "options": {
+      "fr": [
+        "Environ 8 849 m",
+        "Environ 8 611 m",
+        "Environ 8 167 m",
+        "Environ 9 200 m"
+      ],
+      "en": [
+        "About 8,849 m",
+        "About 8,611 m",
+        "About 8,167 m",
+        "About 9,200 m"
+      ],
+      "es": [
+        "Unos 8849 m",
+        "Unos 8611 m",
+        "Unos 8167 m",
+        "Unos 9200 m"
+      ],
+      "pt": [
+        "Cerca de 8849 m",
+        "Cerca de 8611 m",
+        "Cerca de 8167 m",
+        "Cerca de 9200 m"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'Everest culmine à environ 8 849 m.",
+      "en": "Everest reaches a height of about 8,849 m.",
+      "es": "El Everest alcanza unos 8849 m.",
+      "pt": "O Everest atinge cerca de 8849 m."
+    }
+  },
+  {
+    "id": "culture_0071",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "En quelle année l'Empire romain d'Occident s'est-il effondré ?",
+      "en": "In what year did the Western Roman Empire collapse?",
+      "es": "¿En qué año se derrumbó el Imperio romano de Occidente?",
+      "pt": "Em que ano caiu o Império Romano do Ocidente?"
+    },
+    "options": {
+      "fr": [
+        "476",
+        "410",
+        "395",
+        "800"
+      ],
+      "en": [
+        "476",
+        "410",
+        "395",
+        "800"
+      ],
+      "es": [
+        "476",
+        "410",
+        "395",
+        "800"
+      ],
+      "pt": [
+        "476",
+        "410",
+        "395",
+        "800"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La chute de l'Empire romain d'Occident est datée de 476.",
+      "en": "The fall of the Western Roman Empire is dated to 476.",
+      "es": "La caída del Imperio romano de Occidente se data en 476.",
+      "pt": "A queda do Império Romano do Ocidente é datada de 476."
+    }
+  },
+  {
+    "id": "culture_0072",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle unité mesure la résistance électrique ?",
+      "en": "Which unit measures electrical resistance?",
+      "es": "¿Qué unidad mide la resistencia eléctrica?",
+      "pt": "Qual unidade mede a resistência elétrica?"
+    },
+    "options": {
+      "fr": [
+        "L'ohm",
+        "Le volt",
+        "Le watt",
+        "Le farad"
+      ],
+      "en": [
+        "The ohm",
+        "The volt",
+        "The watt",
+        "The farad"
+      ],
+      "es": [
+        "El ohmio",
+        "El voltio",
+        "El vatio",
+        "El faradio"
+      ],
+      "pt": [
+        "O ohm",
+        "O volt",
+        "O watt",
+        "O farad"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La résistance se mesure en ohms (Ω).",
+      "en": "Resistance is measured in ohms (Ω).",
+      "es": "La resistencia se mide en ohmios (Ω).",
+      "pt": "A resistência é medida em ohms (Ω)."
+    }
+  },
+  {
+    "id": "culture_0073",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Combien d'éléments la classification périodique compte-t-elle (éléments confirmés) ?",
+      "en": "How many elements does the periodic table have (confirmed elements)?",
+      "es": "¿Cuántos elementos tiene la tabla periódica (elementos confirmados)?",
+      "pt": "Quantos elementos tem a tabela periódica (elementos confirmados)?"
+    },
+    "options": {
+      "fr": [
+        "118",
+        "108",
+        "92",
+        "120"
+      ],
+      "en": [
+        "118",
+        "108",
+        "92",
+        "120"
+      ],
+      "es": [
+        "118",
+        "108",
+        "92",
+        "120"
+      ],
+      "pt": [
+        "118",
+        "108",
+        "92",
+        "120"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le tableau périodique compte 118 éléments confirmés.",
+      "en": "The periodic table has 118 confirmed elements.",
+      "es": "La tabla periódica tiene 118 elementos confirmados.",
+      "pt": "A tabela periódica tem 118 elementos confirmados."
+    }
+  },
+  {
+    "id": "culture_0074",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel scientifique a découvert la pénicilline ?",
+      "en": "Which scientist discovered penicillin?",
+      "es": "¿Qué científico descubrió la penicilina?",
+      "pt": "Qual cientista descobriu a penicilina?"
+    },
+    "options": {
+      "fr": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Robert Koch",
+        "Marie Curie"
+      ],
+      "en": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Robert Koch",
+        "Marie Curie"
+      ],
+      "es": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Robert Koch",
+        "Marie Curie"
+      ],
+      "pt": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Robert Koch",
+        "Marie Curie"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Alexander Fleming a découvert la pénicilline en 1928.",
+      "en": "Alexander Fleming discovered penicillin in 1928.",
+      "es": "Alexander Fleming descubrió la penicilina en 1928.",
+      "pt": "Alexander Fleming descobriu a penicilina em 1928."
+    }
+  },
+  {
+    "id": "culture_0075",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la plus longue chaîne de montagnes continentale du monde ?",
+      "en": "What is the longest continental mountain range in the world?",
+      "es": "¿Cuál es la cordillera continental más larga del mundo?",
+      "pt": "Qual é a cadeia de montanhas continental mais longa do mundo?"
+    },
+    "options": {
+      "fr": [
+        "La cordillère des Andes",
+        "L'Himalaya",
+        "Les montagnes Rocheuses",
+        "Les Alpes"
+      ],
+      "en": [
+        "The Andes",
+        "The Himalayas",
+        "The Rocky Mountains",
+        "The Alps"
+      ],
+      "es": [
+        "La cordillera de los Andes",
+        "El Himalaya",
+        "Las Montañas Rocosas",
+        "Los Alpes"
+      ],
+      "pt": [
+        "A cordilheira dos Andes",
+        "O Himalaia",
+        "As Montanhas Rochosas",
+        "Os Alpes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les Andes s'étirent sur environ 7 000 km.",
+      "en": "The Andes stretch over about 7,000 km.",
+      "es": "Los Andes se extienden unos 7000 km.",
+      "pt": "Os Andes se estendem por cerca de 7000 km."
+    }
+  },
+  {
+    "id": "culture_0076",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Que signifie littéralement le mot « philosophie » (du grec) ?",
+      "en": "What does the word \"philosophy\" literally mean (from Greek)?",
+      "es": "¿Qué significa literalmente la palabra «filosofía» (del griego)?",
+      "pt": "O que significa literalmente a palavra «filosofia» (do grego)?"
+    },
+    "options": {
+      "fr": [
+        "L'amour de la sagesse",
+        "La science des nombres",
+        "L'art de parler",
+        "L'étude des astres"
+      ],
+      "en": [
+        "The love of wisdom",
+        "The science of numbers",
+        "The art of speaking",
+        "The study of the stars"
+      ],
+      "es": [
+        "El amor a la sabiduría",
+        "La ciencia de los números",
+        "El arte de hablar",
+        "El estudio de los astros"
+      ],
+      "pt": [
+        "O amor à sabedoria",
+        "A ciência dos números",
+        "A arte de falar",
+        "O estudo dos astros"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Philo-sophia » signifie l'amour de la sagesse.",
+      "en": "\"Philo-sophia\" means the love of wisdom.",
+      "es": "«Filo-sofía» significa el amor a la sabiduría.",
+      "pt": "«Filo-sofia» significa o amor à sabedoria."
+    }
+  },
+  {
+    "id": "culture_0077",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est le symbole chimique du plomb ?",
+      "en": "What is the chemical symbol for lead?",
+      "es": "¿Cuál es el símbolo químico del plomo?",
+      "pt": "Qual é o símbolo químico do chumbo?"
+    },
+    "options": {
+      "fr": [
+        "Pb",
+        "Pl",
+        "Po",
+        "Lb"
+      ],
+      "en": [
+        "Pb",
+        "Pl",
+        "Po",
+        "Lb"
+      ],
+      "es": [
+        "Pb",
+        "Pl",
+        "Po",
+        "Lb"
+      ],
+      "pt": [
+        "Pb",
+        "Pl",
+        "Po",
+        "Lb"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le plomb a pour symbole « Pb », du latin plumbum.",
+      "en": "Lead has the symbol \"Pb\", from the Latin plumbum.",
+      "es": "El plomo tiene como símbolo «Pb», del latín plumbum.",
+      "pt": "O chumbo tem como símbolo «Pb», do latim plumbum."
+    }
+  },
+  {
+    "id": "culture_0078",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la capitale de la Croatie ?",
+      "en": "What is the capital of Croatia?",
+      "es": "¿Cuál es la capital de Croacia?",
+      "pt": "Qual é a capital da Croácia?"
+    },
+    "options": {
+      "fr": [
+        "Zagreb",
+        "Split",
+        "Dubrovnik",
+        "Rijeka"
+      ],
+      "en": [
+        "Zagreb",
+        "Split",
+        "Dubrovnik",
+        "Rijeka"
+      ],
+      "es": [
+        "Zagreb",
+        "Split",
+        "Dubrovnik",
+        "Rijeka"
+      ],
+      "pt": [
+        "Zagreb",
+        "Split",
+        "Dubrovnik",
+        "Rijeka"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Zagreb est la capitale de la Croatie.",
+      "en": "Zagreb is the capital of Croatia.",
+      "es": "Zagreb es la capital de Croacia.",
+      "pt": "Zagreb é a capital da Croácia."
+    }
+  },
+  {
+    "id": "culture_0079",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la vitesse de pointe approximative du guépard ?",
+      "en": "What is the approximate top speed of the cheetah?",
+      "es": "¿Cuál es la velocidad máxima aproximada del guepardo?",
+      "pt": "Qual é a velocidade máxima aproximada do guepardo?"
+    },
+    "options": {
+      "fr": [
+        "Environ 110 km/h",
+        "Environ 80 km/h",
+        "Environ 150 km/h",
+        "Environ 60 km/h"
+      ],
+      "en": [
+        "About 110 km/h",
+        "About 80 km/h",
+        "About 150 km/h",
+        "About 60 km/h"
+      ],
+      "es": [
+        "Unos 110 km/h",
+        "Unos 80 km/h",
+        "Unos 150 km/h",
+        "Unos 60 km/h"
+      ],
+      "pt": [
+        "Cerca de 110 km/h",
+        "Cerca de 80 km/h",
+        "Cerca de 150 km/h",
+        "Cerca de 60 km/h"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le guépard peut atteindre environ 110 km/h en pointe.",
+      "en": "The cheetah can reach a top speed of about 110 km/h.",
+      "es": "El guepardo puede alcanzar unos 110 km/h en su punta máxima.",
+      "pt": "O guepardo pode atingir cerca de 110 km/h em sua velocidade máxima."
+    }
+  },
+  {
+    "id": "culture_0080",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui fut le premier empereur romain ?",
+      "en": "Who was the first Roman emperor?",
+      "es": "¿Quién fue el primer emperador romano?",
+      "pt": "Quem foi o primeiro imperador romano?"
+    },
+    "options": {
+      "fr": [
+        "Auguste",
+        "Jules César",
+        "Néron",
+        "Trajan"
+      ],
+      "en": [
+        "Augustus",
+        "Julius Caesar",
+        "Nero",
+        "Trajan"
+      ],
+      "es": [
+        "Augusto",
+        "Julio César",
+        "Nerón",
+        "Trajano"
+      ],
+      "pt": [
+        "Augusto",
+        "Júlio César",
+        "Nero",
+        "Trajano"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Auguste (Octave) devient le premier empereur en 27 av. J.-C. ; César n'était que dictateur.",
+      "en": "Augustus (Octavian) became the first emperor in 27 BC; Caesar was only a dictator.",
+      "es": "Augusto (Octavio) se convirtió en el primer emperador en 27 a. C.; César solo fue dictador.",
+      "pt": "Augusto (Otaviano) tornou-se o primeiro imperador em 27 a.C.; César era apenas ditador."
+    }
+  }
+]

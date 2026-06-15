@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "cinema_0001",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Qui a réalisé le film « Inception » ?",
+      "en": "Who directed the film \"Inception\"?",
+      "es": "¿Quién dirigió la película «Origen»?",
+      "pt": "Quem dirigiu o filme «A Origem»?"
+    },
+    "options": {
+      "fr": [
+        "Christopher Nolan",
+        "Steven Spielberg",
+        "James Cameron",
+        "Quentin Tarantino"
+      ],
+      "en": [
+        "Christopher Nolan",
+        "Steven Spielberg",
+        "James Cameron",
+        "Quentin Tarantino"
+      ],
+      "es": [
+        "Christopher Nolan",
+        "Steven Spielberg",
+        "James Cameron",
+        "Quentin Tarantino"
+      ],
+      "pt": [
+        "Christopher Nolan",
+        "Steven Spielberg",
+        "James Cameron",
+        "Quentin Tarantino"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Inception (2010) est de Christopher Nolan.",
+      "en": "Inception (2010) was directed by Christopher Nolan.",
+      "es": "Origen (2010) es de Christopher Nolan.",
+      "pt": "A Origem (2010) é de Christopher Nolan."
+    }
+  },
+  {
+    "id": "cinema_0002",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Dans « Game of Thrones », quelle maison dit « Winter is coming » ?",
+      "en": "In \"Game of Thrones\", which house says \"Winter is coming\"?",
+      "es": "En «Juego de Tronos», ¿qué casa dice «Se acerca el invierno»?",
+      "pt": "Em «Game of Thrones», qual casa diz «O inverno está chegando»?"
+    },
+    "options": {
+      "fr": [
+        "Stark",
+        "Lannister",
+        "Targaryen",
+        "Baratheon"
+      ],
+      "en": [
+        "Stark",
+        "Lannister",
+        "Targaryen",
+        "Baratheon"
+      ],
+      "es": [
+        "Stark",
+        "Lannister",
+        "Targaryen",
+        "Baratheon"
+      ],
+      "pt": [
+        "Stark",
+        "Lannister",
+        "Targaryen",
+        "Baratheon"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est la devise des Stark.",
+      "en": "It is the motto of House Stark.",
+      "es": "Es el lema de los Stark.",
+      "pt": "É o lema dos Stark."
+    }
+  },
+  {
+    "id": "cinema_0003",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel acteur incarne Iron Man dans Marvel ?",
+      "en": "Which actor plays Iron Man in Marvel?",
+      "es": "¿Qué actor interpreta a Iron Man en Marvel?",
+      "pt": "Qual ator interpreta o Homem de Ferro na Marvel?"
+    },
+    "options": {
+      "fr": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "en": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "es": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "pt": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Robert Downey Jr. joue Iron Man.",
+      "en": "Robert Downey Jr. plays Iron Man.",
+      "es": "Robert Downey Jr. interpreta a Iron Man.",
+      "pt": "Robert Downey Jr. interpreta o Homem de Ferro."
+    }
+  },
+  {
+    "id": "cinema_0004",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel studio a produit « Le Monde de Nemo » ?",
+      "en": "Which studio produced \"Finding Nemo\"?",
+      "es": "¿Qué estudio produjo «Buscando a Nemo»?",
+      "pt": "Qual estúdio produziu «Procurando Nemo»?"
+    },
+    "options": {
+      "fr": [
+        "Pixar",
+        "DreamWorks",
+        "Illumination",
+        "Studio Ghibli"
+      ],
+      "en": [
+        "Pixar",
+        "DreamWorks",
+        "Illumination",
+        "Studio Ghibli"
+      ],
+      "es": [
+        "Pixar",
+        "DreamWorks",
+        "Illumination",
+        "Studio Ghibli"
+      ],
+      "pt": [
+        "Pixar",
+        "DreamWorks",
+        "Illumination",
+        "Studio Ghibli"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Nemo est un film Pixar.",
+      "en": "Finding Nemo is a Pixar film.",
+      "es": "Buscando a Nemo es una película de Pixar.",
+      "pt": "Procurando Nemo é um filme da Pixar."
+    }
+  },
+  {
+    "id": "cinema_0005",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "De quelle couleur est le sabre laser de Dark Vador ?",
+      "en": "What color is Darth Vader's lightsaber?",
+      "es": "¿De qué color es el sable de luz de Darth Vader?",
+      "pt": "De que cor é o sabre de luz de Darth Vader?"
+    },
+    "options": {
+      "fr": [
+        "Rouge",
+        "Bleu",
+        "Vert",
+        "Violet"
+      ],
+      "en": [
+        "Red",
+        "Blue",
+        "Green",
+        "Purple"
+      ],
+      "es": [
+        "Rojo",
+        "Azul",
+        "Verde",
+        "Morado"
+      ],
+      "pt": [
+        "Vermelho",
+        "Azul",
+        "Verde",
+        "Roxo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les Sith manient un sabre rouge.",
+      "en": "The Sith wield a red lightsaber.",
+      "es": "Los Sith manejan un sable rojo.",
+      "pt": "Os Sith empunham um sabre vermelho."
+    }
+  },
+  {
+    "id": "cinema_0006",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel jeune sorcier a une cicatrice en forme d'éclair ?",
+      "en": "Which young wizard has a lightning-bolt-shaped scar?",
+      "es": "¿Qué joven mago tiene una cicatriz en forma de rayo?",
+      "pt": "Qual jovem bruxo tem uma cicatriz em forma de raio?"
+    },
+    "options": {
+      "fr": [
+        "Harry Potter",
+        "Ron Weasley",
+        "Drago Malefoy",
+        "Neville Londubat"
+      ],
+      "en": [
+        "Harry Potter",
+        "Ron Weasley",
+        "Draco Malfoy",
+        "Neville Longbottom"
+      ],
+      "es": [
+        "Harry Potter",
+        "Ron Weasley",
+        "Draco Malfoy",
+        "Neville Longbottom"
+      ],
+      "pt": [
+        "Harry Potter",
+        "Rony Weasley",
+        "Draco Malfoy",
+        "Neville Longbottom"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est Harry Potter.",
+      "en": "It is Harry Potter.",
+      "es": "Es Harry Potter.",
+      "pt": "É Harry Potter."
+    }
+  },
+  {
+    "id": "cinema_0007",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel est le cri de ralliement de Buzz l'Éclair ?",
+      "en": "What is Buzz Lightyear's catchphrase?",
+      "es": "¿Cuál es la frase célebre de Buzz Lightyear?",
+      "pt": "Qual é o bordão de Buzz Lightyear?"
+    },
+    "options": {
+      "fr": [
+        "Vers l'infini et au-delà !",
+        "Y a un serpent dans ma botte !",
+        "À l'aventure !",
+        "En avant toute !"
+      ],
+      "en": [
+        "To infinity and beyond!",
+        "There's a snake in my boot!",
+        "To adventure!",
+        "Full speed ahead!"
+      ],
+      "es": [
+        "¡Hasta el infinito y más allá!",
+        "¡Hay una serpiente en mi bota!",
+        "¡A la aventura!",
+        "¡A toda máquina!"
+      ],
+      "pt": [
+        "Ao infinito e além!",
+        "Tem uma cobra na minha bota!",
+        "À aventura!",
+        "A toda velocidade!"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Vers l'infini et au-delà ! »",
+      "en": "\"To infinity and beyond!\"",
+      "es": "«¡Hasta el infinito y más allá!»",
+      "pt": "«Ao infinito e além!»"
+    }
+  },
+  {
+    "id": "cinema_0008",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Qui a réalisé « Pulp Fiction » ?",
+      "en": "Who directed \"Pulp Fiction\"?",
+      "es": "¿Quién dirigió «Pulp Fiction»?",
+      "pt": "Quem dirigiu «Pulp Fiction»?"
+    },
+    "options": {
+      "fr": [
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Ridley Scott"
+      ],
+      "en": [
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Ridley Scott"
+      ],
+      "es": [
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Ridley Scott"
+      ],
+      "pt": [
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Ridley Scott"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Pulp Fiction (1994) est de Tarantino.",
+      "en": "Pulp Fiction (1994) was directed by Tarantino.",
+      "es": "Pulp Fiction (1994) es de Tarantino.",
+      "pt": "Pulp Fiction (1994) é de Tarantino."
+    }
+  },
+  {
+    "id": "cinema_0009",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Combien de films composent la trilogie originale du « Seigneur des Anneaux » ?",
+      "en": "How many films make up the original \"The Lord of the Rings\" trilogy?",
+      "es": "¿Cuántas películas componen la trilogía original de «El Señor de los Anillos»?",
+      "pt": "Quantos filmes compõem a trilogia original de «O Senhor dos Anéis»?"
+    },
+    "options": {
+      "fr": [
+        "3",
+        "2",
+        "4",
+        "6"
+      ],
+      "en": [
+        "3",
+        "2",
+        "4",
+        "6"
+      ],
+      "es": [
+        "3",
+        "2",
+        "4",
+        "6"
+      ],
+      "pt": [
+        "3",
+        "2",
+        "4",
+        "6"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La trilogie compte 3 films.",
+      "en": "The trilogy consists of 3 films.",
+      "es": "La trilogía consta de 3 películas.",
+      "pt": "A trilogia tem 3 filmes."
+    }
+  },
+  {
+    "id": "cinema_0010",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle série suit la famille Roy et son empire médiatique ?",
+      "en": "Which series follows the Roy family and their media empire?",
+      "es": "¿Qué serie sigue a la familia Roy y su imperio mediático?",
+      "pt": "Qual série acompanha a família Roy e seu império de mídia?"
+    },
+    "options": {
+      "fr": [
+        "Succession",
+        "Billions",
+        "Dynastie",
+        "Empire"
+      ],
+      "en": [
+        "Succession",
+        "Billions",
+        "Dynasty",
+        "Empire"
+      ],
+      "es": [
+        "Succession",
+        "Billions",
+        "Dinastía",
+        "Empire"
+      ],
+      "pt": [
+        "Succession",
+        "Billions",
+        "Dinastia",
+        "Empire"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est « Succession » (HBO).",
+      "en": "It is \"Succession\" (HBO).",
+      "es": "Es «Succession» (HBO).",
+      "pt": "É «Succession» (HBO)."
+    }
+  },
+  {
+    "id": "cinema_0011",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel personnage est un ogre vert chez DreamWorks ?",
+      "en": "Which character is a green ogre at DreamWorks?",
+      "es": "¿Qué personaje es un ogro verde de DreamWorks?",
+      "pt": "Qual personagem é um ogro verde da DreamWorks?"
+    },
+    "options": {
+      "fr": [
+        "Shrek",
+        "Hulk",
+        "Yoda",
+        "Gru"
+      ],
+      "en": [
+        "Shrek",
+        "Hulk",
+        "Yoda",
+        "Gru"
+      ],
+      "es": [
+        "Shrek",
+        "Hulk",
+        "Yoda",
+        "Gru"
+      ],
+      "pt": [
+        "Shrek",
+        "Hulk",
+        "Yoda",
+        "Gru"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Shrek est l'ogre vert.",
+      "en": "Shrek is the green ogre.",
+      "es": "Shrek es el ogro verde.",
+      "pt": "Shrek é o ogro verde."
+    }
+  },
+  {
+    "id": "cinema_0012",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Combien de nains accompagnent Blanche-Neige ?",
+      "en": "How many dwarfs accompany Snow White?",
+      "es": "¿Cuántos enanitos acompañan a Blancanieves?",
+      "pt": "Quantos anões acompanham a Branca de Neve?"
+    },
+    "options": {
+      "fr": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "en": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "es": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ],
+      "pt": [
+        "7",
+        "5",
+        "6",
+        "8"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Blanche-Neige et les sept nains.",
+      "en": "Snow White and the Seven Dwarfs.",
+      "es": "Blancanieves y los siete enanitos.",
+      "pt": "Branca de Neve e os Sete Anões."
+    }
+  },
+  {
+    "id": "cinema_0013",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle princesse perd une pantoufle de verre ?",
+      "en": "Which princess loses a glass slipper?",
+      "es": "¿Qué princesa pierde un zapato de cristal?",
+      "pt": "Qual princesa perde um sapatinho de cristal?"
+    },
+    "options": {
+      "fr": [
+        "Cendrillon",
+        "Raiponce",
+        "Belle",
+        "Jasmine"
+      ],
+      "en": [
+        "Cinderella",
+        "Rapunzel",
+        "Belle",
+        "Jasmine"
+      ],
+      "es": [
+        "Cenicienta",
+        "Rapunzel",
+        "Bella",
+        "Jasmine"
+      ],
+      "pt": [
+        "Cinderela",
+        "Rapunzel",
+        "Bela",
+        "Jasmine"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Cendrillon perd sa pantoufle.",
+      "en": "Cinderella loses her slipper.",
+      "es": "Cenicienta pierde su zapato.",
+      "pt": "Cinderela perde o sapatinho."
+    }
+  },
+  {
+    "id": "cinema_0014",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel super-héros est surnommé l'homme chauve-souris ?",
+      "en": "Which superhero is nicknamed the Bat-Man?",
+      "es": "¿Qué superhéroe es apodado el hombre murciélago?",
+      "pt": "Qual super-herói é apelidado de homem-morcego?"
+    },
+    "options": {
+      "fr": [
+        "Batman",
+        "Superman",
+        "Spider-Man",
+        "Iron Man"
+      ],
+      "en": [
+        "Batman",
+        "Superman",
+        "Spider-Man",
+        "Iron Man"
+      ],
+      "es": [
+        "Batman",
+        "Superman",
+        "Spider-Man",
+        "Iron Man"
+      ],
+      "pt": [
+        "Batman",
+        "Superman",
+        "Homem-Aranha",
+        "Homem de Ferro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Batman est l'homme chauve-souris.",
+      "en": "Batman is the Bat-Man.",
+      "es": "Batman es el hombre murciélago.",
+      "pt": "Batman é o homem-morcego."
+    }
+  },
+  {
+    "id": "cinema_0015",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel cow-boy est le héros de « Toy Story » ?",
+      "en": "Which cowboy is the hero of \"Toy Story\"?",
+      "es": "¿Qué vaquero es el héroe de «Toy Story»?",
+      "pt": "Qual caubói é o herói de «Toy Story»?"
+    },
+    "options": {
+      "fr": [
+        "Woody",
+        "Buzz",
+        "Rex",
+        "Zorg"
+      ],
+      "en": [
+        "Woody",
+        "Buzz",
+        "Rex",
+        "Zurg"
+      ],
+      "es": [
+        "Woody",
+        "Buzz",
+        "Rex",
+        "Zurg"
+      ],
+      "pt": [
+        "Woody",
+        "Buzz",
+        "Rex",
+        "Zurg"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Woody est le cow-boy héros.",
+      "en": "Woody is the cowboy hero.",
+      "es": "Woody es el vaquero protagonista.",
+      "pt": "Woody é o caubói protagonista."
+    }
+  },
+  {
+    "id": "cinema_0016",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel acteur incarne le héros masculin de « Titanic » ?",
+      "en": "Which actor plays the male lead in \"Titanic\"?",
+      "es": "¿Qué actor interpreta al protagonista masculino de «Titanic»?",
+      "pt": "Qual ator interpreta o protagonista masculino de «Titanic»?"
+    },
+    "options": {
+      "fr": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise",
+        "Johnny Depp"
+      ],
+      "en": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise",
+        "Johnny Depp"
+      ],
+      "es": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise",
+        "Johnny Depp"
+      ],
+      "pt": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise",
+        "Johnny Depp"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Leonardo DiCaprio joue Jack.",
+      "en": "Leonardo DiCaprio plays Jack.",
+      "es": "Leonardo DiCaprio interpreta a Jack.",
+      "pt": "Leonardo DiCaprio interpreta Jack."
+    }
+  },
+  {
+    "id": "cinema_0017",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "De quelle couleur est Shrek ?",
+      "en": "What color is Shrek?",
+      "es": "¿De qué color es Shrek?",
+      "pt": "De que cor é o Shrek?"
+    },
+    "options": {
+      "fr": [
+        "Vert",
+        "Bleu",
+        "Marron",
+        "Jaune"
+      ],
+      "en": [
+        "Green",
+        "Blue",
+        "Brown",
+        "Yellow"
+      ],
+      "es": [
+        "Verde",
+        "Azul",
+        "Marrón",
+        "Amarillo"
+      ],
+      "pt": [
+        "Verde",
+        "Azul",
+        "Marrom",
+        "Amarelo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Shrek est vert.",
+      "en": "Shrek is green.",
+      "es": "Shrek es verde.",
+      "pt": "Shrek é verde."
+    }
+  },
+  {
+    "id": "cinema_0018",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Dans quel film faut-il détruire un anneau unique ?",
+      "en": "In which film must a one ring be destroyed?",
+      "es": "¿En qué película hay que destruir un anillo único?",
+      "pt": "Em qual filme é preciso destruir um anel único?"
+    },
+    "options": {
+      "fr": [
+        "Le Seigneur des Anneaux",
+        "Harry Potter",
+        "Star Wars",
+        "Narnia"
+      ],
+      "en": [
+        "The Lord of the Rings",
+        "Harry Potter",
+        "Star Wars",
+        "Narnia"
+      ],
+      "es": [
+        "El Señor de los Anillos",
+        "Harry Potter",
+        "Star Wars",
+        "Narnia"
+      ],
+      "pt": [
+        "O Senhor dos Anéis",
+        "Harry Potter",
+        "Star Wars",
+        "Nárnia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'Anneau Unique du Seigneur des Anneaux.",
+      "en": "The One Ring from The Lord of the Rings.",
+      "es": "El Anillo Único de El Señor de los Anillos.",
+      "pt": "O Um Anel de O Senhor dos Anéis."
+    }
+  },
+  {
+    "id": "cinema_0019",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle est l'arme emblématique des Jedi dans « Star Wars » ?",
+      "en": "What is the iconic weapon of the Jedi in \"Star Wars\"?",
+      "es": "¿Cuál es el arma emblemática de los Jedi en «Star Wars»?",
+      "pt": "Qual é a arma emblemática dos Jedi em «Star Wars»?"
+    },
+    "options": {
+      "fr": [
+        "Le sabre laser",
+        "Le blaster",
+        "L'arc-laser",
+        "Le fouet d'énergie"
+      ],
+      "en": [
+        "The lightsaber",
+        "The blaster",
+        "The laser bow",
+        "The energy whip"
+      ],
+      "es": [
+        "El sable de luz",
+        "El bláster",
+        "El arco láser",
+        "El látigo de energía"
+      ],
+      "pt": [
+        "O sabre de luz",
+        "O blaster",
+        "O arco laser",
+        "O chicote de energia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les Jedi manient le sabre laser.",
+      "en": "The Jedi wield the lightsaber.",
+      "es": "Los Jedi manejan el sable de luz.",
+      "pt": "Os Jedi empunham o sabre de luz."
+    }
+  },
+  {
+    "id": "cinema_0020",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel poisson cherche son fils Nemo ?",
+      "en": "Which fish is searching for his son Nemo?",
+      "es": "¿Qué pez busca a su hijo Nemo?",
+      "pt": "Qual peixe procura seu filho Nemo?"
+    },
+    "options": {
+      "fr": [
+        "Marin",
+        "Dory",
+        "Bruce",
+        "Gill"
+      ],
+      "en": [
+        "Marlin",
+        "Dory",
+        "Bruce",
+        "Gill"
+      ],
+      "es": [
+        "Marlin",
+        "Dory",
+        "Bruce",
+        "Gill"
+      ],
+      "pt": [
+        "Marlin",
+        "Dory",
+        "Bruce",
+        "Gill"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Marin, le père, cherche Nemo.",
+      "en": "Marlin, the father, is searching for Nemo.",
+      "es": "Marlin, el padre, busca a Nemo.",
+      "pt": "Marlin, o pai, procura Nemo."
+    }
+  },
+  {
+    "id": "cinema_0021",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel lionceau est le héros du « Roi Lion » ?",
+      "en": "Which lion cub is the hero of \"The Lion King\"?",
+      "es": "¿Qué cachorro de león es el héroe de «El Rey León»?",
+      "pt": "Qual filhote de leão é o herói de «O Rei Leão»?"
+    },
+    "options": {
+      "fr": [
+        "Simba",
+        "Mufasa",
+        "Scar",
+        "Timon"
+      ],
+      "en": [
+        "Simba",
+        "Mufasa",
+        "Scar",
+        "Timon"
+      ],
+      "es": [
+        "Simba",
+        "Mufasa",
+        "Scar",
+        "Timón"
+      ],
+      "pt": [
+        "Simba",
+        "Mufasa",
+        "Scar",
+        "Timão"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Simba est le héros.",
+      "en": "Simba is the hero.",
+      "es": "Simba es el héroe.",
+      "pt": "Simba é o herói."
+    }
+  },
+  {
+    "id": "cinema_0022",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle série célèbre met en scène une apocalypse de zombies ?",
+      "en": "Which famous series depicts a zombie apocalypse?",
+      "es": "¿Qué famosa serie muestra un apocalipsis zombi?",
+      "pt": "Qual série famosa retrata um apocalipse zumbi?"
+    },
+    "options": {
+      "fr": [
+        "The Walking Dead",
+        "Lost",
+        "Friends",
+        "Prison Break"
+      ],
+      "en": [
+        "The Walking Dead",
+        "Lost",
+        "Friends",
+        "Prison Break"
+      ],
+      "es": [
+        "The Walking Dead",
+        "Lost",
+        "Friends",
+        "Prison Break"
+      ],
+      "pt": [
+        "The Walking Dead",
+        "Lost",
+        "Friends",
+        "Prison Break"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "The Walking Dead.",
+      "en": "The Walking Dead.",
+      "es": "The Walking Dead.",
+      "pt": "The Walking Dead."
+    }
+  },
+  {
+    "id": "cinema_0023",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel super-héros lance des toiles d'araignée ?",
+      "en": "Which superhero shoots spider webs?",
+      "es": "¿Qué superhéroe lanza telarañas?",
+      "pt": "Qual super-herói lança teias de aranha?"
+    },
+    "options": {
+      "fr": [
+        "Spider-Man",
+        "Batman",
+        "Superman",
+        "Thor"
+      ],
+      "en": [
+        "Spider-Man",
+        "Batman",
+        "Superman",
+        "Thor"
+      ],
+      "es": [
+        "Spider-Man",
+        "Batman",
+        "Superman",
+        "Thor"
+      ],
+      "pt": [
+        "Homem-Aranha",
+        "Batman",
+        "Superman",
+        "Thor"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Spider-Man lance des toiles.",
+      "en": "Spider-Man shoots webs.",
+      "es": "Spider-Man lanza telarañas.",
+      "pt": "O Homem-Aranha lança teias."
+    }
+  },
+  {
+    "id": "cinema_0024",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle sitcom suit un groupe d'amis au café « Central Perk » ?",
+      "en": "Which sitcom follows a group of friends at the coffee shop \"Central Perk\"?",
+      "es": "¿Qué comedia sigue a un grupo de amigos en la cafetería «Central Perk»?",
+      "pt": "Qual sitcom acompanha um grupo de amigos na cafeteria «Central Perk»?"
+    },
+    "options": {
+      "fr": [
+        "Friends",
+        "Seinfeld",
+        "How I Met Your Mother",
+        "The Office"
+      ],
+      "en": [
+        "Friends",
+        "Seinfeld",
+        "How I Met Your Mother",
+        "The Office"
+      ],
+      "es": [
+        "Friends",
+        "Seinfeld",
+        "How I Met Your Mother",
+        "The Office"
+      ],
+      "pt": [
+        "Friends",
+        "Seinfeld",
+        "How I Met Your Mother",
+        "The Office"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Friends se déroule au Central Perk.",
+      "en": "Friends takes place at Central Perk.",
+      "es": "Friends transcurre en el Central Perk.",
+      "pt": "Friends se passa no Central Perk."
+    }
+  },
+  {
+    "id": "cinema_0025",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel petit personnage vert et sage apparaît dans « Star Wars » ?",
+      "en": "Which small, wise green character appears in \"Star Wars\"?",
+      "es": "¿Qué pequeño personaje verde y sabio aparece en «Star Wars»?",
+      "pt": "Qual pequeno personagem verde e sábio aparece em «Star Wars»?"
+    },
+    "options": {
+      "fr": [
+        "Yoda",
+        "Chewbacca",
+        "R2-D2",
+        "Jabba"
+      ],
+      "en": [
+        "Yoda",
+        "Chewbacca",
+        "R2-D2",
+        "Jabba"
+      ],
+      "es": [
+        "Yoda",
+        "Chewbacca",
+        "R2-D2",
+        "Jabba"
+      ],
+      "pt": [
+        "Yoda",
+        "Chewbacca",
+        "R2-D2",
+        "Jabba"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Maître Yoda.",
+      "en": "Master Yoda.",
+      "es": "El Maestro Yoda.",
+      "pt": "Mestre Yoda."
+    }
+  },
+  {
+    "id": "cinema_0026",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a réalisé « 2001 : l'Odyssée de l'espace » ?",
+      "en": "Who directed \"2001: A Space Odyssey\"?",
+      "es": "¿Quién dirigió «2001: Una odisea del espacio»?",
+      "pt": "Quem dirigiu «2001: Uma Odisseia no Espaço»?"
+    },
+    "options": {
+      "fr": [
+        "Stanley Kubrick",
+        "Steven Spielberg",
+        "Ridley Scott",
+        "George Lucas"
+      ],
+      "en": [
+        "Stanley Kubrick",
+        "Steven Spielberg",
+        "Ridley Scott",
+        "George Lucas"
+      ],
+      "es": [
+        "Stanley Kubrick",
+        "Steven Spielberg",
+        "Ridley Scott",
+        "George Lucas"
+      ],
+      "pt": [
+        "Stanley Kubrick",
+        "Steven Spielberg",
+        "Ridley Scott",
+        "George Lucas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Kubrick l'a réalisé en 1968.",
+      "en": "Kubrick directed it in 1968.",
+      "es": "Kubrick la dirigió en 1968.",
+      "pt": "Kubrick a dirigiu em 1968."
+    }
+  },
+  {
+    "id": "cinema_0027",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel film a remporté la Palme d'or à Cannes en 2019 ?",
+      "en": "Which film won the Palme d'Or at Cannes in 2019?",
+      "es": "¿Qué película ganó la Palma de Oro en Cannes en 2019?",
+      "pt": "Qual filme ganhou a Palma de Ouro em Cannes em 2019?"
+    },
+    "options": {
+      "fr": [
+        "Parasite",
+        "La Vie d'Adèle",
+        "Titane",
+        "Amour"
+      ],
+      "en": [
+        "Parasite",
+        "Blue Is the Warmest Colour",
+        "Titane",
+        "Amour"
+      ],
+      "es": [
+        "Parásitos",
+        "La vida de Adèle",
+        "Titane",
+        "Amor"
+      ],
+      "pt": [
+        "Parasita",
+        "Azul é a Cor Mais Quente",
+        "Titane",
+        "Amor"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Parasite de Bong Joon-ho.",
+      "en": "Parasite by Bong Joon-ho.",
+      "es": "Parásitos de Bong Joon-ho.",
+      "pt": "Parasita de Bong Joon-ho."
+    }
+  },
+  {
+    "id": "cinema_0028",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est le pseudonyme de Walter White dans « Breaking Bad » ?",
+      "en": "What is Walter White's alias in \"Breaking Bad\"?",
+      "es": "¿Cuál es el alias de Walter White en «Breaking Bad»?",
+      "pt": "Qual é o pseudônimo de Walter White em «Breaking Bad»?"
+    },
+    "options": {
+      "fr": [
+        "Heisenberg",
+        "Saul",
+        "Gus",
+        "Mike"
+      ],
+      "en": [
+        "Heisenberg",
+        "Saul",
+        "Gus",
+        "Mike"
+      ],
+      "es": [
+        "Heisenberg",
+        "Saul",
+        "Gus",
+        "Mike"
+      ],
+      "pt": [
+        "Heisenberg",
+        "Saul",
+        "Gus",
+        "Mike"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il se fait appeler Heisenberg.",
+      "en": "He goes by the name Heisenberg.",
+      "es": "Se hace llamar Heisenberg.",
+      "pt": "Ele se faz chamar de Heisenberg."
+    }
+  },
+  {
+    "id": "cinema_0029",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a composé la musique de « Star Wars » ?",
+      "en": "Who composed the music for \"Star Wars\"?",
+      "es": "¿Quién compuso la música de «Star Wars»?",
+      "pt": "Quem compôs a música de «Star Wars»?"
+    },
+    "options": {
+      "fr": [
+        "John Williams",
+        "Hans Zimmer",
+        "Ennio Morricone",
+        "Howard Shore"
+      ],
+      "en": [
+        "John Williams",
+        "Hans Zimmer",
+        "Ennio Morricone",
+        "Howard Shore"
+      ],
+      "es": [
+        "John Williams",
+        "Hans Zimmer",
+        "Ennio Morricone",
+        "Howard Shore"
+      ],
+      "pt": [
+        "John Williams",
+        "Hans Zimmer",
+        "Ennio Morricone",
+        "Howard Shore"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "John Williams a composé les BO.",
+      "en": "John Williams composed the scores.",
+      "es": "John Williams compuso las bandas sonoras.",
+      "pt": "John Williams compôs as trilhas sonoras."
+    }
+  },
+  {
+    "id": "cinema_0030",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel acteur a gagné l'Oscar pour « Joker » (2019) ?",
+      "en": "Which actor won the Oscar for \"Joker\" (2019)?",
+      "es": "¿Qué actor ganó el Óscar por «Joker» (2019)?",
+      "pt": "Qual ator ganhou o Oscar por «Coringa» (2019)?"
+    },
+    "options": {
+      "fr": [
+        "Joaquin Phoenix",
+        "Heath Ledger",
+        "Jared Leto",
+        "Christian Bale"
+      ],
+      "en": [
+        "Joaquin Phoenix",
+        "Heath Ledger",
+        "Jared Leto",
+        "Christian Bale"
+      ],
+      "es": [
+        "Joaquin Phoenix",
+        "Heath Ledger",
+        "Jared Leto",
+        "Christian Bale"
+      ],
+      "pt": [
+        "Joaquin Phoenix",
+        "Heath Ledger",
+        "Jared Leto",
+        "Christian Bale"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Joaquin Phoenix, meilleur acteur.",
+      "en": "Joaquin Phoenix, Best Actor.",
+      "es": "Joaquin Phoenix, mejor actor.",
+      "pt": "Joaquin Phoenix, melhor ator."
+    }
+  },
+  {
+    "id": "cinema_0031",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle série met en scène le publicitaire Don Draper ?",
+      "en": "Which series features the advertising executive Don Draper?",
+      "es": "¿Qué serie presenta al publicista Don Draper?",
+      "pt": "Qual série apresenta o publicitário Don Draper?"
+    },
+    "options": {
+      "fr": [
+        "Mad Men",
+        "Suits",
+        "The Office",
+        "Better Call Saul"
+      ],
+      "en": [
+        "Mad Men",
+        "Suits",
+        "The Office",
+        "Better Call Saul"
+      ],
+      "es": [
+        "Mad Men",
+        "Suits",
+        "The Office",
+        "Better Call Saul"
+      ],
+      "pt": [
+        "Mad Men",
+        "Suits",
+        "The Office",
+        "Better Call Saul"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Mad Men suit Don Draper.",
+      "en": "Mad Men follows Don Draper.",
+      "es": "Mad Men sigue a Don Draper.",
+      "pt": "Mad Men acompanha Don Draper."
+    }
+  },
+  {
+    "id": "cinema_0032",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a réalisé la trilogie « Le Parrain » ?",
+      "en": "Who directed \"The Godfather\" trilogy?",
+      "es": "¿Quién dirigió la trilogía de «El Padrino»?",
+      "pt": "Quem dirigiu a trilogia «O Poderoso Chefão»?"
+    },
+    "options": {
+      "fr": [
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "Brian De Palma",
+        "Sergio Leone"
+      ],
+      "en": [
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "Brian De Palma",
+        "Sergio Leone"
+      ],
+      "es": [
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "Brian De Palma",
+        "Sergio Leone"
+      ],
+      "pt": [
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "Brian De Palma",
+        "Sergio Leone"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Coppola a réalisé Le Parrain.",
+      "en": "Coppola directed The Godfather.",
+      "es": "Coppola dirigió El Padrino.",
+      "pt": "Coppola dirigiu O Poderoso Chefão."
+    }
+  },
+  {
+    "id": "cinema_0033",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est le nom de la prison dans « Les Évadés » ?",
+      "en": "What is the name of the prison in \"The Shawshank Redemption\"?",
+      "es": "¿Cuál es el nombre de la prisión en «Cadena perpetua»?",
+      "pt": "Qual é o nome da prisão em «Um Sonho de Liberdade»?"
+    },
+    "options": {
+      "fr": [
+        "Shawshank",
+        "Alcatraz",
+        "Sing Sing",
+        "Folsom"
+      ],
+      "en": [
+        "Shawshank",
+        "Alcatraz",
+        "Sing Sing",
+        "Folsom"
+      ],
+      "es": [
+        "Shawshank",
+        "Alcatraz",
+        "Sing Sing",
+        "Folsom"
+      ],
+      "pt": [
+        "Shawshank",
+        "Alcatraz",
+        "Sing Sing",
+        "Folsom"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le pénitencier de Shawshank.",
+      "en": "Shawshank State Penitentiary.",
+      "es": "El penal estatal de Shawshank.",
+      "pt": "A Penitenciária de Shawshank."
+    }
+  },
+  {
+    "id": "cinema_0034",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel objet sert de totem à Cobb dans « Inception » ?",
+      "en": "Which object serves as Cobb's totem in \"Inception\"?",
+      "es": "¿Qué objeto sirve de tótem a Cobb en «Origen»?",
+      "pt": "Qual objeto serve de totem para Cobb em «A Origem»?"
+    },
+    "options": {
+      "fr": [
+        "Une toupie",
+        "Une pièce",
+        "Un dé",
+        "Une bague"
+      ],
+      "en": [
+        "A spinning top",
+        "A coin",
+        "A die",
+        "A ring"
+      ],
+      "es": [
+        "Una peonza",
+        "Una moneda",
+        "Un dado",
+        "Un anillo"
+      ],
+      "pt": [
+        "Um pião",
+        "Uma moeda",
+        "Um dado",
+        "Um anel"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Cobb utilise une toupie.",
+      "en": "Cobb uses a spinning top.",
+      "es": "Cobb usa una peonza.",
+      "pt": "Cobb usa um pião."
+    }
+  },
+  {
+    "id": "cinema_0035",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle actrice incarne Daenerys dans « Game of Thrones » ?",
+      "en": "Which actress plays Daenerys in \"Game of Thrones\"?",
+      "es": "¿Qué actriz interpreta a Daenerys en «Juego de Tronos»?",
+      "pt": "Qual atriz interpreta Daenerys em «Game of Thrones»?"
+    },
+    "options": {
+      "fr": [
+        "Emilia Clarke",
+        "Sophie Turner",
+        "Maisie Williams",
+        "Lena Headey"
+      ],
+      "en": [
+        "Emilia Clarke",
+        "Sophie Turner",
+        "Maisie Williams",
+        "Lena Headey"
+      ],
+      "es": [
+        "Emilia Clarke",
+        "Sophie Turner",
+        "Maisie Williams",
+        "Lena Headey"
+      ],
+      "pt": [
+        "Emilia Clarke",
+        "Sophie Turner",
+        "Maisie Williams",
+        "Lena Headey"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Emilia Clarke joue Daenerys.",
+      "en": "Emilia Clarke plays Daenerys.",
+      "es": "Emilia Clarke interpreta a Daenerys.",
+      "pt": "Emilia Clarke interpreta Daenerys."
+    }
+  },
+  {
+    "id": "cinema_0036",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel film Pixar met en scène les émotions d'une fillette ?",
+      "en": "Which Pixar film portrays the emotions of a young girl?",
+      "es": "¿Qué película de Pixar muestra las emociones de una niña?",
+      "pt": "Qual filme da Pixar retrata as emoções de uma menina?"
+    },
+    "options": {
+      "fr": [
+        "Vice-versa",
+        "Là-haut",
+        "Coco",
+        "Le Monde de Dory"
+      ],
+      "en": [
+        "Inside Out",
+        "Up",
+        "Coco",
+        "Finding Dory"
+      ],
+      "es": [
+        "Del Revés (Inside Out)",
+        "Up",
+        "Coco",
+        "Buscando a Dory"
+      ],
+      "pt": [
+        "Divertida Mente",
+        "Up: Altas Aventuras",
+        "Coco",
+        "Procurando Dory"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Vice-versa (Inside Out, 2015).",
+      "en": "Inside Out (2015).",
+      "es": "Del Revés (Inside Out, 2015).",
+      "pt": "Divertida Mente (Inside Out, 2015)."
+    }
+  },
+  {
+    "id": "cinema_0037",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a réalisé « Les Dents de la mer » ?",
+      "en": "Who directed \"Jaws\"?",
+      "es": "¿Quién dirigió «Tiburón»?",
+      "pt": "Quem dirigiu «Tubarão»?"
+    },
+    "options": {
+      "fr": [
+        "Steven Spielberg",
+        "George Lucas",
+        "Brian De Palma",
+        "John Carpenter"
+      ],
+      "en": [
+        "Steven Spielberg",
+        "George Lucas",
+        "Brian De Palma",
+        "John Carpenter"
+      ],
+      "es": [
+        "Steven Spielberg",
+        "George Lucas",
+        "Brian De Palma",
+        "John Carpenter"
+      ],
+      "pt": [
+        "Steven Spielberg",
+        "George Lucas",
+        "Brian De Palma",
+        "John Carpenter"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Spielberg, en 1975.",
+      "en": "Spielberg, in 1975.",
+      "es": "Spielberg, en 1975.",
+      "pt": "Spielberg, em 1975."
+    }
+  },
+  {
+    "id": "cinema_0038",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel fut le premier long métrage d'animation de Disney ?",
+      "en": "What was Disney's first animated feature film?",
+      "es": "¿Cuál fue el primer largometraje de animación de Disney?",
+      "pt": "Qual foi o primeiro longa-metragem de animação da Disney?"
+    },
+    "options": {
+      "fr": [
+        "Blanche-Neige et les Sept Nains",
+        "Pinocchio",
+        "Cendrillon",
+        "Bambi"
+      ],
+      "en": [
+        "Snow White and the Seven Dwarfs",
+        "Pinocchio",
+        "Cinderella",
+        "Bambi"
+      ],
+      "es": [
+        "Blancanieves y los siete enanitos",
+        "Pinocho",
+        "Cenicienta",
+        "Bambi"
+      ],
+      "pt": [
+        "Branca de Neve e os Sete Anões",
+        "Pinóquio",
+        "Cinderela",
+        "Bambi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Blanche-Neige (1937).",
+      "en": "Snow White (1937).",
+      "es": "Blancanieves (1937).",
+      "pt": "Branca de Neve (1937)."
+    }
+  },
+  {
+    "id": "cinema_0039",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel acteur joue le Joker dans « The Dark Knight » ?",
+      "en": "Which actor plays the Joker in \"The Dark Knight\"?",
+      "es": "¿Qué actor interpreta al Joker en «El caballero oscuro»?",
+      "pt": "Qual ator interpreta o Coringa em «O Cavaleiro das Trevas»?"
+    },
+    "options": {
+      "fr": [
+        "Heath Ledger",
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Jack Nicholson"
+      ],
+      "en": [
+        "Heath Ledger",
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Jack Nicholson"
+      ],
+      "es": [
+        "Heath Ledger",
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Jack Nicholson"
+      ],
+      "pt": [
+        "Heath Ledger",
+        "Joaquin Phoenix",
+        "Jared Leto",
+        "Jack Nicholson"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Heath Ledger (Oscar posthume).",
+      "en": "Heath Ledger (posthumous Oscar).",
+      "es": "Heath Ledger (Óscar póstumo).",
+      "pt": "Heath Ledger (Oscar póstumo)."
+    }
+  },
+  {
+    "id": "cinema_0040",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Combien d'Oscars « Titanic » (1997) a-t-il remportés ?",
+      "en": "How many Oscars did \"Titanic\" (1997) win?",
+      "es": "¿Cuántos Óscar ganó «Titanic» (1997)?",
+      "pt": "Quantos Oscars «Titanic» (1997) ganhou?"
+    },
+    "options": {
+      "fr": [
+        "11",
+        "7",
+        "9",
+        "5"
+      ],
+      "en": [
+        "11",
+        "7",
+        "9",
+        "5"
+      ],
+      "es": [
+        "11",
+        "7",
+        "9",
+        "5"
+      ],
+      "pt": [
+        "11",
+        "7",
+        "9",
+        "5"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Titanic a gagné 11 Oscars.",
+      "en": "Titanic won 11 Oscars.",
+      "es": "Titanic ganó 11 Óscar.",
+      "pt": "Titanic ganhou 11 Oscars."
+    }
+  },
+  {
+    "id": "cinema_0041",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a réalisé « Avatar » ?",
+      "en": "Who directed \"Avatar\"?",
+      "es": "¿Quién dirigió «Avatar»?",
+      "pt": "Quem dirigiu «Avatar»?"
+    },
+    "options": {
+      "fr": [
+        "James Cameron",
+        "Ridley Scott",
+        "Peter Jackson",
+        "Steven Spielberg"
+      ],
+      "en": [
+        "James Cameron",
+        "Ridley Scott",
+        "Peter Jackson",
+        "Steven Spielberg"
+      ],
+      "es": [
+        "James Cameron",
+        "Ridley Scott",
+        "Peter Jackson",
+        "Steven Spielberg"
+      ],
+      "pt": [
+        "James Cameron",
+        "Ridley Scott",
+        "Peter Jackson",
+        "Steven Spielberg"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "James Cameron (2009).",
+      "en": "James Cameron (2009).",
+      "es": "James Cameron (2009).",
+      "pt": "James Cameron (2009)."
+    }
+  },
+  {
+    "id": "cinema_0042",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle série suit un prof de chimie devenu fabricant de drogue ?",
+      "en": "Which series follows a chemistry teacher who becomes a drug manufacturer?",
+      "es": "¿Qué serie sigue a un profesor de química convertido en fabricante de drogas?",
+      "pt": "Qual série acompanha um professor de química que vira fabricante de drogas?"
+    },
+    "options": {
+      "fr": [
+        "Breaking Bad",
+        "Ozark",
+        "Narcos",
+        "The Wire"
+      ],
+      "en": [
+        "Breaking Bad",
+        "Ozark",
+        "Narcos",
+        "The Wire"
+      ],
+      "es": [
+        "Breaking Bad",
+        "Ozark",
+        "Narcos",
+        "The Wire"
+      ],
+      "pt": [
+        "Breaking Bad",
+        "Ozark",
+        "Narcos",
+        "The Wire"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Breaking Bad.",
+      "en": "Breaking Bad.",
+      "es": "Breaking Bad.",
+      "pt": "Breaking Bad."
+    }
+  },
+  {
+    "id": "cinema_0043",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a réalisé « Interstellar » ?",
+      "en": "Who directed \"Interstellar\"?",
+      "es": "¿Quién dirigió «Interstellar»?",
+      "pt": "Quem dirigiu «Interestelar»?"
+    },
+    "options": {
+      "fr": [
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Ridley Scott",
+        "James Cameron"
+      ],
+      "en": [
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Ridley Scott",
+        "James Cameron"
+      ],
+      "es": [
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Ridley Scott",
+        "James Cameron"
+      ],
+      "pt": [
+        "Christopher Nolan",
+        "Denis Villeneuve",
+        "Ridley Scott",
+        "James Cameron"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Christopher Nolan (2014).",
+      "en": "Christopher Nolan (2014).",
+      "es": "Christopher Nolan (2014).",
+      "pt": "Christopher Nolan (2014)."
+    }
+  },
+  {
+    "id": "cinema_0044",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Comment s'appelle le vaisseau de Han Solo ?",
+      "en": "What is the name of Han Solo's ship?",
+      "es": "¿Cómo se llama la nave de Han Solo?",
+      "pt": "Como se chama a nave de Han Solo?"
+    },
+    "options": {
+      "fr": [
+        "Le Faucon Millenium",
+        "L'Étoile Noire",
+        "Le Razor Crest",
+        "Le Destroyer"
+      ],
+      "en": [
+        "The Millennium Falcon",
+        "The Death Star",
+        "The Razor Crest",
+        "The Star Destroyer"
+      ],
+      "es": [
+        "El Halcón Milenario",
+        "La Estrella de la Muerte",
+        "La Razor Crest",
+        "El Destructor Estelar"
+      ],
+      "pt": [
+        "A Millennium Falcon",
+        "A Estrela da Morte",
+        "A Razor Crest",
+        "O Destróier Estelar"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Faucon Millenium.",
+      "en": "The Millennium Falcon.",
+      "es": "El Halcón Milenario.",
+      "pt": "A Millennium Falcon."
+    }
+  },
+  {
+    "id": "cinema_0045",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Dans quelle ville se déroule « Breaking Bad » ?",
+      "en": "In which city does \"Breaking Bad\" take place?",
+      "es": "¿En qué ciudad transcurre «Breaking Bad»?",
+      "pt": "Em qual cidade se passa «Breaking Bad»?"
+    },
+    "options": {
+      "fr": [
+        "Albuquerque",
+        "Los Angeles",
+        "Miami",
+        "Chicago"
+      ],
+      "en": [
+        "Albuquerque",
+        "Los Angeles",
+        "Miami",
+        "Chicago"
+      ],
+      "es": [
+        "Albuquerque",
+        "Los Ángeles",
+        "Miami",
+        "Chicago"
+      ],
+      "pt": [
+        "Albuquerque",
+        "Los Angeles",
+        "Miami",
+        "Chicago"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "À Albuquerque, au Nouveau-Mexique.",
+      "en": "In Albuquerque, New Mexico.",
+      "es": "En Albuquerque, Nuevo México.",
+      "pt": "Em Albuquerque, no Novo México."
+    }
+  },
+  {
+    "id": "cinema_0046",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a réalisé « Reservoir Dogs » ?",
+      "en": "Who directed \"Reservoir Dogs\"?",
+      "es": "¿Quién dirigió «Reservoir Dogs»?",
+      "pt": "Quem dirigiu «Cães de Aluguel»?"
+    },
+    "options": {
+      "fr": [
+        "Quentin Tarantino",
+        "Guy Ritchie",
+        "Martin Scorsese",
+        "David Fincher"
+      ],
+      "en": [
+        "Quentin Tarantino",
+        "Guy Ritchie",
+        "Martin Scorsese",
+        "David Fincher"
+      ],
+      "es": [
+        "Quentin Tarantino",
+        "Guy Ritchie",
+        "Martin Scorsese",
+        "David Fincher"
+      ],
+      "pt": [
+        "Quentin Tarantino",
+        "Guy Ritchie",
+        "Martin Scorsese",
+        "David Fincher"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le premier film de Tarantino (1992).",
+      "en": "Tarantino's first film (1992).",
+      "es": "La primera película de Tarantino (1992).",
+      "pt": "O primeiro filme de Tarantino (1992)."
+    }
+  },
+  {
+    "id": "cinema_0047",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel acteur incarne « Forrest Gump » ?",
+      "en": "Which actor plays \"Forrest Gump\"?",
+      "es": "¿Qué actor interpreta a «Forrest Gump»?",
+      "pt": "Qual ator interpreta «Forrest Gump»?"
+    },
+    "options": {
+      "fr": [
+        "Tom Hanks",
+        "Tom Cruise",
+        "Kevin Costner",
+        "Robin Williams"
+      ],
+      "en": [
+        "Tom Hanks",
+        "Tom Cruise",
+        "Kevin Costner",
+        "Robin Williams"
+      ],
+      "es": [
+        "Tom Hanks",
+        "Tom Cruise",
+        "Kevin Costner",
+        "Robin Williams"
+      ],
+      "pt": [
+        "Tom Hanks",
+        "Tom Cruise",
+        "Kevin Costner",
+        "Robin Williams"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Tom Hanks (Oscar 1995).",
+      "en": "Tom Hanks (Oscar 1995).",
+      "es": "Tom Hanks (Óscar 1995).",
+      "pt": "Tom Hanks (Oscar 1995)."
+    }
+  },
+  {
+    "id": "cinema_0048",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle série médiévale-fantastique est diffusée par HBO ?",
+      "en": "Which medieval fantasy series is broadcast by HBO?",
+      "es": "¿Qué serie de fantasía medieval emite HBO?",
+      "pt": "Qual série de fantasia medieval é exibida pela HBO?"
+    },
+    "options": {
+      "fr": [
+        "Game of Thrones",
+        "Vikings",
+        "The Witcher",
+        "Rome"
+      ],
+      "en": [
+        "Game of Thrones",
+        "Vikings",
+        "The Witcher",
+        "Rome"
+      ],
+      "es": [
+        "Juego de Tronos",
+        "Vikings",
+        "The Witcher",
+        "Roma"
+      ],
+      "pt": [
+        "Game of Thrones",
+        "Vikings",
+        "The Witcher",
+        "Rome"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Game of Thrones (HBO).",
+      "en": "Game of Thrones (HBO).",
+      "es": "Juego de Tronos (HBO).",
+      "pt": "Game of Thrones (HBO)."
+    }
+  },
+  {
+    "id": "cinema_0049",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a réalisé « Fight Club » ?",
+      "en": "Who directed \"Fight Club\"?",
+      "es": "¿Quién dirigió «El club de la lucha»?",
+      "pt": "Quem dirigiu «Clube da Luta»?"
+    },
+    "options": {
+      "fr": [
+        "David Fincher",
+        "Quentin Tarantino",
+        "Christopher Nolan",
+        "Darren Aronofsky"
+      ],
+      "en": [
+        "David Fincher",
+        "Quentin Tarantino",
+        "Christopher Nolan",
+        "Darren Aronofsky"
+      ],
+      "es": [
+        "David Fincher",
+        "Quentin Tarantino",
+        "Christopher Nolan",
+        "Darren Aronofsky"
+      ],
+      "pt": [
+        "David Fincher",
+        "Quentin Tarantino",
+        "Christopher Nolan",
+        "Darren Aronofsky"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "David Fincher (1999).",
+      "en": "David Fincher (1999).",
+      "es": "David Fincher (1999).",
+      "pt": "David Fincher (1999)."
+    }
+  },
+  {
+    "id": "cinema_0050",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "De quelle saga vient la réplique « Je suis ton père » ?",
+      "en": "Which saga features the line \"I am your father\"?",
+      "es": "¿De qué saga procede la frase «Yo soy tu padre»?",
+      "pt": "De qual saga vem a frase «Eu sou seu pai»?"
+    },
+    "options": {
+      "fr": [
+        "Star Wars",
+        "Star Trek",
+        "Dune",
+        "Matrix"
+      ],
+      "en": [
+        "Star Wars",
+        "Star Trek",
+        "Dune",
+        "The Matrix"
+      ],
+      "es": [
+        "Star Wars",
+        "Star Trek",
+        "Dune",
+        "Matrix"
+      ],
+      "pt": [
+        "Star Wars",
+        "Star Trek",
+        "Duna",
+        "Matrix"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Star Wars (L'Empire contre-attaque).",
+      "en": "Star Wars (The Empire Strikes Back).",
+      "es": "Star Wars (El Imperio contraataca).",
+      "pt": "Star Wars (O Império Contra-Ataca)."
+    }
+  },
+  {
+    "id": "cinema_0051",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel jouet spatial devient l'ami de Woody dans « Toy Story » ?",
+      "en": "Which space toy becomes Woody's friend in \"Toy Story\"?",
+      "es": "¿Qué juguete espacial se hace amigo de Woody en «Toy Story»?",
+      "pt": "Qual brinquedo espacial se torna amigo de Woody em «Toy Story»?"
+    },
+    "options": {
+      "fr": [
+        "Buzz l'Éclair",
+        "Rex",
+        "Zorg",
+        "La Patate"
+      ],
+      "en": [
+        "Buzz Lightyear",
+        "Rex",
+        "Zurg",
+        "Mr. Potato Head"
+      ],
+      "es": [
+        "Buzz Lightyear",
+        "Rex",
+        "Zurg",
+        "Don Cabeza de Papa"
+      ],
+      "pt": [
+        "Buzz Lightyear",
+        "Rex",
+        "Zurg",
+        "Senhor Cabeça de Batata"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Buzz l'Éclair rejoint Woody dès le premier film.",
+      "en": "Buzz Lightyear joins Woody from the very first film.",
+      "es": "Buzz Lightyear se une a Woody desde la primera película.",
+      "pt": "Buzz Lightyear se junta a Woody desde o primeiro filme."
+    }
+  },
+  {
+    "id": "cinema_0052",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel est le pouvoir d'Elsa dans « La Reine des Neiges » ?",
+      "en": "What is Elsa's power in \"Frozen\"?",
+      "es": "¿Cuál es el poder de Elsa en «Frozen»?",
+      "pt": "Qual é o poder de Elsa em «Frozen»?"
+    },
+    "options": {
+      "fr": [
+        "Créer de la glace",
+        "Cracher du feu",
+        "Voler",
+        "Devenir invisible"
+      ],
+      "en": [
+        "Creating ice",
+        "Breathing fire",
+        "Flying",
+        "Becoming invisible"
+      ],
+      "es": [
+        "Crear hielo",
+        "Escupir fuego",
+        "Volar",
+        "Volverse invisible"
+      ],
+      "pt": [
+        "Criar gelo",
+        "Cuspir fogo",
+        "Voar",
+        "Ficar invisível"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elsa peut créer et contrôler la glace et la neige.",
+      "en": "Elsa can create and control ice and snow.",
+      "es": "Elsa puede crear y controlar el hielo y la nieve.",
+      "pt": "Elsa pode criar e controlar o gelo e a neve."
+    }
+  },
+  {
+    "id": "cinema_0053",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que possède la famille de héros dans « Les Indestructibles » ?",
+      "en": "What does the family of heroes possess in \"The Incredibles\"?",
+      "es": "¿Qué posee la familia de héroes en «Los Increíbles»?",
+      "pt": "O que a família de heróis possui em «Os Incríveis»?"
+    },
+    "options": {
+      "fr": [
+        "Des super-pouvoirs",
+        "Des voitures volantes",
+        "Des baguettes magiques",
+        "Des dinosaures"
+      ],
+      "en": [
+        "Superpowers",
+        "Flying cars",
+        "Magic wands",
+        "Dinosaurs"
+      ],
+      "es": [
+        "Superpoderes",
+        "Coches voladores",
+        "Varitas mágicas",
+        "Dinosaurios"
+      ],
+      "pt": [
+        "Superpoderes",
+        "Carros voadores",
+        "Varinhas mágicas",
+        "Dinossauros"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les Parr forment une famille de super-héros.",
+      "en": "The Parrs are a family of superheroes.",
+      "es": "Los Parr son una familia de superhéroes.",
+      "pt": "Os Parr são uma família de super-heróis."
+    }
+  },
+  {
+    "id": "cinema_0054",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "De quelle couleur est Hulk ?",
+      "en": "What color is Hulk?",
+      "es": "¿De qué color es Hulk?",
+      "pt": "De que cor é o Hulk?"
+    },
+    "options": {
+      "fr": [
+        "Vert",
+        "Bleu",
+        "Rouge",
+        "Gris"
+      ],
+      "en": [
+        "Green",
+        "Blue",
+        "Red",
+        "Gray"
+      ],
+      "es": [
+        "Verde",
+        "Azul",
+        "Rojo",
+        "Gris"
+      ],
+      "pt": [
+        "Verde",
+        "Azul",
+        "Vermelho",
+        "Cinza"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Hulk est célèbre pour sa peau verte.",
+      "en": "Hulk is famous for his green skin.",
+      "es": "Hulk es famoso por su piel verde.",
+      "pt": "O Hulk é famoso por sua pele verde."
+    }
+  },
+  {
+    "id": "cinema_0055",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel personnage est une éponge vivant au fond de la mer ?",
+      "en": "Which character is a sponge living at the bottom of the sea?",
+      "es": "¿Qué personaje es una esponja que vive en el fondo del mar?",
+      "pt": "Qual personagem é uma esponja que vive no fundo do mar?"
+    },
+    "options": {
+      "fr": [
+        "Bob l'éponge",
+        "Oui-Oui",
+        "Dora",
+        "Caillou"
+      ],
+      "en": [
+        "SpongeBob SquarePants",
+        "Noddy",
+        "Dora",
+        "Caillou"
+      ],
+      "es": [
+        "Bob Esponja",
+        "Noddy",
+        "Dora",
+        "Caillou"
+      ],
+      "pt": [
+        "Bob Esponja",
+        "Noddy",
+        "Dora",
+        "Caillou"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Bob l'éponge vit dans la ville sous-marine de Bikini Bottom.",
+      "en": "SpongeBob lives in the underwater town of Bikini Bottom.",
+      "es": "Bob Esponja vive en la ciudad submarina de Fondo de Bikini.",
+      "pt": "Bob Esponja vive na cidade submarina da Fenda do Biquíni."
+    }
+  },
+  {
+    "id": "cinema_0056",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quels animaux sont ramenés à la vie dans « Jurassic Park » ?",
+      "en": "Which animals are brought back to life in \"Jurassic Park\"?",
+      "es": "¿Qué animales son revividos en «Jurassic Park»?",
+      "pt": "Quais animais são trazidos de volta à vida em «Jurassic Park»?"
+    },
+    "options": {
+      "fr": [
+        "Des dinosaures",
+        "Des dragons",
+        "Des mammouths",
+        "Des dodos"
+      ],
+      "en": [
+        "Dinosaurs",
+        "Dragons",
+        "Mammoths",
+        "Dodos"
+      ],
+      "es": [
+        "Dinosaurios",
+        "Dragones",
+        "Mamuts",
+        "Dodos"
+      ],
+      "pt": [
+        "Dinossauros",
+        "Dragões",
+        "Mamutes",
+        "Dodôs"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le parc recrée des dinosaures à partir d'ADN fossile.",
+      "en": "The park recreates dinosaurs from fossil DNA.",
+      "es": "El parque recrea dinosaurios a partir de ADN fósil.",
+      "pt": "O parque recria dinossauros a partir de DNA fóssil."
+    }
+  },
+  {
+    "id": "cinema_0057",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel acteur incarne Jack Sparrow dans « Pirates des Caraïbes » ?",
+      "en": "Which actor plays Jack Sparrow in \"Pirates of the Caribbean\"?",
+      "es": "¿Qué actor interpreta a Jack Sparrow en «Piratas del Caribe»?",
+      "pt": "Qual ator interpreta Jack Sparrow em «Piratas do Caribe»?"
+    },
+    "options": {
+      "fr": [
+        "Johnny Depp",
+        "Orlando Bloom",
+        "Brad Pitt",
+        "Tom Cruise"
+      ],
+      "en": [
+        "Johnny Depp",
+        "Orlando Bloom",
+        "Brad Pitt",
+        "Tom Cruise"
+      ],
+      "es": [
+        "Johnny Depp",
+        "Orlando Bloom",
+        "Brad Pitt",
+        "Tom Cruise"
+      ],
+      "pt": [
+        "Johnny Depp",
+        "Orlando Bloom",
+        "Brad Pitt",
+        "Tom Cruise"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Johnny Depp interprète le capitaine Jack Sparrow.",
+      "en": "Johnny Depp plays Captain Jack Sparrow.",
+      "es": "Johnny Depp interpreta al capitán Jack Sparrow.",
+      "pt": "Johnny Depp interpreta o capitão Jack Sparrow."
+    }
+  },
+  {
+    "id": "cinema_0058",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Dans « Matrix », quelle pilule Neo choisit-il pour connaître la vérité ?",
+      "en": "In \"The Matrix\", which pill does Neo choose to learn the truth?",
+      "es": "En «Matrix», ¿qué pastilla elige Neo para conocer la verdad?",
+      "pt": "Em «Matrix», qual pílula Neo escolhe para saber a verdade?"
+    },
+    "options": {
+      "fr": [
+        "La rouge",
+        "La bleue",
+        "La verte",
+        "La jaune"
+      ],
+      "en": [
+        "The red one",
+        "The blue one",
+        "The green one",
+        "The yellow one"
+      ],
+      "es": [
+        "La roja",
+        "La azul",
+        "La verde",
+        "La amarilla"
+      ],
+      "pt": [
+        "A vermelha",
+        "A azul",
+        "A verde",
+        "A amarela"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Neo avale la pilule rouge offerte par Morpheus.",
+      "en": "Neo swallows the red pill offered by Morpheus.",
+      "es": "Neo se traga la pastilla roja que le ofrece Morfeo.",
+      "pt": "Neo engole a pílula vermelha oferecida por Morpheus."
+    }
+  },
+  {
+    "id": "cinema_0059",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle franchise met en scène des sorciers à l'école de Poudlard ?",
+      "en": "Which franchise features wizards at Hogwarts school?",
+      "es": "¿Qué franquicia presenta magos en el colegio Hogwarts?",
+      "pt": "Qual franquia apresenta bruxos na escola de Hogwarts?"
+    },
+    "options": {
+      "fr": [
+        "Harry Potter",
+        "Le Seigneur des Anneaux",
+        "Narnia",
+        "Twilight"
+      ],
+      "en": [
+        "Harry Potter",
+        "The Lord of the Rings",
+        "Narnia",
+        "Twilight"
+      ],
+      "es": [
+        "Harry Potter",
+        "El Señor de los Anillos",
+        "Narnia",
+        "Crepúsculo"
+      ],
+      "pt": [
+        "Harry Potter",
+        "O Senhor dos Anéis",
+        "Nárnia",
+        "Crepúsculo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Poudlard est l'école de sorcellerie de « Harry Potter ».",
+      "en": "Hogwarts is the school of wizardry in \"Harry Potter\".",
+      "es": "Hogwarts es el colegio de magia de «Harry Potter».",
+      "pt": "Hogwarts é a escola de magia de «Harry Potter»."
+    }
+  },
+  {
+    "id": "cinema_0060",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment s'appelle l'archéologue au chapeau et au fouet du cinéma d'aventure ?",
+      "en": "What is the name of the adventure-cinema archaeologist with a hat and a whip?",
+      "es": "¿Cómo se llama el arqueólogo del cine de aventuras con sombrero y látigo?",
+      "pt": "Como se chama o arqueólogo do cinema de aventura com chapéu e chicote?"
+    },
+    "options": {
+      "fr": [
+        "Indiana Jones",
+        "James Bond",
+        "Lara Croft",
+        "Han Solo"
+      ],
+      "en": [
+        "Indiana Jones",
+        "James Bond",
+        "Lara Croft",
+        "Han Solo"
+      ],
+      "es": [
+        "Indiana Jones",
+        "James Bond",
+        "Lara Croft",
+        "Han Solo"
+      ],
+      "pt": [
+        "Indiana Jones",
+        "James Bond",
+        "Lara Croft",
+        "Han Solo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Indiana Jones est le célèbre archéologue aventurier.",
+      "en": "Indiana Jones is the famous adventuring archaeologist.",
+      "es": "Indiana Jones es el célebre arqueólogo aventurero.",
+      "pt": "Indiana Jones é o famoso arqueólogo aventureiro."
+    }
+  },
+  {
+    "id": "cinema_0061",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel film d'animation suit un robot nettoyeur sur une Terre déserte ?",
+      "en": "Which animated film follows a cleaning robot on a deserted Earth?",
+      "es": "¿Qué película de animación sigue a un robot de limpieza en una Tierra desierta?",
+      "pt": "Qual filme de animação acompanha um robô de limpeza numa Terra deserta?"
+    },
+    "options": {
+      "fr": [
+        "WALL-E",
+        "Robots",
+        "Big Hero 6",
+        "Astro Boy"
+      ],
+      "en": [
+        "WALL-E",
+        "Robots",
+        "Big Hero 6",
+        "Astro Boy"
+      ],
+      "es": [
+        "WALL-E",
+        "Robots",
+        "Big Hero 6",
+        "Astro Boy"
+      ],
+      "pt": [
+        "WALL-E",
+        "Robôs",
+        "Operação Big Hero",
+        "Astro Boy"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "WALL-E est un petit robot resté seul pour nettoyer la Terre.",
+      "en": "WALL-E is a little robot left alone to clean up the Earth.",
+      "es": "WALL-E es un pequeño robot que quedó solo para limpiar la Tierra.",
+      "pt": "WALL-E é um pequeno robô que ficou sozinho para limpar a Terra."
+    }
+  },
+  {
+    "id": "cinema_0062",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment s'appelle l'équipe de super-héros Marvel réunissant Iron Man et Thor ?",
+      "en": "What is the name of the Marvel superhero team that brings together Iron Man and Thor?",
+      "es": "¿Cómo se llama el equipo de superhéroes de Marvel que reúne a Iron Man y Thor?",
+      "pt": "Como se chama a equipe de super-heróis da Marvel que reúne Iron Man e Thor?"
+    },
+    "options": {
+      "fr": [
+        "Les Avengers",
+        "La Justice League",
+        "Les X-Men",
+        "Les 4 Fantastiques"
+      ],
+      "en": [
+        "The Avengers",
+        "The Justice League",
+        "The X-Men",
+        "The Fantastic Four"
+      ],
+      "es": [
+        "Los Vengadores",
+        "La Liga de la Justicia",
+        "Los X-Men",
+        "Los 4 Fantásticos"
+      ],
+      "pt": [
+        "Os Vingadores",
+        "A Liga da Justiça",
+        "Os X-Men",
+        "O Quarteto Fantástico"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Iron Man, Thor et leurs alliés forment les Avengers.",
+      "en": "Iron Man, Thor and their allies form the Avengers.",
+      "es": "Iron Man, Thor y sus aliados forman los Vengadores.",
+      "pt": "Iron Man, Thor e seus aliados formam os Vingadores."
+    }
+  },
+  {
+    "id": "cinema_0063",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle phrase culte est associée à « Star Wars » ?",
+      "en": "Which iconic line is associated with \"Star Wars\"?",
+      "es": "¿Qué frase de culto se asocia con «Star Wars»?",
+      "pt": "Qual frase icônica está associada a «Star Wars»?"
+    },
+    "options": {
+      "fr": [
+        "« Que la Force soit avec toi »",
+        "« Je reviendrai »",
+        "« Vers l'infini et au-delà »",
+        "« Wingardium Leviosa »"
+      ],
+      "en": [
+        "\"May the Force be with you\"",
+        "\"I'll be back\"",
+        "\"To infinity and beyond\"",
+        "\"Wingardium Leviosa\""
+      ],
+      "es": [
+        "«Que la Fuerza te acompañe»",
+        "«Volveré»",
+        "«Hasta el infinito y más allá»",
+        "«Wingardium Leviosa»"
+      ],
+      "pt": [
+        "«Que a Força esteja com você»",
+        "«Eu voltarei»",
+        "«Ao infinito e além»",
+        "«Wingardium Leviosa»"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Que la Force soit avec toi » est la réplique emblématique de la saga.",
+      "en": "\"May the Force be with you\" is the saga's iconic line.",
+      "es": "«Que la Fuerza te acompañe» es la frase emblemática de la saga.",
+      "pt": "«Que a Força esteja com você» é a frase emblemática da saga."
+    }
+  },
+  {
+    "id": "cinema_0064",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel est le matricule de l'espion James Bond ?",
+      "en": "What is spy James Bond's code number?",
+      "es": "¿Cuál es el número en clave del espía James Bond?",
+      "pt": "Qual é o número de código do espião James Bond?"
+    },
+    "options": {
+      "fr": [
+        "007",
+        "008",
+        "006",
+        "0012"
+      ],
+      "en": [
+        "007",
+        "008",
+        "006",
+        "0012"
+      ],
+      "es": [
+        "007",
+        "008",
+        "006",
+        "0012"
+      ],
+      "pt": [
+        "007",
+        "008",
+        "006",
+        "0012"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "James Bond est l'agent 007 du MI6.",
+      "en": "James Bond is MI6 agent 007.",
+      "es": "James Bond es el agente 007 del MI6.",
+      "pt": "James Bond é o agente 007 do MI6."
+    }
+  },
+  {
+    "id": "cinema_0065",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment s'appelle le père de Simba dans « Le Roi Lion » ?",
+      "en": "What is the name of Simba's father in \"The Lion King\"?",
+      "es": "¿Cómo se llama el padre de Simba en «El Rey León»?",
+      "pt": "Como se chama o pai de Simba em «O Rei Leão»?"
+    },
+    "options": {
+      "fr": [
+        "Mufasa",
+        "Scar",
+        "Rafiki",
+        "Zazu"
+      ],
+      "en": [
+        "Mufasa",
+        "Scar",
+        "Rafiki",
+        "Zazu"
+      ],
+      "es": [
+        "Mufasa",
+        "Scar",
+        "Rafiki",
+        "Zazú"
+      ],
+      "pt": [
+        "Mufasa",
+        "Scar",
+        "Rafiki",
+        "Zazu"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Mufasa est le roi et le père de Simba.",
+      "en": "Mufasa is the king and Simba's father.",
+      "es": "Mufasa es el rey y el padre de Simba.",
+      "pt": "Mufasa é o rei e o pai de Simba."
+    }
+  },
+  {
+    "id": "cinema_0066",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel réalisateur a remporté l'Oscar du meilleur réalisateur pour « La La Land » (2017) ?",
+      "en": "Which director won the Best Director Oscar for \"La La Land\" (2017)?",
+      "es": "¿Qué director ganó el Óscar al mejor director por «La La Land» (2017)?",
+      "pt": "Qual diretor ganhou o Oscar de melhor diretor por «La La Land» (2017)?"
+    },
+    "options": {
+      "fr": [
+        "Damien Chazelle",
+        "Barry Jenkins",
+        "Alejandro González Iñárritu",
+        "Guillermo del Toro"
+      ],
+      "en": [
+        "Damien Chazelle",
+        "Barry Jenkins",
+        "Alejandro González Iñárritu",
+        "Guillermo del Toro"
+      ],
+      "es": [
+        "Damien Chazelle",
+        "Barry Jenkins",
+        "Alejandro González Iñárritu",
+        "Guillermo del Toro"
+      ],
+      "pt": [
+        "Damien Chazelle",
+        "Barry Jenkins",
+        "Alejandro González Iñárritu",
+        "Guillermo del Toro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Damien Chazelle a gagné le prix de la mise en scène pour « La La Land ».",
+      "en": "Damien Chazelle won the directing award for \"La La Land\".",
+      "es": "Damien Chazelle ganó el premio a la dirección por «La La Land».",
+      "pt": "Damien Chazelle ganhou o prêmio de direção por «La La Land»."
+    }
+  },
+  {
+    "id": "cinema_0067",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel film a remporté l'Oscar du meilleur film en 2023 ?",
+      "en": "Which film won the Best Picture Oscar in 2023?",
+      "es": "¿Qué película ganó el Óscar a la mejor película en 2023?",
+      "pt": "Qual filme ganhou o Oscar de melhor filme em 2023?"
+    },
+    "options": {
+      "fr": [
+        "Everything Everywhere All at Once",
+        "The Fabelmans",
+        "Top Gun: Maverick",
+        "Tár"
+      ],
+      "en": [
+        "Everything Everywhere All at Once",
+        "The Fabelmans",
+        "Top Gun: Maverick",
+        "Tár"
+      ],
+      "es": [
+        "Everything Everywhere All at Once",
+        "Los Fabelman",
+        "Top Gun: Maverick",
+        "Tár"
+      ],
+      "pt": [
+        "Tudo em Todo Lugar ao Mesmo Tempo",
+        "Os Fabelmans",
+        "Top Gun: Maverick",
+        "Tár"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Everything Everywhere All at Once » a triomphé aux Oscars 2023.",
+      "en": "\"Everything Everywhere All at Once\" triumphed at the 2023 Oscars.",
+      "es": "«Everything Everywhere All at Once» triunfó en los Óscar de 2023.",
+      "pt": "«Tudo em Todo Lugar ao Mesmo Tempo» triunfou no Oscar de 2023."
+    }
+  },
+  {
+    "id": "cinema_0068",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a réalisé « Le Labyrinthe de Pan » (2006) ?",
+      "en": "Who directed \"Pan's Labyrinth\" (2006)?",
+      "es": "¿Quién dirigió «El laberinto del fauno» (2006)?",
+      "pt": "Quem dirigiu «O Labirinto do Fauno» (2006)?"
+    },
+    "options": {
+      "fr": [
+        "Guillermo del Toro",
+        "Alejandro González Iñárritu",
+        "Alfonso Cuarón",
+        "Pedro Almodóvar"
+      ],
+      "en": [
+        "Guillermo del Toro",
+        "Alejandro González Iñárritu",
+        "Alfonso Cuarón",
+        "Pedro Almodóvar"
+      ],
+      "es": [
+        "Guillermo del Toro",
+        "Alejandro González Iñárritu",
+        "Alfonso Cuarón",
+        "Pedro Almodóvar"
+      ],
+      "pt": [
+        "Guillermo del Toro",
+        "Alejandro González Iñárritu",
+        "Alfonso Cuarón",
+        "Pedro Almodóvar"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Le Labyrinthe de Pan » est un film de Guillermo del Toro.",
+      "en": "\"Pan's Labyrinth\" is a film by Guillermo del Toro.",
+      "es": "«El laberinto del fauno» es una película de Guillermo del Toro.",
+      "pt": "«O Labirinto do Fauno» é um filme de Guillermo del Toro."
+    }
+  },
+  {
+    "id": "cinema_0069",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "En quelle année est sorti le premier film « Toy Story » ?",
+      "en": "In what year was the first \"Toy Story\" film released?",
+      "es": "¿En qué año se estrenó la primera película de «Toy Story»?",
+      "pt": "Em que ano foi lançado o primeiro filme «Toy Story»?"
+    },
+    "options": {
+      "fr": [
+        "1995",
+        "1998",
+        "1992",
+        "2001"
+      ],
+      "en": [
+        "1995",
+        "1998",
+        "1992",
+        "2001"
+      ],
+      "es": [
+        "1995",
+        "1998",
+        "1992",
+        "2001"
+      ],
+      "pt": [
+        "1995",
+        "1998",
+        "1992",
+        "2001"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Toy Story » (1995) est le premier long métrage entièrement en images de synthèse.",
+      "en": "\"Toy Story\" (1995) is the first feature film made entirely with computer-generated imagery.",
+      "es": "«Toy Story» (1995) es el primer largometraje hecho enteramente con imágenes generadas por ordenador.",
+      "pt": "«Toy Story» (1995) é o primeiro longa-metragem feito inteiramente com imagens geradas por computador."
+    }
+  },
+  {
+    "id": "cinema_0070",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle réalisatrice a remporté l'Oscar du meilleur réalisateur pour « Nomadland » (2021) ?",
+      "en": "Which director won the Best Director Oscar for \"Nomadland\" (2021)?",
+      "es": "¿Qué directora ganó el Óscar a la mejor dirección por «Nomadland» (2021)?",
+      "pt": "Qual diretora ganhou o Oscar de melhor direção por «Nomadland» (2021)?"
+    },
+    "options": {
+      "fr": [
+        "Chloé Zhao",
+        "Kathryn Bigelow",
+        "Greta Gerwig",
+        "Jane Campion"
+      ],
+      "en": [
+        "Chloé Zhao",
+        "Kathryn Bigelow",
+        "Greta Gerwig",
+        "Jane Campion"
+      ],
+      "es": [
+        "Chloé Zhao",
+        "Kathryn Bigelow",
+        "Greta Gerwig",
+        "Jane Campion"
+      ],
+      "pt": [
+        "Chloé Zhao",
+        "Kathryn Bigelow",
+        "Greta Gerwig",
+        "Jane Campion"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Chloé Zhao a été primée pour « Nomadland ».",
+      "en": "Chloé Zhao was awarded for \"Nomadland\".",
+      "es": "Chloé Zhao fue premiada por «Nomadland».",
+      "pt": "Chloé Zhao foi premiada por «Nomadland»."
+    }
+  },
+  {
+    "id": "cinema_0071",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel film a remporté la Palme d'or à Cannes en 2021 ?",
+      "en": "Which film won the Palme d'Or at Cannes in 2021?",
+      "es": "¿Qué película ganó la Palma de Oro en Cannes en 2021?",
+      "pt": "Qual filme ganhou a Palma de Ouro em Cannes em 2021?"
+    },
+    "options": {
+      "fr": [
+        "Titane",
+        "Parasite",
+        "Anatomie d'une chute",
+        "La Vie d'Adèle"
+      ],
+      "en": [
+        "Titane",
+        "Parasite",
+        "Anatomy of a Fall",
+        "Blue Is the Warmest Colour"
+      ],
+      "es": [
+        "Titane",
+        "Parásitos",
+        "Anatomía de una caída",
+        "La vida de Adèle"
+      ],
+      "pt": [
+        "Titane",
+        "Parasita",
+        "Anatomia de uma Queda",
+        "Azul é a Cor Mais Quente"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Titane » de Julia Ducournau a obtenu la Palme d'or 2021.",
+      "en": "\"Titane\" by Julia Ducournau won the 2021 Palme d'Or.",
+      "es": "«Titane» de Julia Ducournau obtuvo la Palma de Oro de 2021.",
+      "pt": "«Titane» de Julia Ducournau conquistou a Palma de Ouro de 2021."
+    }
+  },
+  {
+    "id": "cinema_0072",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel film a remporté la Palme d'or à Cannes en 2023 ?",
+      "en": "Which film won the Palme d'Or at Cannes in 2023?",
+      "es": "¿Qué película ganó la Palma de Oro en Cannes en 2023?",
+      "pt": "Qual filme ganhou a Palma de Ouro em Cannes em 2023?"
+    },
+    "options": {
+      "fr": [
+        "Anatomie d'une chute",
+        "Titane",
+        "Parasite",
+        "The Square"
+      ],
+      "en": [
+        "Anatomy of a Fall",
+        "Titane",
+        "Parasite",
+        "The Square"
+      ],
+      "es": [
+        "Anatomía de una caída",
+        "Titane",
+        "Parásitos",
+        "The Square"
+      ],
+      "pt": [
+        "Anatomia de uma Queda",
+        "Titane",
+        "Parasita",
+        "The Square"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Anatomie d'une chute » de Justine Triet a gagné la Palme 2023.",
+      "en": "\"Anatomy of a Fall\" by Justine Triet won the 2023 Palme d'Or.",
+      "es": "«Anatomía de una caída» de Justine Triet ganó la Palma de 2023.",
+      "pt": "«Anatomia de uma Queda» de Justine Triet ganhou a Palma de 2023."
+    }
+  },
+  {
+    "id": "cinema_0073",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Pour quel film Leonardo DiCaprio a-t-il enfin remporté l'Oscar du meilleur acteur (2016) ?",
+      "en": "For which film did Leonardo DiCaprio finally win the Best Actor Oscar (2016)?",
+      "es": "¿Por qué película ganó por fin Leonardo DiCaprio el Óscar al mejor actor (2016)?",
+      "pt": "Por qual filme Leonardo DiCaprio finalmente ganhou o Oscar de melhor ator (2016)?"
+    },
+    "options": {
+      "fr": [
+        "The Revenant",
+        "Le Loup de Wall Street",
+        "Inception",
+        "Django Unchained"
+      ],
+      "en": [
+        "The Revenant",
+        "The Wolf of Wall Street",
+        "Inception",
+        "Django Unchained"
+      ],
+      "es": [
+        "El renacido",
+        "El lobo de Wall Street",
+        "Origen",
+        "Django desencadenado"
+      ],
+      "pt": [
+        "O Regresso",
+        "O Lobo de Wall Street",
+        "A Origem",
+        "Django Livre"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "DiCaprio a obtenu son premier Oscar pour « The Revenant ».",
+      "en": "DiCaprio won his first Oscar for \"The Revenant\".",
+      "es": "DiCaprio obtuvo su primer Óscar por «El renacido».",
+      "pt": "DiCaprio conquistou seu primeiro Oscar por «O Regresso»."
+    }
+  },
+  {
+    "id": "cinema_0074",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a composé la musique de la trilogie « Le Seigneur des Anneaux » ?",
+      "en": "Who composed the music for \"The Lord of the Rings\" trilogy?",
+      "es": "¿Quién compuso la música de la trilogía de «El Señor de los Anillos»?",
+      "pt": "Quem compôs a música da trilogia «O Senhor dos Anéis»?"
+    },
+    "options": {
+      "fr": [
+        "Howard Shore",
+        "Hans Zimmer",
+        "John Williams",
+        "James Horner"
+      ],
+      "en": [
+        "Howard Shore",
+        "Hans Zimmer",
+        "John Williams",
+        "James Horner"
+      ],
+      "es": [
+        "Howard Shore",
+        "Hans Zimmer",
+        "John Williams",
+        "James Horner"
+      ],
+      "pt": [
+        "Howard Shore",
+        "Hans Zimmer",
+        "John Williams",
+        "James Horner"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Howard Shore a composé les bandes originales de la trilogie.",
+      "en": "Howard Shore composed the trilogy's original scores.",
+      "es": "Howard Shore compuso las bandas sonoras de la trilogía.",
+      "pt": "Howard Shore compôs as trilhas sonoras da trilogia."
+    }
+  },
+  {
+    "id": "cinema_0075",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel réalisateur a signé « Mulholland Drive » ?",
+      "en": "Which director made \"Mulholland Drive\"?",
+      "es": "¿Qué director hizo «Mulholland Drive»?",
+      "pt": "Qual diretor fez «Cidade dos Sonhos»?"
+    },
+    "options": {
+      "fr": [
+        "David Lynch",
+        "David Cronenberg",
+        "David Fincher",
+        "Darren Aronofsky"
+      ],
+      "en": [
+        "David Lynch",
+        "David Cronenberg",
+        "David Fincher",
+        "Darren Aronofsky"
+      ],
+      "es": [
+        "David Lynch",
+        "David Cronenberg",
+        "David Fincher",
+        "Darren Aronofsky"
+      ],
+      "pt": [
+        "David Lynch",
+        "David Cronenberg",
+        "David Fincher",
+        "Darren Aronofsky"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Mulholland Drive » (2001) est de David Lynch.",
+      "en": "\"Mulholland Drive\" (2001) is by David Lynch.",
+      "es": "«Mulholland Drive» (2001) es de David Lynch.",
+      "pt": "«Cidade dos Sonhos» (2001) é de David Lynch."
+    }
+  },
+  {
+    "id": "cinema_0076",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "En quelle année est sorti « Pulp Fiction » ?",
+      "en": "In what year was \"Pulp Fiction\" released?",
+      "es": "¿En qué año se estrenó «Pulp Fiction»?",
+      "pt": "Em que ano foi lançado «Pulp Fiction»?"
+    },
+    "options": {
+      "fr": [
+        "1994",
+        "1992",
+        "1996",
+        "1990"
+      ],
+      "en": [
+        "1994",
+        "1992",
+        "1996",
+        "1990"
+      ],
+      "es": [
+        "1994",
+        "1992",
+        "1996",
+        "1990"
+      ],
+      "pt": [
+        "1994",
+        "1992",
+        "1996",
+        "1990"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Pulp Fiction » de Quentin Tarantino est sorti en 1994.",
+      "en": "\"Pulp Fiction\" by Quentin Tarantino was released in 1994.",
+      "es": "«Pulp Fiction» de Quentin Tarantino se estrenó en 1994.",
+      "pt": "«Pulp Fiction» de Quentin Tarantino foi lançado em 1994."
+    }
+  },
+  {
+    "id": "cinema_0077",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel film de Bong Joon-ho, antérieur à « Parasite », se déroule entièrement dans un train ?",
+      "en": "Which Bong Joon-ho film, made before \"Parasite\", takes place entirely on a train?",
+      "es": "¿Qué película de Bong Joon-ho, anterior a «Parásitos», transcurre íntegramente en un tren?",
+      "pt": "Qual filme de Bong Joon-ho, anterior a «Parasita», se passa inteiramente num trem?"
+    },
+    "options": {
+      "fr": [
+        "Snowpiercer",
+        "Okja",
+        "The Host",
+        "Memories of Murder"
+      ],
+      "en": [
+        "Snowpiercer",
+        "Okja",
+        "The Host",
+        "Memories of Murder"
+      ],
+      "es": [
+        "Snowpiercer (Rompenieves)",
+        "Okja",
+        "The Host",
+        "Memories of Murder"
+      ],
+      "pt": [
+        "Expresso do Amanhã (Snowpiercer)",
+        "Okja",
+        "O Hospedeiro",
+        "Memórias de um Assassino"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Snowpiercer » (Le Transperceneige, 2013) se déroule dans un train.",
+      "en": "\"Snowpiercer\" (2013) takes place on a train.",
+      "es": "«Snowpiercer» (Rompenieves, 2013) transcurre en un tren.",
+      "pt": "«Snowpiercer» (Expresso do Amanhã, 2013) se passa em um trem."
+    }
+  },
+  {
+    "id": "cinema_0078",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel acteur a remporté l'Oscar du meilleur second rôle pour « Whiplash » ?",
+      "en": "Which actor won the Best Supporting Actor Oscar for \"Whiplash\"?",
+      "es": "¿Qué actor ganó el Óscar al mejor actor de reparto por «Whiplash»?",
+      "pt": "Qual ator ganhou o Oscar de melhor ator coadjuvante por «Whiplash»?"
+    },
+    "options": {
+      "fr": [
+        "J.K. Simmons",
+        "Mark Rylance",
+        "Mahershala Ali",
+        "Christoph Waltz"
+      ],
+      "en": [
+        "J.K. Simmons",
+        "Mark Rylance",
+        "Mahershala Ali",
+        "Christoph Waltz"
+      ],
+      "es": [
+        "J.K. Simmons",
+        "Mark Rylance",
+        "Mahershala Ali",
+        "Christoph Waltz"
+      ],
+      "pt": [
+        "J.K. Simmons",
+        "Mark Rylance",
+        "Mahershala Ali",
+        "Christoph Waltz"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "J.K. Simmons a été primé pour son rôle de professeur dans « Whiplash ».",
+      "en": "J.K. Simmons was awarded for his role as a teacher in \"Whiplash\".",
+      "es": "J.K. Simmons fue premiado por su papel de profesor en «Whiplash».",
+      "pt": "J.K. Simmons foi premiado pelo papel de professor em «Whiplash»."
+    }
+  },
+  {
+    "id": "cinema_0079",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle série est le spin-off préquel de « Breaking Bad » ?",
+      "en": "Which series is the prequel spin-off of \"Breaking Bad\"?",
+      "es": "¿Qué serie es el spin-off precuela de «Breaking Bad»?",
+      "pt": "Qual série é o spin-off prequela de «Breaking Bad»?"
+    },
+    "options": {
+      "fr": [
+        "Better Call Saul",
+        "Ozark",
+        "Fargo",
+        "Narcos"
+      ],
+      "en": [
+        "Better Call Saul",
+        "Ozark",
+        "Fargo",
+        "Narcos"
+      ],
+      "es": [
+        "Better Call Saul",
+        "Ozark",
+        "Fargo",
+        "Narcos"
+      ],
+      "pt": [
+        "Better Call Saul",
+        "Ozark",
+        "Fargo",
+        "Narcos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Better Call Saul » raconte le passé de l'avocat Saul Goodman.",
+      "en": "\"Better Call Saul\" tells the backstory of the lawyer Saul Goodman.",
+      "es": "«Better Call Saul» cuenta el pasado del abogado Saul Goodman.",
+      "pt": "«Better Call Saul» conta o passado do advogado Saul Goodman."
+    }
+  },
+  {
+    "id": "cinema_0080",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel directeur de la photographie a collaboré avec Nolan sur « Interstellar » et « Dunkerque » ?",
+      "en": "Which cinematographer collaborated with Nolan on \"Interstellar\" and \"Dunkirk\"?",
+      "es": "¿Qué director de fotografía colaboró con Nolan en «Interstellar» y «Dunkerque»?",
+      "pt": "Qual diretor de fotografia colaborou com Nolan em «Interestelar» e «Dunkirk»?"
+    },
+    "options": {
+      "fr": [
+        "Hoyte van Hoytema",
+        "Roger Deakins",
+        "Emmanuel Lubezki",
+        "Wally Pfister"
+      ],
+      "en": [
+        "Hoyte van Hoytema",
+        "Roger Deakins",
+        "Emmanuel Lubezki",
+        "Wally Pfister"
+      ],
+      "es": [
+        "Hoyte van Hoytema",
+        "Roger Deakins",
+        "Emmanuel Lubezki",
+        "Wally Pfister"
+      ],
+      "pt": [
+        "Hoyte van Hoytema",
+        "Roger Deakins",
+        "Emmanuel Lubezki",
+        "Wally Pfister"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Hoyte van Hoytema est le chef opérateur de « Interstellar », « Dunkerque » et « Tenet ».",
+      "en": "Hoyte van Hoytema is the cinematographer of \"Interstellar\", \"Dunkirk\" and \"Tenet\".",
+      "es": "Hoyte van Hoytema es el director de fotografía de «Interstellar», «Dunkerque» y «Tenet».",
+      "pt": "Hoyte van Hoytema é o diretor de fotografia de «Interestelar», «Dunkirk» e «Tenet»."
+    }
+  }
+]

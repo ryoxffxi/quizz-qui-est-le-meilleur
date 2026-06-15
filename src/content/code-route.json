@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "route_0001",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que devez-vous faire à l'approche d'un feu orange fixe ?"
+    },
+    "options": {
+      "fr": [
+        "Vous arrêter si vous le pouvez sans danger",
+        "Accélérer pour passer",
+        "Continuer normalement",
+        "Klaxonner"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le feu orange impose l'arrêt si possible."
+    }
+  },
+  {
+    "id": "route_0002",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle est la vitesse maximale en agglomération (sauf indication) ?"
+    },
+    "options": {
+      "fr": [
+        "50 km/h",
+        "30 km/h",
+        "70 km/h",
+        "90 km/h"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "50 km/h par défaut en ville."
+    }
+  },
+  {
+    "id": "route_0003",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que signifie un panneau triangulaire à bordure rouge ?"
+    },
+    "options": {
+      "fr": [
+        "Un danger",
+        "Une obligation",
+        "Une interdiction de stationner",
+        "Une direction"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Triangle rouge = danger."
+    }
+  },
+  {
+    "id": "route_0004",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "À un panneau « STOP », que devez-vous faire ?"
+    },
+    "options": {
+      "fr": [
+        "Marquer un arrêt complet",
+        "Ralentir seulement",
+        "Klaxonner",
+        "Accélérer si la voie est libre"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le STOP impose un arrêt total."
+    }
+  },
+  {
+    "id": "route_0005",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Le port de la ceinture de sécurité est :"
+    },
+    "options": {
+      "fr": [
+        "Obligatoire pour tous les occupants",
+        "Facultatif à l'arrière",
+        "Obligatoire seulement à l'avant",
+        "Interdit sur autoroute"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Obligatoire pour tous."
+    }
+  },
+  {
+    "id": "route_0006",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que signifie un feu rouge fixe ?"
+    },
+    "options": {
+      "fr": [
+        "Arrêt obligatoire",
+        "Cédez le passage",
+        "Ralentir",
+        "Tourner à droite autorisé"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le feu rouge impose l'arrêt."
+    }
+  },
+  {
+    "id": "route_0007",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "À quoi sert le clignotant ?"
+    },
+    "options": {
+      "fr": [
+        "Indiquer un changement de direction",
+        "Remercier un autre usager",
+        "Signaler un danger uniquement",
+        "Demander la priorité"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il annonce un changement de direction."
+    }
+  },
+  {
+    "id": "route_0008",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que signifie un panneau rond à fond bleu ?"
+    },
+    "options": {
+      "fr": [
+        "Une obligation",
+        "Une interdiction",
+        "Un danger",
+        "Une fin d'interdiction"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Rond bleu = obligation."
+    }
+  },
+  {
+    "id": "route_0009",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Qui est prioritaire sur un rond-point ?"
+    },
+    "options": {
+      "fr": [
+        "Les véhicules déjà engagés",
+        "Les véhicules qui arrivent",
+        "Le plus gros véhicule",
+        "Celui de droite"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On cède aux véhicules déjà sur l'anneau."
+    }
+  },
+  {
+    "id": "route_0010",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "De quelle couleur sont les feux de position arrière ?"
+    },
+    "options": {
+      "fr": [
+        "Rouge",
+        "Blanc",
+        "Orange",
+        "Bleu"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les feux arrière sont rouges."
+    }
+  },
+  {
+    "id": "route_0011",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que signifie un panneau rond à bordure rouge ?"
+    },
+    "options": {
+      "fr": [
+        "Une interdiction",
+        "Une obligation",
+        "Un danger",
+        "Une simple indication"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Rond à bordure rouge = interdiction."
+    }
+  },
+  {
+    "id": "route_0012",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que faire à un feu vert ?"
+    },
+    "options": {
+      "fr": [
+        "Avancer si la voie est libre",
+        "S'arrêter",
+        "Klaxonner",
+        "Reculer"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On avance si la voie est dégagée."
+    }
+  },
+  {
+    "id": "route_0013",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Le casque à moto est :"
+    },
+    "options": {
+      "fr": [
+        "Obligatoire",
+        "Facultatif",
+        "Interdit",
+        "Obligatoire seulement la nuit"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le casque est obligatoire à moto."
+    }
+  },
+  {
+    "id": "route_0014",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Téléphoner en tenant son portable en main au volant est :"
+    },
+    "options": {
+      "fr": [
+        "Interdit",
+        "Autorisé",
+        "Autorisé à l'arrêt au feu",
+        "Recommandé"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est interdit et sanctionné."
+    }
+  },
+  {
+    "id": "route_0015",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "À quoi sert la bande d'arrêt d'urgence sur autoroute ?"
+    },
+    "options": {
+      "fr": [
+        "S'arrêter en cas d'urgence",
+        "Doubler",
+        "Rouler plus vite",
+        "Stationner pour pique-niquer"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elle sert aux arrêts d'urgence."
+    }
+  },
+  {
+    "id": "route_0016",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que signifie un panneau rond rouge barré de blanc (sens interdit) ?"
+    },
+    "options": {
+      "fr": [
+        "Interdiction d'entrer",
+        "Obligation de tourner",
+        "Danger",
+        "Parking"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est un sens interdit."
+    }
+  },
+  {
+    "id": "route_0017",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que signifie une ligne blanche continue au sol ?"
+    },
+    "options": {
+      "fr": [
+        "Interdiction de la franchir",
+        "Autorisation de doubler",
+        "Zone de stationnement",
+        "Piste cyclable"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On ne franchit pas une ligne continue."
+    }
+  },
+  {
+    "id": "route_0018",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "De quelle couleur sont les panneaux d'autoroute en France ?"
+    },
+    "options": {
+      "fr": [
+        "Bleu",
+        "Vert",
+        "Blanc",
+        "Marron"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les panneaux autoroutiers sont bleus."
+    }
+  },
+  {
+    "id": "route_0019",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Où doit marcher un piéton en ville ?"
+    },
+    "options": {
+      "fr": [
+        "Sur le trottoir",
+        "Sur la chaussée",
+        "Sur la piste cyclable",
+        "Sur la bande d'arrêt"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le piéton marche sur le trottoir."
+    }
+  },
+  {
+    "id": "route_0020",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "À quoi sert un passage piéton ?"
+    },
+    "options": {
+      "fr": [
+        "À traverser la rue",
+        "À stationner",
+        "À faire demi-tour",
+        "À doubler"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il sert à traverser en sécurité."
+    }
+  },
+  {
+    "id": "route_0021",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Avant de démarrer, que doit-on attacher ?"
+    },
+    "options": {
+      "fr": [
+        "Sa ceinture de sécurité",
+        "La radio",
+        "Le GPS",
+        "Rien du tout"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On attache sa ceinture."
+    }
+  },
+  {
+    "id": "route_0022",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que faire si un piéton s'engage sur un passage protégé ?"
+    },
+    "options": {
+      "fr": [
+        "Lui céder le passage",
+        "Klaxonner",
+        "Accélérer",
+        "Le doubler"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On cède le passage au piéton."
+    }
+  },
+  {
+    "id": "route_0023",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Près d'une école, la vitesse doit être :"
+    },
+    "options": {
+      "fr": [
+        "Réduite (souvent 30 km/h)",
+        "90 km/h",
+        "110 km/h",
+        "130 km/h"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On réduit fortement près des écoles."
+    }
+  },
+  {
+    "id": "route_0024",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quels phares utiliser la nuit en ville bien éclairée ?"
+    },
+    "options": {
+      "fr": [
+        "Les feux de croisement",
+        "Les feux de route",
+        "Aucun feu",
+        "Les feux de détresse"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les feux de croisement en ville."
+    }
+  },
+  {
+    "id": "route_0025",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que signifie un feu clignotant orange ?"
+    },
+    "options": {
+      "fr": [
+        "Prudence, passage autorisé",
+        "Arrêt total",
+        "Sens interdit",
+        "Stationnement"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Orange clignotant = prudence."
+    }
+  },
+  {
+    "id": "route_0026",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Combien de points compte un permis de conduire français de plein droit ?"
+    },
+    "options": {
+      "fr": [
+        "12",
+        "6",
+        "10",
+        "8"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le permis définitif compte 12 points."
+    }
+  },
+  {
+    "id": "route_0027",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est le taux d'alcoolémie maximal en permis probatoire ?"
+    },
+    "options": {
+      "fr": [
+        "0,2 g/L de sang",
+        "0,5 g/L",
+        "0,8 g/L",
+        "0,0 g/L"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "0,2 g/L pour les jeunes conducteurs."
+    }
+  },
+  {
+    "id": "route_0028",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "La nuit, hors agglomération et sans autre véhicule à proximité, quels feux faut-il utiliser ?"
+    },
+    "options": {
+      "fr": [
+        "Les feux de route",
+        "Les feux de croisement",
+        "Les feux de position",
+        "Les feux de brouillard"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On utilise les feux de route."
+    }
+  },
+  {
+    "id": "route_0029",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "À partir de quel dépassement de vitesse le permis peut-il être retenu ?"
+    },
+    "options": {
+      "fr": [
+        "40 km/h",
+        "20 km/h",
+        "30 km/h",
+        "50 km/h"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Dès 40 km/h au-dessus de la limite."
+    }
+  },
+  {
+    "id": "route_0030",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "À quelle distance placer le triangle de présignalisation ?"
+    },
+    "options": {
+      "fr": [
+        "Environ 30 m",
+        "Environ 10 m",
+        "Environ 100 m",
+        "Juste derrière le véhicule"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Environ 30 m, en restant visible."
+    }
+  },
+  {
+    "id": "route_0031",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Tous les combien d'années une voiture particulière doit-elle passer le contrôle technique (après le premier) ?"
+    },
+    "options": {
+      "fr": [
+        "Tous les 2 ans",
+        "Tous les ans",
+        "Tous les 3 ans",
+        "Tous les 5 ans"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "En France, le contrôle technique d'une voiture est ensuite à renouveler tous les 2 ans."
+    }
+  },
+  {
+    "id": "route_0032",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Sur une route à double sens sans séparateur, la vitesse par défaut est :"
+    },
+    "options": {
+      "fr": [
+        "80 km/h",
+        "90 km/h",
+        "100 km/h",
+        "110 km/h"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "80 km/h depuis 2018."
+    }
+  },
+  {
+    "id": "route_0033",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Que faire si les barrières d'un passage à niveau s'abaissent ?"
+    },
+    "options": {
+      "fr": [
+        "S'arrêter avant la ligne",
+        "Accélérer pour passer",
+        "Klaxonner",
+        "Faire demi-tour"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On s'arrête impérativement."
+    }
+  },
+  {
+    "id": "route_0034",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Sur autoroute, quelle est la vitesse maximale par temps de pluie ?"
+    },
+    "options": {
+      "fr": [
+        "110 km/h",
+        "130 km/h",
+        "90 km/h",
+        "100 km/h"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "110 km/h au lieu de 130."
+    }
+  },
+  {
+    "id": "route_0035",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "En combien de temps l'organisme élimine-t-il environ un verre standard d'alcool ?"
+    },
+    "options": {
+      "fr": [
+        "Environ 1 à 2 heures",
+        "Environ 10 minutes",
+        "Environ 6 heures",
+        "Environ 30 minutes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "1 à 2 heures par verre environ."
+    }
+  },
+  {
+    "id": "route_0036",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "À combien correspond la distance de sécurité minimale conseillée ?"
+    },
+    "options": {
+      "fr": [
+        "Au moins 2 secondes",
+        "Au moins 1 seconde",
+        "Au moins 5 secondes",
+        "Au moins 10 secondes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Au moins 2 secondes."
+    }
+  },
+  {
+    "id": "route_0037",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Que signifie un panneau carré bleu portant un « P » blanc ?"
+    },
+    "options": {
+      "fr": [
+        "Stationnement autorisé",
+        "Stationnement interdit",
+        "Parking payant obligatoire",
+        "Arrêt interdit"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Stationnement autorisé."
+    }
+  },
+  {
+    "id": "route_0038",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la durée du permis probatoire sans conduite accompagnée ?"
+    },
+    "options": {
+      "fr": [
+        "3 ans",
+        "2 ans",
+        "1 an",
+        "5 ans"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "3 ans (2 ans avec AAC)."
+    }
+  },
+  {
+    "id": "route_0039",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est le taux d'alcoolémie maximal pour un conducteur confirmé ?"
+    },
+    "options": {
+      "fr": [
+        "0,5 g/L de sang",
+        "0,2 g/L",
+        "0,8 g/L",
+        "0,0 g/L"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "0,5 g/L pour un conducteur confirmé."
+    }
+  },
+  {
+    "id": "route_0040",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Sur sol mouillé, la distance de freinage est :"
+    },
+    "options": {
+      "fr": [
+        "Allongée",
+        "Raccourcie",
+        "Identique",
+        "Nulle"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La pluie allonge la distance de freinage."
+    }
+  },
+  {
+    "id": "route_0041",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la bonne réaction en cas d'aquaplaning ?"
+    },
+    "options": {
+      "fr": [
+        "Lâcher l'accélérateur sans freiner brusquement",
+        "Freiner très fort",
+        "Accélérer",
+        "Braquer fortement"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On lève le pied sans freiner brusquement."
+    }
+  },
+  {
+    "id": "route_0042",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Combien de points sont retirés pour le non-respect d'un feu rouge ?"
+    },
+    "options": {
+      "fr": [
+        "4 points",
+        "1 point",
+        "2 points",
+        "6 points"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Griller un feu rouge coûte 4 points."
+    }
+  },
+  {
+    "id": "route_0043",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Le permis B permet de conduire :"
+    },
+    "options": {
+      "fr": [
+        "Une voiture (véhicule léger)",
+        "Un poids lourd",
+        "Un autocar",
+        "Une moto lourde"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le permis B est pour les véhicules légers."
+    }
+  },
+  {
+    "id": "route_0044",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la profondeur minimale légale des rainures d'un pneu ?"
+    },
+    "options": {
+      "fr": [
+        "1,6 mm",
+        "0,5 mm",
+        "3 mm",
+        "5 mm"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Minimum légal : 1,6 mm."
+    }
+  },
+  {
+    "id": "route_0045",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Dans quelle situation ne double-t-on jamais ?"
+    },
+    "options": {
+      "fr": [
+        "À l'approche d'un sommet de côte sans visibilité",
+        "Sur une ligne droite dégagée",
+        "Quand la voie est libre",
+        "En plein jour"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Jamais sans visibilité suffisante."
+    }
+  },
+  {
+    "id": "route_0046",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Que signifie un panneau triangulaire représentant un cerf ?"
+    },
+    "options": {
+      "fr": [
+        "Passage d'animaux sauvages",
+        "Réserve de chasse",
+        "Zoo à proximité",
+        "Ferme"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Attention aux animaux sauvages."
+    }
+  },
+  {
+    "id": "route_0047",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "L'airbag vient en complément de :"
+    },
+    "options": {
+      "fr": [
+        "La ceinture de sécurité",
+        "Le frein",
+        "Le klaxon",
+        "Le rétroviseur"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'airbag complète la ceinture."
+    }
+  },
+  {
+    "id": "route_0048",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "En cas d'accident corporel, qui appelle-t-on en priorité ?"
+    },
+    "options": {
+      "fr": [
+        "Les secours (112)",
+        "Son assurance",
+        "Un dépanneur",
+        "Un ami"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On appelle d'abord les secours."
+    }
+  },
+  {
+    "id": "route_0049",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Que doit-on faire avant de changer de file ?"
+    },
+    "options": {
+      "fr": [
+        "Vérifier ses angles morts et mettre le clignotant",
+        "Klaxonner",
+        "Accélérer brusquement",
+        "Allumer les feux de détresse"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Contrôle des angles morts + clignotant."
+    }
+  },
+  {
+    "id": "route_0050",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la vitesse maximale sur autoroute par temps sec (voiture) ?"
+    },
+    "options": {
+      "fr": [
+        "130 km/h",
+        "110 km/h",
+        "150 km/h",
+        "120 km/h"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "130 km/h par temps sec."
+    }
+  },
+  {
+    "id": "route_0051",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que faire avant de tourner à droite ?"
+    },
+    "options": {
+      "fr": [
+        "Mettre son clignotant à droite",
+        "Klaxonner",
+        "Accélérer",
+        "Allumer les feux de détresse"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On signale toujours son intention avec le clignotant."
+    }
+  },
+  {
+    "id": "route_0052",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que signifie la priorité à droite ?"
+    },
+    "options": {
+      "fr": [
+        "Laisser passer le véhicule venant de droite",
+        "Toujours passer en premier",
+        "Klaxonner pour passer",
+        "Reculer"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On cède le passage à celui qui vient de droite."
+    }
+  },
+  {
+    "id": "route_0053",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quand utilise-t-on les feux de détresse (warning) ?"
+    },
+    "options": {
+      "fr": [
+        "En cas de danger ou d'arrêt imprévu",
+        "Pour rouler plus vite",
+        "Toute la nuit",
+        "À chaque virage"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ils signalent un danger ou un arrêt imprévu."
+    }
+  },
+  {
+    "id": "route_0054",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que faire à l'approche d'un véhicule prioritaire en intervention (sirène) ?"
+    },
+    "options": {
+      "fr": [
+        "Se ranger et le laisser passer",
+        "Accélérer",
+        "Le suivre de près",
+        "Klaxonner"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On facilite le passage des secours."
+    }
+  },
+  {
+    "id": "route_0055",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "À quoi servent les rétroviseurs ?"
+    },
+    "options": {
+      "fr": [
+        "Surveiller l'arrière et les côtés",
+        "Se coiffer",
+        "Régler la radio",
+        "Décorer la voiture"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ils assurent la visibilité arrière et latérale."
+    }
+  },
+  {
+    "id": "route_0056",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "De quelle couleur est le fond des panneaux de chantier (travaux) ?"
+    },
+    "options": {
+      "fr": [
+        "Jaune",
+        "Bleu",
+        "Vert",
+        "Blanc"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les panneaux temporaires de travaux sont à fond jaune."
+    }
+  },
+  {
+    "id": "route_0057",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que faire à un panneau « Cédez le passage » ?"
+    },
+    "options": {
+      "fr": [
+        "Ralentir et céder le passage",
+        "S'arrêter obligatoirement à l'arrêt complet",
+        "Accélérer",
+        "Klaxonner"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On ralentit et on cède, sans arrêt obligatoire si la voie est libre."
+    }
+  },
+  {
+    "id": "route_0058",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "En France, de quel côté de la route roule-t-on ?"
+    },
+    "options": {
+      "fr": [
+        "À droite",
+        "À gauche",
+        "Au milieu",
+        "Peu importe"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On circule à droite en France."
+    }
+  },
+  {
+    "id": "route_0059",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que signale un panneau représentant des enfants ?"
+    },
+    "options": {
+      "fr": [
+        "La présence d'enfants (école)",
+        "Une aire de jeux interdite",
+        "Un parc d'attractions",
+        "Un hôpital"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il prévient d'un passage fréquent d'enfants."
+    }
+  },
+  {
+    "id": "route_0060",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "À quoi servent les essuie-glaces ?"
+    },
+    "options": {
+      "fr": [
+        "Garder une bonne visibilité sous la pluie",
+        "Nettoyer les phares",
+        "Refroidir le moteur",
+        "Rien d'utile"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ils dégagent le pare-brise pour bien voir."
+    }
+  },
+  {
+    "id": "route_0061",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quand doit-on allumer ses feux ?"
+    },
+    "options": {
+      "fr": [
+        "La nuit et par faible visibilité",
+        "Seulement en ville",
+        "Jamais en journée",
+        "Uniquement sur autoroute"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Feux obligatoires la nuit et quand la visibilité est réduite."
+    }
+  },
+  {
+    "id": "route_0062",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Le stationnement gênant peut entraîner :"
+    },
+    "options": {
+      "fr": [
+        "Une amende et une mise en fourrière",
+        "Une récompense",
+        "Aucune conséquence",
+        "Un bonus de points"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Un stationnement gênant est verbalisable, voire la fourrière."
+    }
+  },
+  {
+    "id": "route_0063",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Le feu passe au vert mais un piéton finit de traverser : que faire ?"
+    },
+    "options": {
+      "fr": [
+        "Attendre qu'il ait terminé de traverser",
+        "Klaxonner pour le presser",
+        "Avancer vers lui",
+        "Accélérer"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La sécurité du piéton prime : on attend."
+    }
+  },
+  {
+    "id": "route_0064",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Le port du casque à vélo est obligatoire pour :"
+    },
+    "options": {
+      "fr": [
+        "Les enfants de moins de 12 ans",
+        "Tout le monde",
+        "Personne",
+        "Les adultes uniquement"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le casque est obligatoire à vélo pour les moins de 12 ans."
+    }
+  },
+  {
+    "id": "route_0065",
+    "category": "code-route",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Où est-il interdit de stationner ?"
+    },
+    "options": {
+      "fr": [
+        "Devant une sortie de garage (bateau)",
+        "Sur une place autorisée",
+        "Dans un parking public",
+        "Sur une aire de repos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On ne bloque pas une sortie de garage."
+    }
+  },
+  {
+    "id": "route_0066",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Si l'on double sa vitesse, par combien la distance de freinage est-elle multipliée ?"
+    },
+    "options": {
+      "fr": [
+        "Par 4",
+        "Par 2",
+        "Par 3",
+        "Par 8"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La distance de freinage est proportionnelle au carré de la vitesse : ×4."
+    }
+  },
+  {
+    "id": "route_0067",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Combien de points retire un excès de vitesse inférieur à 20 km/h ?"
+    },
+    "options": {
+      "fr": [
+        "1 point",
+        "2 points",
+        "3 points",
+        "4 points"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Un excès de moins de 20 km/h retire 1 point."
+    }
+  },
+  {
+    "id": "route_0068",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Combien de points retire le fait de tenir son téléphone en main au volant ?"
+    },
+    "options": {
+      "fr": [
+        "3 points",
+        "1 point",
+        "2 points",
+        "4 points"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Téléphone tenu en main : 135 € d'amende et 3 points en moins."
+    }
+  },
+  {
+    "id": "route_0069",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "À partir de quel taux l'alcoolémie au volant devient-elle un délit ?"
+    },
+    "options": {
+      "fr": [
+        "0,8 g/L de sang",
+        "0,5 g/L de sang",
+        "1,0 g/L de sang",
+        "0,2 g/L de sang"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "À partir de 0,8 g/L de sang, l'infraction devient un délit."
+    }
+  },
+  {
+    "id": "route_0070",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Combien de points retire une conduite avec une alcoolémie délictuelle (≥ 0,8 g/L) ?"
+    },
+    "options": {
+      "fr": [
+        "6 points",
+        "3 points",
+        "4 points",
+        "8 points"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'alcool au volant retire 6 points (le maximum d'un seul coup)."
+    }
+  },
+  {
+    "id": "route_0071",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Que signifie un panneau carré à fond bleu avec une flèche blanche vers le haut ?"
+    },
+    "options": {
+      "fr": [
+        "Une voie à sens unique",
+        "Une direction obligatoire",
+        "Le début d'une autoroute",
+        "Une route prioritaire"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ce panneau indique une circulation à sens unique."
+    }
+  },
+  {
+    "id": "route_0072",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "À un « Cédez le passage », à qui devez-vous laisser la priorité ?"
+    },
+    "options": {
+      "fr": [
+        "Aux véhicules circulant sur la route que vous abordez",
+        "À personne, vous êtes prioritaire",
+        "Au véhicule le plus lent",
+        "À celui qui klaxonne"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On cède le passage aux usagers de la route sur laquelle on s'engage."
+    }
+  },
+  {
+    "id": "route_0073",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle est la vitesse maximale sur autoroute pour un conducteur en permis probatoire ?"
+    },
+    "options": {
+      "fr": [
+        "110 km/h",
+        "130 km/h",
+        "100 km/h",
+        "120 km/h"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le jeune conducteur est limité à 110 km/h sur autoroute."
+    }
+  },
+  {
+    "id": "route_0074",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Combien de points retire le franchissement d'une ligne continue ?"
+    },
+    "options": {
+      "fr": [
+        "3 points",
+        "1 point",
+        "2 points",
+        "4 points"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Franchir une ligne continue retire 3 points."
+    }
+  },
+  {
+    "id": "route_0075",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Combien de points retire le non-port de la ceinture de sécurité ?"
+    },
+    "options": {
+      "fr": [
+        "3 points",
+        "1 point",
+        "2 points",
+        "0 point"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ne pas porter sa ceinture : 135 € et 3 points en moins."
+    }
+  },
+  {
+    "id": "route_0076",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Conduire sans assurance constitue :"
+    },
+    "options": {
+      "fr": [
+        "Un délit",
+        "Une simple contravention",
+        "Une amende sans conséquence",
+        "Aucune infraction"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le défaut d'assurance est un délit, lourdement sanctionné."
+    }
+  },
+  {
+    "id": "route_0077",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Que signifie un panneau rond à fond bleu représentant un vélo ?"
+    },
+    "options": {
+      "fr": [
+        "Piste ou bande cyclable obligatoire",
+        "Interdiction aux vélos",
+        "Parking à vélos",
+        "Danger : cyclistes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Un panneau rond bleu impose une obligation : ici, la piste cyclable."
+    }
+  },
+  {
+    "id": "route_0078",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Jusqu'à quelle vitesse une commune peut-elle abaisser la limite dans une « zone 30 » ?"
+    },
+    "options": {
+      "fr": [
+        "30 km/h",
+        "20 km/h",
+        "40 km/h",
+        "10 km/h"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Dans une zone 30, la vitesse est limitée à 30 km/h."
+    }
+  },
+  {
+    "id": "route_0079",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qu'est-ce qui allonge la distance de réaction du conducteur ?"
+    },
+    "options": {
+      "fr": [
+        "La fatigue et l'alcool",
+        "La couleur du véhicule",
+        "La marque des pneus",
+        "Le type de carburant"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Fatigue, alcool et distractions augmentent le temps de réaction."
+    }
+  },
+  {
+    "id": "route_0080",
+    "category": "code-route",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Que signifie un panneau triangulaire portant un point d'exclamation ?"
+    },
+    "options": {
+      "fr": [
+        "Un danger non précisé (autre danger)",
+        "Des travaux",
+        "Un virage dangereux",
+        "La fin d'un danger"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ce panneau signale un « autre danger » non couvert par un panneau spécifique."
+    }
+  }
+]

@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "manga_0001",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel est le rêve de Monkey D. Luffy dans « One Piece » ?",
+      "en": "What is Monkey D. Luffy's dream in \"One Piece\"?",
+      "es": "¿Cuál es el sueño de Monkey D. Luffy en «One Piece»?",
+      "pt": "Qual é o sonho de Monkey D. Luffy em «One Piece»?"
+    },
+    "options": {
+      "fr": [
+        "Devenir le Roi des Pirates",
+        "Devenir Hokage",
+        "Devenir Maître Pokémon",
+        "Diriger la Marine"
+      ],
+      "en": [
+        "Become the Pirate King",
+        "Become Hokage",
+        "Become a Pokémon Master",
+        "Lead the Marines"
+      ],
+      "es": [
+        "Convertirse en el Rey de los Piratas",
+        "Convertirse en Hokage",
+        "Convertirse en Maestro Pokémon",
+        "Liderar la Marina"
+      ],
+      "pt": [
+        "Tornar-se o Rei dos Piratas",
+        "Tornar-se Hokage",
+        "Tornar-se Mestre Pokémon",
+        "Liderar a Marinha"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Luffy veut trouver le One Piece et devenir le Roi des Pirates.",
+      "en": "Luffy wants to find the One Piece and become the Pirate King.",
+      "es": "Luffy quiere encontrar el One Piece y convertirse en el Rey de los Piratas.",
+      "pt": "Luffy quer encontrar o One Piece e tornar-se o Rei dos Piratas."
+    }
+  },
+  {
+    "id": "manga_0002",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "De quel village ninja vient Naruto Uzumaki ?",
+      "en": "Which ninja village is Naruto Uzumaki from?",
+      "es": "¿De qué aldea ninja proviene Naruto Uzumaki?",
+      "pt": "De qual vila ninja vem Naruto Uzumaki?"
+    },
+    "options": {
+      "fr": [
+        "Konoha",
+        "Suna",
+        "Kiri",
+        "Iwa"
+      ],
+      "en": [
+        "Konoha",
+        "Suna",
+        "Kiri",
+        "Iwa"
+      ],
+      "es": [
+        "Konoha",
+        "Suna",
+        "Kiri",
+        "Iwa"
+      ],
+      "pt": [
+        "Konoha",
+        "Suna",
+        "Kiri",
+        "Iwa"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Naruto vient de Konoha, le village caché de la Feuille.",
+      "en": "Naruto is from Konoha, the Hidden Leaf Village.",
+      "es": "Naruto proviene de Konoha, la Aldea Oculta de la Hoja.",
+      "pt": "Naruto vem de Konoha, a Vila Oculta da Folha."
+    }
+  },
+  {
+    "id": "manga_0003",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle attaque emblématique Son Goku lance-t-il à deux mains dans « Dragon Ball » ?",
+      "en": "What iconic two-handed attack does Son Goku use in \"Dragon Ball\"?",
+      "es": "¿Qué ataque emblemático lanza Son Goku con ambas manos en «Dragon Ball»?",
+      "pt": "Qual ataque emblemático Son Goku lança com as duas mãos em «Dragon Ball»?"
+    },
+    "options": {
+      "fr": [
+        "Le Kaméhaméha",
+        "Le Rasengan",
+        "Le Chidori",
+        "Le Bankai"
+      ],
+      "en": [
+        "The Kamehameha",
+        "The Rasengan",
+        "The Chidori",
+        "The Bankai"
+      ],
+      "es": [
+        "El Kamehameha",
+        "El Rasengan",
+        "El Chidori",
+        "El Bankai"
+      ],
+      "pt": [
+        "O Kamehameha",
+        "O Rasengan",
+        "O Chidori",
+        "O Bankai"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Kaméhaméha est l'attaque d'énergie signature de Goku.",
+      "en": "The Kamehameha is Goku's signature energy attack.",
+      "es": "El Kamehameha es el ataque de energía característico de Goku.",
+      "pt": "O Kamehameha é o ataque de energia característico de Goku."
+    }
+  },
+  {
+    "id": "manga_0004",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel Pokémon accompagne Sacha dès le début de l'animé « Pokémon » ?",
+      "en": "Which Pokémon accompanies Ash from the very start of the \"Pokémon\" anime?",
+      "es": "¿Qué Pokémon acompaña a Ash desde el inicio del anime «Pokémon»?",
+      "pt": "Qual Pokémon acompanha o Ash desde o início do anime «Pokémon»?"
+    },
+    "options": {
+      "fr": [
+        "Pikachu",
+        "Salamèche",
+        "Bulbizarre",
+        "Carapuce"
+      ],
+      "en": [
+        "Pikachu",
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle"
+      ],
+      "es": [
+        "Pikachu",
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle"
+      ],
+      "pt": [
+        "Pikachu",
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sacha débute son aventure avec Pikachu.",
+      "en": "Ash begins his adventure with Pikachu.",
+      "es": "Ash comienza su aventura con Pikachu.",
+      "pt": "Ash começa a sua aventura com Pikachu."
+    }
+  },
+  {
+    "id": "manga_0005",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Dans « Death Note », quel objet tue la personne dont on y inscrit le nom ?",
+      "en": "In \"Death Note\", what object kills the person whose name is written in it?",
+      "es": "En «Death Note», ¿qué objeto mata a la persona cuyo nombre se escribe en él?",
+      "pt": "Em «Death Note», qual objeto mata a pessoa cujo nome é escrito nele?"
+    },
+    "options": {
+      "fr": [
+        "Le Death Note",
+        "La Death Pen",
+        "Le Kira Book",
+        "Le Shinigami Eye"
+      ],
+      "en": [
+        "The Death Note",
+        "The Death Pen",
+        "The Kira Book",
+        "The Shinigami Eye"
+      ],
+      "es": [
+        "El Death Note",
+        "El Death Pen",
+        "El Kira Book",
+        "El Shinigami Eye"
+      ],
+      "pt": [
+        "O Death Note",
+        "O Death Pen",
+        "O Kira Book",
+        "O Shinigami Eye"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Death Note tue quiconque dont on écrit le nom en pensant à son visage.",
+      "en": "The Death Note kills anyone whose name is written while picturing their face.",
+      "es": "El Death Note mata a cualquiera cuyo nombre se escriba mientras se piensa en su rostro.",
+      "pt": "O Death Note mata qualquer um cujo nome seja escrito enquanto se pensa no seu rosto."
+    }
+  },
+  {
+    "id": "manga_0006",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment s'appelle le héros de « Demon Slayer » ?",
+      "en": "What is the name of the hero of \"Demon Slayer\"?",
+      "es": "¿Cómo se llama el héroe de «Demon Slayer»?",
+      "pt": "Como se chama o herói de «Demon Slayer»?"
+    },
+    "options": {
+      "fr": [
+        "Tanjiro Kamado",
+        "Yuji Itadori",
+        "Izuku Midoriya",
+        "Eren Jäger"
+      ],
+      "en": [
+        "Tanjiro Kamado",
+        "Yuji Itadori",
+        "Izuku Midoriya",
+        "Eren Yeager"
+      ],
+      "es": [
+        "Tanjiro Kamado",
+        "Yuji Itadori",
+        "Izuku Midoriya",
+        "Eren Yeager"
+      ],
+      "pt": [
+        "Tanjiro Kamado",
+        "Yuji Itadori",
+        "Izuku Midoriya",
+        "Eren Yeager"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Tanjiro Kamado est le protagoniste de « Demon Slayer ».",
+      "en": "Tanjiro Kamado is the protagonist of \"Demon Slayer\".",
+      "es": "Tanjiro Kamado es el protagonista de «Demon Slayer».",
+      "pt": "Tanjiro Kamado é o protagonista de «Demon Slayer»."
+    }
+  },
+  {
+    "id": "manga_0007",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que combattent les humains dans « L'Attaque des Titans » ?",
+      "en": "What do humans fight in \"Attack on Titan\"?",
+      "es": "¿Contra qué luchan los humanos en «Attack on Titan»?",
+      "pt": "Contra o que os humanos lutam em «Attack on Titan»?"
+    },
+    "options": {
+      "fr": [
+        "Des Titans",
+        "Des dragons",
+        "Des démons",
+        "Des extraterrestres"
+      ],
+      "en": [
+        "Titans",
+        "Dragons",
+        "Demons",
+        "Aliens"
+      ],
+      "es": [
+        "Titanes",
+        "Dragones",
+        "Demonios",
+        "Extraterrestres"
+      ],
+      "pt": [
+        "Titãs",
+        "Dragões",
+        "Demónios",
+        "Extraterrestres"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'humanité y lutte pour survivre face à des Titans géants.",
+      "en": "Humanity fights to survive against giant Titans.",
+      "es": "La humanidad lucha por sobrevivir frente a Titanes gigantes.",
+      "pt": "A humanidade luta para sobreviver frente a Titãs gigantes."
+    }
+  },
+  {
+    "id": "manga_0008",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Dans « My Hero Academia », comment appelle-t-on les super-pouvoirs ?",
+      "en": "In \"My Hero Academia\", what are super-powers called?",
+      "es": "En «My Hero Academia», ¿cómo se llaman los superpoderes?",
+      "pt": "Em «My Hero Academia», como se chamam os superpoderes?"
+    },
+    "options": {
+      "fr": [
+        "Des Alters",
+        "Des Nen",
+        "Des Stands",
+        "Des Alchimies"
+      ],
+      "en": [
+        "Quirks",
+        "Nen",
+        "Stands",
+        "Alchemies"
+      ],
+      "es": [
+        "Quirks",
+        "Nen",
+        "Stands",
+        "Alquimias"
+      ],
+      "pt": [
+        "Quirks",
+        "Nen",
+        "Stands",
+        "Alquimias"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les pouvoirs y sont appelés « Alters » (Quirks en version originale).",
+      "en": "The powers are called \"Quirks\" (\"Alters\" in the French version).",
+      "es": "Los poderes se llaman «Quirks» («Dones» en español).",
+      "pt": "Os poderes são chamados «Quirks» («Dons» em português)."
+    }
+  },
+  {
+    "id": "manga_0009",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel studio a réalisé le film « Mon voisin Totoro » ?",
+      "en": "Which studio made the film \"My Neighbor Totoro\"?",
+      "es": "¿Qué estudio realizó la película «Mi vecino Totoro»?",
+      "pt": "Qual estúdio realizou o filme «O Meu Vizinho Totoro»?"
+    },
+    "options": {
+      "fr": [
+        "Le Studio Ghibli",
+        "Toei Animation",
+        "Madhouse",
+        "Kyoto Animation"
+      ],
+      "en": [
+        "Studio Ghibli",
+        "Toei Animation",
+        "Madhouse",
+        "Kyoto Animation"
+      ],
+      "es": [
+        "Studio Ghibli",
+        "Toei Animation",
+        "Madhouse",
+        "Kyoto Animation"
+      ],
+      "pt": [
+        "Studio Ghibli",
+        "Toei Animation",
+        "Madhouse",
+        "Kyoto Animation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Mon voisin Totoro » est un film du Studio Ghibli.",
+      "en": "\"My Neighbor Totoro\" is a Studio Ghibli film.",
+      "es": "«Mi vecino Totoro» es una película del Studio Ghibli.",
+      "pt": "«O Meu Vizinho Totoro» é um filme do Studio Ghibli."
+    }
+  },
+  {
+    "id": "manga_0010",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "De quelle couleur est Pikachu ?",
+      "en": "What color is Pikachu?",
+      "es": "¿De qué color es Pikachu?",
+      "pt": "De que cor é o Pikachu?"
+    },
+    "options": {
+      "fr": [
+        "Jaune",
+        "Rouge",
+        "Bleu",
+        "Vert"
+      ],
+      "en": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "es": [
+        "Amarillo",
+        "Rojo",
+        "Azul",
+        "Verde"
+      ],
+      "pt": [
+        "Amarelo",
+        "Vermelho",
+        "Azul",
+        "Verde"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Pikachu est un Pokémon jaune avec des joues rouges.",
+      "en": "Pikachu is a yellow Pokémon with red cheeks.",
+      "es": "Pikachu es un Pokémon amarillo con mejillas rojas.",
+      "pt": "Pikachu é um Pokémon amarelo com bochechas vermelhas."
+    }
+  },
+  {
+    "id": "manga_0011",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment surnomme-t-on l'équipage de Luffy dans « One Piece » ?",
+      "en": "What is Luffy's crew called in \"One Piece\"?",
+      "es": "¿Cómo se llama la tripulación de Luffy en «One Piece»?",
+      "pt": "Como se chama a tripulação de Luffy em «One Piece»?"
+    },
+    "options": {
+      "fr": [
+        "L'équipage du Chapeau de paille",
+        "Les Pirates de Barbe Blanche",
+        "Les Roux",
+        "Les Dragons Célestes"
+      ],
+      "en": [
+        "The Straw Hat Pirates",
+        "The Whitebeard Pirates",
+        "The Red Hair Pirates",
+        "The Celestial Dragons"
+      ],
+      "es": [
+        "Los Piratas del Sombrero de Paja",
+        "Los Piratas de Barbablanca",
+        "Los Piratas del Pelirrojo",
+        "Los Dragones Celestiales"
+      ],
+      "pt": [
+        "Os Piratas do Chapéu de Palha",
+        "Os Piratas do Barba Branca",
+        "Os Piratas do Ruivo",
+        "Os Dragões Celestiais"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est l'équipage du Chapeau de paille, en référence au chapeau de Luffy.",
+      "en": "They are the Straw Hat Pirates, named after Luffy's hat.",
+      "es": "Son los Piratas del Sombrero de Paja, en referencia al sombrero de Luffy.",
+      "pt": "São os Piratas do Chapéu de Palha, em referência ao chapéu de Luffy."
+    }
+  },
+  {
+    "id": "manga_0012",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Combien de Dragon Balls faut-il réunir pour invoquer le dragon Shenron ?",
+      "en": "How many Dragon Balls must be gathered to summon the dragon Shenron?",
+      "es": "¿Cuántas Dragon Balls hay que reunir para invocar al dragón Shenron?",
+      "pt": "Quantas Dragon Balls é preciso reunir para invocar o dragão Shenron?"
+    },
+    "options": {
+      "fr": [
+        "7",
+        "5",
+        "6",
+        "9"
+      ],
+      "en": [
+        "7",
+        "5",
+        "6",
+        "9"
+      ],
+      "es": [
+        "7",
+        "5",
+        "6",
+        "9"
+      ],
+      "pt": [
+        "7",
+        "5",
+        "6",
+        "9"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Réunir les 7 Dragon Balls permet d'invoquer Shenron.",
+      "en": "Gathering all 7 Dragon Balls allows you to summon Shenron.",
+      "es": "Reunir las 7 Dragon Balls permite invocar a Shenron.",
+      "pt": "Reunir as 7 Dragon Balls permite invocar o Shenron."
+    }
+  },
+  {
+    "id": "manga_0013",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel titre Naruto rêve-t-il d'obtenir dans son village ?",
+      "en": "What title does Naruto dream of earning in his village?",
+      "es": "¿Qué título sueña Naruto con obtener en su aldea?",
+      "pt": "Que título Naruto sonha em obter na sua vila?"
+    },
+    "options": {
+      "fr": [
+        "Hokage",
+        "Kazekage",
+        "Amiral",
+        "Empereur"
+      ],
+      "en": [
+        "Hokage",
+        "Kazekage",
+        "Admiral",
+        "Emperor"
+      ],
+      "es": [
+        "Hokage",
+        "Kazekage",
+        "Almirante",
+        "Emperador"
+      ],
+      "pt": [
+        "Hokage",
+        "Kazekage",
+        "Almirante",
+        "Imperador"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Naruto veut devenir Hokage, le chef du village de Konoha.",
+      "en": "Naruto wants to become Hokage, the leader of Konoha village.",
+      "es": "Naruto quiere convertirse en Hokage, el líder de la aldea de Konoha.",
+      "pt": "Naruto quer tornar-se Hokage, o líder da vila de Konoha."
+    }
+  },
+  {
+    "id": "manga_0014",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment s'appelle l'héroïne de « Sailor Moon » sous sa forme civile ?",
+      "en": "What is the name of the heroine of \"Sailor Moon\" in her civilian form?",
+      "es": "¿Cómo se llama la heroína de «Sailor Moon» en su forma civil?",
+      "pt": "Como se chama a heroína de «Sailor Moon» na sua forma civil?"
+    },
+    "options": {
+      "fr": [
+        "Usagi Tsukino",
+        "Sakura Kinomoto",
+        "Hinata Hyuga",
+        "Mikasa Ackerman"
+      ],
+      "en": [
+        "Usagi Tsukino",
+        "Sakura Kinomoto",
+        "Hinata Hyuga",
+        "Mikasa Ackerman"
+      ],
+      "es": [
+        "Usagi Tsukino",
+        "Sakura Kinomoto",
+        "Hinata Hyuga",
+        "Mikasa Ackerman"
+      ],
+      "pt": [
+        "Usagi Tsukino",
+        "Sakura Kinomoto",
+        "Hinata Hyuga",
+        "Mikasa Ackerman"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sailor Moon est Usagi Tsukino (Bunny dans la version française).",
+      "en": "Sailor Moon is Usagi Tsukino (Bunny in the French version).",
+      "es": "Sailor Moon es Usagi Tsukino (Bunny en algunas versiones).",
+      "pt": "Sailor Moon é Usagi Tsukino (Bunny em algumas versões)."
+    }
+  },
+  {
+    "id": "manga_0015",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel personnage est un chat-robot bleu venu du futur ?",
+      "en": "Which character is a blue robot cat from the future?",
+      "es": "¿Qué personaje es un gato-robot azul venido del futuro?",
+      "pt": "Que personagem é um gato-robô azul vindo do futuro?"
+    },
+    "options": {
+      "fr": [
+        "Doraemon",
+        "Jigglypuff",
+        "Totoro",
+        "Hello Kitty"
+      ],
+      "en": [
+        "Doraemon",
+        "Jigglypuff",
+        "Totoro",
+        "Hello Kitty"
+      ],
+      "es": [
+        "Doraemon",
+        "Jigglypuff",
+        "Totoro",
+        "Hello Kitty"
+      ],
+      "pt": [
+        "Doraemon",
+        "Jigglypuff",
+        "Totoro",
+        "Hello Kitty"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Doraemon est le célèbre chat-robot venu du futur.",
+      "en": "Doraemon is the famous robot cat from the future.",
+      "es": "Doraemon es el famoso gato-robot venido del futuro.",
+      "pt": "Doraemon é o famoso gato-robô vindo do futuro."
+    }
+  },
+  {
+    "id": "manga_0016",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment Saitama bat-il ses adversaires dans « One Punch Man » ?",
+      "en": "How does Saitama defeat his opponents in \"One Punch Man\"?",
+      "es": "¿Cómo derrota Saitama a sus adversarios en «One Punch Man»?",
+      "pt": "Como Saitama derrota os seus adversários em «One Punch Man»?"
+    },
+    "options": {
+      "fr": [
+        "En un seul coup de poing",
+        "En lisant leurs pensées",
+        "Avec une épée",
+        "En les gelant"
+      ],
+      "en": [
+        "With a single punch",
+        "By reading their minds",
+        "With a sword",
+        "By freezing them"
+      ],
+      "es": [
+        "De un solo puñetazo",
+        "Leyendo sus pensamientos",
+        "Con una espada",
+        "Congelándolos"
+      ],
+      "pt": [
+        "Com um único soco",
+        "Lendo os seus pensamentos",
+        "Com uma espada",
+        "Congelando-os"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Saitama vainc n'importe quel ennemi d'un seul coup de poing.",
+      "en": "Saitama defeats any enemy with a single punch.",
+      "es": "Saitama vence a cualquier enemigo de un solo puñetazo.",
+      "pt": "Saitama vence qualquer inimigo com um único soco."
+    }
+  },
+  {
+    "id": "manga_0017",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quels deux frères pratiquent l'alchimie dans « Fullmetal Alchemist » ?",
+      "en": "Which two brothers practice alchemy in \"Fullmetal Alchemist\"?",
+      "es": "¿Qué dos hermanos practican la alquimia en «Fullmetal Alchemist»?",
+      "pt": "Quais dois irmãos praticam a alquimia em «Fullmetal Alchemist»?"
+    },
+    "options": {
+      "fr": [
+        "Les frères Elric",
+        "Les frères Joestar",
+        "Les frères Uchiha",
+        "Les frères Kamado"
+      ],
+      "en": [
+        "The Elric brothers",
+        "The Joestar brothers",
+        "The Uchiha brothers",
+        "The Kamado siblings"
+      ],
+      "es": [
+        "Los hermanos Elric",
+        "Los hermanos Joestar",
+        "Los hermanos Uchiha",
+        "Los hermanos Kamado"
+      ],
+      "pt": [
+        "Os irmãos Elric",
+        "Os irmãos Joestar",
+        "Os irmãos Uchiha",
+        "Os irmãos Kamado"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Edward et Alphonse Elric sont les frères alchimistes.",
+      "en": "Edward and Alphonse Elric are the alchemist brothers.",
+      "es": "Edward y Alphonse Elric son los hermanos alquimistas.",
+      "pt": "Edward e Alphonse Elric são os irmãos alquimistas."
+    }
+  },
+  {
+    "id": "manga_0018",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelles créatures les Shinigami combattent-ils dans « Bleach » ?",
+      "en": "What creatures do the Soul Reapers fight in \"Bleach\"?",
+      "es": "¿Qué criaturas combaten los Shinigami en «Bleach»?",
+      "pt": "Que criaturas os Shinigami combatem em «Bleach»?"
+    },
+    "options": {
+      "fr": [
+        "Les Hollows",
+        "Les Titans",
+        "Les Akuma",
+        "Les Hommes-Poissons"
+      ],
+      "en": [
+        "Hollows",
+        "Titans",
+        "Akuma",
+        "Fish-Men"
+      ],
+      "es": [
+        "Los Hollows",
+        "Los Titanes",
+        "Los Akuma",
+        "Los Hombres-Pez"
+      ],
+      "pt": [
+        "Os Hollows",
+        "Os Titãs",
+        "Os Akuma",
+        "Os Homens-Peixe"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les Shinigami purifient les âmes corrompues appelées Hollows.",
+      "en": "The Soul Reapers purify corrupted souls called Hollows.",
+      "es": "Los Shinigami purifican las almas corruptas llamadas Hollows.",
+      "pt": "Os Shinigami purificam as almas corrompidas chamadas Hollows."
+    }
+  },
+  {
+    "id": "manga_0019",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment s'appelle le héros de « Jujutsu Kaisen » ?",
+      "en": "What is the name of the hero of \"Jujutsu Kaisen\"?",
+      "es": "¿Cómo se llama el héroe de «Jujutsu Kaisen»?",
+      "pt": "Como se chama o herói de «Jujutsu Kaisen»?"
+    },
+    "options": {
+      "fr": [
+        "Yuji Itadori",
+        "Tanjiro Kamado",
+        "Gon Freecss",
+        "Asta"
+      ],
+      "en": [
+        "Yuji Itadori",
+        "Tanjiro Kamado",
+        "Gon Freecss",
+        "Asta"
+      ],
+      "es": [
+        "Yuji Itadori",
+        "Tanjiro Kamado",
+        "Gon Freecss",
+        "Asta"
+      ],
+      "pt": [
+        "Yuji Itadori",
+        "Tanjiro Kamado",
+        "Gon Freecss",
+        "Asta"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Yuji Itadori est le protagoniste de « Jujutsu Kaisen ».",
+      "en": "Yuji Itadori is the protagonist of \"Jujutsu Kaisen\".",
+      "es": "Yuji Itadori es el protagonista de «Jujutsu Kaisen».",
+      "pt": "Yuji Itadori é o protagonista de «Jujutsu Kaisen»."
+    }
+  },
+  {
+    "id": "manga_0020",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Qui Gon Freecss cherche-t-il à retrouver dans « Hunter x Hunter » ?",
+      "en": "Who is Gon Freecss trying to find in \"Hunter x Hunter\"?",
+      "es": "¿A quién intenta encontrar Gon Freecss en «Hunter x Hunter»?",
+      "pt": "Quem Gon Freecss procura encontrar em «Hunter x Hunter»?"
+    },
+    "options": {
+      "fr": [
+        "Son père",
+        "Son frère",
+        "Sa mère",
+        "Son maître"
+      ],
+      "en": [
+        "His father",
+        "His brother",
+        "His mother",
+        "His master"
+      ],
+      "es": [
+        "A su padre",
+        "A su hermano",
+        "A su madre",
+        "A su maestro"
+      ],
+      "pt": [
+        "O seu pai",
+        "O seu irmão",
+        "A sua mãe",
+        "O seu mestre"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Gon part à la recherche de son père, Ging Freecss.",
+      "en": "Gon sets out to find his father, Ging Freecss.",
+      "es": "Gon parte en busca de su padre, Ging Freecss.",
+      "pt": "Gon parte à procura do seu pai, Ging Freecss."
+    }
+  },
+  {
+    "id": "manga_0021",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment s'appelle la guilde de magiciens dans « Fairy Tail » ?",
+      "en": "What is the name of the wizards' guild in \"Fairy Tail\"?",
+      "es": "¿Cómo se llama el gremio de magos en «Fairy Tail»?",
+      "pt": "Como se chama a guilda de magos em «Fairy Tail»?"
+    },
+    "options": {
+      "fr": [
+        "Fairy Tail",
+        "Sabertooth",
+        "Lamia Scale",
+        "Blue Pegasus"
+      ],
+      "en": [
+        "Fairy Tail",
+        "Sabertooth",
+        "Lamia Scale",
+        "Blue Pegasus"
+      ],
+      "es": [
+        "Fairy Tail",
+        "Sabertooth",
+        "Lamia Scale",
+        "Blue Pegasus"
+      ],
+      "pt": [
+        "Fairy Tail",
+        "Sabertooth",
+        "Lamia Scale",
+        "Blue Pegasus"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les héros appartiennent à la guilde Fairy Tail.",
+      "en": "The heroes belong to the Fairy Tail guild.",
+      "es": "Los héroes pertenecen al gremio Fairy Tail.",
+      "pt": "Os heróis pertencem à guilda Fairy Tail."
+    }
+  },
+  {
+    "id": "manga_0022",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Qui a réalisé le film « Le Voyage de Chihiro » ?",
+      "en": "Who directed the film \"Spirited Away\"?",
+      "es": "¿Quién dirigió la película «El viaje de Chihiro»?",
+      "pt": "Quem realizou o filme «A Viagem de Chihiro»?"
+    },
+    "options": {
+      "fr": [
+        "Hayao Miyazaki",
+        "Makoto Shinkai",
+        "Mamoru Hosoda",
+        "Isao Takahata"
+      ],
+      "en": [
+        "Hayao Miyazaki",
+        "Makoto Shinkai",
+        "Mamoru Hosoda",
+        "Isao Takahata"
+      ],
+      "es": [
+        "Hayao Miyazaki",
+        "Makoto Shinkai",
+        "Mamoru Hosoda",
+        "Isao Takahata"
+      ],
+      "pt": [
+        "Hayao Miyazaki",
+        "Makoto Shinkai",
+        "Mamoru Hosoda",
+        "Isao Takahata"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Le Voyage de Chihiro » a été réalisé par Hayao Miyazaki.",
+      "en": "\"Spirited Away\" was directed by Hayao Miyazaki.",
+      "es": "«El viaje de Chihiro» fue dirigida por Hayao Miyazaki.",
+      "pt": "«A Viagem de Chihiro» foi realizada por Hayao Miyazaki."
+    }
+  },
+  {
+    "id": "manga_0023",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel surnom porte le détective qui traque Kira dans « Death Note » ?",
+      "en": "What alias does the detective hunting Kira go by in \"Death Note\"?",
+      "es": "¿Qué alias usa el detective que persigue a Kira en «Death Note»?",
+      "pt": "Que pseudónimo usa o detetive que persegue Kira em «Death Note»?"
+    },
+    "options": {
+      "fr": [
+        "L",
+        "N",
+        "M",
+        "K"
+      ],
+      "en": [
+        "L",
+        "N",
+        "M",
+        "K"
+      ],
+      "es": [
+        "L",
+        "N",
+        "M",
+        "K"
+      ],
+      "pt": [
+        "L",
+        "N",
+        "M",
+        "K"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le détective se fait connaître sous la simple lettre « L ».",
+      "en": "The detective is known simply by the letter \"L\".",
+      "es": "El detective es conocido simplemente por la letra «L».",
+      "pt": "O detetive é conhecido simplesmente pela letra «L»."
+    }
+  },
+  {
+    "id": "manga_0024",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "À quelle classification officielle appartient Pikachu ?",
+      "en": "What is Pikachu's official classification?",
+      "es": "¿A qué clasificación oficial pertenece Pikachu?",
+      "pt": "A que classificação oficial pertence o Pikachu?"
+    },
+    "options": {
+      "fr": [
+        "Le Pokémon Souris",
+        "Le Pokémon Chat",
+        "Le Pokémon Renard",
+        "Le Pokémon Lapin"
+      ],
+      "en": [
+        "The Mouse Pokémon",
+        "The Cat Pokémon",
+        "The Fox Pokémon",
+        "The Rabbit Pokémon"
+      ],
+      "es": [
+        "El Pokémon Ratón",
+        "El Pokémon Gato",
+        "El Pokémon Zorro",
+        "El Pokémon Conejo"
+      ],
+      "pt": [
+        "O Pokémon Rato",
+        "O Pokémon Gato",
+        "O Pokémon Raposa",
+        "O Pokémon Coelho"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Pikachu est officiellement classé comme le « Pokémon Souris ».",
+      "en": "Pikachu is officially classified as the \"Mouse Pokémon\".",
+      "es": "Pikachu está clasificado oficialmente como el «Pokémon Ratón».",
+      "pt": "Pikachu está oficialmente classificado como o «Pokémon Rato»."
+    }
+  },
+  {
+    "id": "manga_0025",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment s'appelle le héros principal de « L'Attaque des Titans » ?",
+      "en": "What is the name of the main hero of \"Attack on Titan\"?",
+      "es": "¿Cómo se llama el héroe principal de «Attack on Titan»?",
+      "pt": "Como se chama o herói principal de «Attack on Titan»?"
+    },
+    "options": {
+      "fr": [
+        "Eren Jäger",
+        "Levi Ackerman",
+        "Armin Arlert",
+        "Reiner Braun"
+      ],
+      "en": [
+        "Eren Yeager",
+        "Levi Ackerman",
+        "Armin Arlert",
+        "Reiner Braun"
+      ],
+      "es": [
+        "Eren Yeager",
+        "Levi Ackerman",
+        "Armin Arlert",
+        "Reiner Braun"
+      ],
+      "pt": [
+        "Eren Yeager",
+        "Levi Ackerman",
+        "Armin Arlert",
+        "Reiner Braun"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Eren Jäger (Yeager) est le protagoniste de la série.",
+      "en": "Eren Yeager (Jäger) is the protagonist of the series.",
+      "es": "Eren Yeager (Jäger) es el protagonista de la serie.",
+      "pt": "Eren Yeager (Jäger) é o protagonista da série."
+    }
+  },
+  {
+    "id": "manga_0026",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel fruit du démon Luffy a-t-il mangé dans « One Piece » ?",
+      "en": "Which Devil Fruit did Luffy eat in \"One Piece\"?",
+      "es": "¿Qué fruta del diablo comió Luffy en «One Piece»?",
+      "pt": "Qual fruta do diabo Luffy comeu em «One Piece»?"
+    },
+    "options": {
+      "fr": [
+        "Le Gomu Gomu no Mi",
+        "Le Mera Mera no Mi",
+        "Le Ope Ope no Mi",
+        "Le Hie Hie no Mi"
+      ],
+      "en": [
+        "The Gomu Gomu no Mi",
+        "The Mera Mera no Mi",
+        "The Ope Ope no Mi",
+        "The Hie Hie no Mi"
+      ],
+      "es": [
+        "La Gomu Gomu no Mi",
+        "La Mera Mera no Mi",
+        "La Ope Ope no Mi",
+        "La Hie Hie no Mi"
+      ],
+      "pt": [
+        "A Gomu Gomu no Mi",
+        "A Mera Mera no Mi",
+        "A Ope Ope no Mi",
+        "A Hie Hie no Mi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Gomu Gomu no Mi donne à Luffy un corps élastique.",
+      "en": "The Gomu Gomu no Mi gives Luffy a rubber body.",
+      "es": "La Gomu Gomu no Mi le da a Luffy un cuerpo elástico.",
+      "pt": "A Gomu Gomu no Mi dá a Luffy um corpo elástico."
+    }
+  },
+  {
+    "id": "manga_0027",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel dôjutsu héréditaire caractérise le clan Uchiha dans « Naruto » ?",
+      "en": "Which hereditary dōjutsu characterizes the Uchiha clan in \"Naruto\"?",
+      "es": "¿Qué dōjutsu hereditario caracteriza al clan Uchiha en «Naruto»?",
+      "pt": "Qual dōjutsu hereditário caracteriza o clã Uchiha em «Naruto»?"
+    },
+    "options": {
+      "fr": [
+        "Le Sharingan",
+        "Le Byakugan",
+        "Le Rinnegan",
+        "Le Tenseigan"
+      ],
+      "en": [
+        "The Sharingan",
+        "The Byakugan",
+        "The Rinnegan",
+        "The Tenseigan"
+      ],
+      "es": [
+        "El Sharingan",
+        "El Byakugan",
+        "El Rinnegan",
+        "El Tenseigan"
+      ],
+      "pt": [
+        "O Sharingan",
+        "O Byakugan",
+        "O Rinnegan",
+        "O Tenseigan"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Sharingan est le don oculaire du clan Uchiha.",
+      "en": "The Sharingan is the Uchiha clan's eye power.",
+      "es": "El Sharingan es el poder ocular del clan Uchiha.",
+      "pt": "O Sharingan é o poder ocular do clã Uchiha."
+    }
+  },
+  {
+    "id": "manga_0028",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "De quelle race extraterrestre est Son Goku dans « Dragon Ball » ?",
+      "en": "What alien race is Son Goku in \"Dragon Ball\"?",
+      "es": "¿De qué raza extraterrestre es Son Goku en «Dragon Ball»?",
+      "pt": "De que raça extraterrestre é Son Goku em «Dragon Ball»?"
+    },
+    "options": {
+      "fr": [
+        "Un Saiyan",
+        "Un Namek",
+        "Un Tsuful",
+        "Un Majin"
+      ],
+      "en": [
+        "A Saiyan",
+        "A Namekian",
+        "A Tuffle",
+        "A Majin"
+      ],
+      "es": [
+        "Un Saiyan",
+        "Un Namekiano",
+        "Un Tsufuru",
+        "Un Majin"
+      ],
+      "pt": [
+        "Um Saiyajin",
+        "Um Namekuseijin",
+        "Um Tsufuru",
+        "Um Majin"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Goku est un Saiyan envoyé sur Terre enfant.",
+      "en": "Goku is a Saiyan sent to Earth as a child.",
+      "es": "Goku es un Saiyan enviado a la Tierra de niño.",
+      "pt": "Goku é um Saiyajin enviado à Terra ainda criança."
+    }
+  },
+  {
+    "id": "manga_0029",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel Shinigami laisse tomber le carnet que ramasse Light dans « Death Note » ?",
+      "en": "Which Shinigami drops the notebook that Light picks up in \"Death Note\"?",
+      "es": "¿Qué Shinigami deja caer el cuaderno que recoge Light en «Death Note»?",
+      "pt": "Qual Shinigami deixa cair o caderno que Light apanha em «Death Note»?"
+    },
+    "options": {
+      "fr": [
+        "Ryuk",
+        "Rem",
+        "Sidoh",
+        "Gelus"
+      ],
+      "en": [
+        "Ryuk",
+        "Rem",
+        "Sidoh",
+        "Gelus"
+      ],
+      "es": [
+        "Ryuk",
+        "Rem",
+        "Sidoh",
+        "Gelus"
+      ],
+      "pt": [
+        "Ryuk",
+        "Rem",
+        "Sidoh",
+        "Gelus"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ryuk laisse volontairement tomber son Death Note dans le monde humain.",
+      "en": "Ryuk deliberately drops his Death Note into the human world.",
+      "es": "Ryuk deja caer deliberadamente su Death Note en el mundo humano.",
+      "pt": "Ryuk deixa cair deliberadamente o seu Death Note no mundo humano."
+    }
+  },
+  {
+    "id": "manga_0030",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel studio a animé l'adaptation de « Demon Slayer » ?",
+      "en": "Which studio animated the adaptation of \"Demon Slayer\"?",
+      "es": "¿Qué estudio animó la adaptación de «Demon Slayer»?",
+      "pt": "Qual estúdio animou a adaptação de «Demon Slayer»?"
+    },
+    "options": {
+      "fr": [
+        "Ufotable",
+        "MAPPA",
+        "Wit Studio",
+        "Bones"
+      ],
+      "en": [
+        "Ufotable",
+        "MAPPA",
+        "Wit Studio",
+        "Bones"
+      ],
+      "es": [
+        "Ufotable",
+        "MAPPA",
+        "Wit Studio",
+        "Bones"
+      ],
+      "pt": [
+        "Ufotable",
+        "MAPPA",
+        "Wit Studio",
+        "Bones"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'animé « Demon Slayer » est produit par le studio Ufotable.",
+      "en": "The \"Demon Slayer\" anime is produced by Ufotable.",
+      "es": "El anime «Demon Slayer» es producido por el estudio Ufotable.",
+      "pt": "O anime «Demon Slayer» é produzido pelo estúdio Ufotable."
+    }
+  },
+  {
+    "id": "manga_0031",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel studio a animé les trois premières saisons de « L'Attaque des Titans » ?",
+      "en": "Which studio animated the first three seasons of \"Attack on Titan\"?",
+      "es": "¿Qué estudio animó las tres primeras temporadas de «Attack on Titan»?",
+      "pt": "Qual estúdio animou as três primeiras temporadas de «Attack on Titan»?"
+    },
+    "options": {
+      "fr": [
+        "Wit Studio",
+        "MAPPA",
+        "Ufotable",
+        "Madhouse"
+      ],
+      "en": [
+        "Wit Studio",
+        "MAPPA",
+        "Ufotable",
+        "Madhouse"
+      ],
+      "es": [
+        "Wit Studio",
+        "MAPPA",
+        "Ufotable",
+        "Madhouse"
+      ],
+      "pt": [
+        "Wit Studio",
+        "MAPPA",
+        "Ufotable",
+        "Madhouse"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Wit Studio a animé les saisons 1 à 3 ; MAPPA a pris la suite.",
+      "en": "Wit Studio animated seasons 1 to 3; MAPPA took over afterward.",
+      "es": "Wit Studio animó las temporadas 1 a 3; MAPPA tomó el relevo después.",
+      "pt": "A Wit Studio animou as temporadas 1 a 3; a MAPPA assumiu depois."
+    }
+  },
+  {
+    "id": "manga_0032",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Comment s'appelle le pouvoir transmis à Izuku par All Might dans « My Hero Academia » ?",
+      "en": "What is the name of the power All Might passes on to Izuku in \"My Hero Academia\"?",
+      "es": "¿Cómo se llama el poder que All Might transmite a Izuku en «My Hero Academia»?",
+      "pt": "Como se chama o poder que All Might transmite a Izuku em «My Hero Academia»?"
+    },
+    "options": {
+      "fr": [
+        "One For All",
+        "All For One",
+        "Full Cowl",
+        "Detroit Smash"
+      ],
+      "en": [
+        "One For All",
+        "All For One",
+        "Full Cowl",
+        "Detroit Smash"
+      ],
+      "es": [
+        "One For All",
+        "All For One",
+        "Full Cowl",
+        "Detroit Smash"
+      ],
+      "pt": [
+        "One For All",
+        "All For One",
+        "Full Cowl",
+        "Detroit Smash"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "All Might transmet à Izuku l'Alter « One For All ».",
+      "en": "All Might passes on the \"One For All\" Quirk to Izuku.",
+      "es": "All Might le transmite a Izuku el Quirk «One For All».",
+      "pt": "All Might transmite a Izuku o Quirk «One For All»."
+    }
+  },
+  {
+    "id": "manga_0033",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel principe fondamental régit l'alchimie dans « Fullmetal Alchemist » ?",
+      "en": "What fundamental principle governs alchemy in \"Fullmetal Alchemist\"?",
+      "es": "¿Qué principio fundamental rige la alquimia en «Fullmetal Alchemist»?",
+      "pt": "Qual princípio fundamental rege a alquimia em «Fullmetal Alchemist»?"
+    },
+    "options": {
+      "fr": [
+        "L'échange équivalent",
+        "La conservation des âmes",
+        "La transmutation libre",
+        "La loi du plus fort"
+      ],
+      "en": [
+        "Equivalent exchange",
+        "Conservation of souls",
+        "Free transmutation",
+        "The law of the strongest"
+      ],
+      "es": [
+        "El intercambio equivalente",
+        "La conservación de las almas",
+        "La transmutación libre",
+        "La ley del más fuerte"
+      ],
+      "pt": [
+        "A troca equivalente",
+        "A conservação das almas",
+        "A transmutação livre",
+        "A lei do mais forte"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'échange équivalent : on ne peut rien obtenir sans donner l'équivalent.",
+      "en": "Equivalent exchange: nothing can be gained without giving something of equal value.",
+      "es": "El intercambio equivalente: no se puede obtener nada sin dar algo de igual valor.",
+      "pt": "A troca equivalente: não se pode obter nada sem dar algo de igual valor."
+    }
+  },
+  {
+    "id": "manga_0034",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Comment se nomme l'énergie vitale utilisée au combat dans « Hunter x Hunter » ?",
+      "en": "What is the name of the life energy used in combat in \"Hunter x Hunter\"?",
+      "es": "¿Cómo se llama la energía vital usada en combate en «Hunter x Hunter»?",
+      "pt": "Como se chama a energia vital usada em combate em «Hunter x Hunter»?"
+    },
+    "options": {
+      "fr": [
+        "Le Nen",
+        "Le Ki",
+        "Le Haki",
+        "Le Reiatsu"
+      ],
+      "en": [
+        "Nen",
+        "Ki",
+        "Haki",
+        "Reiatsu"
+      ],
+      "es": [
+        "El Nen",
+        "El Ki",
+        "El Haki",
+        "El Reiatsu"
+      ],
+      "pt": [
+        "O Nen",
+        "O Ki",
+        "O Haki",
+        "O Reiatsu"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Nen est le système de pouvoir central de « Hunter x Hunter ».",
+      "en": "Nen is the central power system of \"Hunter x Hunter\".",
+      "es": "El Nen es el sistema de poder central de «Hunter x Hunter».",
+      "pt": "O Nen é o sistema de poder central de «Hunter x Hunter»."
+    }
+  },
+  {
+    "id": "manga_0035",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Comment appelle-t-on les ennemis nés d'émotions négatives dans « Jujutsu Kaisen » ?",
+      "en": "What are the enemies born from negative emotions called in \"Jujutsu Kaisen\"?",
+      "es": "¿Cómo se llaman los enemigos nacidos de emociones negativas en «Jujutsu Kaisen»?",
+      "pt": "Como se chamam os inimigos nascidos de emoções negativas em «Jujutsu Kaisen»?"
+    },
+    "options": {
+      "fr": [
+        "Des fléaux",
+        "Des Hollows",
+        "Des Titans",
+        "des Homonculus"
+      ],
+      "en": [
+        "Curses",
+        "Hollows",
+        "Titans",
+        "Homunculi"
+      ],
+      "es": [
+        "Maldiciones",
+        "Hollows",
+        "Titanes",
+        "Homúnculos"
+      ],
+      "pt": [
+        "Maldições",
+        "Hollows",
+        "Titãs",
+        "Homúnculos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les fléaux (« curses ») naissent des émotions négatives humaines.",
+      "en": "Curses are born from humans' negative emotions.",
+      "es": "Las maldiciones («curses») nacen de las emociones negativas humanas.",
+      "pt": "As maldições («curses») nascem das emoções negativas humanas."
+    }
+  },
+  {
+    "id": "manga_0036",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Comment s'appelle l'arme personnelle d'un Shinigami dans « Bleach » ?",
+      "en": "What is the name of a Soul Reaper's personal weapon in \"Bleach\"?",
+      "es": "¿Cómo se llama el arma personal de un Shinigami en «Bleach»?",
+      "pt": "Como se chama a arma pessoal de um Shinigami em «Bleach»?"
+    },
+    "options": {
+      "fr": [
+        "Le Zanpakutô",
+        "Le Zangetsu",
+        "Le Reiatsu",
+        "Le Kidô"
+      ],
+      "en": [
+        "The Zanpakutō",
+        "The Zangetsu",
+        "The Reiatsu",
+        "The Kidō"
+      ],
+      "es": [
+        "El Zanpakutō",
+        "El Zangetsu",
+        "El Reiatsu",
+        "El Kidō"
+      ],
+      "pt": [
+        "A Zanpakutō",
+        "A Zangetsu",
+        "O Reiatsu",
+        "O Kidō"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Zanpakutô est le sabre propre à chaque Shinigami.",
+      "en": "The Zanpakutō is the unique sword belonging to each Soul Reaper.",
+      "es": "El Zanpakutō es la espada propia de cada Shinigami.",
+      "pt": "A Zanpakutō é a espada própria de cada Shinigami."
+    }
+  },
+  {
+    "id": "manga_0037",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Comment s'appelle le disciple cyborg de Saitama dans « One Punch Man » ?",
+      "en": "What is the name of Saitama's cyborg disciple in \"One Punch Man\"?",
+      "es": "¿Cómo se llama el discípulo cíborg de Saitama en «One Punch Man»?",
+      "pt": "Como se chama o discípulo ciborgue de Saitama em «One Punch Man»?"
+    },
+    "options": {
+      "fr": [
+        "Genos",
+        "King",
+        "Bang",
+        "Mumen Rider"
+      ],
+      "en": [
+        "Genos",
+        "King",
+        "Bang",
+        "Mumen Rider"
+      ],
+      "es": [
+        "Genos",
+        "King",
+        "Bang",
+        "Mumen Rider"
+      ],
+      "pt": [
+        "Genos",
+        "King",
+        "Bang",
+        "Mumen Rider"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Genos, un cyborg, devient le disciple de Saitama.",
+      "en": "Genos, a cyborg, becomes Saitama's disciple.",
+      "es": "Genos, un cíborg, se convierte en discípulo de Saitama.",
+      "pt": "Genos, um ciborgue, torna-se discípulo de Saitama."
+    }
+  },
+  {
+    "id": "manga_0038",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a réalisé le film « Princesse Mononoké » ?",
+      "en": "Who directed the film \"Princess Mononoke\"?",
+      "es": "¿Quién dirigió la película «La princesa Mononoke»?",
+      "pt": "Quem realizou o filme «A Princesa Mononoke»?"
+    },
+    "options": {
+      "fr": [
+        "Hayao Miyazaki",
+        "Isao Takahata",
+        "Makoto Shinkai",
+        "Hideaki Anno"
+      ],
+      "en": [
+        "Hayao Miyazaki",
+        "Isao Takahata",
+        "Makoto Shinkai",
+        "Hideaki Anno"
+      ],
+      "es": [
+        "Hayao Miyazaki",
+        "Isao Takahata",
+        "Makoto Shinkai",
+        "Hideaki Anno"
+      ],
+      "pt": [
+        "Hayao Miyazaki",
+        "Isao Takahata",
+        "Makoto Shinkai",
+        "Hideaki Anno"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Princesse Mononoké » (1997) est de Hayao Miyazaki.",
+      "en": "\"Princess Mononoke\" (1997) is by Hayao Miyazaki.",
+      "es": "«La princesa Mononoke» (1997) es de Hayao Miyazaki.",
+      "pt": "«A Princesa Mononoke» (1997) é de Hayao Miyazaki."
+    }
+  },
+  {
+    "id": "manga_0039",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est le vrai nom du détective « L » dans « Death Note » ?",
+      "en": "What is the real name of the detective \"L\" in \"Death Note\"?",
+      "es": "¿Cuál es el verdadero nombre del detective «L» en «Death Note»?",
+      "pt": "Qual é o verdadeiro nome do detetive «L» em «Death Note»?"
+    },
+    "options": {
+      "fr": [
+        "L Lawliet",
+        "Light Yagami",
+        "Near River",
+        "Teru Mikami"
+      ],
+      "en": [
+        "L Lawliet",
+        "Light Yagami",
+        "Near River",
+        "Teru Mikami"
+      ],
+      "es": [
+        "L Lawliet",
+        "Light Yagami",
+        "Near River",
+        "Teru Mikami"
+      ],
+      "pt": [
+        "L Lawliet",
+        "Light Yagami",
+        "Near River",
+        "Teru Mikami"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le détective « L » s'appelle en réalité L Lawliet.",
+      "en": "The detective \"L\" is actually named L Lawliet.",
+      "es": "El detective «L» se llama en realidad L Lawliet.",
+      "pt": "O detetive «L» chama-se na verdade L Lawliet."
+    }
+  },
+  {
+    "id": "manga_0040",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Comment appelle-t-on le pouvoir combattant dans « JoJo's Bizarre Adventure » ?",
+      "en": "What is the combat power called in \"JoJo's Bizarre Adventure\"?",
+      "es": "¿Cómo se llama el poder de combate en «JoJo's Bizarre Adventure»?",
+      "pt": "Como se chama o poder de combate em «JoJo's Bizarre Adventure»?"
+    },
+    "options": {
+      "fr": [
+        "Un Stand",
+        "Un Nen",
+        "Un Alter",
+        "Un Stigma"
+      ],
+      "en": [
+        "A Stand",
+        "A Nen",
+        "A Quirk",
+        "A Stigma"
+      ],
+      "es": [
+        "Un Stand",
+        "Un Nen",
+        "Un Quirk",
+        "Un Stigma"
+      ],
+      "pt": [
+        "Um Stand",
+        "Um Nen",
+        "Um Quirk",
+        "Um Stigma"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les combattants matérialisent une entité appelée « Stand ».",
+      "en": "Fighters manifest an entity called a \"Stand\".",
+      "es": "Los luchadores materializan una entidad llamada «Stand».",
+      "pt": "Os lutadores materializam uma entidade chamada «Stand»."
+    }
+  },
+  {
+    "id": "manga_0041",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Comment appelle-t-on les robots géants pilotés dans « Neon Genesis Evangelion » ?",
+      "en": "What are the giant piloted robots called in \"Neon Genesis Evangelion\"?",
+      "es": "¿Cómo se llaman los robots gigantes pilotados en «Neon Genesis Evangelion»?",
+      "pt": "Como se chamam os robôs gigantes pilotados em «Neon Genesis Evangelion»?"
+    },
+    "options": {
+      "fr": [
+        "Des Evas",
+        "Des Gundams",
+        "Des Titans",
+        "Des Knightmares"
+      ],
+      "en": [
+        "Evas",
+        "Gundams",
+        "Titans",
+        "Knightmares"
+      ],
+      "es": [
+        "Evas",
+        "Gundams",
+        "Titanes",
+        "Knightmares"
+      ],
+      "pt": [
+        "Evas",
+        "Gundams",
+        "Titãs",
+        "Knightmares"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les unités pilotées sont les Evangelions, surnommés « Evas ».",
+      "en": "The piloted units are the Evangelions, nicknamed \"Evas\".",
+      "es": "Las unidades pilotadas son los Evangelion, apodados «Evas».",
+      "pt": "As unidades pilotadas são os Evangelion, apelidados de «Evas»."
+    }
+  },
+  {
+    "id": "manga_0042",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel Pokémon porte le numéro 001 du Pokédex national ?",
+      "en": "Which Pokémon is number 001 in the National Pokédex?",
+      "es": "¿Qué Pokémon tiene el número 001 de la Pokédex nacional?",
+      "pt": "Qual Pokémon tem o número 001 da Pokédex nacional?"
+    },
+    "options": {
+      "fr": [
+        "Bulbizarre",
+        "Pikachu",
+        "Salamèche",
+        "Mew"
+      ],
+      "en": [
+        "Bulbasaur",
+        "Pikachu",
+        "Charmander",
+        "Mew"
+      ],
+      "es": [
+        "Bulbasaur",
+        "Pikachu",
+        "Charmander",
+        "Mew"
+      ],
+      "pt": [
+        "Bulbasaur",
+        "Pikachu",
+        "Charmander",
+        "Mew"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Bulbizarre est le n°001 du Pokédex national.",
+      "en": "Bulbasaur is No. 001 in the National Pokédex.",
+      "es": "Bulbasaur es el n.º 001 de la Pokédex nacional.",
+      "pt": "Bulbasaur é o n.º 001 da Pokédex nacional."
+    }
+  },
+  {
+    "id": "manga_0043",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel est le nom complet de l'épéiste aux trois sabres de l'équipage de Luffy ?",
+      "en": "What is the full name of the three-sword swordsman in Luffy's crew?",
+      "es": "¿Cuál es el nombre completo del espadachín de las tres espadas de la tripulación de Luffy?",
+      "pt": "Qual é o nome completo do espadachim das três espadas da tripulação de Luffy?"
+    },
+    "options": {
+      "fr": [
+        "Roronoa Zoro",
+        "Vinsmoke Sanji",
+        "Usopp",
+        "Jinbe"
+      ],
+      "en": [
+        "Roronoa Zoro",
+        "Vinsmoke Sanji",
+        "Usopp",
+        "Jinbe"
+      ],
+      "es": [
+        "Roronoa Zoro",
+        "Vinsmoke Sanji",
+        "Usopp",
+        "Jinbe"
+      ],
+      "pt": [
+        "Roronoa Zoro",
+        "Vinsmoke Sanji",
+        "Usopp",
+        "Jinbe"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Roronoa Zoro pratique le style à trois sabres (Santoryu).",
+      "en": "Roronoa Zoro uses the three-sword style (Santoryu).",
+      "es": "Roronoa Zoro practica el estilo de tres espadas (Santoryu).",
+      "pt": "Roronoa Zoro pratica o estilo de três espadas (Santoryu)."
+    }
+  },
+  {
+    "id": "manga_0044",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui est l'auteur du manga « Naruto » ?",
+      "en": "Who is the author of the manga \"Naruto\"?",
+      "es": "¿Quién es el autor del manga «Naruto»?",
+      "pt": "Quem é o autor do mangá «Naruto»?"
+    },
+    "options": {
+      "fr": [
+        "Masashi Kishimoto",
+        "Eiichiro Oda",
+        "Tite Kubo",
+        "Yoshihiro Togashi"
+      ],
+      "en": [
+        "Masashi Kishimoto",
+        "Eiichiro Oda",
+        "Tite Kubo",
+        "Yoshihiro Togashi"
+      ],
+      "es": [
+        "Masashi Kishimoto",
+        "Eiichiro Oda",
+        "Tite Kubo",
+        "Yoshihiro Togashi"
+      ],
+      "pt": [
+        "Masashi Kishimoto",
+        "Eiichiro Oda",
+        "Tite Kubo",
+        "Yoshihiro Togashi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Naruto » est l'œuvre de Masashi Kishimoto.",
+      "en": "\"Naruto\" is the work of Masashi Kishimoto.",
+      "es": "«Naruto» es obra de Masashi Kishimoto.",
+      "pt": "«Naruto» é obra de Masashi Kishimoto."
+    }
+  },
+  {
+    "id": "manga_0045",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui est l'auteur de « Dragon Ball » ?",
+      "en": "Who is the author of \"Dragon Ball\"?",
+      "es": "¿Quién es el autor de «Dragon Ball»?",
+      "pt": "Quem é o autor de «Dragon Ball»?"
+    },
+    "options": {
+      "fr": [
+        "Akira Toriyama",
+        "Eiichiro Oda",
+        "Masashi Kishimoto",
+        "Hirohiko Araki"
+      ],
+      "en": [
+        "Akira Toriyama",
+        "Eiichiro Oda",
+        "Masashi Kishimoto",
+        "Hirohiko Araki"
+      ],
+      "es": [
+        "Akira Toriyama",
+        "Eiichiro Oda",
+        "Masashi Kishimoto",
+        "Hirohiko Araki"
+      ],
+      "pt": [
+        "Akira Toriyama",
+        "Eiichiro Oda",
+        "Masashi Kishimoto",
+        "Hirohiko Araki"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Dragon Ball » a été créé par Akira Toriyama.",
+      "en": "\"Dragon Ball\" was created by Akira Toriyama.",
+      "es": "«Dragon Ball» fue creado por Akira Toriyama.",
+      "pt": "«Dragon Ball» foi criado por Akira Toriyama."
+    }
+  },
+  {
+    "id": "manga_0046",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Comment s'appelle la sœur de Tanjiro transformée en démon dans « Demon Slayer » ?",
+      "en": "What is the name of Tanjiro's sister who is turned into a demon in \"Demon Slayer\"?",
+      "es": "¿Cómo se llama la hermana de Tanjiro convertida en demonio en «Demon Slayer»?",
+      "pt": "Como se chama a irmã de Tanjiro transformada em demónio em «Demon Slayer»?"
+    },
+    "options": {
+      "fr": [
+        "Nezuko",
+        "Shinobu",
+        "Mitsuri",
+        "Kanao"
+      ],
+      "en": [
+        "Nezuko",
+        "Shinobu",
+        "Mitsuri",
+        "Kanao"
+      ],
+      "es": [
+        "Nezuko",
+        "Shinobu",
+        "Mitsuri",
+        "Kanao"
+      ],
+      "pt": [
+        "Nezuko",
+        "Shinobu",
+        "Mitsuri",
+        "Kanao"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Nezuko, la sœur de Tanjiro, est transformée en démon.",
+      "en": "Nezuko, Tanjiro's sister, is turned into a demon.",
+      "es": "Nezuko, la hermana de Tanjiro, es convertida en demonio.",
+      "pt": "Nezuko, a irmã de Tanjiro, é transformada em demónio."
+    }
+  },
+  {
+    "id": "manga_0047",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui est l'auteur de « L'Attaque des Titans » ?",
+      "en": "Who is the author of \"Attack on Titan\"?",
+      "es": "¿Quién es el autor de «Attack on Titan»?",
+      "pt": "Quem é o autor de «Attack on Titan»?"
+    },
+    "options": {
+      "fr": [
+        "Hajime Isayama",
+        "Gege Akutami",
+        "Kohei Horikoshi",
+        "Sui Ishida"
+      ],
+      "en": [
+        "Hajime Isayama",
+        "Gege Akutami",
+        "Kohei Horikoshi",
+        "Sui Ishida"
+      ],
+      "es": [
+        "Hajime Isayama",
+        "Gege Akutami",
+        "Kohei Horikoshi",
+        "Sui Ishida"
+      ],
+      "pt": [
+        "Hajime Isayama",
+        "Gege Akutami",
+        "Kohei Horikoshi",
+        "Sui Ishida"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« L'Attaque des Titans » est l'œuvre de Hajime Isayama.",
+      "en": "\"Attack on Titan\" is the work of Hajime Isayama.",
+      "es": "«Attack on Titan» es obra de Hajime Isayama.",
+      "pt": "«Attack on Titan» é obra de Hajime Isayama."
+    }
+  },
+  {
+    "id": "manga_0048",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Comment s'appelle le lycée des héros dans « My Hero Academia » ?",
+      "en": "What is the name of the heroes' high school in \"My Hero Academia\"?",
+      "es": "¿Cómo se llama el instituto de los héroes en «My Hero Academia»?",
+      "pt": "Como se chama a escola dos heróis em «My Hero Academia»?"
+    },
+    "options": {
+      "fr": [
+        "U.A.",
+        "Shujin",
+        "Hosu",
+        "Shiketsu"
+      ],
+      "en": [
+        "U.A.",
+        "Shujin",
+        "Hosu",
+        "Shiketsu"
+      ],
+      "es": [
+        "U.A.",
+        "Shujin",
+        "Hosu",
+        "Shiketsu"
+      ],
+      "pt": [
+        "U.A.",
+        "Shujin",
+        "Hosu",
+        "Shiketsu"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les héros se forment au lycée U.A. (Yuei).",
+      "en": "The heroes train at U.A. High School (Yuei).",
+      "es": "Los héroes se forman en el instituto U.A. (Yuei).",
+      "pt": "Os heróis formam-se na escola U.A. (Yuei)."
+    }
+  },
+  {
+    "id": "manga_0049",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quels sont les prénoms des deux frères Elric dans « Fullmetal Alchemist » ?",
+      "en": "What are the first names of the two Elric brothers in \"Fullmetal Alchemist\"?",
+      "es": "¿Cuáles son los nombres de los dos hermanos Elric en «Fullmetal Alchemist»?",
+      "pt": "Quais são os nomes dos dois irmãos Elric em «Fullmetal Alchemist»?"
+    },
+    "options": {
+      "fr": [
+        "Edward et Alphonse",
+        "Edward et Roy",
+        "Alphonse et Maes",
+        "Edward et Ling"
+      ],
+      "en": [
+        "Edward and Alphonse",
+        "Edward and Roy",
+        "Alphonse and Maes",
+        "Edward and Ling"
+      ],
+      "es": [
+        "Edward y Alphonse",
+        "Edward y Roy",
+        "Alphonse y Maes",
+        "Edward y Ling"
+      ],
+      "pt": [
+        "Edward e Alphonse",
+        "Edward e Roy",
+        "Alphonse e Maes",
+        "Edward e Ling"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les frères Elric se prénomment Edward et Alphonse.",
+      "en": "The Elric brothers are named Edward and Alphonse.",
+      "es": "Los hermanos Elric se llaman Edward y Alphonse.",
+      "pt": "Os irmãos Elric chamam-se Edward e Alphonse."
+    }
+  },
+  {
+    "id": "manga_0050",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Dans « Sword Art Online », où les joueurs se retrouvent-ils piégés ?",
+      "en": "In \"Sword Art Online\", where do the players find themselves trapped?",
+      "es": "En «Sword Art Online», ¿dónde se ven atrapados los jugadores?",
+      "pt": "Em «Sword Art Online», onde os jogadores se veem presos?"
+    },
+    "options": {
+      "fr": [
+        "Dans un jeu en réalité virtuelle",
+        "Dans un autre monde après leur mort",
+        "Dans un rêve partagé",
+        "Dans le passé"
+      ],
+      "en": [
+        "In a virtual reality game",
+        "In another world after their death",
+        "In a shared dream",
+        "In the past"
+      ],
+      "es": [
+        "En un juego de realidad virtual",
+        "En otro mundo tras su muerte",
+        "En un sueño compartido",
+        "En el pasado"
+      ],
+      "pt": [
+        "Num jogo de realidade virtual",
+        "Noutro mundo após a sua morte",
+        "Num sonho partilhado",
+        "No passado"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les joueurs sont piégés dans le MMORPG en réalité virtuelle Aincrad.",
+      "en": "The players are trapped in the virtual reality MMORPG Aincrad.",
+      "es": "Los jugadores quedan atrapados en el MMORPG de realidad virtual Aincrad.",
+      "pt": "Os jogadores ficam presos no MMORPG de realidade virtual Aincrad."
+    }
+  },
+  {
+    "id": "manga_0051",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle est la profession secrète de Loid Forger dans « Spy x Family » ?",
+      "en": "What is Loid Forger's secret profession in \"Spy x Family\"?",
+      "es": "¿Cuál es la profesión secreta de Loid Forger en «Spy x Family»?",
+      "pt": "Qual é a profissão secreta de Loid Forger em «Spy x Family»?"
+    },
+    "options": {
+      "fr": [
+        "Espion",
+        "Médecin",
+        "Cuisinier",
+        "Policier"
+      ],
+      "en": [
+        "Spy",
+        "Doctor",
+        "Cook",
+        "Police officer"
+      ],
+      "es": [
+        "Espía",
+        "Médico",
+        "Cocinero",
+        "Policía"
+      ],
+      "pt": [
+        "Espião",
+        "Médico",
+        "Cozinheiro",
+        "Polícia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Loid est un espion sous l'identité du psychiatre Loid Forger.",
+      "en": "Loid is a spy operating under the identity of psychiatrist Loid Forger.",
+      "es": "Loid es un espía bajo la identidad del psiquiatra Loid Forger.",
+      "pt": "Loid é um espião sob a identidade do psiquiatra Loid Forger."
+    }
+  },
+  {
+    "id": "manga_0052",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel sport pratique Olivier Atton dans « Olive et Tom » (Captain Tsubasa) ?",
+      "en": "What sport does Tsubasa Ozora play in \"Captain Tsubasa\"?",
+      "es": "¿Qué deporte practica Tsubasa Ozora en «Captain Tsubasa»?",
+      "pt": "Que desporto pratica Tsubasa Ozora em «Captain Tsubasa»?"
+    },
+    "options": {
+      "fr": [
+        "Le football",
+        "Le basket-ball",
+        "Le tennis",
+        "Le baseball"
+      ],
+      "en": [
+        "Football (soccer)",
+        "Basketball",
+        "Tennis",
+        "Baseball"
+      ],
+      "es": [
+        "El fútbol",
+        "El baloncesto",
+        "El tenis",
+        "El béisbol"
+      ],
+      "pt": [
+        "O futebol",
+        "O basquetebol",
+        "O ténis",
+        "O basebol"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Olive et Tom » est un classique du manga de football.",
+      "en": "\"Captain Tsubasa\" is a classic football (soccer) manga.",
+      "es": "«Captain Tsubasa» es un clásico del manga de fútbol.",
+      "pt": "«Captain Tsubasa» é um clássico do mangá de futebol."
+    }
+  },
+  {
+    "id": "manga_0053",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel sport est au cœur du manga « Haikyū!! » ?",
+      "en": "What sport is at the heart of the manga \"Haikyū!!\"?",
+      "es": "¿Qué deporte es el centro del manga «Haikyū!!»?",
+      "pt": "Qual desporto está no centro do mangá «Haikyū!!»?"
+    },
+    "options": {
+      "fr": [
+        "Le volley-ball",
+        "Le basket-ball",
+        "Le football",
+        "Le tennis"
+      ],
+      "en": [
+        "Volleyball",
+        "Basketball",
+        "Football (soccer)",
+        "Tennis"
+      ],
+      "es": [
+        "El voleibol",
+        "El baloncesto",
+        "El fútbol",
+        "El tenis"
+      ],
+      "pt": [
+        "O voleibol",
+        "O basquetebol",
+        "O futebol",
+        "O ténis"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Haikyū!! » suit une équipe de volley-ball lycéenne.",
+      "en": "\"Haikyū!!\" follows a high school volleyball team.",
+      "es": "«Haikyū!!» sigue a un equipo de voleibol de instituto.",
+      "pt": "«Haikyū!!» segue uma equipa de voleibol do ensino secundário."
+    }
+  },
+  {
+    "id": "manga_0054",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel sport est au cœur de « Slam Dunk » ?",
+      "en": "What sport is at the heart of \"Slam Dunk\"?",
+      "es": "¿Qué deporte es el centro de «Slam Dunk»?",
+      "pt": "Qual desporto está no centro de «Slam Dunk»?"
+    },
+    "options": {
+      "fr": [
+        "Le basket-ball",
+        "Le football",
+        "Le baseball",
+        "Le rugby"
+      ],
+      "en": [
+        "Basketball",
+        "Football (soccer)",
+        "Baseball",
+        "Rugby"
+      ],
+      "es": [
+        "El baloncesto",
+        "El fútbol",
+        "El béisbol",
+        "El rugby"
+      ],
+      "pt": [
+        "O basquetebol",
+        "O futebol",
+        "O basebol",
+        "O râguebi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Slam Dunk » est l'un des plus célèbres mangas de basket.",
+      "en": "\"Slam Dunk\" is one of the most famous basketball mangas.",
+      "es": "«Slam Dunk» es uno de los mangas de baloncesto más famosos.",
+      "pt": "«Slam Dunk» é um dos mangás de basquetebol mais famosos."
+    }
+  },
+  {
+    "id": "manga_0055",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Que fait Conan Edogawa dans « Détective Conan » ?",
+      "en": "What does Conan Edogawa do in \"Detective Conan\"?",
+      "es": "¿Qué hace Conan Edogawa en «Detective Conan»?",
+      "pt": "O que faz Conan Edogawa em «Detective Conan»?"
+    },
+    "options": {
+      "fr": [
+        "Il résout des enquêtes criminelles",
+        "Il pilote des robots",
+        "Il fait de la magie",
+        "Il cuisine"
+      ],
+      "en": [
+        "He solves criminal cases",
+        "He pilots robots",
+        "He performs magic",
+        "He cooks"
+      ],
+      "es": [
+        "Resuelve casos criminales",
+        "Pilota robots",
+        "Hace magia",
+        "Cocina"
+      ],
+      "pt": [
+        "Resolve casos criminais",
+        "Pilota robôs",
+        "Faz magia",
+        "Cozinha"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Conan est un détective qui élucide des affaires criminelles.",
+      "en": "Conan is a detective who solves criminal cases.",
+      "es": "Conan es un detective que resuelve casos criminales.",
+      "pt": "Conan é um detetive que resolve casos criminais."
+    }
+  },
+  {
+    "id": "manga_0056",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment s'appelle le fils aîné de Son Goku dans « Dragon Ball » ?",
+      "en": "What is the name of Son Goku's eldest son in \"Dragon Ball\"?",
+      "es": "¿Cómo se llama el hijo mayor de Son Goku en «Dragon Ball»?",
+      "pt": "Como se chama o filho mais velho de Son Goku em «Dragon Ball»?"
+    },
+    "options": {
+      "fr": [
+        "Gohan",
+        "Goten",
+        "Trunks",
+        "Krilin"
+      ],
+      "en": [
+        "Gohan",
+        "Goten",
+        "Trunks",
+        "Krillin"
+      ],
+      "es": [
+        "Gohan",
+        "Goten",
+        "Trunks",
+        "Krilin"
+      ],
+      "pt": [
+        "Gohan",
+        "Goten",
+        "Trunks",
+        "Krillin"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Son Gohan est le fils aîné de Goku.",
+      "en": "Son Gohan is Goku's eldest son.",
+      "es": "Son Gohan es el hijo mayor de Goku.",
+      "pt": "Son Gohan é o filho mais velho de Goku."
+    }
+  },
+  {
+    "id": "manga_0057",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "À quoi jouent principalement les personnages de « Yu-Gi-Oh! » ?",
+      "en": "What do the characters in \"Yu-Gi-Oh!\" mainly play?",
+      "es": "¿A qué juegan principalmente los personajes de «Yu-Gi-Oh!»?",
+      "pt": "Ao que jogam principalmente as personagens de «Yu-Gi-Oh!»?"
+    },
+    "options": {
+      "fr": [
+        "À un jeu de cartes",
+        "Aux échecs",
+        "Au football",
+        "À des jeux vidéo"
+      ],
+      "en": [
+        "A card game",
+        "Chess",
+        "Football (soccer)",
+        "Video games"
+      ],
+      "es": [
+        "A un juego de cartas",
+        "Al ajedrez",
+        "Al fútbol",
+        "A videojuegos"
+      ],
+      "pt": [
+        "A um jogo de cartas",
+        "Ao xadrez",
+        "Ao futebol",
+        "A videojogos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'intrigue tourne autour d'un jeu de cartes à collectionner.",
+      "en": "The plot revolves around a collectible card game.",
+      "es": "La trama gira en torno a un juego de cartas coleccionables.",
+      "pt": "O enredo gira em torno de um jogo de cartas colecionáveis."
+    }
+  },
+  {
+    "id": "manga_0058",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment s'appelle le cuisinier de l'équipage de Luffy dans « One Piece » ?",
+      "en": "What is the name of the cook in Luffy's crew in \"One Piece\"?",
+      "es": "¿Cómo se llama el cocinero de la tripulación de Luffy en «One Piece»?",
+      "pt": "Como se chama o cozinheiro da tripulação de Luffy em «One Piece»?"
+    },
+    "options": {
+      "fr": [
+        "Sanji",
+        "Zoro",
+        "Usopp",
+        "Brook"
+      ],
+      "en": [
+        "Sanji",
+        "Zoro",
+        "Usopp",
+        "Brook"
+      ],
+      "es": [
+        "Sanji",
+        "Zoro",
+        "Usopp",
+        "Brook"
+      ],
+      "pt": [
+        "Sanji",
+        "Zoro",
+        "Usopp",
+        "Brook"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sanji est le cuisinier de l'équipage du Chapeau de paille.",
+      "en": "Sanji is the cook of the Straw Hat Pirates.",
+      "es": "Sanji es el cocinero de los Piratas del Sombrero de Paja.",
+      "pt": "Sanji é o cozinheiro dos Piratas do Chapéu de Palha."
+    }
+  },
+  {
+    "id": "manga_0059",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment s'appelle le maître ninja de l'équipe 7 dans « Naruto » ?",
+      "en": "What is the name of the ninja master of Team 7 in \"Naruto\"?",
+      "es": "¿Cómo se llama el maestro ninja del Equipo 7 en «Naruto»?",
+      "pt": "Como se chama o mestre ninja da Equipa 7 em «Naruto»?"
+    },
+    "options": {
+      "fr": [
+        "Kakashi",
+        "Jiraiya",
+        "Iruka",
+        "Asuma"
+      ],
+      "en": [
+        "Kakashi",
+        "Jiraiya",
+        "Iruka",
+        "Asuma"
+      ],
+      "es": [
+        "Kakashi",
+        "Jiraiya",
+        "Iruka",
+        "Asuma"
+      ],
+      "pt": [
+        "Kakashi",
+        "Jiraiya",
+        "Iruka",
+        "Asuma"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Kakashi Hatake dirige l'équipe 7.",
+      "en": "Kakashi Hatake leads Team 7.",
+      "es": "Kakashi Hatake dirige el Equipo 7.",
+      "pt": "Kakashi Hatake lidera a Equipa 7."
+    }
+  },
+  {
+    "id": "manga_0060",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel film du Studio Ghibli met en scène une jeune sorcière nommée Kiki ?",
+      "en": "Which Studio Ghibli film features a young witch named Kiki?",
+      "es": "¿Qué película del Studio Ghibli presenta a una joven bruja llamada Kiki?",
+      "pt": "Qual filme do Studio Ghibli apresenta uma jovem bruxa chamada Kiki?"
+    },
+    "options": {
+      "fr": [
+        "Kiki la petite sorcière",
+        "Ponyo sur la falaise",
+        "Arrietty",
+        "Le Château ambulant"
+      ],
+      "en": [
+        "Kiki's Delivery Service",
+        "Ponyo",
+        "Arrietty",
+        "Howl's Moving Castle"
+      ],
+      "es": [
+        "Nicky, la aprendiz de bruja",
+        "Ponyo en el acantilado",
+        "Arrietty",
+        "El castillo ambulante"
+      ],
+      "pt": [
+        "Kiki - A Aprendiz de Feiticeira",
+        "Ponyo à Beira-Mar",
+        "Arrietty",
+        "O Castelo Andante"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Kiki la petite sorcière » (1989) est un film du Studio Ghibli.",
+      "en": "\"Kiki's Delivery Service\" (1989) is a Studio Ghibli film.",
+      "es": "«Nicky, la aprendiz de bruja» (1989) es una película del Studio Ghibli.",
+      "pt": "«Kiki - A Aprendiz de Feiticeira» (1989) é um filme do Studio Ghibli."
+    }
+  },
+  {
+    "id": "manga_0061",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "En quoi Denji peut-il se transformer dans « Chainsaw Man » ?",
+      "en": "What can Denji transform into in \"Chainsaw Man\"?",
+      "es": "¿En qué puede transformarse Denji en «Chainsaw Man»?",
+      "pt": "No que Denji pode transformar-se em «Chainsaw Man»?"
+    },
+    "options": {
+      "fr": [
+        "En homme-tronçonneuse",
+        "En loup-garou",
+        "En dragon",
+        "En robot"
+      ],
+      "en": [
+        "Into Chainsaw Man",
+        "Into a werewolf",
+        "Into a dragon",
+        "Into a robot"
+      ],
+      "es": [
+        "En el hombre-motosierra",
+        "En un hombre lobo",
+        "En un dragón",
+        "En un robot"
+      ],
+      "pt": [
+        "No homem-motosserra",
+        "Num lobisomem",
+        "Num dragão",
+        "Num robô"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Denji fusionne avec son démon pour devenir l'homme-tronçonneuse.",
+      "en": "Denji merges with his devil to become Chainsaw Man.",
+      "es": "Denji se fusiona con su demonio para convertirse en el hombre-motosierra.",
+      "pt": "Denji funde-se com o seu demónio para se tornar o homem-motosserra."
+    }
+  },
+  {
+    "id": "manga_0062",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quel type de pouvoir possède Mob dans « Mob Psycho 100 » ?",
+      "en": "What kind of power does Mob have in \"Mob Psycho 100\"?",
+      "es": "¿Qué tipo de poder posee Mob en «Mob Psycho 100»?",
+      "pt": "Que tipo de poder Mob possui em «Mob Psycho 100»?"
+    },
+    "options": {
+      "fr": [
+        "Des pouvoirs psychiques",
+        "La super-force",
+        "Le contrôle du feu",
+        "L'invisibilité"
+      ],
+      "en": [
+        "Psychic powers",
+        "Super strength",
+        "Fire control",
+        "Invisibility"
+      ],
+      "es": [
+        "Poderes psíquicos",
+        "La superfuerza",
+        "El control del fuego",
+        "La invisibilidad"
+      ],
+      "pt": [
+        "Poderes psíquicos",
+        "A superforça",
+        "O controlo do fogo",
+        "A invisibilidade"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Mob est un puissant esper aux pouvoirs psychiques.",
+      "en": "Mob is a powerful esper with psychic powers.",
+      "es": "Mob es un poderoso esper con poderes psíquicos.",
+      "pt": "Mob é um poderoso esper com poderes psíquicos."
+    }
+  },
+  {
+    "id": "manga_0063",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment s'appelle le héros n°1, surnommé le « Symbole de la Paix », dans « My Hero Academia » ?",
+      "en": "What is the name of the No. 1 hero, nicknamed the \"Symbol of Peace\", in \"My Hero Academia\"?",
+      "es": "¿Cómo se llama el héroe n.º 1, apodado el «Símbolo de la Paz», en «My Hero Academia»?",
+      "pt": "Como se chama o herói n.º 1, apelidado de «Símbolo da Paz», em «My Hero Academia»?"
+    },
+    "options": {
+      "fr": [
+        "All Might",
+        "Endeavor",
+        "Eraserhead",
+        "Hawks"
+      ],
+      "en": [
+        "All Might",
+        "Endeavor",
+        "Eraserhead",
+        "Hawks"
+      ],
+      "es": [
+        "All Might",
+        "Endeavor",
+        "Eraserhead",
+        "Hawks"
+      ],
+      "pt": [
+        "All Might",
+        "Endeavor",
+        "Eraserhead",
+        "Hawks"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "All Might est le héros n°1 et le Symbole de la Paix.",
+      "en": "All Might is the No. 1 hero and the Symbol of Peace.",
+      "es": "All Might es el héroe n.º 1 y el Símbolo de la Paz.",
+      "pt": "All Might é o herói n.º 1 e o Símbolo da Paz."
+    }
+  },
+  {
+    "id": "manga_0064",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Quelle arme les pourfendeurs utilisent-ils dans « Demon Slayer » ?",
+      "en": "What weapon do the demon slayers use in \"Demon Slayer\"?",
+      "es": "¿Qué arma usan los cazadores de demonios en «Demon Slayer»?",
+      "pt": "Que arma os caçadores de demónios usam em «Demon Slayer»?"
+    },
+    "options": {
+      "fr": [
+        "Un sabre",
+        "Un arc",
+        "Une lance",
+        "Un fusil"
+      ],
+      "en": [
+        "A sword",
+        "A bow",
+        "A spear",
+        "A gun"
+      ],
+      "es": [
+        "Una katana",
+        "Un arco",
+        "Una lanza",
+        "Un fusil"
+      ],
+      "pt": [
+        "Uma katana",
+        "Um arco",
+        "Uma lança",
+        "Uma espingarda"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les pourfendeurs combattent au sabre (lames Nichirin).",
+      "en": "The demon slayers fight with swords (Nichirin blades).",
+      "es": "Los cazadores de demonios combaten con katana (hojas Nichirin).",
+      "pt": "Os caçadores de demónios combatem com katana (lâminas Nichirin)."
+    }
+  },
+  {
+    "id": "manga_0065",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "tier": "free",
+    "question": {
+      "fr": "Comment s'appelle le héros principal de « Bleach » ?",
+      "en": "What is the name of the main hero of \"Bleach\"?",
+      "es": "¿Cómo se llama el héroe principal de «Bleach»?",
+      "pt": "Como se chama o herói principal de «Bleach»?"
+    },
+    "options": {
+      "fr": [
+        "Ichigo Kurosaki",
+        "Renji Abarai",
+        "Uryū Ishida",
+        "Yasutora Sado"
+      ],
+      "en": [
+        "Ichigo Kurosaki",
+        "Renji Abarai",
+        "Uryū Ishida",
+        "Yasutora Sado"
+      ],
+      "es": [
+        "Ichigo Kurosaki",
+        "Renji Abarai",
+        "Uryū Ishida",
+        "Yasutora Sado"
+      ],
+      "pt": [
+        "Ichigo Kurosaki",
+        "Renji Abarai",
+        "Uryū Ishida",
+        "Yasutora Sado"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ichigo Kurosaki est le protagoniste de « Bleach ».",
+      "en": "Ichigo Kurosaki is the protagonist of \"Bleach\".",
+      "es": "Ichigo Kurosaki es el protagonista de «Bleach».",
+      "pt": "Ichigo Kurosaki é o protagonista de «Bleach»."
+    }
+  },
+  {
+    "id": "manga_0066",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui a écrit le scénario du manga « Death Note » ?",
+      "en": "Who wrote the story of the manga \"Death Note\"?",
+      "es": "¿Quién escribió el guion del manga «Death Note»?",
+      "pt": "Quem escreveu o argumento do mangá «Death Note»?"
+    },
+    "options": {
+      "fr": [
+        "Tsugumi Ohba",
+        "Takeshi Obata",
+        "Eiichiro Oda",
+        "Yoshihiro Togashi"
+      ],
+      "en": [
+        "Tsugumi Ohba",
+        "Takeshi Obata",
+        "Eiichiro Oda",
+        "Yoshihiro Togashi"
+      ],
+      "es": [
+        "Tsugumi Ohba",
+        "Takeshi Obata",
+        "Eiichiro Oda",
+        "Yoshihiro Togashi"
+      ],
+      "pt": [
+        "Tsugumi Ohba",
+        "Takeshi Obata",
+        "Eiichiro Oda",
+        "Yoshihiro Togashi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Tsugumi Ohba en a écrit le scénario ; Takeshi Obata l'a dessiné.",
+      "en": "Tsugumi Ohba wrote the story; Takeshi Obata drew the art.",
+      "es": "Tsugumi Ohba escribió el guion; Takeshi Obata hizo el dibujo.",
+      "pt": "Tsugumi Ohba escreveu o argumento; Takeshi Obata fez o desenho."
+    }
+  },
+  {
+    "id": "manga_0067",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel studio d'animation a produit « Cowboy Bebop » ?",
+      "en": "Which animation studio produced \"Cowboy Bebop\"?",
+      "es": "¿Qué estudio de animación produjo «Cowboy Bebop»?",
+      "pt": "Qual estúdio de animação produziu «Cowboy Bebop»?"
+    },
+    "options": {
+      "fr": [
+        "Sunrise",
+        "Gainax",
+        "Madhouse",
+        "Bones"
+      ],
+      "en": [
+        "Sunrise",
+        "Gainax",
+        "Madhouse",
+        "Bones"
+      ],
+      "es": [
+        "Sunrise",
+        "Gainax",
+        "Madhouse",
+        "Bones"
+      ],
+      "pt": [
+        "Sunrise",
+        "Gainax",
+        "Madhouse",
+        "Bones"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Cowboy Bebop » (1998) a été produit par le studio Sunrise.",
+      "en": "\"Cowboy Bebop\" (1998) was produced by Sunrise.",
+      "es": "«Cowboy Bebop» (1998) fue producido por el estudio Sunrise.",
+      "pt": "«Cowboy Bebop» (1998) foi produzido pelo estúdio Sunrise."
+    }
+  },
+  {
+    "id": "manga_0068",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle seiyū prête sa voix à Son Goku dans la version japonaise de « Dragon Ball » ?",
+      "en": "Which seiyū voices Son Goku in the Japanese version of \"Dragon Ball\"?",
+      "es": "¿Qué seiyū pone voz a Son Goku en la versión japonesa de «Dragon Ball»?",
+      "pt": "Qual seiyū dá voz a Son Goku na versão japonesa de «Dragon Ball»?"
+    },
+    "options": {
+      "fr": [
+        "Masako Nozawa",
+        "Mayumi Tanaka",
+        "Megumi Hayashibara",
+        "Aya Hirano"
+      ],
+      "en": [
+        "Masako Nozawa",
+        "Mayumi Tanaka",
+        "Megumi Hayashibara",
+        "Aya Hirano"
+      ],
+      "es": [
+        "Masako Nozawa",
+        "Mayumi Tanaka",
+        "Megumi Hayashibara",
+        "Aya Hirano"
+      ],
+      "pt": [
+        "Masako Nozawa",
+        "Mayumi Tanaka",
+        "Megumi Hayashibara",
+        "Aya Hirano"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Masako Nozawa double Goku depuis 1986.",
+      "en": "Masako Nozawa has voiced Goku since 1986.",
+      "es": "Masako Nozawa dobla a Goku desde 1986.",
+      "pt": "Masako Nozawa dá voz a Goku desde 1986."
+    }
+  },
+  {
+    "id": "manga_0069",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui est l'auteur de « Hunter x Hunter » ?",
+      "en": "Who is the author of \"Hunter x Hunter\"?",
+      "es": "¿Quién es el autor de «Hunter x Hunter»?",
+      "pt": "Quem é o autor de «Hunter x Hunter»?"
+    },
+    "options": {
+      "fr": [
+        "Yoshihiro Togashi",
+        "Masashi Kishimoto",
+        "Tite Kubo",
+        "Kentaro Miura"
+      ],
+      "en": [
+        "Yoshihiro Togashi",
+        "Masashi Kishimoto",
+        "Tite Kubo",
+        "Kentaro Miura"
+      ],
+      "es": [
+        "Yoshihiro Togashi",
+        "Masashi Kishimoto",
+        "Tite Kubo",
+        "Kentaro Miura"
+      ],
+      "pt": [
+        "Yoshihiro Togashi",
+        "Masashi Kishimoto",
+        "Tite Kubo",
+        "Kentaro Miura"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Yoshihiro Togashi est aussi l'auteur de « YuYu Hakusho ».",
+      "en": "Yoshihiro Togashi is also the author of \"YuYu Hakusho\".",
+      "es": "Yoshihiro Togashi es también el autor de «YuYu Hakusho».",
+      "pt": "Yoshihiro Togashi é também o autor de «YuYu Hakusho»."
+    }
+  },
+  {
+    "id": "manga_0070",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "En quelle année le film d'animation « Akira » est-il sorti ?",
+      "en": "In what year was the animated film \"Akira\" released?",
+      "es": "¿En qué año se estrenó la película de animación «Akira»?",
+      "pt": "Em que ano estreou o filme de animação «Akira»?"
+    },
+    "options": {
+      "fr": [
+        "1988",
+        "1995",
+        "1982",
+        "1991"
+      ],
+      "en": [
+        "1988",
+        "1995",
+        "1982",
+        "1991"
+      ],
+      "es": [
+        "1988",
+        "1995",
+        "1982",
+        "1991"
+      ],
+      "pt": [
+        "1988",
+        "1995",
+        "1982",
+        "1991"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film « Akira » de Katsuhiro Ōtomo est sorti en 1988.",
+      "en": "Katsuhiro Ōtomo's film \"Akira\" was released in 1988.",
+      "es": "La película «Akira» de Katsuhiro Ōtomo se estrenó en 1988.",
+      "pt": "O filme «Akira» de Katsuhiro Ōtomo estreou em 1988."
+    }
+  },
+  {
+    "id": "manga_0071",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quelle technique signature Kakashi a-t-il inventée dans « Naruto » ?",
+      "en": "Which signature technique did Kakashi invent in \"Naruto\"?",
+      "es": "¿Qué técnica característica inventó Kakashi en «Naruto»?",
+      "pt": "Qual técnica característica Kakashi inventou em «Naruto»?"
+    },
+    "options": {
+      "fr": [
+        "Le Chidori",
+        "Le Rasengan",
+        "l'Hiraishin",
+        "le Jūken"
+      ],
+      "en": [
+        "The Chidori",
+        "The Rasengan",
+        "The Hiraishin",
+        "The Jūken"
+      ],
+      "es": [
+        "El Chidori",
+        "El Rasengan",
+        "El Hiraishin",
+        "El Jūken"
+      ],
+      "pt": [
+        "O Chidori",
+        "O Rasengan",
+        "O Hiraishin",
+        "O Jūken"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Chidori est la technique créée par Kakashi.",
+      "en": "The Chidori is the technique created by Kakashi.",
+      "es": "El Chidori es la técnica creada por Kakashi.",
+      "pt": "O Chidori é a técnica criada por Kakashi."
+    }
+  },
+  {
+    "id": "manga_0072",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel studio a animé « Fullmetal Alchemist: Brotherhood » ?",
+      "en": "Which studio animated \"Fullmetal Alchemist: Brotherhood\"?",
+      "es": "¿Qué estudio animó «Fullmetal Alchemist: Brotherhood»?",
+      "pt": "Qual estúdio animou «Fullmetal Alchemist: Brotherhood»?"
+    },
+    "options": {
+      "fr": [
+        "Bones",
+        "Madhouse",
+        "Ufotable",
+        "Pierrot"
+      ],
+      "en": [
+        "Bones",
+        "Madhouse",
+        "Ufotable",
+        "Pierrot"
+      ],
+      "es": [
+        "Bones",
+        "Madhouse",
+        "Ufotable",
+        "Pierrot"
+      ],
+      "pt": [
+        "Bones",
+        "Madhouse",
+        "Ufotable",
+        "Pierrot"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Brotherhood » (2009) a été animé par le studio Bones.",
+      "en": "\"Brotherhood\" (2009) was animated by Bones.",
+      "es": "«Brotherhood» (2009) fue animado por el estudio Bones.",
+      "pt": "«Brotherhood» (2009) foi animado pelo estúdio Bones."
+    }
+  },
+  {
+    "id": "manga_0073",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui est l'auteur du manga « Berserk » ?",
+      "en": "Who is the author of the manga \"Berserk\"?",
+      "es": "¿Quién es el autor del manga «Berserk»?",
+      "pt": "Quem é o autor do mangá «Berserk»?"
+    },
+    "options": {
+      "fr": [
+        "Kentaro Miura",
+        "Hajime Isayama",
+        "Sui Ishida",
+        "Yukito Kishiro"
+      ],
+      "en": [
+        "Kentaro Miura",
+        "Hajime Isayama",
+        "Sui Ishida",
+        "Yukito Kishiro"
+      ],
+      "es": [
+        "Kentaro Miura",
+        "Hajime Isayama",
+        "Sui Ishida",
+        "Yukito Kishiro"
+      ],
+      "pt": [
+        "Kentaro Miura",
+        "Hajime Isayama",
+        "Sui Ishida",
+        "Yukito Kishiro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Berserk » est l'œuvre de Kentaro Miura.",
+      "en": "\"Berserk\" is the work of Kentaro Miura.",
+      "es": "«Berserk» es obra de Kentaro Miura.",
+      "pt": "«Berserk» é obra de Kentaro Miura."
+    }
+  },
+  {
+    "id": "manga_0074",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui est l'auteur de « Jujutsu Kaisen » ?",
+      "en": "Who is the author of \"Jujutsu Kaisen\"?",
+      "es": "¿Quién es el autor de «Jujutsu Kaisen»?",
+      "pt": "Quem é o autor de «Jujutsu Kaisen»?"
+    },
+    "options": {
+      "fr": [
+        "Gege Akutami",
+        "Koyoharu Gotouge",
+        "Tatsuki Fujimoto",
+        "Kohei Horikoshi"
+      ],
+      "en": [
+        "Gege Akutami",
+        "Koyoharu Gotouge",
+        "Tatsuki Fujimoto",
+        "Kohei Horikoshi"
+      ],
+      "es": [
+        "Gege Akutami",
+        "Koyoharu Gotouge",
+        "Tatsuki Fujimoto",
+        "Kohei Horikoshi"
+      ],
+      "pt": [
+        "Gege Akutami",
+        "Koyoharu Gotouge",
+        "Tatsuki Fujimoto",
+        "Kohei Horikoshi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Jujutsu Kaisen » est écrit et dessiné par Gege Akutami.",
+      "en": "\"Jujutsu Kaisen\" is written and drawn by Gege Akutami.",
+      "es": "«Jujutsu Kaisen» está escrito y dibujado por Gege Akutami.",
+      "pt": "«Jujutsu Kaisen» é escrito e desenhado por Gege Akutami."
+    }
+  },
+  {
+    "id": "manga_0075",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui est l'auteur de « Demon Slayer » ?",
+      "en": "Who is the author of \"Demon Slayer\"?",
+      "es": "¿Quién es el autor de «Demon Slayer»?",
+      "pt": "Quem é o autor de «Demon Slayer»?"
+    },
+    "options": {
+      "fr": [
+        "Koyoharu Gotouge",
+        "Gege Akutami",
+        "Tatsuki Fujimoto",
+        "Hajime Isayama"
+      ],
+      "en": [
+        "Koyoharu Gotouge",
+        "Gege Akutami",
+        "Tatsuki Fujimoto",
+        "Hajime Isayama"
+      ],
+      "es": [
+        "Koyoharu Gotouge",
+        "Gege Akutami",
+        "Tatsuki Fujimoto",
+        "Hajime Isayama"
+      ],
+      "pt": [
+        "Koyoharu Gotouge",
+        "Gege Akutami",
+        "Tatsuki Fujimoto",
+        "Hajime Isayama"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Demon Slayer » est l'œuvre de Koyoharu Gotouge.",
+      "en": "\"Demon Slayer\" is the work of Koyoharu Gotouge.",
+      "es": "«Demon Slayer» es obra de Koyoharu Gotouge.",
+      "pt": "«Demon Slayer» é obra de Koyoharu Gotouge."
+    }
+  },
+  {
+    "id": "manga_0076",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel type est super efficace contre les Pokémon de type Feu ?",
+      "en": "Which type is super effective against Fire-type Pokémon?",
+      "es": "¿Qué tipo es superefectivo contra los Pokémon de tipo Fuego?",
+      "pt": "Qual tipo é supereficaz contra os Pokémon do tipo Fogo?"
+    },
+    "options": {
+      "fr": [
+        "L'Eau",
+        "La Plante",
+        "l'Électrik",
+        "le Vol"
+      ],
+      "en": [
+        "Water",
+        "Grass",
+        "Electric",
+        "Flying"
+      ],
+      "es": [
+        "Agua",
+        "Planta",
+        "Eléctrico",
+        "Volador"
+      ],
+      "pt": [
+        "Água",
+        "Planta",
+        "Elétrico",
+        "Voador"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le type Eau est super efficace contre le type Feu.",
+      "en": "The Water type is super effective against the Fire type.",
+      "es": "El tipo Agua es superefectivo contra el tipo Fuego.",
+      "pt": "O tipo Água é supereficaz contra o tipo Fogo."
+    }
+  },
+  {
+    "id": "manga_0077",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel studio a animé l'adaptation de « Jujutsu Kaisen » ?",
+      "en": "Which studio animated the adaptation of \"Jujutsu Kaisen\"?",
+      "es": "¿Qué estudio animó la adaptación de «Jujutsu Kaisen»?",
+      "pt": "Qual estúdio animou a adaptação de «Jujutsu Kaisen»?"
+    },
+    "options": {
+      "fr": [
+        "MAPPA",
+        "Ufotable",
+        "Bones",
+        "Wit Studio"
+      ],
+      "en": [
+        "MAPPA",
+        "Ufotable",
+        "Bones",
+        "Wit Studio"
+      ],
+      "es": [
+        "MAPPA",
+        "Ufotable",
+        "Bones",
+        "Wit Studio"
+      ],
+      "pt": [
+        "MAPPA",
+        "Ufotable",
+        "Bones",
+        "Wit Studio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'animé « Jujutsu Kaisen » est produit par MAPPA.",
+      "en": "The \"Jujutsu Kaisen\" anime is produced by MAPPA.",
+      "es": "El anime «Jujutsu Kaisen» es producido por MAPPA.",
+      "pt": "O anime «Jujutsu Kaisen» é produzido pela MAPPA."
+    }
+  },
+  {
+    "id": "manga_0078",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel pouvoir Lelouch obtient-il dans « Code Geass » ?",
+      "en": "What power does Lelouch gain in \"Code Geass\"?",
+      "es": "¿Qué poder obtiene Lelouch en «Code Geass»?",
+      "pt": "Que poder Lelouch obtém em «Code Geass»?"
+    },
+    "options": {
+      "fr": [
+        "Le Geass (donner un ordre absolu)",
+        "le Nen",
+        "le Sharingan",
+        "un Stand"
+      ],
+      "en": [
+        "The Geass (to give an absolute command)",
+        "Nen",
+        "The Sharingan",
+        "A Stand"
+      ],
+      "es": [
+        "El Geass (dar una orden absoluta)",
+        "El Nen",
+        "El Sharingan",
+        "Un Stand"
+      ],
+      "pt": [
+        "O Geass (dar uma ordem absoluta)",
+        "O Nen",
+        "O Sharingan",
+        "Um Stand"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Geass permet à Lelouch d'imposer un ordre absolu à quiconque.",
+      "en": "The Geass allows Lelouch to impose an absolute command on anyone.",
+      "es": "El Geass permite a Lelouch imponer una orden absoluta a cualquiera.",
+      "pt": "O Geass permite a Lelouch impor uma ordem absoluta a qualquer pessoa."
+    }
+  },
+  {
+    "id": "manga_0079",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Qui est l'auteur du manga « Bleach » ?",
+      "en": "Who is the author of the manga \"Bleach\"?",
+      "es": "¿Quién es el autor del manga «Bleach»?",
+      "pt": "Quem é o autor do mangá «Bleach»?"
+    },
+    "options": {
+      "fr": [
+        "Tite Kubo",
+        "Eiichiro Oda",
+        "Masashi Kishimoto",
+        "Yoshihiro Togashi"
+      ],
+      "en": [
+        "Tite Kubo",
+        "Eiichiro Oda",
+        "Masashi Kishimoto",
+        "Yoshihiro Togashi"
+      ],
+      "es": [
+        "Tite Kubo",
+        "Eiichiro Oda",
+        "Masashi Kishimoto",
+        "Yoshihiro Togashi"
+      ],
+      "pt": [
+        "Tite Kubo",
+        "Eiichiro Oda",
+        "Masashi Kishimoto",
+        "Yoshihiro Togashi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Bleach » a été créé par Tite Kubo.",
+      "en": "\"Bleach\" was created by Tite Kubo.",
+      "es": "«Bleach» fue creado por Tite Kubo.",
+      "pt": "«Bleach» foi criado por Tite Kubo."
+    }
+  },
+  {
+    "id": "manga_0080",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "tier": "account",
+    "question": {
+      "fr": "Quel peuple guerrier « Vinland Saga » met-il en scène ?",
+      "en": "Which warrior people does \"Vinland Saga\" depict?",
+      "es": "¿Qué pueblo guerrero retrata «Vinland Saga»?",
+      "pt": "Qual povo guerreiro «Vinland Saga» retrata?"
+    },
+    "options": {
+      "fr": [
+        "Les Vikings",
+        "Les samouraïs",
+        "Les pirates",
+        "Les chevaliers"
+      ],
+      "en": [
+        "The Vikings",
+        "The samurai",
+        "The pirates",
+        "The knights"
+      ],
+      "es": [
+        "Los vikingos",
+        "Los samuráis",
+        "Los piratas",
+        "Los caballeros"
+      ],
+      "pt": [
+        "Os vikings",
+        "Os samurais",
+        "Os piratas",
+        "Os cavaleiros"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Vinland Saga » suit des guerriers vikings au XIᵉ siècle.",
+      "en": "\"Vinland Saga\" follows Viking warriors in the 11th century.",
+      "es": "«Vinland Saga» sigue a guerreros vikingos en el siglo XI.",
+      "pt": "«Vinland Saga» segue guerreiros vikings no século XI."
+    }
+  }
+]
