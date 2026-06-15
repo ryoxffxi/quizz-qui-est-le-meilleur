@@ -50,6 +50,15 @@ export default function Footer() {
         <span>@ryo.offc</span>
       </a>
       <p className="footer-note">{t('footer_follow')}</p>
+      <button
+        type="button"
+        className="footer-cookies"
+        onClick={() =>
+          window.dispatchEvent(new CustomEvent('quizz:open-cookies'))
+        }
+      >
+        {t('cookie_manage')}
+      </button>
     </footer>
   )
 }

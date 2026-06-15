@@ -5,6 +5,14 @@ export default {
   app_subtitle: 'Qui est le meilleur ?',
   app_title: 'Quizz - Qui est le meilleur ?',
   footer_follow: 'Suivez-nous sur Instagram',
+  cookie_text:
+    'On utilise des cookies pour faire fonctionner le site et, avec ton accord, en mesurer l’audience. Tu choisis.',
+  cookie_detail:
+    'Les cookies essentiels assurent le bon fonctionnement du site. Les cookies de mesure d’audience ne sont activés qu’avec ton accord. Tu peux changer d’avis à tout moment via « Cookies » en bas de page.',
+  cookie_accept: 'Accepter',
+  cookie_reject: 'Refuser',
+  cookie_more: 'En savoir plus',
+  cookie_manage: 'Cookies',
 
   // En-tête / divers
   sound_on: 'Couper le son',

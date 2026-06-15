@@ -7,6 +7,7 @@ import ChallengeInvite from './components/ChallengeInvite'
 import ChallengeResultView from './components/ChallengeResultView'
 import LanguageSelector from './components/LanguageSelector'
 import Footer from './components/Footer'
+import CookieConsent from './components/CookieConsent'
 import { sound } from './lib/sound'
 import { useI18n } from './i18n'
 import {
@@ -133,6 +134,7 @@ export default function App() {
       )}
 
       <Footer />
+      <CookieConsent />
     </div>
   )
 }
