@@ -1,4 +1,4 @@
-# Quizzo 🎯
+# Quizz - Qui est le meilleur ? 🎯
 
 Site de quiz fun et mobile-first pour tester ses connaissances, seul ou en défi
 entre potes — sans compte. Thème sombre, transitions douces, effets sonores

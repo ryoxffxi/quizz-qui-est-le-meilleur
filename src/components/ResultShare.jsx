@@ -42,7 +42,7 @@ export default function ResultShare({ resultData }) {
         backgroundColor: '#0b0f1a',
       })
       if (!blob) throw new Error('capture vide')
-      const file = new File([blob], 'ryo-offc.png', { type: 'image/png' })
+      const file = new File([blob], 'quizz.png', { type: 'image/png' })
 
       if (navigator.canShare && navigator.canShare({ files: [file] })) {
         await navigator.share({
@@ -55,7 +55,7 @@ export default function ResultShare({ resultData }) {
         const url = URL.createObjectURL(blob)
         const a = document.createElement('a')
         a.href = url
-        a.download = 'ryo-offc.png'
+        a.download = 'quizz.png'
         document.body.appendChild(a)
         a.click()
         a.remove()

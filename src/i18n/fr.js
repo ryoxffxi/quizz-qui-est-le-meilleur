@@ -1,5 +1,10 @@
 // Traductions françaises. Les {placeholders} sont remplacés par t(clé, vars).
 export default {
+  // Identité du jeu
+  app_name: 'Quizz',
+  app_subtitle: 'Qui est le meilleur ?',
+  app_title: 'Quizz - Qui est le meilleur ?',
+
   // En-tête / divers
   sound_on: 'Couper le son',
   sound_off: 'Activer le son',
@@ -124,18 +129,18 @@ export default {
   share_generating: '⏳ Génération…',
   share_downloaded: 'Image téléchargée ✓',
   share_image_error: 'Impossible de générer l’image 😕',
-  share_native_title: 'ryo.offc',
-  share_native_text: 'Je te défie sur ryo.offc — sauras-tu faire mieux ? 🎯',
-  share_native_image_text: 'Mon résultat sur ryo.offc 🎯 À ton tour !',
+  share_native_title: 'Quizz - Qui est le meilleur ?',
+  share_native_text: 'Je te défie sur Quizz — sauras-tu faire mieux ? 🎯',
+  share_native_image_text: 'Mon résultat sur Quizz 🎯 À ton tour !',
 
   // Vue résultat (page de conversion du lien partagé)
   result_invalid: 'Lien de résultat invalide 😕',
   result_solo_label: 'Révision solo · {diff}',
-  result_solo_play: '🎯 Jouer sur ryo.offc',
-  landing_intro: 'Ce score a été réalisé sur ryo.offc 👇',
+  result_solo_play: '🎯 Jouer sur Quizz',
+  landing_intro: 'Ce score a été réalisé sur Quizz 👇',
   landing_challenge: '⚔️ Défier un ami',
   landing_play: '🎯 Jouer maintenant',
-  concept_title: '💡 C’est quoi ryo.offc ?',
+  concept_title: '💡 C’est quoi Quizz ?',
   concept_text:
     'Des quiz fun pour tester tes connaissances — en solo ou en défi avec tes amis. Gratuit, sans compte.',
   result_duel_win: '🏆 {name} l’emporte !',

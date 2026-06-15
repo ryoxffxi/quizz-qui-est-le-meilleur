@@ -33,7 +33,7 @@ const ShareCard = forwardRef(function ShareCard({ resultData, category }, ref) {
           textShadow: '0 4px 18px rgba(0,0,0,0.3)',
         }}
       >
-        ryo.offc
+        {t('app_name')}
       </div>
       <div
         style={{

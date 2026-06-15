@@ -110,8 +110,8 @@ export function readPlayFromUrl() {
 
 // URL « propre » du jeu (pour l'affichage sur la carte image).
 export function gameHost() {
-  if (typeof window === 'undefined') return 'ryo.offc'
-  return window.location.host || 'ryo.offc'
+  if (typeof window === 'undefined') return 'Quizz'
+  return window.location.host || 'Quizz'
 }
 
 // Nettoie le hash (quand on revient à l'accueil).

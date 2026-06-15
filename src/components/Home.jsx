@@ -18,7 +18,8 @@ export default function Home({ onStart }) {
   return (
     <div className="home">
       <header className="home-head">
-        <h1 className="logo">ryo.offc</h1>
+        <h1 className="logo">{t('app_name')}</h1>
+        <p className="home-title">{t('app_subtitle')}</p>
         <p className="tagline">{t('tagline')}</p>
       </header>
 
