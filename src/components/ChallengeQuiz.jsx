@@ -15,6 +15,7 @@ import { useI18n } from '../i18n'
 import ErrorRecap from './ErrorRecap'
 import ResultHero from './ResultHero'
 import ResultShare from './ResultShare'
+import ResultAd from './ResultAd'
 
 const TICK_MS = 50
 
@@ -278,6 +279,8 @@ export default function ChallengeQuiz({ config, onExit }) {
             }}
           />
         )}
+
+        {isLast && <ResultAd />}
 
         <div className="result-actions">
           {!isLast && (

@@ -50,15 +50,38 @@ export default function Footer() {
         <span>@ryo.offc</span>
       </a>
       <p className="footer-note">{t('footer_follow')}</p>
-      <button
-        type="button"
-        className="footer-cookies"
-        onClick={() =>
-          window.dispatchEvent(new CustomEvent('quizz:open-cookies'))
-        }
-      >
-        {t('cookie_manage')}
-      </button>
+      <nav className="footer-links">
+        <button
+          type="button"
+          onClick={() =>
+            window.dispatchEvent(
+              new CustomEvent('quizz:open-legal', { detail: 'privacy' }),
+            )
+          }
+        >
+          {t('footer_privacy')}
+        </button>
+        <span aria-hidden="true">·</span>
+        <button
+          type="button"
+          onClick={() =>
+            window.dispatchEvent(
+              new CustomEvent('quizz:open-legal', { detail: 'terms' }),
+            )
+          }
+        >
+          {t('footer_terms')}
+        </button>
+        <span aria-hidden="true">·</span>
+        <button
+          type="button"
+          onClick={() =>
+            window.dispatchEvent(new CustomEvent('quizz:open-cookies'))
+          }
+        >
+          {t('cookie_manage')}
+        </button>
+      </nav>
     </footer>
   )
 }

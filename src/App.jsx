@@ -8,6 +8,9 @@ import ChallengeResultView from './components/ChallengeResultView'
 import LanguageSelector from './components/LanguageSelector'
 import Footer from './components/Footer'
 import CookieConsent from './components/CookieConsent'
+import Paywall from './components/Paywall'
+import LegalModal from './components/LegalModal'
+import { usePremium } from './lib/usePremium'
 import { sound } from './lib/sound'
 import { useI18n } from './i18n'
 import {
@@ -18,6 +21,7 @@ import {
 
 export default function App() {
   const { t } = useI18n()
+  const premium = usePremium()
   // Liens partagés : un lien de DÉFI ouvre l'invitation à jouer les mêmes
   // questions ; un lien de RÉSULTAT ouvre la page de conversion (score + invite
   // à défier / jouer). Sinon, accueil.
@@ -70,6 +74,18 @@ export default function App() {
   return (
     <div className="app">
       <div className="topbar-controls">
+        {!premium && (
+          <button
+            className="premium-toggle"
+            onClick={() =>
+              window.dispatchEvent(new CustomEvent('quizz:open-paywall'))
+            }
+            aria-label={t('upsell_premium')}
+            title={t('upsell_premium')}
+          >
+            👑
+          </button>
+        )}
         <LanguageSelector />
         <button
           className="sound-toggle"
@@ -135,6 +151,8 @@ export default function App() {
 
       <Footer />
       <CookieConsent />
+      <Paywall />
+      <LegalModal />
     </div>
   )
 }

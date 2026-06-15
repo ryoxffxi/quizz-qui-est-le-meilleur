@@ -7,6 +7,7 @@ import { useI18n } from '../i18n'
 import ErrorRecap from './ErrorRecap'
 import ResultHero, { personalityKey } from './ResultHero'
 import ResultShare from './ResultShare'
+import ResultAd from './ResultAd'
 
 export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }) {
   const { t, lang } = useI18n()
@@ -142,6 +143,8 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
             tot: questions.length,
           }}
         />
+
+        <ResultAd />
 
         <div className="result-actions">
           {canContinue && (
