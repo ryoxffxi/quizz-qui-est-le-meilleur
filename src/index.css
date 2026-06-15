@@ -1248,7 +1248,19 @@ body {
   border-radius: var(--radius);
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
   padding: 26px 22px 22px;
-  animation: cookie-slide-up 0.32s var(--ease);
+  transform-origin: center;
+  will-change: transform, opacity;
+  animation: modal-pop 0.26s cubic-bezier(0.22, 1, 0.36, 1);
+}
+@keyframes modal-pop {
+  from {
+    opacity: 0;
+    transform: scale(0.92);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 .paywall-x,
 .legal-x {
