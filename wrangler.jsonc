@@ -1,0 +1,12 @@
+{
+  // Configuration Cloudflare Workers (Static Assets) pour servir le build Vite.
+  // Le site est 100 % statique : on ne déclare pas de "main" (pas de script Worker),
+  // uniquement le dossier d'assets généré par `npm run build`.
+  "name": "quizz-qui-est-le-meilleur",
+  "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./dist",
+    // Toute route inconnue renvoie index.html (SPA) — équivalent du _redirects.
+    "not_found_handling": "single-page-application"
+  }
+}
