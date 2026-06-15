@@ -4,6 +4,7 @@ export default {
   app_name: 'Quizz',
   app_subtitle: 'Quem é o melhor?',
   app_title: 'Quizz - Quem é o melhor?',
+  footer_follow: 'Siga-nos no Instagram',
 
   // Cabeçalho / diversos
   sound_on: 'Silenciar',
