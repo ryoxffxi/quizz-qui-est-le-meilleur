@@ -11,7 +11,8 @@ export default {
   lang_switch: 'Change language',
 
   // Home
-  tagline: 'Test your knowledge, solo or against friends.',
+  tagline:
+    'Brush up on general knowledge, movies and manga — all while challenging your friends.',
   mode_label: 'Game mode',
   mode_solo: '📖 Solo practice',
   mode_challenge: '⚡ Challenge a friend',
@@ -47,18 +48,6 @@ export default {
   lot_label: 'Set {b} / {tb}',
   continue_solo: 'Continue ({n} new questions)',
   challenge_a_friend: '⚡ Challenge a friend',
-
-  // Account prompts
-  upsell_progress:
-    'Want to really level up? Free account = 300+ questions on "{cat}"',
-  upsell_go: 'Go',
-  upsell_done_cat:
-    'You’ve gone through all the free questions! Create a free account to unlock hundreds of questions on "{cat}".',
-  upsell_create: 'Create an account',
-  upsell_done:
-    'You’ve gone through all the free questions! Create a free account to unlock hundreds of questions.',
-  upsell_more:
-    'Want more questions? Create a free account to unlock hundreds more.',
 
   // Mistakes recap
   recap_perfect: '🎉 No mistakes, flawless!',

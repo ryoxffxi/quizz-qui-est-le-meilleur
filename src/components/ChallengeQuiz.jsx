@@ -160,7 +160,6 @@ export default function ChallengeQuiz({ config, onExit }) {
 
   if (finished) {
     const isLast = roundIndex + 1 >= maxRounds
-    const bankExhausted = maxRounds * CHALLENGE_QUESTION_COUNT >= bankSize
     const myRound = myRoundScores[roundIndex] ?? scoreRef.current
     const myCumul = myRoundScores.reduce((a, b) => a + b, 0)
     const oppRound = hasOpponent ? opponentRoundScores[roundIndex] ?? 0 : null
@@ -278,21 +277,6 @@ export default function ChallengeQuiz({ config, onExit }) {
               r: [...myRoundScores],
             }}
           />
-        )}
-
-        {isLast && (
-          <div className="upsell">
-            <p className="upsell-text">
-              {bankExhausted ? t('upsell_done') : t('upsell_more')}
-            </p>
-            <button
-              type="button"
-              className="upsell-go"
-              onClick={() => sound.select()}
-            >
-              {t('upsell_create')}
-            </button>
-          </div>
         )}
 
         <div className="result-actions">

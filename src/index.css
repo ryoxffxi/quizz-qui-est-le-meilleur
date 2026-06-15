@@ -532,48 +532,6 @@ body {
   opacity: 0.95;
 }
 
-/* ===== Encart incitation au compte (écran de résultat) ===== */
-.upsell {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  gap: 12px;
-  text-align: left;
-  margin: 4px 0 18px;
-  padding: 14px 16px;
-  border-radius: var(--radius-sm);
-  background: linear-gradient(
-    135deg,
-    rgba(129, 140, 248, 0.16),
-    rgba(236, 72, 153, 0.16)
-  );
-  border: 1px solid rgba(129, 140, 248, 0.4);
-}
-.upsell-text {
-  flex: 1 1 150px;
-  margin: 0;
-  font-size: 0.92rem;
-  line-height: 1.4;
-  color: var(--text);
-}
-.upsell-go {
-  flex-shrink: 0;
-  border: none;
-  border-radius: 10px;
-  padding: 10px 20px;
-  font-size: 0.95rem;
-  font-weight: 700;
-  color: #fff;
-  cursor: pointer;
-  background: linear-gradient(135deg, #818cf8, #ec4899);
-  box-shadow: 0 6px 16px rgba(236, 72, 153, 0.35);
-  transition: transform 0.15s var(--ease);
-}
-.upsell-go:active {
-  transform: scale(0.94);
-}
-
 /* Boutons d'action sous le récap Solo */
 .result-actions {
   display: flex;

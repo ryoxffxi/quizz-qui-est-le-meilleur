@@ -11,7 +11,8 @@ export default {
   lang_switch: 'Changer de langue',
 
   // Accueil
-  tagline: 'Teste tes connaissances, seul ou entre potes.',
+  tagline:
+    'Révise ton code de la route, ta culture G, le ciné et les mangas — tout en défiant tes amis.',
   mode_label: 'Mode de jeu',
   mode_solo: '📖 Réviser solo',
   mode_challenge: '⚡ Défi entre potes',
@@ -47,18 +48,6 @@ export default {
   lot_label: 'Lot {b} / {tb}',
   continue_solo: 'Continuer ({n} nouvelles questions)',
   challenge_a_friend: '⚡ Défier un pote',
-
-  // Incitations au compte
-  upsell_progress:
-    'Envie de vraiment progresser ? Compte gratuit = 300+ questions sur « {cat} »',
-  upsell_go: 'Go',
-  upsell_done_cat:
-    'Tu as fait le tour des questions gratuites ! Crée un compte gratuit pour débloquer des centaines de questions sur « {cat} ».',
-  upsell_create: 'Créer un compte',
-  upsell_done:
-    'Tu as fait le tour des questions gratuites ! Crée un compte gratuit pour débloquer des centaines de questions.',
-  upsell_more:
-    'Envie de plus de questions ? Crée un compte gratuit pour en débloquer des centaines.',
 
   // Récap des erreurs
   recap_perfect: '🎉 Aucune erreur, sans-faute !',

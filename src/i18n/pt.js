@@ -11,7 +11,8 @@ export default {
   lang_switch: 'Mudar de idioma',
 
   // Início
-  tagline: 'Teste seus conhecimentos, sozinho ou com amigos.',
+  tagline:
+    'Revise sua cultura geral, cinema e mangá — desafiando seus amigos.',
   mode_label: 'Modo de jogo',
   mode_solo: '📖 Treino solo',
   mode_challenge: '⚡ Desafie um amigo',
@@ -47,18 +48,6 @@ export default {
   lot_label: 'Grupo {b} / {tb}',
   continue_solo: 'Continuar ({n} novas perguntas)',
   challenge_a_friend: '⚡ Desafie um amigo',
-
-  // Incentivos de conta
-  upsell_progress:
-    'Quer evoluir de verdade? Conta grátis = mais de 300 perguntas sobre "{cat}"',
-  upsell_go: 'Vai',
-  upsell_done_cat:
-    'Você esgotou as perguntas gratuitas! Crie uma conta grátis para desbloquear centenas de perguntas sobre "{cat}".',
-  upsell_create: 'Criar uma conta',
-  upsell_done:
-    'Você esgotou as perguntas gratuitas! Crie uma conta grátis para desbloquear centenas de perguntas.',
-  upsell_more:
-    'Quer mais perguntas? Crie uma conta grátis para desbloquear centenas.',
 
   // Resumo dos erros
   recap_perfect: '🎉 Sem erros, impecável!',

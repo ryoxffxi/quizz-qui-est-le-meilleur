@@ -143,32 +143,6 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
           }}
         />
 
-        {canContinue ? (
-          // Encart violet d'incitation au compte (tant qu'il reste des questions).
-          <div className="upsell">
-            <p className="upsell-text">{t('upsell_progress', { cat: catName })}</p>
-            <button
-              type="button"
-              className="upsell-go"
-              onClick={() => sound.select()}
-            >
-              {t('upsell_go')}
-            </button>
-          </div>
-        ) : (
-          // Encart de fin quand la banque de la difficulté est épuisée.
-          <div className="upsell">
-            <p className="upsell-text">{t('upsell_done_cat', { cat: catName })}</p>
-            <button
-              type="button"
-              className="upsell-go"
-              onClick={() => sound.select()}
-            >
-              {t('upsell_create')}
-            </button>
-          </div>
-        )}
-
         <div className="result-actions">
           {canContinue && (
             <button
