@@ -6,6 +6,9 @@
   // sinon le déploiement Git mettrait à jour un autre Worker.
   "name": "quizz-qui-est-le-meilleur",
   "compatibility_date": "2025-01-01",
+  // Le site public est sur le domaine ryo-offc.com : on garde l'URL workers.dev
+  // (qui contient le vrai nom de compte) désactivée, même après un déploiement.
+  "workers_dev": false,
   "assets": {
     "directory": "./dist",
     // Toute route inconnue renvoie index.html (SPA) — équivalent du _redirects.
