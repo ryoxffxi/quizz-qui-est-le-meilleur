@@ -3,23 +3,16 @@ import { useI18n } from '../i18n'
 import { usePremium } from '../lib/usePremium'
 import { adsConfigured, ADSENSE_CLIENT, ADSENSE_SLOT_RESULT } from '../lib/ads'
 
-function hasConsent() {
-  try {
-    return localStorage.getItem('quizz_cookie_consent') === 'accepted'
-  } catch {
-    return false
-  }
-}
-
 // Bloc affiché sur l'écran de résultat :
 // - Premium  -> rien (expérience sans pub)
-// - AdSense configuré + consentement -> une vraie publicité
+// - AdSense configuré (client + slot) -> une vraie publicité ; le consentement
+//   UE est géré par le CMP certifié de Google.
 // - sinon -> un encart promo discret invitant au Premium
 export default function ResultAd() {
   const { t } = useI18n()
   const premium = usePremium()
   const pushed = useRef(false)
-  const showAd = adsConfigured() && hasConsent()
+  const showAd = adsConfigured()
 
   useEffect(() => {
     if (premium || !showAd || pushed.current) return
