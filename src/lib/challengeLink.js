@@ -23,6 +23,14 @@ function base64urlDecode(str) {
   return new TextDecoder().decode(bytes)
 }
 
+// Validateurs : les payloads voyagent dans une URL FALSIFIABLE -> on ne fait
+// jamais confiance aux types. On REJETTE tout lien dont un champ rendu/calculé
+// n'est pas du bon type (les liens légitimes passent inchangés).
+const isStr = (v, max = 64) => typeof v === 'string' && v.length <= max
+const isNum = (v) => typeof v === 'number' && Number.isFinite(v)
+const isNumArray = (v, maxLen = 8) =>
+  Array.isArray(v) && v.length <= maxLen && v.every(isNum)
+
 export function encodeChallenge(data) {
   return base64urlEncode(JSON.stringify(data))
 }
@@ -30,7 +38,9 @@ export function encodeChallenge(data) {
 export function decodeChallenge(str) {
   try {
     const obj = JSON.parse(base64urlDecode(str))
-    if (!obj || !obj.c || !obj.d || typeof obj.s !== 'number') return null
+    if (!obj || !isStr(obj.c) || !isStr(obj.d) || !isNum(obj.s)) return null
+    if (obj.p != null && !isStr(obj.p, 24)) return null
+    if (obj.n != null && !isNum(obj.n)) return null
     return obj
   } catch {
     return null
@@ -60,9 +70,16 @@ export function encodeResult(data) {
 export function decodeResult(str) {
   try {
     const obj = JSON.parse(base64urlDecode(str))
-    if (!obj || !obj.c || !obj.d) return null
-    if (obj.solo) return obj // résultat Solo : { c, d, sc, tot }
-    if (!Array.isArray(obj.r1) || !Array.isArray(obj.r2)) return null
+    if (!obj || !isStr(obj.c) || !isStr(obj.d)) return null
+    if (obj.solo) {
+      // Résultat Solo : { c, d, sc, tot } — champs rendus, doivent être finis.
+      if (!isNum(obj.sc) || !isNum(obj.tot)) return null
+      return obj
+    }
+    // Résultat Duel : { c, d, n, p1, r1, p2, r2 } — r1/r2 sommés + utilisés en style.
+    if (!isNumArray(obj.r1) || !isNumArray(obj.r2)) return null
+    if (obj.p1 != null && !isStr(obj.p1, 24)) return null
+    if (obj.p2 != null && !isStr(obj.p2, 24)) return null
     return obj
   } catch {
     return null

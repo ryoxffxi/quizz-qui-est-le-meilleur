@@ -24,3 +24,9 @@ dist-ssr
 *.sw?
 
 .wrangler
+
+# Secrets — ne JAMAIS versionner (backend Stripe/Worker à venir)
+.env
+.env.*
+.dev.vars
+!.env.example
