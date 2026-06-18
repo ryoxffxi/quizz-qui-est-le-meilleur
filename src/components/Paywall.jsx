@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useI18n } from '../i18n'
+import { startCheckout } from '../lib/premium'
 import { usePremium } from '../lib/usePremium'
 import { sound } from '../lib/sound'
 
@@ -22,10 +23,12 @@ export default function Paywall() {
 
   if (!open) return null
 
-  // Paiement réel à venir (Stripe). Pour l'instant on informe l'utilisateur.
-  function checkout() {
+  // Lance Stripe Checkout. Si le backend n'est pas encore en ligne, on retombe
+  // proprement sur le message « bientôt disponible » (aucune casse).
+  async function checkout(plan) {
     sound.select()
-    setSoon(true)
+    const ok = await startCheckout(plan)
+    if (!ok) setSoon(true)
   }
 
   function close() {
@@ -65,7 +68,7 @@ export default function Paywall() {
                   {t('plan_monthly_price')}
                   <span className="plan-period">{t('plan_monthly_period')}</span>
                 </div>
-                <button className="btn btn-secondary plan-cta" onClick={checkout}>
+                <button className="btn btn-secondary plan-cta" onClick={() => checkout('monthly')}>
                   {t('paywall_subscribe')}
                 </button>
               </div>
@@ -77,7 +80,7 @@ export default function Paywall() {
                   {t('plan_lifetime_price')}
                   <span className="plan-period">{t('plan_lifetime_period')}</span>
                 </div>
-                <button className="btn btn-primary plan-cta" onClick={checkout}>
+                <button className="btn btn-primary plan-cta" onClick={() => checkout('lifetime')}>
                   {t('paywall_buy')}
                 </button>
               </div>
