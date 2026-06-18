@@ -37,42 +37,48 @@ function b64urlToBytes(str) {
   for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i)
   return bytes
 }
-const hex = (bytes) =>
-  Array.from(bytes)
-    .map((b) => b.toString(16).padStart(2, '0'))
-    .join('')
+function hexToBytes(h) {
+  if (typeof h !== 'string' || h.length === 0 || h.length % 2 !== 0) return new Uint8Array()
+  const out = new Uint8Array(h.length / 2)
+  for (let i = 0; i < out.length; i++) {
+    const byte = parseInt(h.substr(i * 2, 2), 16)
+    if (Number.isNaN(byte)) return new Uint8Array()
+    out[i] = byte
+  }
+  return out
+}
 
 // ---------- HMAC-SHA256 (Web Crypto) ----------
-async function hmac(secret, data) {
-  const key = await crypto.subtle.importKey(
+async function hmacKey(secret, usages) {
+  return crypto.subtle.importKey(
     'raw',
     enc.encode(secret),
     { name: 'HMAC', hash: 'SHA-256' },
     false,
-    ['sign'],
+    usages,
   )
+}
+async function hmacSign(secret, data) {
+  const key = await hmacKey(secret, ['sign'])
   return new Uint8Array(await crypto.subtle.sign('HMAC', key, enc.encode(data)))
 }
-// Comparaison à temps constant (anti timing-attack).
-function timingSafeEqual(a, b) {
-  if (a.length !== b.length) return false
-  let diff = 0
-  for (let i = 0; i < a.length; i++) diff |= a.charCodeAt(i) ^ b.charCodeAt(i)
-  return diff === 0
+// Vérification à temps constant fournie par Web Crypto (aucune comparaison maison).
+async function hmacVerify(secret, data, signature) {
+  const key = await hmacKey(secret, ['verify'])
+  return crypto.subtle.verify('HMAC', key, signature, enc.encode(data))
 }
 
 // ---------- Jeton de session (JWT HS256) : prouve un email, rien de plus ----------
-async function signToken(secret, payload, ttlSec = 60 * 60 * 24 * 180) {
+async function signToken(secret, payload, ttlSec = 60 * 60 * 24 * 90) {
   const header = b64urlEncode(enc.encode(JSON.stringify({ alg: 'HS256', typ: 'JWT' })))
   const body = b64urlEncode(enc.encode(JSON.stringify({ ...payload, exp: nowSec() + ttlSec })))
-  const sig = b64urlEncode(await hmac(secret, `${header}.${body}`))
+  const sig = b64urlEncode(await hmacSign(secret, `${header}.${body}`))
   return `${header}.${body}.${sig}`
 }
 async function verifyToken(secret, token) {
   if (!token || token.split('.').length !== 3) return null
   const [h, b, s] = token.split('.')
-  const expected = b64urlEncode(await hmac(secret, `${h}.${b}`))
-  if (!timingSafeEqual(expected, s)) return null
+  if (!(await hmacVerify(secret, `${h}.${b}`, b64urlToBytes(s)))) return null
   try {
     const payload = JSON.parse(new TextDecoder().decode(b64urlToBytes(b)))
     if (!payload.exp || payload.exp < nowSec()) return null
@@ -121,10 +127,12 @@ async function verifyStripeSignature(env, payload, header) {
   const t = parts.t
   const v1 = parts.v1
   if (!t || !v1) return false
-  // Anti-rejeu : on rejette les événements de plus de 5 minutes.
-  if (Math.abs(nowSec() - Number(t)) > 300) return false
-  const expected = hex(await hmac(env.STRIPE_WEBHOOK_SECRET, `${t}.${payload}`))
-  return timingSafeEqual(expected, v1)
+  // Anti-rejeu : t doit être un timestamp valide ET récent (< 5 min). NaN -> rejet.
+  const ts = Number(t)
+  if (!Number.isFinite(ts) || Math.abs(nowSec() - ts) > 300) return false
+  const sig = hexToBytes(v1)
+  if (sig.length === 0) return false
+  return hmacVerify(env.STRIPE_WEBHOOK_SECRET, `${t}.${payload}`, sig)
 }
 
 // ---------- D1 ----------
@@ -168,6 +176,14 @@ async function handleWebhook(req, env) {
     return json({ error: 'bad_json' }, 400)
   }
 
+  // Idempotence : Stripe rejoue les webhooks -> on ignore un événement déjà traité.
+  if (event.id) {
+    const seen = await env.DB.prepare('SELECT 1 FROM processed_events WHERE event_id = ?')
+      .bind(event.id)
+      .first()
+    if (seen) return json({ received: true, duplicate: true })
+  }
+
   if (event.type === 'checkout.session.completed') {
     const s = event.data.object
     const email = (s.customer_details && s.customer_details.email) || s.customer_email
@@ -176,11 +192,20 @@ async function handleWebhook(req, env) {
       await upsertEntitlement(env, email.toLowerCase(), 1, plan, s.customer || null)
     }
   } else if (event.type === 'customer.subscription.deleted') {
-    // Abonnement annulé/expiré -> on coupe le premium pour ce client.
+    // Abonnement annulé/expiré -> on coupe UNIQUEMENT le premium MENSUEL de ce
+    // client (ne touche pas un éventuel achat « à vie » sur le même customer).
     await env.DB.prepare(
-      'UPDATE entitlements SET premium = 0, updated_at = ? WHERE stripe_customer_id = ?',
+      "UPDATE entitlements SET premium = 0, updated_at = ? WHERE stripe_customer_id = ? AND plan = 'monthly'",
     )
       .bind(new Date(nowSec() * 1000).toISOString(), event.data.object.customer)
+      .run()
+  }
+
+  if (event.id) {
+    await env.DB.prepare(
+      'INSERT OR IGNORE INTO processed_events (event_id, created_at) VALUES (?, ?)',
+    )
+      .bind(event.id, new Date(nowSec() * 1000).toISOString())
       .run()
   }
   return json({ received: true })

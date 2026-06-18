@@ -85,7 +85,12 @@ envoi d'emails via une offre gratuite type Resend.)
 
 ## Notes sécurité
 - Secrets (sk_, whsec_, SESSION_SECRET) **uniquement** en secrets Worker, jamais dans le repo/bundle.
-- Le jeton ne fait que prouver un email ; le premium est **toujours relu en D1** (révocable).
+- Le jeton ne fait que prouver un email ; le premium est **toujours relu en D1** (révocable). TTL 90 j.
+- Webhook : signature Stripe vérifiée via `crypto.subtle.verify` (temps constant), anti-rejeu 5 min
+  avec timestamp validé, et **idempotence** par `event.id` (table `processed_events`).
+- ⚠️ L'email saisi dans Checkout n'est PAS une preuve d'identité vérifiée. À l'**incrément 2**
+  (login Google / lien magique), exiger une vérification d'email réelle avant de lier un compte
+  à cet email — sinon un acheteur pourrait poser l'entitlement sur l'email d'un tiers.
 - Rotation : après les tests, régénérer les clés Stripe avant de passer en live.
 - Le bloquant pubs reste côté client (comme tout site à pubs) : un adblock contourne
   toujours ; l'objectif est qu'aucun déblocage gratuit ne soit offert par NOTRE interface.

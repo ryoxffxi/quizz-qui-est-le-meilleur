@@ -12,3 +12,10 @@ CREATE TABLE IF NOT EXISTS entitlements (
 -- Recherche par client Stripe (annulation d'abonnement -> premium = 0).
 CREATE INDEX IF NOT EXISTS idx_entitlements_customer
   ON entitlements (stripe_customer_id);
+
+-- Idempotence des webhooks : Stripe rejoue les événements ; on ignore ceux
+-- déjà traités (clé = event.id Stripe).
+CREATE TABLE IF NOT EXISTS processed_events (
+  event_id   TEXT PRIMARY KEY,
+  created_at TEXT NOT NULL
+);
