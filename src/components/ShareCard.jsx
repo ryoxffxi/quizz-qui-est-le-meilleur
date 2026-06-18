@@ -284,7 +284,7 @@ const ShareCard = forwardRef(function ShareCard({ resultData, category }, ref) {
           })}
         </div>
       </div>
-      <Footer />
+      <Bottom cta={cta} url={gameUrl} ctaLabel={t('card_play_cta')} />
     </>,
   )
 })
