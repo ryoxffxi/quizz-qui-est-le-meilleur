@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
 import { useI18n } from '../i18n'
-import { setPremium } from '../lib/premium'
 import { usePremium } from '../lib/usePremium'
 import { sound } from '../lib/sound'
 
@@ -85,16 +84,6 @@ export default function Paywall() {
             </div>
 
             {soon && <p className="paywall-soon">{t('paywall_soon')}</p>}
-
-            <button
-              className="paywall-preview"
-              onClick={() => {
-                setPremium(true)
-                setOpen(false)
-              }}
-            >
-              {t('paywall_preview')}
-            </button>
           </>
         )}
       </div>
