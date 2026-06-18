@@ -7,6 +7,7 @@ import { loadSeen, saveSeen } from '../lib/revision'
 import { sound } from '../lib/sound'
 import { useI18n } from '../i18n'
 import ErrorRecap from './ErrorRecap'
+import ResultQuote from './ResultQuote'
 import ResultHero, { personalityKey } from './ResultHero'
 import ResultShare from './ResultShare'
 import ResultAd from './ResultAd'
@@ -72,6 +73,7 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
   const [correctCount, setCorrectCount] = useState(0)
   const [finished, setFinished] = useState(false)
   const [batchNumber, setBatchNumber] = useState(1) // lot en cours (1 → 4)
+  const [quoteSeed, setQuoteSeed] = useState(0) // graine de la citation de fin
 
   const question = questions[index]
 
@@ -92,6 +94,7 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
   function next() {
     if (index + 1 >= questions.length) {
       recordRound(questions.length, correctCount) // bilan de la manche -> total cumulé
+      setQuoteSeed(Math.floor(Math.random() * 100000)) // citation tirée ici (handler)
       setFinished(true)
       return
     }
@@ -157,6 +160,8 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
             {t('lot_label', { b: batchNumber, tb: totalBatches })}
           </span>
         </ResultHero>
+
+        <ResultQuote correct={correctCount} total={questions.length} seed={quoteSeed} />
 
         <ErrorRecap mistakes={mistakes} />
 

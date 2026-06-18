@@ -776,6 +776,52 @@ body {
   font-weight: 600;
   margin: 6px 0 2px;
 }
+
+/* Citation amusante en fin de partie (façon CoD Mobile), au-dessus du récap. */
+.result-quote {
+  text-align: center;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 1.4;
+  margin: 4px auto 12px;
+  max-width: 32ch;
+}
+.result-quote.genius {
+  color: #fbbf24;
+}
+.result-quote.good {
+  color: var(--accent);
+}
+.result-quote.bad {
+  color: var(--text-dim);
+}
+
+/* Récap d'erreurs repliable : en-tête cliquable + chevron + fin trait. */
+.recap-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  width: 100%;
+  padding: 12px 4px;
+  background: none;
+  border: none;
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+.recap-chevron {
+  flex: none;
+  color: var(--text-dim);
+  transition: transform 0.2s var(--ease);
+}
+.recap-toggle.open .recap-chevron {
+  transform: rotate(180deg);
+}
+.recap-list {
+  margin-top: 2px;
+}
 .text-input::placeholder {
   color: var(--text-dim);
   font-weight: 500;
