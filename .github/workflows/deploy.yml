@@ -11,6 +11,10 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    # Moindre privilège : le déploiement n'a besoin que de LIRE le dépôt
+    # (checkout). Verrouille le GITHUB_TOKEN indépendamment du défaut du repo.
+    permissions:
+      contents: read
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
