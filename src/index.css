@@ -760,6 +760,14 @@ body {
   outline: none;
   border-color: var(--accent);
 }
+
+/* Accessibilité : anneau de focus clavier visible sur tout élément interactif
+   (boutons réponses, catégories, langue...). Souris/tactile non affectés. */
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
 .text-input::placeholder {
   color: var(--text-dim);
   font-weight: 500;

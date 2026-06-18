@@ -1,4 +1,4 @@
-import { createContext, useCallback, useContext, useState } from 'react'
+import { createContext, useCallback, useContext, useEffect, useState } from 'react'
 import fr from './fr'
 import en from './en'
 import es from './es'
@@ -63,6 +63,13 @@ export function LanguageProvider({ children }) {
     },
     [lang],
   )
+
+  // Synchronise le DOM avec la langue de l'UI (a11y lecteurs d'écran + SEO/crawlers).
+  useEffect(() => {
+    document.documentElement.lang = lang
+    const titre = t('app_title')
+    if (titre && titre !== 'app_title') document.title = titre
+  }, [lang, t])
 
   return (
     <LangContext.Provider value={{ lang, setLang, t }}>
