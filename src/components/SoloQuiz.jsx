@@ -1,7 +1,9 @@
-import { useMemo, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { getCategory, getLocalizedQuestions } from '../content'
 import { SOLO_BATCH_SIZE, SOLO_MAX_BATCHES } from '../lib/game'
 import { shuffle, shuffleOptions } from '../lib/quiz'
+import { getStats, recordRound } from '../lib/stats'
+import { loadSeen, saveSeen } from '../lib/revision'
 import { sound } from '../lib/sound'
 import { useI18n } from '../i18n'
 import ErrorRecap from './ErrorRecap'
@@ -25,9 +27,25 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
     Math.ceil(pool.length / SOLO_BATCH_SIZE),
   )
 
-  // Tire un lot de questions encore non vues (options mélangées). Fonction PURE.
-  function pickBatch(seen) {
-    const unseen = pool.filter((q) => !seen.has(q.id))
+  // Mémoire CROSS-SESSION des questions déjà vues (révision : on évite de
+  // retomber sur les mêmes au retour sur le site). Init paresseuse, lecture seule.
+  const seenStoreRef = useRef(null)
+  if (seenStoreRef.current === null) {
+    seenStoreRef.current = loadSeen(categoryId, difficulty)
+  }
+
+  // Tire un lot de questions encore non vues (cette session ET les précédentes),
+  // options mélangées. Quand toute la banque a été parcourue, on relance un cycle
+  // (ordre aléatoire). Sélection PURE : l'écriture localStorage est faite via effet.
+  function pickBatch(sessionSeen) {
+    const store = seenStoreRef.current
+    let unseen = pool.filter(
+      (q) => !sessionSeen.has(q.id) && !store.has(q.id),
+    )
+    if (unseen.length < SOLO_BATCH_SIZE) {
+      store.clear() // banque parcourue -> nouveau cycle de révision
+      unseen = pool.filter((q) => !sessionSeen.has(q.id))
+    }
     return shuffle(unseen).slice(0, SOLO_BATCH_SIZE).map(shuffleOptions)
   }
 
@@ -39,6 +57,13 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
   if (seenIdsRef.current === null) {
     seenIdsRef.current = new Set(questions.map((q) => q.id))
   }
+
+  // Persiste les questions vues (cross-session) à chaque nouveau lot affiché.
+  useEffect(() => {
+    const store = seenStoreRef.current
+    questions.forEach((q) => store.add(q.id))
+    saveSeen(categoryId, difficulty, store)
+  }, [questions, categoryId, difficulty])
 
   const [index, setIndex] = useState(0)
   const [selected, setSelected] = useState(null) // choix courant (modifiable)
@@ -66,6 +91,7 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
 
   function next() {
     if (index + 1 >= questions.length) {
+      recordRound(questions.length, correctCount) // bilan de la manche -> total cumulé
       setFinished(true)
       return
     }
@@ -111,6 +137,7 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
 
   if (finished) {
     const remaining = pool.filter((q) => !seenIdsRef.current.has(q.id)).length
+    const totals = getStats() // total cumulé (déjà mis à jour par recordRound)
     // 4 lots maximum (40 questions). On ne continue que s'il reste de quoi
     // remplir un lot complet ET qu'on n'a pas atteint la limite de lots.
     const canContinue =
@@ -132,6 +159,10 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
         </ResultHero>
 
         <ErrorRecap mistakes={mistakes} />
+
+        <p className="lifetime-stats">
+          {t('stats_lifetime', { a: totals.answered, c: totals.correct })}
+        </p>
 
         <ResultShare
           resultData={{

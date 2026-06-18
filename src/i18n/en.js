@@ -4,6 +4,7 @@ export default {
   app_name: 'Quizz',
   app_subtitle: 'Who’s the best?',
   app_title: 'Quizz - Who’s the best?',
+  stats_lifetime: 'Overall: {a} questions played · {c} correct',
   footer_follow: 'Follow us on Instagram',
   cookie_text:
     'We use cookies to run the site and, with your consent, to measure audience. Your choice.',
