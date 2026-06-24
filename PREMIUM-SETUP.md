@@ -56,7 +56,11 @@ Le binding `ASSETS` sert la SPA pour toute route hors `/api/*` (le Worker délè
 ## 5. Webhook Stripe
 Dashboard Stripe → Développeurs → Webhooks → Ajouter un endpoint :
 - URL : `https://ryo-offc.com/api/webhook`
-- Événements : `checkout.session.completed` et `customer.subscription.deleted`
+- Événements :
+  - `checkout.session.completed` (pose l'entitlement après paiement)
+  - `customer.subscription.deleted` (coupe le premium mensuel à l'annulation)
+  - `charge.refunded` (révoque le premium sur remboursement intégral, y compris « à vie »)
+  - `charge.dispute.created` (révoque le premium sur litige/chargeback)
 - Copier le **secret de signature** `whsec_…` → le poser via `wrangler secret put STRIPE_WEBHOOK_SECRET`.
 
 ## 6. Déployer + tester

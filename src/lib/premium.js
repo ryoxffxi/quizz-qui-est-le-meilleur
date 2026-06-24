@@ -76,14 +76,19 @@ async function syncEntitlement() {
 
 // Retour de Stripe Checkout : échange le session_id (payé, vérifié serveur)
 // contre un jeton de session, et débloque le premium.
+// Renvoie 'ok' si la réponse a été traitée (payé ou non), 'retry' en cas d'échec
+// TRANSITOIRE (réseau coupé / 5xx). L'appelant garde alors le session_id dans
+// l'URL pour qu'un rechargement réessaie, au lieu de coincer un acheteur payé (corr-7).
 async function confirmCheckout(sessionId) {
   try {
     const res = await fetch(`/api/confirm?session_id=${encodeURIComponent(sessionId)}`)
+    if (!res.ok) return 'retry'
     const data = await res.json()
     if (data && data.token) setToken(data.token)
     setPremium(!!(data && data.premium))
+    return 'ok'
   } catch {
-    /* ignore */
+    return 'retry'
   }
 }
 
@@ -98,14 +103,17 @@ export async function bootstrapEntitlement() {
   }
   const status = url.searchParams.get('premium')
   const sid = url.searchParams.get('session_id')
+  let confirmResult = 'ok'
   if (status === 'success' && sid) {
-    await confirmCheckout(sid)
+    confirmResult = await confirmCheckout(sid)
   } else if (!getToken()) {
     setPremium(false)
   } else {
     await syncEntitlement()
   }
-  if (status || sid) {
+  // On nettoie l'URL SAUF si la confirmation a échoué de façon transitoire :
+  // garder session_id permet de réessayer (au rechargement) sans perdre un achat payé.
+  if ((status || sid) && confirmResult !== 'retry') {
     url.searchParams.delete('premium')
     url.searchParams.delete('session_id')
     window.history.replaceState(null, '', url.pathname + url.search + url.hash)

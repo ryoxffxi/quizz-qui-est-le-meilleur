@@ -77,9 +77,11 @@ async function signToken(secret, payload, ttlSec = 60 * 60 * 24 * 90) {
 }
 async function verifyToken(secret, token) {
   if (!token || token.split('.').length !== 3) return null
-  const [h, b, s] = token.split('.')
-  if (!(await hmacVerify(secret, `${h}.${b}`, b64urlToBytes(s)))) return null
+  // Tout le décodage est dans le try : un jeton mal formé (base64url invalide)
+  // doit renvoyer null, pas faire planter la requête (sec-6).
   try {
+    const [h, b, s] = token.split('.')
+    if (!(await hmacVerify(secret, `${h}.${b}`, b64urlToBytes(s)))) return null
     const payload = JSON.parse(new TextDecoder().decode(b64urlToBytes(b)))
     if (!payload.exp || payload.exp < nowSec()) return null
     return payload
@@ -108,6 +110,10 @@ async function createCheckoutSession(env, plan, origin) {
   if (!price) return { error: { message: 'price not configured' } }
   return stripe(env, '/checkout/sessions', 'POST', {
     mode: lifetime ? 'payment' : 'subscription',
+    // Carte uniquement = capture immédiate : évite la fenêtre « complete mais
+    // payment_status=unpaid » des moyens asynchrones (SEPA/virement), donc
+    // s'appuyer sur payment_status==='paid' reste fiable (sec-1).
+    'payment_method_types[0]': 'card',
     'line_items[0][price]': price,
     'line_items[0][quantity]': '1',
     success_url: `${origin}/?premium=success&session_id={CHECKOUT_SESSION_ID}`,
@@ -118,21 +124,29 @@ async function createCheckoutSession(env, plan, origin) {
 // Vérifie la signature d'un webhook Stripe (schéma t=...,v1=... ; HMAC hex).
 async function verifyStripeSignature(env, payload, header) {
   if (!header) return false
-  const parts = Object.fromEntries(
-    header.split(',').map((p) => {
-      const i = p.indexOf('=')
-      return [p.slice(0, i), p.slice(i + 1)]
-    }),
-  )
-  const t = parts.t
-  const v1 = parts.v1
-  if (!t || !v1) return false
+  // Stripe peut envoyer PLUSIEURS signatures v1= (fenêtre de rotation du secret) :
+  // on les collecte toutes et on accepte si AU MOINS UNE vérifie, comme le SDK
+  // officiel (sec-7). Object.fromEntries n'en gardait qu'une seule.
+  let t = null
+  const v1s = []
+  for (const part of header.split(',')) {
+    const i = part.indexOf('=')
+    if (i === -1) continue
+    const k = part.slice(0, i)
+    const v = part.slice(i + 1)
+    if (k === 't') t = v
+    else if (k === 'v1') v1s.push(v)
+  }
+  if (!t || v1s.length === 0) return false
   // Anti-rejeu : t doit être un timestamp valide ET récent (< 5 min). NaN -> rejet.
   const ts = Number(t)
   if (!Number.isFinite(ts) || Math.abs(nowSec() - ts) > 300) return false
-  const sig = hexToBytes(v1)
-  if (sig.length === 0) return false
-  return hmacVerify(env.STRIPE_WEBHOOK_SECRET, `${t}.${payload}`, sig)
+  for (const v1 of v1s) {
+    const sig = hexToBytes(v1)
+    if (sig.length === 0) continue
+    if (await hmacVerify(env.STRIPE_WEBHOOK_SECRET, `${t}.${payload}`, sig)) return true
+  }
+  return false
 }
 
 // ---------- D1 ----------
@@ -141,7 +155,10 @@ async function upsertEntitlement(env, email, premium, plan, customer) {
     `INSERT INTO entitlements (email, premium, plan, stripe_customer_id, updated_at)
      VALUES (?1, ?2, ?3, ?4, ?5)
      ON CONFLICT(email) DO UPDATE SET
-       premium = ?2, plan = ?3,
+       premium = ?2,
+       -- Ne JAMAIS rétrograder un achat « à vie » vers 'monthly' : sinon une
+       -- annulation d'abonnement ultérieure couperait un premium payé à vie (corr-1).
+       plan = CASE WHEN entitlements.plan = 'lifetime' THEN 'lifetime' ELSE ?3 END,
        stripe_customer_id = COALESCE(?4, stripe_customer_id),
        updated_at = ?5`,
   )
@@ -160,7 +177,7 @@ async function handleCheckout(req, env, origin) {
   const body = await req.json().catch(() => ({}))
   const plan = body.plan === 'lifetime' ? 'lifetime' : 'monthly'
   const session = await createCheckoutSession(env, plan, origin)
-  if (!session || session.error) return json({ error: 'stripe_error' }, 502)
+  if (!session || session.error || !session.url) return json({ error: 'stripe_error' }, 502)
   return json({ url: session.url })
 }
 
@@ -187,7 +204,10 @@ async function handleWebhook(req, env) {
   if (event.type === 'checkout.session.completed') {
     const s = event.data.object
     const email = (s.customer_details && s.customer_details.email) || s.customer_email
-    if (email && (s.payment_status === 'paid' || s.status === 'complete')) {
+    // Exiger un paiement réellement encaissé : 'complete' seul ne suffit PAS
+    // (toujours vrai sur cet event, et vrai pour les paiements asynchrones non
+    // prélevés). On accepte 'no_payment_required' (montant 0 / coupon 100% assumé) (sec-1/corr-2).
+    if (email && (s.payment_status === 'paid' || s.payment_status === 'no_payment_required')) {
       const plan = s.mode === 'subscription' ? 'monthly' : 'lifetime'
       await upsertEntitlement(env, email.toLowerCase(), 1, plan, s.customer || null)
     }
@@ -199,6 +219,26 @@ async function handleWebhook(req, env) {
     )
       .bind(new Date(nowSec() * 1000).toISOString(), event.data.object.customer)
       .run()
+  } else if (event.type === 'charge.refunded' || event.type === 'charge.dispute.created') {
+    // Remboursement TOTAL ou litige (chargeback) -> révoquer le premium de
+    // l'acheteur, y compris un achat « à vie » (sec-2). L'objet d'un dispute n'a
+    // pas l'email : on récupère alors la charge pour retrouver email/customer.
+    let charge = event.data.object
+    if (event.type === 'charge.dispute.created' && charge && charge.charge) {
+      charge = await stripe(env, `/charges/${encodeURIComponent(charge.charge)}`)
+    }
+    // charge.refunded n'est vrai que pour un remboursement INTÉGRAL ; un litige révoque toujours.
+    const full = event.type === 'charge.dispute.created' || (charge && charge.refunded === true)
+    const email =
+      charge && ((charge.billing_details && charge.billing_details.email) || charge.receipt_email)
+    const customer = charge && charge.customer
+    if (full && (email || customer)) {
+      await env.DB.prepare(
+        'UPDATE entitlements SET premium = 0, updated_at = ?1 WHERE email = ?2 OR (stripe_customer_id IS NOT NULL AND stripe_customer_id = ?3)',
+      )
+        .bind(new Date(nowSec() * 1000).toISOString(), email ? email.toLowerCase() : null, customer || null)
+        .run()
+    }
   }
 
   if (event.id) {
@@ -220,7 +260,7 @@ async function handleConfirm(url, env) {
   const s = await stripe(env, `/checkout/sessions/${encodeURIComponent(sid)}`)
   if (!s || s.error) return json({ premium: false })
   const email = (s.customer_details && s.customer_details.email) || s.customer_email
-  const paid = s.payment_status === 'paid' || s.status === 'complete'
+  const paid = s.payment_status === 'paid' || s.payment_status === 'no_payment_required'
   if (!paid || !email) return json({ premium: false })
   const plan = s.mode === 'subscription' ? 'monthly' : 'lifetime'
   await upsertEntitlement(env, email.toLowerCase(), 1, plan, s.customer || null)
@@ -248,6 +288,8 @@ export default {
       if (p === '/api/entitlement' && req.method === 'GET') return await handleEntitlement(req, env)
       if (p.startsWith('/api/')) return json({ error: 'not_found' }, 404)
     } catch (e) {
+      // Visible via `wrangler tail` : sans log, le diagnostic prod est aveugle (corr-9).
+      console.error('worker error', e)
       return json({ error: 'server_error' }, 500)
     }
     // Tout le reste -> assets statiques (la SPA et son fallback index.html).
