@@ -5,7 +5,7 @@
 // Pour activer Cloudflare Web Analytics (gratuit, cookieless) plus tard :
 // 1. dash.cloudflare.com → Web Analytics → ajouter le site ryo-offc.com
 // 2. copier le "token" du beacon et le coller ci-dessous.
-const CF_WEB_ANALYTICS_TOKEN = ''
+const CF_WEB_ANALYTICS_TOKEN = '98b4ad169e2b4f0f806ebf87bd173115'
 
 let loaded = false
 
