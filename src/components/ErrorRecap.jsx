@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import SignImage from './SignImage'
 import { useI18n } from '../i18n'
 
 // Récapitulatif des erreurs, partagé par les modes Solo et Défi.
@@ -42,7 +43,12 @@ export default function ErrorRecap({ mistakes }) {
         <div className="recap-list">
           {mistakes.map(({ question, chosen }) => (
             <div key={question.id} className="recap-item">
-              <p className="recap-q">{question.question}</p>
+              <div className="recap-head">
+                {question.image && (
+                  <SignImage id={question.image} className="recap-sign" />
+                )}
+                <p className="recap-q">{question.question}</p>
+              </div>
               {chosen != null && chosen !== question.correct && (
                 <p className="recap-line bad">
                   {t('recap_your_answer', { ans: question.options[chosen] })}

@@ -1,0 +1,2606 @@
+[
+  {
+    "id": "pan_ab1_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Voie réservée aux véhicules des services réguliers de transport en commun",
+        "Vitesse conseillée (90 km/h)",
+        "Intersection à priorité à droite",
+        "Passage d'animaux domestiques"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "AB1 — Annonce une intersection où la priorité à droite s’applique : ralentissez et cédez le passage aux véhicules venant de votre droite."
+    },
+    "image": "ab1"
+  },
+  {
+    "id": "pan_ab1_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Cédez le passage à la circulation venant en sens inverse",
+        "Stop",
+        "Intersection où vous avez la priorité",
+        "Intersection à priorité à droite"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "AB1 — Annonce une intersection où la priorité à droite s’applique : ralentissez et cédez le passage aux véhicules venant de votre droite."
+    },
+    "image": "ab1"
+  },
+  {
+    "id": "pan_ab2_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Fin de limitation de vitesse à 50 km/h",
+        "Intersection où vous avez la priorité",
+        "Sens interdit",
+        "Interdiction de faire demi-tour jusqu'à la prochaine intersection"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "AB2 — À la prochaine intersection, les usagers des routes transversales doivent vous céder le passage (priorité ponctuelle)."
+    },
+    "image": "ab2"
+  },
+  {
+    "id": "pan_ab2_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Stop",
+        "Intersection où vous avez la priorité",
+        "Cédez le passage à la circulation venant en sens inverse",
+        "Priorité par rapport à la circulation venant en sens inverse"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "AB2 — À la prochaine intersection, les usagers des routes transversales doivent vous céder le passage (priorité ponctuelle)."
+    },
+    "image": "ab2"
+  },
+  {
+    "id": "pan_ab3a_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Fin de piste ou bande cyclable obligatoire",
+        "Fin de toutes les interdictions",
+        "Sortie de zone 30",
+        "Cédez le passage"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "AB3a — À l’intersection, cédez le passage aux véhicules circulant sur l’autre route. L’arrêt n’est obligatoire que si nécessaire."
+    },
+    "image": "ab3a"
+  },
+  {
+    "id": "pan_ab3a_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Cédez le passage à la circulation venant en sens inverse",
+        "Cédez le passage",
+        "Stop",
+        "Intersection où vous avez la priorité"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "AB3a — À l’intersection, cédez le passage aux véhicules circulant sur l’autre route. L’arrêt n’est obligatoire que si nécessaire."
+    },
+    "image": "ab3a"
+  },
+  {
+    "id": "pan_ab4_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Arrêt et stationnement interdits",
+        "Chaussée rétrécie",
+        "Sens unique",
+        "Stop"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "AB4 — Arrêt total obligatoire à la limite de la chaussée, même si la voie semble libre. Cédez le passage à tous les véhicules."
+    },
+    "image": "ab4"
+  },
+  {
+    "id": "pan_ab4_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Priorité par rapport à la circulation venant en sens inverse",
+        "Stop",
+        "Intersection à priorité à droite",
+        "Cédez le passage"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "AB4 — Arrêt total obligatoire à la limite de la chaussée, même si la voie semble libre. Cédez le passage à tous les véhicules."
+    },
+    "image": "ab4"
+  },
+  {
+    "id": "pan_ab6_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Accès interdit aux cycles",
+        "Route prioritaire",
+        "Passage à niveau sans barrière",
+        "Travaux"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "AB6 — Vous circulez sur une route prioritaire : vous avez la priorité à toutes les intersections, jusqu’au panneau de fin."
+    },
+    "image": "ab6"
+  },
+  {
+    "id": "pan_ab6_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Cédez le passage",
+        "Priorité par rapport à la circulation venant en sens inverse",
+        "Route prioritaire",
+        "Stop"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "AB6 — Vous circulez sur une route prioritaire : vous avez la priorité à toutes les intersections, jusqu’au panneau de fin."
+    },
+    "image": "ab6"
+  },
+  {
+    "id": "pan_ab7_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Fin de route prioritaire",
+        "Vent latéral",
+        "Passage d'animaux domestiques",
+        "Direction obligatoire : tout droit"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "AB7 — Votre route cesse d’être prioritaire : au prochain croisement, le régime normal (priorité à droite) s’applique de nouveau."
+    },
+    "image": "ab7"
+  },
+  {
+    "id": "pan_ab7_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Intersection où vous avez la priorité",
+        "Route prioritaire",
+        "Fin de route prioritaire",
+        "Stop"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "AB7 — Votre route cesse d’être prioritaire : au prochain croisement, le régime normal (priorité à droite) s’applique de nouveau."
+    },
+    "image": "ab7"
+  },
+  {
+    "id": "pan_b0_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Circulation interdite à tout véhicule",
+        "Lieu aménagé pour le stationnement",
+        "Fin de limitation de vitesse à 50 km/h",
+        "Fin de piste ou bande cyclable obligatoire"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B0 — Accès interdit à tout véhicule, dans les deux sens. À ne pas confondre avec le sens interdit, qui ne vaut que dans un sens."
+    },
+    "image": "b0"
+  },
+  {
+    "id": "pan_b0_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Dépassement interdit",
+        "Accès interdit aux véhicules de plus de 3,5 m de hauteur, chargement compris",
+        "Circulation interdite à tout véhicule",
+        "Accès interdit aux cycles"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "B0 — Accès interdit à tout véhicule, dans les deux sens. À ne pas confondre avec le sens interdit, qui ne vaut que dans un sens."
+    },
+    "image": "b0"
+  },
+  {
+    "id": "pan_b1_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Sens interdit",
+        "Virage à droite",
+        "Chaussée rétrécie",
+        "Passage d'animaux domestiques"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B1 — Sens interdit à tout véhicule : ne vous engagez pas, la circulation arrive en face."
+    },
+    "image": "b1"
+  },
+  {
+    "id": "pan_b1_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Limitation de vitesse à 50 km/h",
+        "Interdiction de tourner à gauche à la prochaine intersection",
+        "Sens interdit",
+        "Arrêt et stationnement interdits"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "B1 — Sens interdit à tout véhicule : ne vous engagez pas, la circulation arrive en face."
+    },
+    "image": "b1"
+  },
+  {
+    "id": "pan_b14_50_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Limitation de vitesse à 50 km/h",
+        "Annonce de feux tricolores",
+        "Emplacement d'un passage pour piétons",
+        "Fin de toutes les interdictions"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B14 — Vitesse maximale autorisée : 50 km/h, dès le panneau et jusqu’à la prochaine intersection ou un panneau qui modifie la limite."
+    },
+    "image": "b14_50"
+  },
+  {
+    "id": "pan_b14_50_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Arrêt et stationnement interdits",
+        "Accès interdit aux piétons",
+        "Sens interdit",
+        "Limitation de vitesse à 50 km/h"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B14 — Vitesse maximale autorisée : 50 km/h, dès le panneau et jusqu’à la prochaine intersection ou un panneau qui modifie la limite."
+    },
+    "image": "b14_50"
+  },
+  {
+    "id": "pan_b6a1_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Circulation dans les deux sens",
+        "Stationnement interdit",
+        "Chaussée rétrécie",
+        "Vent latéral"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "B6a1 — Stationnement interdit du côté du panneau, jusqu’à la prochaine intersection. L’arrêt (immobilisation momentanée, conducteur au volant ou à proximité) reste autorisé."
+    },
+    "image": "b6a1"
+  },
+  {
+    "id": "pan_b6a1_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Interdiction de faire demi-tour jusqu'à la prochaine intersection",
+        "Interdiction de tourner à gauche à la prochaine intersection",
+        "Stationnement interdit",
+        "Limitation de vitesse à 50 km/h"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "B6a1 — Stationnement interdit du côté du panneau, jusqu’à la prochaine intersection. L’arrêt (immobilisation momentanée, conducteur au volant ou à proximité) reste autorisé."
+    },
+    "image": "b6a1"
+  },
+  {
+    "id": "pan_b6d_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Risque de chute de pierres",
+        "Succession de virages dont le premier est à droite",
+        "Arrêt et stationnement interdits",
+        "Débouché de cyclistes"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "B6d — Ni arrêt ni stationnement du côté du panneau, jusqu’à la prochaine intersection."
+    },
+    "image": "b6d"
+  },
+  {
+    "id": "pan_b6d_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Signaux sonores interdits",
+        "Circulation interdite à tout véhicule",
+        "Interdiction de tourner à gauche à la prochaine intersection",
+        "Arrêt et stationnement interdits"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B6d — Ni arrêt ni stationnement du côté du panneau, jusqu’à la prochaine intersection."
+    },
+    "image": "b6d"
+  },
+  {
+    "id": "pan_b31_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Route à accès réglementé",
+        "Cassis ou dos-d'âne",
+        "Fin de toutes les interdictions",
+        "Interdiction de faire demi-tour jusqu'à la prochaine intersection"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "B31 — Fin de toutes les interdictions signalées en amont pour les véhicules en mouvement (vitesse, dépassement…). La réglementation générale reprend."
+    },
+    "image": "b31"
+  },
+  {
+    "id": "pan_b31_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Fin d'interdiction de dépasser",
+        "Fin de piste ou bande cyclable obligatoire",
+        "Fin de limitation de vitesse à 50 km/h",
+        "Fin de toutes les interdictions"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B31 — Fin de toutes les interdictions signalées en amont pour les véhicules en mouvement (vitesse, dépassement…). La réglementation générale reprend."
+    },
+    "image": "b31"
+  },
+  {
+    "id": "pan_b33_50_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Fin de limitation de vitesse à 50 km/h",
+        "Chemin obligatoire pour piétons",
+        "Contournement obligatoire par la droite",
+        "Intersection à priorité à droite"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B33 — La limitation à 50 km/h prend fin : la vitesse redevient celle de la réglementation générale du lieu."
+    },
+    "image": "b33_50"
+  },
+  {
+    "id": "pan_b33_50_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Fin d'interdiction de dépasser",
+        "Fin de toutes les interdictions",
+        "Sortie de zone 30",
+        "Fin de limitation de vitesse à 50 km/h"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B33 — La limitation à 50 km/h prend fin : la vitesse redevient celle de la réglementation générale du lieu."
+    },
+    "image": "b33_50"
+  },
+  {
+    "id": "pan_b30_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Entrée de zone 30",
+        "Vitesse conseillée (90 km/h)",
+        "Risque de chute de pierres",
+        "Passage d'animaux sauvages"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B30 — Vous entrez dans une zone où la vitesse est limitée à 30 km/h sur toutes les voies, jusqu’au panneau de sortie de zone."
+    },
+    "image": "b30"
+  },
+  {
+    "id": "pan_b30_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Sens interdit",
+        "Interdiction de tourner à gauche à la prochaine intersection",
+        "Arrêt et stationnement interdits",
+        "Entrée de zone 30"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B30 — Vous entrez dans une zone où la vitesse est limitée à 30 km/h sur toutes les voies, jusqu’au panneau de sortie de zone."
+    },
+    "image": "b30"
+  },
+  {
+    "id": "pan_b51_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Endroit fréquenté par les enfants",
+        "Fin de route prioritaire",
+        "Sortie de zone 30",
+        "Impasse"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "B51 — Fin de la zone 30 : la limitation générale du lieu (50 km/h en agglomération) s’applique de nouveau."
+    },
+    "image": "b51"
+  },
+  {
+    "id": "pan_b51_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Fin de limitation de vitesse à 50 km/h",
+        "Sortie de zone 30",
+        "Fin d'interdiction de dépasser",
+        "Fin de toutes les interdictions"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "B51 — Fin de la zone 30 : la limitation générale du lieu (50 km/h en agglomération) s’applique de nouveau."
+    },
+    "image": "b51"
+  },
+  {
+    "id": "pan_b21b_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Accès interdit aux piétons",
+        "Limitation de vitesse à 50 km/h",
+        "Cédez le passage",
+        "Direction obligatoire : tout droit"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B21b — À la prochaine intersection, vous devez continuer tout droit : aucun changement de direction autorisé."
+    },
+    "image": "b21b"
+  },
+  {
+    "id": "pan_b21b_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Direction obligatoire : tout droit",
+        "Voie réservée aux véhicules des services réguliers de transport en commun",
+        "Piste ou bande obligatoire pour les cycles",
+        "Contournement obligatoire par la droite"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B21b — À la prochaine intersection, vous devez continuer tout droit : aucun changement de direction autorisé."
+    },
+    "image": "b21b"
+  },
+  {
+    "id": "pan_b21c1_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Direction obligatoire : à droite",
+        "Stationnement interdit",
+        "Succession de virages dont le premier est à droite",
+        "Circulation dans les deux sens"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B21c1 — À la prochaine intersection, vous devez obligatoirement tourner à droite."
+    },
+    "image": "b21c1"
+  },
+  {
+    "id": "pan_b21c1_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Contournement obligatoire par la droite",
+        "Chemin obligatoire pour piétons",
+        "Direction obligatoire : à droite",
+        "Direction obligatoire : tout droit"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "B21c1 — À la prochaine intersection, vous devez obligatoirement tourner à droite."
+    },
+    "image": "b21c1"
+  },
+  {
+    "id": "pan_b21a1_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Passage à niveau muni de barrières",
+        "Signaux sonores interdits",
+        "Accès interdit aux piétons",
+        "Contournement obligatoire par la droite"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B21a1 — Vous devez passer à droite de l’obstacle ou du terre-plein signalé (sens giratoire, refuge, chantier…)."
+    },
+    "image": "b21a1"
+  },
+  {
+    "id": "pan_b21a1_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Chemin obligatoire pour piétons",
+        "Piste ou bande obligatoire pour les cycles",
+        "Chaînes à neige obligatoires",
+        "Contournement obligatoire par la droite"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B21a1 — Vous devez passer à droite de l’obstacle ou du terre-plein signalé (sens giratoire, refuge, chantier…)."
+    },
+    "image": "b21a1"
+  },
+  {
+    "id": "pan_b25_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Stationnement interdit",
+        "Fin d'interdiction de dépasser",
+        "Fin de route prioritaire",
+        "Vitesse minimale obligatoire (30 km/h)"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B25 — Vous devez circuler à 30 km/h minimum, sauf si les conditions (trafic, météo) l’empêchent."
+    },
+    "image": "b25"
+  },
+  {
+    "id": "pan_b25_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Direction obligatoire : à droite",
+        "Direction obligatoire : tout droit",
+        "Chemin obligatoire pour piétons",
+        "Vitesse minimale obligatoire (30 km/h)"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B25 — Vous devez circuler à 30 km/h minimum, sauf si les conditions (trafic, météo) l’empêchent."
+    },
+    "image": "b25"
+  },
+  {
+    "id": "pan_c1a_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Lieu aménagé pour le stationnement",
+        "Succession de virages dont le premier est à droite",
+        "Sens interdit",
+        "Passage à niveau muni de barrières"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C1a — Signale un parking : un emplacement ou un parc aménagé pour stationner."
+    },
+    "image": "c1a"
+  },
+  {
+    "id": "pan_c1a_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Vitesse conseillée (90 km/h)",
+        "Route à accès réglementé",
+        "Sens unique",
+        "Lieu aménagé pour le stationnement"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "C1a — Signale un parking : un emplacement ou un parc aménagé pour stationner."
+    },
+    "image": "c1a"
+  },
+  {
+    "id": "pan_c12_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Chemin obligatoire pour piétons",
+        "Accès interdit aux piétons",
+        "Annonce d'un passage pour piétons",
+        "Sens unique"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "C12 — La circulation se fait en sens unique, dans le sens de la flèche : aucun véhicule ne viendra en face."
+    },
+    "image": "c12"
+  },
+  {
+    "id": "pan_c12_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Début d'une section d'autoroute",
+        "Entrée d'un tunnel",
+        "Impasse",
+        "Sens unique"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "C12 — La circulation se fait en sens unique, dans le sens de la flèche : aucun véhicule ne viendra en face."
+    },
+    "image": "c12"
+  },
+  {
+    "id": "pan_c13a_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Passage d'animaux domestiques",
+        "Impasse",
+        "Annonce de feux tricolores",
+        "Fin de limitation de vitesse à 50 km/h"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "C13a — La voie signalée est sans issue (cul-de-sac)."
+    },
+    "image": "c13a"
+  },
+  {
+    "id": "pan_c13a_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Lieu aménagé pour le stationnement",
+        "Entrée d'un tunnel",
+        "Impasse",
+        "Vitesse conseillée (90 km/h)"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "C13a — La voie signalée est sans issue (cul-de-sac)."
+    },
+    "image": "c13a"
+  },
+  {
+    "id": "pan_c4a_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Accès interdit aux véhicules affectés au transport de marchandises",
+        "Descente dangereuse",
+        "Vitesse conseillée (90 km/h)",
+        "Cassis ou dos-d'âne"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "C4a — Vitesse conseillée, non obligatoire : à adopter par bonnes conditions de circulation et de visibilité."
+    },
+    "image": "c4a"
+  },
+  {
+    "id": "pan_c4a_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Vitesse conseillée (90 km/h)",
+        "Sens unique",
+        "Impasse",
+        "Route à accès réglementé"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C4a — Vitesse conseillée, non obligatoire : à adopter par bonnes conditions de circulation et de visibilité."
+    },
+    "image": "c4a"
+  },
+  {
+    "id": "pan_a1a_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Dépassement interdit",
+        "Piste ou bande obligatoire pour les cycles",
+        "Virage à droite",
+        "Interdiction de tourner à gauche à la prochaine intersection"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "A1a — Annonce un virage à droite, à environ 150 m hors agglomération (50 m en ville). Ralentissez avant le virage, serrez à droite et n'entreprenez pas de dépassement."
+    },
+    "image": "a1a"
+  },
+  {
+    "id": "pan_a1a_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Virage à droite",
+        "Passage d'animaux sauvages",
+        "Chaussée rétrécie",
+        "Annonce d'un passage pour piétons"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "A1a — Annonce un virage à droite, à environ 150 m hors agglomération (50 m en ville). Ralentissez avant le virage, serrez à droite et n'entreprenez pas de dépassement."
+    },
+    "image": "a1a"
+  },
+  {
+    "id": "pan_a1c_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Succession de virages dont le premier est à droite",
+        "Contournement obligatoire par la droite",
+        "Interdiction de tourner à gauche à la prochaine intersection",
+        "Sens interdit"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "A1c — Annonce plusieurs virages rapprochés, le premier tournant à droite. Adaptez votre vitesse sur toute la section, restez bien sur votre voie et ne dépassez pas."
+    },
+    "image": "a1c"
+  },
+  {
+    "id": "pan_a1c_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Risque de chute de pierres",
+        "Virage à droite",
+        "Succession de virages dont le premier est à droite",
+        "Descente dangereuse"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "A1c — Annonce plusieurs virages rapprochés, le premier tournant à droite. Adaptez votre vitesse sur toute la section, restez bien sur votre voie et ne dépassez pas."
+    },
+    "image": "a1c"
+  },
+  {
+    "id": "pan_a2a_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Piste ou bande obligatoire pour les cycles",
+        "Interdiction de faire demi-tour jusqu'à la prochaine intersection",
+        "Fin d'interdiction de dépasser",
+        "Cassis ou dos-d'âne"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "A2a — Annonce une déformation de la chaussée : creux (cassis) ou bosse (dos-d'âne). Ralentissez fortement pour garder le contrôle du véhicule et ne pas l'endommager."
+    },
+    "image": "a2a"
+  },
+  {
+    "id": "pan_a2a_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Annonce d'un passage pour piétons",
+        "Autres dangers",
+        "Descente dangereuse",
+        "Cassis ou dos-d'âne"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "A2a — Annonce une déformation de la chaussée : creux (cassis) ou bosse (dos-d'âne). Ralentissez fortement pour garder le contrôle du véhicule et ne pas l'endommager."
+    },
+    "image": "a2a"
+  },
+  {
+    "id": "pan_a3_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Circulation interdite à tout véhicule",
+        "Chaussée rétrécie",
+        "Contournement obligatoire par la droite",
+        "Dépassement interdit"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "A3 — La chaussée se rétrécit par les deux côtés. Ralentissez, serrez à droite et croisez les autres véhicules avec prudence ; évitez tout dépassement."
+    },
+    "image": "a3"
+  },
+  {
+    "id": "pan_a3_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Endroit fréquenté par les enfants",
+        "Passage à niveau sans barrière",
+        "Chaussée rétrécie",
+        "Débouché de cyclistes"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "A3 — La chaussée se rétrécit par les deux côtés. Ralentissez, serrez à droite et croisez les autres véhicules avec prudence ; évitez tout dépassement."
+    },
+    "image": "a3"
+  },
+  {
+    "id": "pan_a4_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Interdiction de tourner à gauche à la prochaine intersection",
+        "Chaînes à neige obligatoires",
+        "Chaussée particulièrement glissante",
+        "Sortie de zone 30"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "A4 — Section très glissante (pluie, verglas, gravillons, boue…). Réduisez l'allure, augmentez les distances de sécurité et évitez freinages et coups de volant brusques."
+    },
+    "image": "a4"
+  },
+  {
+    "id": "pan_a4_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Succession de virages dont le premier est à droite",
+        "Débouché de cyclistes",
+        "Annonce de feux tricolores",
+        "Chaussée particulièrement glissante"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "A4 — Section très glissante (pluie, verglas, gravillons, boue…). Réduisez l'allure, augmentez les distances de sécurité et évitez freinages et coups de volant brusques."
+    },
+    "image": "a4"
+  },
+  {
+    "id": "pan_a16_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Arrêt et stationnement interdits",
+        "Signaux sonores interdits",
+        "Accès interdit aux véhicules de plus de 3,5 m de hauteur, chargement compris",
+        "Descente dangereuse"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "A16 — Annonce une descente à forte pente (ici 10 %). Ralentissez avant la pente, rétrogradez pour utiliser le frein moteur et sollicitez les freins avec modération."
+    },
+    "image": "a16"
+  },
+  {
+    "id": "pan_a16_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Annonce de feux tricolores",
+        "Descente dangereuse",
+        "Travaux",
+        "Chaussée particulièrement glissante"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "A16 — Annonce une descente à forte pente (ici 10 %). Ralentissez avant la pente, rétrogradez pour utiliser le frein moteur et sollicitez les freins avec modération."
+    },
+    "image": "a16"
+  },
+  {
+    "id": "pan_a13a_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Entrée de zone 30",
+        "Sortie de zone 30",
+        "Endroit fréquenté par les enfants",
+        "Chaînes à neige obligatoires"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "A13a — Lieu fréquenté par les enfants (école, aire de jeux…). Ralentissez et redoublez de vigilance : un enfant peut s'élancer sur la chaussée à tout moment."
+    },
+    "image": "a13a"
+  },
+  {
+    "id": "pan_a13a_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Endroit fréquenté par les enfants",
+        "Circulation dans les deux sens",
+        "Passage d'animaux domestiques",
+        "Passage à niveau muni de barrières"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "A13a — Lieu fréquenté par les enfants (école, aire de jeux…). Ralentissez et redoublez de vigilance : un enfant peut s'élancer sur la chaussée à tout moment."
+    },
+    "image": "a13a"
+  },
+  {
+    "id": "pan_a13b_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Fin de limitation de vitesse à 50 km/h",
+        "Vitesse minimale obligatoire (30 km/h)",
+        "Direction obligatoire : tout droit",
+        "Annonce d'un passage pour piétons"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "A13b — Annonce un passage pour piétons à environ 150 m (50 m en agglomération). Ralentissez et soyez prêt à vous arrêter pour céder le passage aux piétons engagés."
+    },
+    "image": "a13b"
+  },
+  {
+    "id": "pan_a13b_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Débouché de cyclistes",
+        "Annonce d'un passage pour piétons",
+        "Descente dangereuse",
+        "Passage d'animaux domestiques"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "A13b — Annonce un passage pour piétons à environ 150 m (50 m en agglomération). Ralentissez et soyez prêt à vous arrêter pour céder le passage aux piétons engagés."
+    },
+    "image": "a13b"
+  },
+  {
+    "id": "pan_a21_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Impasse",
+        "Débouché de cyclistes",
+        "Signaux sonores interdits",
+        "Arrêt et stationnement interdits"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "A21 — Des cyclistes peuvent déboucher sur la chaussée, venant de droite ou de gauche (sortie de piste ou de bande cyclable). Ralentissez et facilitez leur insertion."
+    },
+    "image": "a21"
+  },
+  {
+    "id": "pan_a21_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Annonce d'un passage pour piétons",
+        "Passage à niveau muni de barrières",
+        "Débouché de cyclistes",
+        "Chaussée particulièrement glissante"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "A21 — Des cyclistes peuvent déboucher sur la chaussée, venant de droite ou de gauche (sortie de piste ou de bande cyclable). Ralentissez et facilitez leur insertion."
+    },
+    "image": "a21"
+  },
+  {
+    "id": "pan_a15a1_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Impasse",
+        "Passage d'animaux domestiques",
+        "Accès interdit aux véhicules de plus de 3,5 m de hauteur, chargement compris",
+        "Stationnement interdit"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "A15a1 — Traversée possible d'animaux domestiques (vaches, moutons…). Ralentissez et soyez prêt à vous arrêter, notamment à proximité des fermes et des pâturages."
+    },
+    "image": "a15a1"
+  },
+  {
+    "id": "pan_a15a1_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Annonce d'un passage pour piétons",
+        "Passage d'animaux domestiques",
+        "Autres dangers",
+        "Circulation dans les deux sens"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "A15a1 — Traversée possible d'animaux domestiques (vaches, moutons…). Ralentissez et soyez prêt à vous arrêter, notamment à proximité des fermes et des pâturages."
+    },
+    "image": "a15a1"
+  },
+  {
+    "id": "pan_a15b_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Passage d'animaux sauvages",
+        "Intersection où vous avez la priorité",
+        "Impasse",
+        "Fin d'interdiction de dépasser"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "A15b — Traversée possible d'animaux sauvages (cerfs, sangliers…). Réduisez votre allure, surtout de nuit et en forêt, et soyez prêt à freiner : un animal peut surgir brusquement."
+    },
+    "image": "a15b"
+  },
+  {
+    "id": "pan_a15b_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Circulation dans les deux sens",
+        "Endroit fréquenté par les enfants",
+        "Passage d'animaux sauvages",
+        "Chaussée rétrécie"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "A15b — Traversée possible d'animaux sauvages (cerfs, sangliers…). Réduisez votre allure, surtout de nuit et en forêt, et soyez prêt à freiner : un animal peut surgir brusquement."
+    },
+    "image": "a15b"
+  },
+  {
+    "id": "pan_a17_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Annonce de feux tricolores",
+        "Sens unique",
+        "Fin de toutes les interdictions",
+        "Circulation interdite à tout véhicule"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "A17 — Des feux tricolores sont implantés plus loin (environ 150 m hors agglomération, 50 m en ville). Ralentissez et préparez-vous à vous arrêter."
+    },
+    "image": "a17"
+  },
+  {
+    "id": "pan_a17_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Passage à niveau muni de barrières",
+        "Risque de chute de pierres",
+        "Annonce de feux tricolores",
+        "Circulation dans les deux sens"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "A17 — Des feux tricolores sont implantés plus loin (environ 150 m hors agglomération, 50 m en ville). Ralentissez et préparez-vous à vous arrêter."
+    },
+    "image": "a17"
+  },
+  {
+    "id": "pan_a18_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Chemin obligatoire pour piétons",
+        "Accès interdit aux piétons",
+        "Circulation dans les deux sens",
+        "Priorité par rapport à la circulation venant en sens inverse"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "A18 — La chaussée devient à double sens après une section à sens unique ou à chaussées séparées. Tenez bien votre droite et redoublez de prudence avant tout dépassement."
+    },
+    "image": "a18"
+  },
+  {
+    "id": "pan_a18_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Vent latéral",
+        "Circulation dans les deux sens",
+        "Autres dangers",
+        "Passage d'animaux sauvages"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "A18 — La chaussée devient à double sens après une section à sens unique ou à chaussées séparées. Tenez bien votre droite et redoublez de prudence avant tout dépassement."
+    },
+    "image": "a18"
+  },
+  {
+    "id": "pan_a19_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Accès interdit aux véhicules de plus de 3,5 m de hauteur, chargement compris",
+        "Entrée d'un tunnel",
+        "Chemin obligatoire pour piétons",
+        "Risque de chute de pierres"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "A19 — Zone où des pierres peuvent tomber ou se trouver sur la chaussée. Ralentissez, surveillez la route et le talus, et évitez de vous arrêter dans la zone exposée."
+    },
+    "image": "a19"
+  },
+  {
+    "id": "pan_a19_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Virage à droite",
+        "Risque de chute de pierres",
+        "Passage à niveau sans barrière",
+        "Débouché de cyclistes"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "A19 — Zone où des pierres peuvent tomber ou se trouver sur la chaussée. Ralentissez, surveillez la route et le talus, et évitez de vous arrêter dans la zone exposée."
+    },
+    "image": "a19"
+  },
+  {
+    "id": "pan_a24_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Circulation interdite à tout véhicule",
+        "Vent latéral",
+        "Sortie de zone 30",
+        "Accès interdit aux véhicules de plus de 3,5 m de hauteur, chargement compris"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "A24 — Zone fréquemment exposée à un fort vent latéral (viaduc, plaine, vallée). Ralentissez, tenez fermement le volant et méfiez-vous des écarts, surtout près des deux-roues."
+    },
+    "image": "a24"
+  },
+  {
+    "id": "pan_a24_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Chaussée particulièrement glissante",
+        "Autres dangers",
+        "Vent latéral",
+        "Cassis ou dos-d'âne"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "A24 — Zone fréquemment exposée à un fort vent latéral (viaduc, plaine, vallée). Ralentissez, tenez fermement le volant et méfiez-vous des écarts, surtout près des deux-roues."
+    },
+    "image": "a24"
+  },
+  {
+    "id": "pan_a7_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Cédez le passage",
+        "Arrêt et stationnement interdits",
+        "Route prioritaire",
+        "Passage à niveau muni de barrières"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "A7 — Annonce un passage à niveau équipé de barrières ou de demi-barrières. Ralentissez et arrêtez-vous si les barrières sont fermées ou en mouvement, ou si le feu rouge clignote."
+    },
+    "image": "a7"
+  },
+  {
+    "id": "pan_a7_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Descente dangereuse",
+        "Vent latéral",
+        "Passage à niveau muni de barrières",
+        "Débouché de cyclistes"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "A7 — Annonce un passage à niveau équipé de barrières ou de demi-barrières. Ralentissez et arrêtez-vous si les barrières sont fermées ou en mouvement, ou si le feu rouge clignote."
+    },
+    "image": "a7"
+  },
+  {
+    "id": "pan_a8_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Interdiction de tourner à gauche à la prochaine intersection",
+        "Direction obligatoire : à droite",
+        "Passage à niveau sans barrière",
+        "Circulation interdite à tout véhicule"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "A8 — Annonce un passage à niveau sans barrière ni demi-barrière. Ralentissez fortement et ne franchissez la voie qu'après vous être assuré qu'aucun train n'approche."
+    },
+    "image": "a8"
+  },
+  {
+    "id": "pan_a8_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Passage à niveau sans barrière",
+        "Cassis ou dos-d'âne",
+        "Endroit fréquenté par les enfants",
+        "Annonce de feux tricolores"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "A8 — Annonce un passage à niveau sans barrière ni demi-barrière. Ralentissez fortement et ne franchissez la voie qu'après vous être assuré qu'aucun train n'approche."
+    },
+    "image": "a8"
+  },
+  {
+    "id": "pan_ak5_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Accès interdit aux cycles",
+        "Accès interdit aux piétons",
+        "Travaux",
+        "Interdiction de tourner à gauche à la prochaine intersection"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "AK5 — Annonce une zone de travaux temporaires. Réduisez votre allure, respectez la signalisation temporaire et soyez attentif au personnel et aux engins de chantier."
+    },
+    "image": "ak5"
+  },
+  {
+    "id": "pan_ak5_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Travaux",
+        "Vent latéral",
+        "Débouché de cyclistes",
+        "Autres dangers"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "AK5 — Annonce une zone de travaux temporaires. Réduisez votre allure, respectez la signalisation temporaire et soyez attentif au personnel et aux engins de chantier."
+    },
+    "image": "ak5"
+  },
+  {
+    "id": "pan_a14_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Priorité par rapport à la circulation venant en sens inverse",
+        "Autres dangers",
+        "Sens unique",
+        "Accès interdit aux véhicules affectés au transport de marchandises"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "A14 — Signale un danger sans panneau spécifique ; sa nature est souvent précisée par un panonceau. Ralentissez et tenez-vous prêt à réagir à toute situation."
+    },
+    "image": "a14"
+  },
+  {
+    "id": "pan_a14_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Succession de virages dont le premier est à droite",
+        "Autres dangers",
+        "Passage d'animaux sauvages",
+        "Virage à droite"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "A14 — Signale un danger sans panneau spécifique ; sa nature est souvent précisée par un panonceau. Ralentissez et tenez-vous prêt à réagir à toute situation."
+    },
+    "image": "a14"
+  },
+  {
+    "id": "pan_b15_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Cédez le passage à la circulation venant en sens inverse",
+        "Sens interdit",
+        "Accès interdit aux piétons",
+        "Direction obligatoire : à droite"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B15 — Dans ce passage rétréci, vous n'avez pas la priorité : laissez passer les véhicules venant en face et ne vous engagez que lorsque la voie est libre."
+    },
+    "image": "b15"
+  },
+  {
+    "id": "pan_b15_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Intersection à priorité à droite",
+        "Priorité par rapport à la circulation venant en sens inverse",
+        "Cédez le passage à la circulation venant en sens inverse",
+        "Route prioritaire"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "B15 — Dans ce passage rétréci, vous n'avez pas la priorité : laissez passer les véhicules venant en face et ne vous engagez que lorsque la voie est libre."
+    },
+    "image": "b15"
+  },
+  {
+    "id": "pan_c18_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Priorité par rapport à la circulation venant en sens inverse",
+        "Chemin obligatoire pour piétons",
+        "Descente dangereuse",
+        "Travaux"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C18 — Dans ce passage étroit, vous avez la priorité sur les véhicules venant en sens inverse : ce sont eux qui doivent attendre. À l'autre extrémité, le panneau B15 impose de céder le passage."
+    },
+    "image": "c18"
+  },
+  {
+    "id": "pan_c18_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Cédez le passage à la circulation venant en sens inverse",
+        "Priorité par rapport à la circulation venant en sens inverse",
+        "Route prioritaire",
+        "Intersection à priorité à droite"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "C18 — Dans ce passage étroit, vous avez la priorité sur les véhicules venant en sens inverse : ce sont eux qui doivent attendre. À l'autre extrémité, le panneau B15 impose de céder le passage."
+    },
+    "image": "c18"
+  },
+  {
+    "id": "pan_b2a_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Circulation dans les deux sens",
+        "Chaussée rétrécie",
+        "Interdiction de tourner à gauche à la prochaine intersection",
+        "Fin de piste ou bande cyclable obligatoire"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "B2a — À la prochaine intersection, vous ne pouvez pas tourner à gauche. Ce panneau n'interdit que ce mouvement : l'interdiction de faire demi-tour est une prescription distincte, signalée par le panneau B2c."
+    },
+    "image": "b2a"
+  },
+  {
+    "id": "pan_b2a_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Interdiction de faire demi-tour jusqu'à la prochaine intersection",
+        "Interdiction de tourner à gauche à la prochaine intersection",
+        "Accès interdit aux véhicules de plus de 3,5 m de hauteur, chargement compris",
+        "Arrêt et stationnement interdits"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "B2a — À la prochaine intersection, vous ne pouvez pas tourner à gauche. Ce panneau n'interdit que ce mouvement : l'interdiction de faire demi-tour est une prescription distincte, signalée par le panneau B2c."
+    },
+    "image": "b2a"
+  },
+  {
+    "id": "pan_b2c_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Contournement obligatoire par la droite",
+        "Chemin obligatoire pour piétons",
+        "Interdiction de faire demi-tour jusqu'à la prochaine intersection",
+        "Fin de limitation de vitesse à 50 km/h"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "B2c — Le demi-tour est interdit sur la route suivie, du panneau jusqu'à la prochaine intersection. Tourner à gauche reste autorisé si rien d'autre ne l'interdit."
+    },
+    "image": "b2c"
+  },
+  {
+    "id": "pan_b2c_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Interdiction de faire demi-tour jusqu'à la prochaine intersection",
+        "Sens interdit",
+        "Stationnement interdit",
+        "Limitation de vitesse à 50 km/h"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B2c — Le demi-tour est interdit sur la route suivie, du panneau jusqu'à la prochaine intersection. Tourner à gauche reste autorisé si rien d'autre ne l'interdit."
+    },
+    "image": "b2c"
+  },
+  {
+    "id": "pan_b3_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Sens unique",
+        "Dépassement interdit",
+        "Stop",
+        "Direction obligatoire : tout droit"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "B3 — Interdiction de dépasser tout véhicule à moteur, sauf les deux-roues sans side-car. S'applique jusqu'au panneau de fin d'interdiction ou à la prochaine intersection."
+    },
+    "image": "b3"
+  },
+  {
+    "id": "pan_b3_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Accès interdit aux cycles",
+        "Dépassement interdit",
+        "Interdiction de tourner à gauche à la prochaine intersection",
+        "Accès interdit aux piétons"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "B3 — Interdiction de dépasser tout véhicule à moteur, sauf les deux-roues sans side-car. S'applique jusqu'au panneau de fin d'interdiction ou à la prochaine intersection."
+    },
+    "image": "b3"
+  },
+  {
+    "id": "pan_b8_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Accès interdit aux véhicules affectés au transport de marchandises",
+        "Virage à droite",
+        "Endroit fréquenté par les enfants",
+        "Piste ou bande obligatoire pour les cycles"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B8 — L'accès est interdit aux véhicules de transport de marchandises. Un panonceau peut limiter l'interdiction à un tonnage donné (ex. : plus de 3,5 t)."
+    },
+    "image": "b8"
+  },
+  {
+    "id": "pan_b8_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Interdiction de faire demi-tour jusqu'à la prochaine intersection",
+        "Limitation de vitesse à 50 km/h",
+        "Accès interdit aux véhicules affectés au transport de marchandises",
+        "Entrée de zone 30"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "B8 — L'accès est interdit aux véhicules de transport de marchandises. Un panonceau peut limiter l'interdiction à un tonnage donné (ex. : plus de 3,5 t)."
+    },
+    "image": "b8"
+  },
+  {
+    "id": "pan_b9a_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Accès interdit aux piétons",
+        "Chaînes à neige obligatoires",
+        "Stop",
+        "Passage d'animaux sauvages"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B9a — Les piétons ne doivent pas s'engager sur cette voie (tunnel, voie rapide…) : ils doivent emprunter un autre itinéraire."
+    },
+    "image": "b9a"
+  },
+  {
+    "id": "pan_b9a_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Accès interdit aux piétons",
+        "Signaux sonores interdits",
+        "Accès interdit aux cycles",
+        "Interdiction de tourner à gauche à la prochaine intersection"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B9a — Les piétons ne doivent pas s'engager sur cette voie (tunnel, voie rapide…) : ils doivent emprunter un autre itinéraire."
+    },
+    "image": "b9a"
+  },
+  {
+    "id": "pan_b9b_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Accès interdit aux cycles",
+        "Autres dangers",
+        "Route prioritaire",
+        "Emplacement d'un passage pour piétons"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B9b — Il est interdit de circuler à vélo sur cette voie. Le cycliste peut toutefois continuer à pied en poussant son cycle, comme un piéton."
+    },
+    "image": "b9b"
+  },
+  {
+    "id": "pan_b9b_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Sens interdit",
+        "Accès interdit aux cycles",
+        "Entrée de zone 30",
+        "Circulation interdite à tout véhicule"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "B9b — Il est interdit de circuler à vélo sur cette voie. Le cycliste peut toutefois continuer à pied en poussant son cycle, comme un piéton."
+    },
+    "image": "b9b"
+  },
+  {
+    "id": "pan_b12_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Lieu aménagé pour le stationnement",
+        "Accès interdit aux véhicules de plus de 3,5 m de hauteur, chargement compris",
+        "Entrée d'un tunnel",
+        "Cassis ou dos-d'âne"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "B12 — Interdit à tout véhicule dont la hauteur, chargement compris, dépasse 3,5 m (pont, tunnel, passage couvert). Le conducteur doit connaître la hauteur de son véhicule chargé."
+    },
+    "image": "b12"
+  },
+  {
+    "id": "pan_b12_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Interdiction de tourner à gauche à la prochaine intersection",
+        "Accès interdit aux piétons",
+        "Accès interdit aux véhicules de plus de 3,5 m de hauteur, chargement compris",
+        "Sens interdit"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "B12 — Interdit à tout véhicule dont la hauteur, chargement compris, dépasse 3,5 m (pont, tunnel, passage couvert). Le conducteur doit connaître la hauteur de son véhicule chargé."
+    },
+    "image": "b12"
+  },
+  {
+    "id": "pan_b16_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Descente dangereuse",
+        "Cédez le passage à la circulation venant en sens inverse",
+        "Signaux sonores interdits",
+        "Chaînes à neige obligatoires"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "B16 — L'usage de l'avertisseur sonore est interdit, sauf en cas de danger immédiat pour éviter un accident."
+    },
+    "image": "b16"
+  },
+  {
+    "id": "pan_b16_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Signaux sonores interdits",
+        "Accès interdit aux cycles",
+        "Accès interdit aux piétons",
+        "Dépassement interdit"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B16 — L'usage de l'avertisseur sonore est interdit, sauf en cas de danger immédiat pour éviter un accident."
+    },
+    "image": "b16"
+  },
+  {
+    "id": "pan_b34_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Chaussée rétrécie",
+        "Cédez le passage à la circulation venant en sens inverse",
+        "Fin de route prioritaire",
+        "Fin d'interdiction de dépasser"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B34 — Ce panneau lève l'interdiction de dépasser signalée par le B3 : vous pouvez de nouveau dépasser, en respectant les règles générales du code de la route."
+    },
+    "image": "b34"
+  },
+  {
+    "id": "pan_b34_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Fin de toutes les interdictions",
+        "Fin d'interdiction de dépasser",
+        "Fin de limitation de vitesse à 50 km/h",
+        "Sortie de zone 30"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "B34 — Ce panneau lève l'interdiction de dépasser signalée par le B3 : vous pouvez de nouveau dépasser, en respectant les règles générales du code de la route."
+    },
+    "image": "b34"
+  },
+  {
+    "id": "pan_b22a_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Succession de virages dont le premier est à droite",
+        "Piste ou bande obligatoire pour les cycles",
+        "Risque de chute de pierres",
+        "Autres dangers"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "B22a — Les cyclistes doivent emprunter la piste ou la bande cyclable à l'entrée de laquelle le panneau est placé. Les piétons et les autres véhicules n'ont pas le droit de l'emprunter ni de s'y arrêter."
+    },
+    "image": "b22a"
+  },
+  {
+    "id": "pan_b22a_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Piste ou bande obligatoire pour les cycles",
+        "Direction obligatoire : à droite",
+        "Chaînes à neige obligatoires",
+        "Contournement obligatoire par la droite"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B22a — Les cyclistes doivent emprunter la piste ou la bande cyclable à l'entrée de laquelle le panneau est placé. Les piétons et les autres véhicules n'ont pas le droit de l'emprunter ni de s'y arrêter."
+    },
+    "image": "b22a"
+  },
+  {
+    "id": "pan_b40_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Dépassement interdit",
+        "Entrée de zone 30",
+        "Fin de route prioritaire",
+        "Fin de piste ou bande cyclable obligatoire"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B40 — L'obligation d'emprunter la piste ou bande cyclable prend fin."
+    },
+    "image": "b40"
+  },
+  {
+    "id": "pan_b40_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Fin de piste ou bande cyclable obligatoire",
+        "Fin d'interdiction de dépasser",
+        "Fin de toutes les interdictions",
+        "Fin de limitation de vitesse à 50 km/h"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "B40 — L'obligation d'emprunter la piste ou bande cyclable prend fin."
+    },
+    "image": "b40"
+  },
+  {
+    "id": "pan_b22b_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Fin d'interdiction de dépasser",
+        "Chemin obligatoire pour piétons",
+        "Cédez le passage",
+        "Fin de route prioritaire"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "B22b — Les piétons sont tenus d'emprunter ce chemin qui leur est réservé. Les conducteurs de véhicules et les cavaliers n'ont pas le droit de l'emprunter ni de s'y arrêter."
+    },
+    "image": "b22b"
+  },
+  {
+    "id": "pan_b22b_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Voie réservée aux véhicules des services réguliers de transport en commun",
+        "Chaînes à neige obligatoires",
+        "Direction obligatoire : tout droit",
+        "Chemin obligatoire pour piétons"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B22b — Les piétons sont tenus d'emprunter ce chemin qui leur est réservé. Les conducteurs de véhicules et les cavaliers n'ont pas le droit de l'emprunter ni de s'y arrêter."
+    },
+    "image": "b22b"
+  },
+  {
+    "id": "pan_b26_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Virage à droite",
+        "Chaînes à neige obligatoires",
+        "Descente dangereuse",
+        "Sens interdit"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "B26 — Obligation de circuler avec des chaînes à neige sur au moins deux roues motrices, sur la route enneigée dont le panneau marque l'entrée. S'applique jusqu'au panneau de fin d'obligation."
+    },
+    "image": "b26"
+  },
+  {
+    "id": "pan_b26_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Vitesse minimale obligatoire (30 km/h)",
+        "Contournement obligatoire par la droite",
+        "Piste ou bande obligatoire pour les cycles",
+        "Chaînes à neige obligatoires"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "B26 — Obligation de circuler avec des chaînes à neige sur au moins deux roues motrices, sur la route enneigée dont le panneau marque l'entrée. S'applique jusqu'au panneau de fin d'obligation."
+    },
+    "image": "b26"
+  },
+  {
+    "id": "pan_b27a_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Intersection où vous avez la priorité",
+        "Voie réservée aux véhicules des services réguliers de transport en commun",
+        "Passage à niveau sans barrière",
+        "Autres dangers"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "B27a — Cette voie est réservée aux bus des services réguliers de transport en commun. Les conducteurs des autres véhicules n'ont pas le droit d'y circuler ni de s'y arrêter."
+    },
+    "image": "b27a"
+  },
+  {
+    "id": "pan_b27a_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Contournement obligatoire par la droite",
+        "Voie réservée aux véhicules des services réguliers de transport en commun",
+        "Vitesse minimale obligatoire (30 km/h)",
+        "Direction obligatoire : à droite"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "B27a — Cette voie est réservée aux bus des services réguliers de transport en commun. Les conducteurs des autres véhicules n'ont pas le droit d'y circuler ni de s'y arrêter."
+    },
+    "image": "b27a"
+  },
+  {
+    "id": "pan_c20a_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Fin de route prioritaire",
+        "Annonce d'un passage pour piétons",
+        "Emplacement d'un passage pour piétons",
+        "Passage d'animaux domestiques"
+      ]
+    },
+    "correct": 2,
+    "explanation": {
+      "fr": "C20a — Signale l'emplacement d'un passage aménagé pour la traversée des piétons. Le conducteur doit céder le passage aux piétons engagés ou manifestant l'intention de traverser, en s'arrêtant au besoin."
+    },
+    "image": "c20a"
+  },
+  {
+    "id": "pan_c20a_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Lieu aménagé pour le stationnement",
+        "Entrée d'un tunnel",
+        "Vitesse conseillée (90 km/h)",
+        "Emplacement d'un passage pour piétons"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "C20a — Signale l'emplacement d'un passage aménagé pour la traversée des piétons. Le conducteur doit céder le passage aux piétons engagés ou manifestant l'intention de traverser, en s'arrêtant au besoin."
+    },
+    "image": "c20a"
+  },
+  {
+    "id": "pan_c107_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Circulation interdite à tout véhicule",
+        "Route à accès réglementé",
+        "Autres dangers",
+        "Circulation dans les deux sens"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "C107 — Début d'une voie express : accès interdit aux piétons, cycles, cyclomoteurs et véhicules lents ; arrêt, stationnement, demi-tour et marche arrière interdits. Ce panneau ne fixe pas de limitation de vitesse : 110 km/h seulement si les deux chaussées sont séparées par un terre-plein central, sinon 80 km/h par défaut."
+    },
+    "image": "c107"
+  },
+  {
+    "id": "pan_c107_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Route à accès réglementé",
+        "Sens unique",
+        "Emplacement d'un passage pour piétons",
+        "Entrée d'un tunnel"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C107 — Début d'une voie express : accès interdit aux piétons, cycles, cyclomoteurs et véhicules lents ; arrêt, stationnement, demi-tour et marche arrière interdits. Ce panneau ne fixe pas de limitation de vitesse : 110 km/h seulement si les deux chaussées sont séparées par un terre-plein central, sinon 80 km/h par défaut."
+    },
+    "image": "c107"
+  },
+  {
+    "id": "pan_c207_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Début d'une section d'autoroute",
+        "Stop",
+        "Fin d'interdiction de dépasser",
+        "Piste ou bande obligatoire pour les cycles"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C207 — Indique le début d'une autoroute et de ses règles : accès réservé aux véhicules à moteur rapides ; arrêt, demi-tour et marche arrière interdits. Vitesse limitée à 130 km/h par défaut."
+    },
+    "image": "c207"
+  },
+  {
+    "id": "pan_c207_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Entrée d'un tunnel",
+        "Emplacement d'un passage pour piétons",
+        "Impasse",
+        "Début d'une section d'autoroute"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "fr": "C207 — Indique le début d'une autoroute et de ses règles : accès réservé aux véhicules à moteur rapides ; arrêt, demi-tour et marche arrière interdits. Vitesse limitée à 130 km/h par défaut."
+    },
+    "image": "c207"
+  },
+  {
+    "id": "pan_c111_f",
+    "category": "panneaux",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Accès interdit aux véhicules de plus de 3,5 m de hauteur, chargement compris",
+        "Entrée d'un tunnel",
+        "Chaînes à neige obligatoires",
+        "Interdiction de tourner à gauche à la prochaine intersection"
+      ]
+    },
+    "correct": 1,
+    "explanation": {
+      "fr": "C111 — Signale l'entrée d'un tunnel : allumage des feux de croisement obligatoire ; demi-tour, arrêt et stationnement interdits hors emplacements d'urgence. Respectez les distances de sécurité."
+    },
+    "image": "c111"
+  },
+  {
+    "id": "pan_c111_e",
+    "category": "panneaux",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que signifie ce panneau ?"
+    },
+    "options": {
+      "fr": [
+        "Entrée d'un tunnel",
+        "Vitesse conseillée (90 km/h)",
+        "Emplacement d'un passage pour piétons",
+        "Route à accès réglementé"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C111 — Signale l'entrée d'un tunnel : allumage des feux de croisement obligatoire ; demi-tour, arrêt et stationnement interdits hors emplacements d'urgence. Respectez les distances de sécurité."
+    },
+    "image": "c111"
+  }
+]

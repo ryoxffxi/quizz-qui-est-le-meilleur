@@ -66,6 +66,20 @@ export default {
   cat_manga: 'Manga & Animé',
   cat_route: 'Code de la route',
   cat_cinema: 'Cinéma & Séries',
+  cat_panneaux: 'Panneaux routiers',
+
+  // Onglet Panneaux (révision du code de la route, FR uniquement)
+  home_tab_quiz: '🎮 Quiz',
+  home_tab_panneaux: '🚸 Panneaux',
+  panneaux_quiz_title: '🚸 Le quiz spécial panneaux',
+  panneaux_quiz_sub:
+    'Uniquement des panneaux, chacun avec son visuel : sauras-tu tous les reconnaître ?',
+  panneaux_quiz_cta: '🎯 Lancer le quiz panneaux',
+  panneaux_browse: 'Réviser par famille',
+  panneaux_count: '{n} panneaux',
+  sign_close: 'Fermer',
+  sign_prev: 'Panneau précédent',
+  sign_next: 'Panneau suivant',
 
   // Navigation
   quit: '← Quitter',

@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import Segmented from './Segmented'
+import PanneauxRevision from './PanneauxRevision'
 import { countQuestions, getCategories } from '../content'
 import { CHALLENGE_MAX_ROUNDS, CHALLENGE_QUESTION_COUNT } from '../lib/game'
 import { sound } from '../lib/sound'
@@ -9,11 +10,16 @@ const CHALLENGE_PLAYABLE = CHALLENGE_MAX_ROUNDS * CHALLENGE_QUESTION_COUNT
 
 export default function Home({ onStart }) {
   const { t, lang } = useI18n()
+  const [tab, setTab] = useState('quiz')
   const [mode, setMode] = useState('solo')
   const [difficulty, setDifficulty] = useState('facile')
 
   // Catégories visibles selon la langue (Code de la route masqué hors FR).
   const categories = getCategories(lang)
+
+  // L'onglet Panneaux (code de la route) n'existe qu'en français.
+  const showPanneaux = lang === 'fr'
+  const activeTab = showPanneaux ? tab : 'quiz'
 
   return (
     <div className="home">
@@ -23,67 +29,104 @@ export default function Home({ onStart }) {
         <p className="tagline">{t('tagline')}</p>
       </header>
 
-      <section className="selectors">
-        <div className="field">
-          <span className="field-label">{t('mode_label')}</span>
-          <Segmented
-            value={mode}
-            onChange={setMode}
-            options={[
-              { value: 'solo', label: t('mode_solo') },
-              { value: 'challenge', label: t('mode_challenge') },
-            ]}
-          />
-          <p className="field-help">
-            {mode === 'solo' ? t('help_solo') : t('help_challenge')}
-          </p>
+      {showPanneaux && (
+        <div className="home-tabs" role="tablist">
+          {[
+            ['quiz', t('home_tab_quiz')],
+            ['panneaux', t('home_tab_panneaux')],
+          ].map(([id, label]) => (
+            <button
+              key={id}
+              type="button"
+              role="tab"
+              aria-selected={activeTab === id}
+              className={`home-tab ${activeTab === id ? 'active' : ''}`}
+              onClick={() => {
+                sound.select()
+                setTab(id)
+              }}
+            >
+              {label}
+            </button>
+          ))}
         </div>
+      )}
 
-        <div className="field">
-          <span className="field-label">{t('difficulty_label')}</span>
-          <Segmented
-            value={difficulty}
-            onChange={setDifficulty}
-            accent={difficulty === 'expert' ? 'var(--danger)' : 'var(--accent)'}
-            options={[
-              { value: 'facile', label: t('diff_facile') },
-              { value: 'expert', label: t('diff_expert') },
-            ]}
-          />
-        </div>
-      </section>
+      {activeTab === 'panneaux' ? (
+        <PanneauxRevision
+          onStartQuiz={({ mode: quizMode, difficulty: quizDifficulty }) =>
+            onStart({
+              categoryId: 'panneaux',
+              mode: quizMode,
+              difficulty: quizDifficulty,
+            })
+          }
+        />
+      ) : (
+        <>
+          <section className="selectors">
+            <div className="field">
+              <span className="field-label">{t('mode_label')}</span>
+              <Segmented
+                value={mode}
+                onChange={setMode}
+                options={[
+                  { value: 'solo', label: t('mode_solo') },
+                  { value: 'challenge', label: t('mode_challenge') },
+                ]}
+              />
+              <p className="field-help">
+                {mode === 'solo' ? t('help_solo') : t('help_challenge')}
+              </p>
+            </div>
 
-      <section className="categories">
-        <span className="field-label">{t('choose_category')}</span>
-        <div className="cat-grid">
-          {categories.map((cat) => {
-            const available = countQuestions(cat.id, difficulty)
-            // Solo : toutes les questions dispo. Défi : ce qui est jouable (manches × 5).
-            const count =
-              mode === 'challenge'
-                ? Math.min(available, CHALLENGE_PLAYABLE)
-                : available
-            return (
-              <button
-                key={cat.id}
-                type="button"
-                className="cat-card"
-                style={{
-                  background: `linear-gradient(135deg, ${cat.gradient[0]}, ${cat.gradient[1]})`,
-                }}
-                onClick={() => {
-                  sound.select()
-                  onStart({ categoryId: cat.id, mode, difficulty })
-                }}
-              >
-                <span className="cat-emoji">{cat.emoji}</span>
-                <span className="cat-label">{t(cat.labelKey)}</span>
-                <span className="cat-count">{t('questions_count', { n: count })}</span>
-              </button>
-            )
-          })}
-        </div>
-      </section>
+            <div className="field">
+              <span className="field-label">{t('difficulty_label')}</span>
+              <Segmented
+                value={difficulty}
+                onChange={setDifficulty}
+                accent={difficulty === 'expert' ? 'var(--danger)' : 'var(--accent)'}
+                options={[
+                  { value: 'facile', label: t('diff_facile') },
+                  { value: 'expert', label: t('diff_expert') },
+                ]}
+              />
+            </div>
+          </section>
+
+          <section className="categories">
+            <span className="field-label">{t('choose_category')}</span>
+            <div className="cat-grid">
+              {categories.map((cat) => {
+                const available = countQuestions(cat.id, difficulty)
+                // Solo : toutes les questions dispo. Défi : ce qui est jouable (manches × 5).
+                const count =
+                  mode === 'challenge'
+                    ? Math.min(available, CHALLENGE_PLAYABLE)
+                    : available
+                return (
+                  <button
+                    key={cat.id}
+                    type="button"
+                    className="cat-card"
+                    style={{
+                      background: `linear-gradient(135deg, ${cat.gradient[0]}, ${cat.gradient[1]})`,
+                    }}
+                    onClick={() => {
+                      sound.select()
+                      onStart({ categoryId: cat.id, mode, difficulty })
+                    }}
+                  >
+                    <span className="cat-emoji">{cat.emoji}</span>
+                    <span className="cat-label">{t(cat.labelKey)}</span>
+                    <span className="cat-count">{t('questions_count', { n: count })}</span>
+                  </button>
+                )
+              })}
+            </div>
+          </section>
+        </>
+      )}
     </div>
   )
 }
