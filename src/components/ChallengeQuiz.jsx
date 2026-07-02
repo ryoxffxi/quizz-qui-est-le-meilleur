@@ -13,6 +13,7 @@ import { buildChallengeUrl } from '../lib/challengeLink'
 import { sound } from '../lib/sound'
 import { useI18n } from '../i18n'
 import ErrorRecap from './ErrorRecap'
+import SignImage from './SignImage'
 import ResultHero from './ResultHero'
 import ResultShare from './ResultShare'
 import ResultAd from './ResultAd'
@@ -334,6 +335,9 @@ export default function ChallengeQuiz({ config, onExit }) {
         <span className="quiz-cat" style={{ color: category.gradient[0] }}>
           {category.emoji} {catName} · {myName}
         </span>
+        {question.image && (
+          <SignImage id={question.image} className="quiz-sign" />
+        )}
         <h2 className="quiz-question">{question.question}</h2>
 
         <div className="options">

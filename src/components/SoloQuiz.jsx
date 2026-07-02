@@ -7,6 +7,7 @@ import { loadSeen, saveSeen } from '../lib/revision'
 import { sound } from '../lib/sound'
 import { useI18n } from '../i18n'
 import ErrorRecap from './ErrorRecap'
+import SignImage from './SignImage'
 import ResultQuote from './ResultQuote'
 import ResultHero, { personalityKey } from './ResultHero'
 import ResultShare from './ResultShare'
@@ -242,6 +243,9 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
         <span className="quiz-cat" style={{ color: category.gradient[0] }}>
           {category.emoji} {catName}
         </span>
+        {question.image && (
+          <SignImage id={question.image} className="quiz-sign" />
+        )}
         <h2 className="quiz-question">{question.question}</h2>
 
         <div className="options">

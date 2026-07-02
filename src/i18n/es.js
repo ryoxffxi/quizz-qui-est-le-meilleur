@@ -66,6 +66,20 @@ export default {
   cat_manga: 'Manga y Anime',
   cat_route: 'Code de la route',
   cat_cinema: 'Cine y Series',
+  cat_panneaux: 'Señales de tráfico',
+
+  // Pestaña Panneaux (revisión del código francés, solo FR)
+  home_tab_quiz: '🎮 Quiz',
+  home_tab_panneaux: '🚸 Señales',
+  panneaux_quiz_title: '🚸 El quiz de señales',
+  panneaux_quiz_sub:
+    'Solo señales, cada una con su imagen: ¿podrás reconocerlas todas?',
+  panneaux_quiz_cta: '🎯 Empezar el quiz de señales',
+  panneaux_browse: 'Repasar por familia',
+  panneaux_count: '{n} señales',
+  sign_close: 'Cerrar',
+  sign_prev: 'Señal anterior',
+  sign_next: 'Señal siguiente',
 
   // Navegación
   quit: '← Salir',

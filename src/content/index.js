@@ -1,6 +1,7 @@
 import cultureGenerale from './culture-generale.json'
 import mangaAnime from './manga-anime.json'
 import codeRoute from './code-route.json'
+import panneauxQuiz from './panneaux-quiz.json'
 import cinemaSeries from './cinema-series.json'
 
 // Métadonnées d'affichage de chaque catégorie (id stable = nom du fichier).
@@ -27,6 +28,14 @@ export const CATEGORIES = [
     gradient: ['#f59e0b', '#ef4444'],
     questions: codeRoute,
     frOnly: true, // le code de la route est spécifique à la France
+  },
+  {
+    id: 'panneaux',
+    labelKey: 'cat_panneaux',
+    emoji: '🚸',
+    gradient: ['#16a34a', '#0d9488'],
+    questions: panneauxQuiz,
+    frOnly: true, // panneaux français (les questions portent une image)
   },
   {
     id: 'cinema-series',

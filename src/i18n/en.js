@@ -66,6 +66,20 @@ export default {
   cat_manga: 'Manga & Anime',
   cat_route: 'Code de la route',
   cat_cinema: 'Movies & Series',
+  cat_panneaux: 'Road signs',
+
+  // Panneaux tab (French driving-code revision, FR only)
+  home_tab_quiz: '🎮 Quiz',
+  home_tab_panneaux: '🚸 Road signs',
+  panneaux_quiz_title: '🚸 The road-signs quiz',
+  panneaux_quiz_sub:
+    'Signs only, each shown with its picture: can you recognize them all?',
+  panneaux_quiz_cta: '🎯 Start the signs quiz',
+  panneaux_browse: 'Review by family',
+  panneaux_count: '{n} signs',
+  sign_close: 'Close',
+  sign_prev: 'Previous sign',
+  sign_next: 'Next sign',
 
   // Navigation
   quit: '← Quit',

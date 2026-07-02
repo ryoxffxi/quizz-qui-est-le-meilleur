@@ -66,6 +66,20 @@ export default {
   cat_manga: 'Mangá e Anime',
   cat_route: 'Code de la route',
   cat_cinema: 'Cinema e Séries',
+  cat_panneaux: 'Placas de trânsito',
+
+  // Aba Panneaux (revisão do código francês, só FR)
+  home_tab_quiz: '🎮 Quiz',
+  home_tab_panneaux: '🚸 Placas',
+  panneaux_quiz_title: '🚸 O quiz de placas',
+  panneaux_quiz_sub:
+    'Só placas, cada uma com a sua imagem: consegues reconhecer todas?',
+  panneaux_quiz_cta: '🎯 Começar o quiz de placas',
+  panneaux_browse: 'Rever por família',
+  panneaux_count: '{n} placas',
+  sign_close: 'Fechar',
+  sign_prev: 'Placa anterior',
+  sign_next: 'Placa seguinte',
 
   // Navegação
   quit: '← Sair',
