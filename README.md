@@ -60,5 +60,30 @@ puis l'enregistrer dans `src/content/index.js` (label, emoji, dégradé).
   validation, correction immédiate + explication, récap des erreurs à la fin.
 - **Défi entre potes** : 5 questions, chronomètre par question (10 s en Facile,
   7 s en Expert) avec barre qui se vide, score pondéré par la vitesse façon
-  Kahoot, pas de correction immédiate, puis écran « Toi vs un ami »
-  (score de l'ami simulé pour l'instant).
+  Kahoot, pas de correction immédiate. Le défi se joue par lien partagé
+  (mêmes questions pour les deux joueurs), avec un écran « Toi vs un ami » ;
+  un mode « ami simulé » reste disponible pour tester seul.
+- **Panneaux** : révision des panneaux par famille + quiz dédié avec visuels.
+
+## Publicité (AdSense) & Premium
+
+La monétisation est volontairement légère : **une seule pub**, sur l'écran de
+résultat après un quiz (`ResultAd`), jamais pendant le jeu ni sur la page
+d'arrivée d'un lien partagé. Le Premium retire toute publicité.
+
+État de l'intégration :
+
+- Le script AdSense est chargé depuis `index.html` avec l'ID éditeur
+  (`ca-pub-1164405138212191`) — sert aussi à la vérification du site.
+- `public/ads.txt` est en place (requis par AdSense, sinon « revenus menacés »).
+- Le consentement UE (RGPD) est géré par le CMP certifié de Google :
+  AdSense → **Confidentialité et messages** → activer le message consentement.
+- Tant qu'aucun bloc d'annonce n'est configuré, aucune pub ne s'affiche :
+  l'encart devient une promo Premium.
+
+Pour activer la diffusion (une fois le compte AdSense validé) :
+
+1. AdSense → Annonces → **Par bloc d'annonces** → créer un bloc « Display ».
+2. Copier son ID (`data-ad-slot`) dans la variable d'environnement
+   `VITE_ADSENSE_SLOT_RESULT` (Cloudflare Pages → Settings → Variables), puis
+   redéployer — ou en repli, le coller en dur dans `src/lib/ads.js`.
