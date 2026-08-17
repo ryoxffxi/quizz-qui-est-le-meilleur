@@ -49,6 +49,13 @@ export default function Footer() {
         </svg>
         <span>@ryo.offc</span>
       </a>
+      <button
+        type="button"
+        className="footer-donate"
+        onClick={() => window.dispatchEvent(new CustomEvent('quizz:open-donate'))}
+      >
+        💜 {t('donate_footer')}
+      </button>
       <nav className="footer-links">
         <button
           type="button"

@@ -212,4 +212,12 @@ export default {
   tile_correct: 'bonnes réponses',
   tile_precision: 'précision',
 
+  // Don (soutien)
+  donate_footer: 'Soutenir',
+  donate_title: 'Soutenir Quizz 💜',
+  donate_sub: 'Un petit don pour aider le jeu à grandir (serveurs, nouvelles questions). Merci !',
+  donate_custom: 'Montant libre (€)',
+  donate_cta: 'Faire un don de {n} €',
+  donate_thanks: 'Merci infiniment pour ton soutien ! Le jeu grandit grâce à toi. 💜',
+
 }

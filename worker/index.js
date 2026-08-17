@@ -121,6 +121,24 @@ async function createCheckoutSession(env, plan, origin) {
   })
 }
 
+// Session de DON : montant libre (centimes), paiement unique, marqué par une
+// métadonnée `kind=donation` sur le PaymentIntent — indispensable pour que le
+// handler de remboursement ne révoque PAS le premium d'un donateur remboursé.
+async function createDonationSession(env, cents, origin) {
+  return stripe(env, '/checkout/sessions', 'POST', {
+    mode: 'payment',
+    'payment_method_types[0]': 'card',
+    submit_type: 'donate',
+    'line_items[0][price_data][currency]': 'eur',
+    'line_items[0][price_data][product_data][name]': 'Don - Quizz',
+    'line_items[0][price_data][unit_amount]': String(cents),
+    'line_items[0][quantity]': '1',
+    'payment_intent_data[metadata][kind]': 'donation',
+    success_url: `${origin}/?don=merci`,
+    cancel_url: `${origin}/?don=cancel`,
+  })
+}
+
 // Vérifie la signature d'un webhook Stripe (schéma t=...,v1=... ; HMAC hex).
 async function verifyStripeSignature(env, payload, header) {
   if (!header) return false
@@ -181,6 +199,18 @@ async function handleCheckout(req, env, origin) {
   return json({ url: session.url })
 }
 
+// Don : montant en euros dans le corps, borné 1-500 €, converti en centimes.
+async function handleDonate(req, env, origin) {
+  const body = await req.json().catch(() => ({}))
+  const euros = Number(body.amount)
+  if (!Number.isFinite(euros)) return json({ error: 'bad_amount' }, 400)
+  const cents = Math.round(euros * 100)
+  if (cents < 100 || cents > 50000) return json({ error: 'bad_amount' }, 400)
+  const session = await createDonationSession(env, cents, origin)
+  if (!session || session.error || !session.url) return json({ error: 'stripe_error' }, 502)
+  return json({ url: session.url })
+}
+
 async function handleWebhook(req, env) {
   const payload = await req.text()
   const ok = await verifyStripeSignature(env, payload, req.headers.get('stripe-signature'))
@@ -226,6 +256,19 @@ async function handleWebhook(req, env) {
     let charge = event.data.object
     if (event.type === 'charge.dispute.created' && charge && charge.charge) {
       charge = await stripe(env, `/charges/${encodeURIComponent(charge.charge)}`)
+    }
+    // Un DON remboursé/contesté ne doit jamais toucher au premium de l'acheteur
+    // (métadonnée posée par createDonationSession) : on enregistre l'événement
+    // (idempotence) et on ne modifie rien d'autre.
+    if (charge && charge.metadata && charge.metadata.kind === 'donation') {
+      if (event.id) {
+        await env.DB.prepare(
+          'INSERT OR IGNORE INTO processed_events (event_id, created_at) VALUES (?, ?)',
+        )
+          .bind(event.id, new Date(nowSec() * 1000).toISOString())
+          .run()
+      }
+      return json({ received: true, donation: true })
     }
     // charge.refunded n'est vrai que pour un remboursement INTÉGRAL ; un litige révoque toujours.
     const full = event.type === 'charge.dispute.created' || (charge && charge.refunded === true)
@@ -283,6 +326,7 @@ export default {
     const p = url.pathname
     try {
       if (p === '/api/checkout' && req.method === 'POST') return await handleCheckout(req, env, url.origin)
+      if (p === '/api/donate' && req.method === 'POST') return await handleDonate(req, env, url.origin)
       if (p === '/api/webhook' && req.method === 'POST') return await handleWebhook(req, env)
       if (p === '/api/confirm' && req.method === 'GET') return await handleConfirm(url, env)
       if (p === '/api/entitlement' && req.method === 'GET') return await handleEntitlement(req, env)

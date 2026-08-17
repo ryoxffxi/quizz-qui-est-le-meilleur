@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useI18n } from '../i18n'
-import { startCheckout } from '../lib/premium'
+import { startCheckout, PREMIUM_LIVE } from '../lib/premium'
 import { usePremium } from '../lib/usePremium'
 import { sound } from '../lib/sound'
 
@@ -23,10 +23,15 @@ export default function Paywall() {
 
   if (!open) return null
 
-  // Lance Stripe Checkout. Si le backend n'est pas encore en ligne, on retombe
-  // proprement sur le message « bientôt disponible » (aucune casse).
+  // Lance Stripe Checkout. Tant que les paiements réels ne sont pas ouverts
+  // (PREMIUM_LIVE=false : Stripe en mode test, vraies cartes refusées), on
+  // affiche « bientôt disponible » — l'offre reste visible, jamais cassée.
   async function checkout(plan) {
     sound.select()
+    if (!PREMIUM_LIVE) {
+      setSoon(true)
+      return
+    }
     const ok = await startCheckout(plan)
     if (!ok) setSoon(true)
   }

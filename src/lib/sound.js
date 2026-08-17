@@ -16,10 +16,16 @@ function getCtx() {
   return ctx
 }
 
+// Volume maître : les gains historiques (0,02-0,05) étaient à peine audibles
+// sur haut-parleurs de téléphone. On les remonte globalement, plafonné pour
+// rester agréable au casque.
+const VOLUME = 3.2
+
 // Joue une note simple avec une enveloppe douce (fade in/out).
 function tone({ freq, dur = 0.12, type = 'sine', gain = 0.05, when = 0, slideTo }) {
   const c = getCtx()
   if (!c) return
+  const g = Math.min(gain * VOLUME, 0.3)
   const t0 = c.currentTime + when
   const osc = c.createOscillator()
   const env = c.createGain()
@@ -27,7 +33,7 @@ function tone({ freq, dur = 0.12, type = 'sine', gain = 0.05, when = 0, slideTo 
   osc.frequency.setValueAtTime(freq, t0)
   if (slideTo) osc.frequency.exponentialRampToValueAtTime(slideTo, t0 + dur)
   env.gain.setValueAtTime(0.0001, t0)
-  env.gain.exponentialRampToValueAtTime(gain, t0 + 0.012)
+  env.gain.exponentialRampToValueAtTime(g, t0 + 0.012)
   env.gain.exponentialRampToValueAtTime(0.0001, t0 + dur)
   osc.connect(env).connect(c.destination)
   osc.start(t0)

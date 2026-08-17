@@ -9,9 +9,9 @@ import LanguageSelector from './components/LanguageSelector'
 import Footer from './components/Footer'
 import CookieConsent from './components/CookieConsent'
 import Paywall from './components/Paywall'
+import DonateModal from './components/DonateModal'
 import LegalModal from './components/LegalModal'
 import { usePremium } from './lib/usePremium'
-import { PREMIUM_LIVE } from './lib/premium'
 import { getTheme, toggleTheme } from './lib/theme'
 import { sound } from './lib/sound'
 import { useI18n } from './i18n'
@@ -81,8 +81,10 @@ export default function App() {
     <div className="app">
       <div className="topbar-controls">
         {/* Pendant une partie, seule la coupure du son reste : l'ambiance et
-            la langue se règlent à l'accueil (évite le chevauchement mobile). */}
-        {!inGame && PREMIUM_LIVE && !premium && (
+            la langue se règlent à l'accueil (évite le chevauchement mobile).
+            La couronne est visible même avant le go-live des paiements : le
+            paywall affiche alors « bientôt disponible » (décision Ryo 17/08). */}
+        {!inGame && !premium && (
           <button
             className="premium-toggle"
             onClick={() =>
@@ -176,6 +178,7 @@ export default function App() {
       {!inGame && <Footer />}
       <CookieConsent />
       <Paywall />
+      <DonateModal />
       <LegalModal />
     </div>
   )
