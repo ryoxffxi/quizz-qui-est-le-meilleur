@@ -1,4 +1,5 @@
 import { useI18n } from '../i18n'
+import { PREMIUM_LIVE } from '../lib/premium'
 
 // Pied de page centré : lien vers l'Instagram du créateur (@ryo.offc).
 export default function Footer() {
@@ -49,13 +50,15 @@ export default function Footer() {
         </svg>
         <span>@ryo.offc</span>
       </a>
-      <button
-        type="button"
-        className="footer-donate"
-        onClick={() => window.dispatchEvent(new CustomEvent('quizz:open-donate'))}
-      >
-        💜 {t('donate_footer')}
-      </button>
+      {PREMIUM_LIVE && (
+        <button
+          type="button"
+          className="footer-donate"
+          onClick={() => window.dispatchEvent(new CustomEvent('quizz:open-donate'))}
+        >
+          💜 {t('donate_footer')}
+        </button>
+      )}
       <nav className="footer-links">
         <button
           type="button"

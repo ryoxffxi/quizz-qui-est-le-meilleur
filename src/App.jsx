@@ -12,6 +12,7 @@ import Paywall from './components/Paywall'
 import DonateModal from './components/DonateModal'
 import LegalModal from './components/LegalModal'
 import { usePremium } from './lib/usePremium'
+import { PREMIUM_LIVE } from './lib/premium'
 import { getTheme, toggleTheme } from './lib/theme'
 import { sound } from './lib/sound'
 import { useI18n } from './i18n'
@@ -82,9 +83,10 @@ export default function App() {
       <div className="topbar-controls">
         {/* Pendant une partie, seule la coupure du son reste : l'ambiance et
             la langue se règlent à l'accueil (évite le chevauchement mobile).
-            La couronne est visible même avant le go-live des paiements : le
-            paywall affiche alors « bientôt disponible » (décision Ryo 17/08). */}
-        {!inGame && !premium && (
+            Couronne (et bouton Soutenir du footer) masqués tant que les
+            paiements réels ne sont pas ouverts : les DEUX réapparaissent
+            ensemble quand `go-live-stripe.sh --live` passe PREMIUM_LIVE à true. */}
+        {PREMIUM_LIVE && !inGame && !premium && (
           <button
             className="premium-toggle"
             onClick={() =>
