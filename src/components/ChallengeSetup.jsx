@@ -9,6 +9,7 @@ import {
 import { randomSeed } from '../lib/quiz'
 import { sound } from '../lib/sound'
 import { useI18n } from '../i18n'
+import { CatIcon } from './icons'
 import Segmented from './Segmented'
 
 // Saisie du pseudo + choix du nombre de manches (joueur 1) avant un Défi.
@@ -55,14 +56,10 @@ export default function ChallengeSetup({
         </button>
       </div>
 
-      <div
-        className="setup-card"
-        style={{
-          background: `linear-gradient(160deg, ${category.gradient[0]}, ${category.gradient[1]})`,
-        }}
-      >
+      <div className="setup-card" style={{ '--cat': category.gradient[0] }}>
         <span className="hero-cat">
-          {category.emoji} {t(category.labelKey)} · {t(`diff_${difficulty}`)}
+          <CatIcon id={category.id} size={14} strokeWidth={2.2} />{' '}
+          {t(category.labelKey)} · {t(`diff_${difficulty}`)}
         </span>
         <h2 className="setup-title">{t('challenge_title')}</h2>
         <p className="setup-sub">{t('setup_sub')}</p>

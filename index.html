@@ -8,7 +8,24 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover"
     />
-    <meta name="theme-color" content="#0b0f1a" />
+    <meta name="theme-color" content="#0a0d16" />
+    <!-- Ambiance (volt/crimson) appliquée AVANT le premier rendu : pas de flash. -->
+    <script>
+      try {
+        var t = localStorage.getItem('quizz_theme')
+        document.documentElement.dataset.theme = t === 'crimson' ? 'crimson' : 'volt'
+      } catch (e) {
+        document.documentElement.dataset.theme = 'volt'
+      }
+    </script>
+    <!-- Police titres/scores auto-hébergée (aucun appel à Google Fonts : RGPD). -->
+    <link
+      rel="preload"
+      href="/fonts/space-grotesk-latin.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
     <meta
       name="description"
       content="Quizz - Qui est le meilleur ? Quiz fun pour tester tes connaissances, seul ou en défi entre potes."

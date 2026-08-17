@@ -5,8 +5,12 @@ import { countQuestions, getCategories } from '../content'
 import { CHALLENGE_MAX_ROUNDS, CHALLENGE_QUESTION_COUNT } from '../lib/game'
 import { sound } from '../lib/sound'
 import { useI18n } from '../i18n'
+import { QMark, CatIcon, IconChevronRight, IconBook, IconBolt } from './icons'
 
 const CHALLENGE_PLAYABLE = CHALLENGE_MAX_ROUNDS * CHALLENGE_QUESTION_COUNT
+
+// Catégorie mise en avant en tête de liste (carte « héros »).
+const HERO_CATEGORY = 'code-route'
 
 export default function Home({ onStart }) {
   const { t, lang } = useI18n()
@@ -16,17 +20,32 @@ export default function Home({ onStart }) {
 
   // Catégories visibles selon la langue (Code de la route masqué hors FR).
   const categories = getCategories(lang)
+  const hero = categories.find((c) => c.id === HERO_CATEGORY)
+  const others = categories.filter((c) => c.id !== HERO_CATEGORY)
 
   // L'onglet Panneaux (code de la route) n'existe qu'en français.
   const showPanneaux = lang === 'fr'
   const activeTab = showPanneaux ? tab : 'quiz'
 
+  function playableCount(catId) {
+    const available = countQuestions(catId, difficulty)
+    // Solo : toutes les questions dispo. Défi : ce qui est jouable (manches × 5).
+    return mode === 'challenge' ? Math.min(available, CHALLENGE_PLAYABLE) : available
+  }
+
+  function startCategory(catId) {
+    sound.select()
+    onStart({ categoryId: catId, mode, difficulty })
+  }
+
   return (
     <div className="home">
       <header className="home-head">
-        <h1 className="logo">{t('app_name')}</h1>
-        <p className="home-title">{t('app_subtitle')}</p>
-        <p className="tagline">{t('tagline')}</p>
+        <QMark size={46} />
+        <div>
+          <h1 className="logo">{t('app_name')}</h1>
+          <p className="home-title">{t('app_subtitle')}</p>
+        </div>
       </header>
 
       {showPanneaux && (
@@ -71,8 +90,22 @@ export default function Home({ onStart }) {
                 value={mode}
                 onChange={setMode}
                 options={[
-                  { value: 'solo', label: t('mode_solo') },
-                  { value: 'challenge', label: t('mode_challenge') },
+                  {
+                    value: 'solo',
+                    label: (
+                      <>
+                        <IconBook size={15} strokeWidth={2.2} /> {t('mode_solo')}
+                      </>
+                    ),
+                  },
+                  {
+                    value: 'challenge',
+                    label: (
+                      <>
+                        <IconBolt size={15} strokeWidth={2.2} /> {t('mode_challenge')}
+                      </>
+                    ),
+                  },
                 ]}
               />
               <p className="field-help">
@@ -85,7 +118,6 @@ export default function Home({ onStart }) {
               <Segmented
                 value={difficulty}
                 onChange={setDifficulty}
-                accent={difficulty === 'expert' ? 'var(--danger)' : 'var(--accent)'}
                 options={[
                   { value: 'facile', label: t('diff_facile') },
                   { value: 'expert', label: t('diff_expert') },
@@ -96,33 +128,49 @@ export default function Home({ onStart }) {
 
           <section className="categories">
             <span className="field-label">{t('choose_category')}</span>
-            <div className="cat-grid">
-              {categories.map((cat) => {
-                const available = countQuestions(cat.id, difficulty)
-                // Solo : toutes les questions dispo. Défi : ce qui est jouable (manches × 5).
-                const count =
-                  mode === 'challenge'
-                    ? Math.min(available, CHALLENGE_PLAYABLE)
-                    : available
-                return (
-                  <button
-                    key={cat.id}
-                    type="button"
-                    className="cat-card"
-                    style={{
-                      background: `linear-gradient(135deg, ${cat.gradient[0]}, ${cat.gradient[1]})`,
-                    }}
-                    onClick={() => {
-                      sound.select()
-                      onStart({ categoryId: cat.id, mode, difficulty })
-                    }}
-                  >
-                    <span className="cat-emoji">{cat.emoji}</span>
+
+            {hero && (
+              <button
+                type="button"
+                className="hero-card"
+                onClick={() => startCategory(hero.id)}
+              >
+                <span className="hero-badge">
+                  {t('questions_count', { n: playableCount(hero.id) }).toUpperCase()}
+                </span>
+                <span className="hero-row">
+                  <span className="cat-ic" style={{ '--cat': hero.gradient[0] }}>
+                    <CatIcon id={hero.id} size={26} />
+                  </span>
+                  <span className="cat-tx">
+                    <span className="hero-name">{t(hero.labelKey)}</span>
+                    <span className="hero-sub">{t('hero_sub')}</span>
+                  </span>
+                  <IconChevronRight className="cat-go" size={20} strokeWidth={2.4} />
+                </span>
+              </button>
+            )}
+
+            <div className="cat-list">
+              {others.map((cat) => (
+                <button
+                  key={cat.id}
+                  type="button"
+                  className="cat-card"
+                  onClick={() => startCategory(cat.id)}
+                >
+                  <span className="cat-ic" style={{ '--cat': cat.gradient[0] }}>
+                    <CatIcon id={cat.id} size={22} />
+                  </span>
+                  <span className="cat-tx">
                     <span className="cat-label">{t(cat.labelKey)}</span>
-                    <span className="cat-count">{t('questions_count', { n: count })}</span>
-                  </button>
-                )
-              })}
+                    <span className="cat-count">
+                      {t('questions_count', { n: playableCount(cat.id) })}
+                    </span>
+                  </span>
+                  <IconChevronRight className="cat-go" size={18} strokeWidth={2.4} />
+                </button>
+              ))}
             </div>
           </section>
         </>

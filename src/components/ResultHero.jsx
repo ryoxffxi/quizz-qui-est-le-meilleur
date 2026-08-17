@@ -1,5 +1,5 @@
-import { Trophy } from 'lucide-react'
 import { useI18n } from '../i18n'
+import { CatIcon } from './icons'
 
 // Clé i18n de personnalité selon le score (rendue par t() côté appelant).
 export function personalityKey(correct, total) {
@@ -8,25 +8,27 @@ export function personalityKey(correct, total) {
   return 'personality_bad'
 }
 
-// Grande carte « célébration » avec dégradé aux couleurs de la catégorie,
-// trophée centré et nom de la catégorie. Le contenu (score / comparaison)
-// est passé en enfants.
-export default function ResultHero({ category, children }) {
+// Carte de résultat v2 : surface neutre + pastille de catégorie teintée.
+// `percent` (0-100) affiche l'anneau de score rempli par l'accent : le contenu
+// (score) est alors rendu AU CENTRE de l'anneau, le reste en dessous.
+export default function ResultHero({ category, percent, children, below }) {
   const { t } = useI18n()
   return (
-    <div
-      className="result-hero"
-      style={{
-        background: `linear-gradient(160deg, ${category.gradient[0]}, ${category.gradient[1]})`,
-      }}
-    >
-      <div className="hero-trophy">
-        <Trophy size={44} strokeWidth={2.2} />
-      </div>
+    <div className="result-hero" style={{ '--cat': category.gradient[0] }}>
       <span className="hero-cat">
-        {category.emoji} {t(category.labelKey)}
+        <CatIcon id={category.id} size={14} strokeWidth={2.2} />
+        {t(category.labelKey)}
       </span>
-      {children}
+      {percent != null ? (
+        <>
+          <div className="score-ring" style={{ '--p': percent }}>
+            {children}
+          </div>
+          {below}
+        </>
+      ) : (
+        children
+      )}
     </div>
   )
 }

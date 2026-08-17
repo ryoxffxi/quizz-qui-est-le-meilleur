@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quizz — Maquette v2 « Arcade sobre »</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ================= MAQUETTE — 2 ambiances commutables ================= */
+:root{
+  --bg:#0a0d16; --surface:#141927; --surface2:#1b2233;
+  --border:rgba(255,255,255,.08); --text:#eef1f8; --dim:#8b95ad;
+  --good:#2ee06e; --bad:#ff4d5e;
+  --spring:cubic-bezier(.34,1.56,.64,1); --ease:cubic-bezier(.4,0,.2,1);
+  /* teintes de catégorie (petits signaux, jamais des aplats) */
+  --hue-culture:#8b7cff; --hue-manga:#ff6b9d; --hue-route:#ffb020;
+  --hue-panneaux:#2dd4a7; --hue-cinema:#4cc2ff;
+}
+body.volt{ --acc:#d8ff3d; --acc-ink:#10140a; --acc-soft:rgba(216,255,61,.14); --glow:rgba(216,255,61,.25); }
+body.crimson{ --acc:#ff4155; --acc-ink:#ffffff; --acc-soft:rgba(255,65,85,.14); --glow:rgba(255,65,85,.28); }
+
+*{box-sizing:border-box; -webkit-tap-highlight-color:transparent}
+body{
+  margin:0; min-height:100vh; background:#06080f; color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+  display:flex; flex-direction:column; align-items:center; gap:18px; padding:26px 12px 60px;
+}
+.display{font-family:'Space Grotesk',sans-serif}
+
+/* ---------- chrome de la maquette (hors téléphone) ---------- */
+.lab{display:flex; flex-wrap:wrap; gap:10px; align-items:center; justify-content:center}
+.lab h1{font-size:15px; font-weight:600; color:var(--dim); margin:0 8px 0 0}
+.lab .sw{display:flex; background:#12172455; border:1px solid var(--border); border-radius:12px; padding:4px; gap:4px}
+.lab button{
+  border:0; background:transparent; color:var(--dim); font-weight:600; font-size:13px;
+  padding:8px 14px; border-radius:9px; cursor:pointer; transition:all .2s var(--ease);
+}
+.lab button.on{background:var(--acc); color:var(--acc-ink)}
+.lab .jump button.on{background:var(--surface2); color:var(--text)}
+
+/* ---------- le téléphone ---------- */
+.phone{
+  width:390px; max-width:96vw; height:800px; background:var(--bg);
+  border:1px solid #ffffff14; border-radius:46px; overflow:hidden; position:relative;
+  box-shadow:0 30px 80px -20px #000, 0 0 120px -40px var(--glow);
+  transition:box-shadow .5s;
+}
+.phone::before{content:''; position:absolute; inset:0; pointer-events:none; z-index:50;
+  border-radius:46px; box-shadow:inset 0 0 0 1px #ffffff0a;}
+.vp{height:100%; overflow-y:auto; overflow-x:hidden; scrollbar-width:none; position:relative;
+  background:
+    radial-gradient(120% 55% at 50% -8%, var(--acc-soft) 0%, transparent 55%),
+    var(--bg);
+}
+.vp::-webkit-scrollbar{display:none}
+
+/* ---------- écrans ---------- */
+.screen{display:none; padding:58px 20px 40px; min-height:100%; animation:in .38s var(--spring)}
+.screen.active{display:block}
+@keyframes in{from{opacity:0; transform:translateX(26px)} to{opacity:1; transform:none}}
+
+/* ---------- ACCUEIL ---------- */
+.brand{display:flex; align-items:center; gap:12px; margin-bottom:4px}
+.mark{
+  width:44px; height:44px; border-radius:14px; background:var(--acc); color:var(--acc-ink);
+  display:grid; place-items:center; font-weight:700; font-size:26px;
+  box-shadow:0 6px 24px -6px var(--glow);
+}
+.brand h2{margin:0; font-size:30px; letter-spacing:-.5px; font-weight:700}
+.brand small{display:block; color:var(--dim); font-weight:500; font-size:13px; letter-spacing:.2px; margin-top:2px}
+.topico{position:absolute; top:16px; right:16px; display:flex; gap:8px; z-index:5}
+.chip-ico{width:38px; height:38px; border-radius:12px; background:#ffffff0a; border:1px solid var(--border);
+  display:grid; place-items:center; color:var(--dim)}
+
+.seg{background:var(--surface); border:1px solid var(--border); border-radius:14px;
+  display:flex; position:relative; padding:4px; margin-top:18px}
+.seg .thumb{position:absolute; top:4px; bottom:4px; width:calc(50% - 4px); left:4px;
+  background:var(--acc); border-radius:10px; transition:transform .28s var(--spring)}
+.seg.right .thumb{transform:translateX(100%)}
+.seg button{flex:1; z-index:1; background:none; border:0; padding:11px 0; font-weight:650; font-size:14px;
+  color:var(--dim); cursor:pointer; display:flex; gap:7px; align-items:center; justify-content:center;
+  transition:color .2s}
+.seg button.on{color:var(--acc-ink)}
+body.crimson .seg button.on{color:#fff}
+
+.label{font-size:11px; letter-spacing:1.6px; font-weight:700; color:var(--dim);
+  text-transform:uppercase; margin:22px 2px 10px}
+
+.cat{
+  display:flex; align-items:center; gap:14px; width:100%; text-align:left;
+  background:var(--surface); border:1px solid var(--border); border-radius:18px;
+  padding:14px 16px; margin-bottom:10px; cursor:pointer; color:var(--text);
+  transition:transform .18s var(--spring), border-color .2s, background .2s;
+}
+.cat:active{transform:scale(.97)}
+.cat:hover{border-color:#ffffff26; background:var(--surface2)}
+.cat .ic{width:46px; height:46px; border-radius:14px; display:grid; place-items:center; flex:none}
+.cat .tx{flex:1; min-width:0}
+.cat .tx b{display:block; font-size:15.5px; font-weight:650}
+.cat .tx span{font-size:12.5px; color:var(--dim)}
+.cat .go{color:var(--dim); flex:none; transition:transform .2s var(--spring)}
+.cat:hover .go{transform:translateX(3px); color:var(--acc)}
+.ic.culture{background:color-mix(in srgb,var(--hue-culture) 16%,transparent); color:var(--hue-culture)}
+.ic.manga{background:color-mix(in srgb,var(--hue-manga) 16%,transparent); color:var(--hue-manga)}
+.ic.route{background:color-mix(in srgb,var(--hue-route) 16%,transparent); color:var(--hue-route)}
+.ic.panneaux{background:color-mix(in srgb,var(--hue-panneaux) 16%,transparent); color:var(--hue-panneaux)}
+.ic.cinema{background:color-mix(in srgb,var(--hue-cinema) 16%,transparent); color:var(--hue-cinema)}
+
+.hero{
+  position:relative; overflow:hidden; background:var(--surface); border:1px solid var(--border);
+  border-radius:20px; padding:18px; margin-bottom:10px; cursor:pointer; width:100%; text-align:left;
+  color:var(--text); transition:transform .18s var(--spring), border-color .2s;
+}
+.hero:active{transform:scale(.97)}
+.hero:hover{border-color:color-mix(in srgb,var(--acc) 45%,transparent)}
+.hero::after{content:''; position:absolute; inset:0;
+  background:radial-gradient(90% 120% at 100% 0%, var(--acc-soft) 0%, transparent 55%)}
+.hero .row{display:flex; align-items:center; gap:14px; position:relative; z-index:1}
+.hero .badge{font-size:10.5px; font-weight:700; letter-spacing:1px; color:var(--acc);
+  border:1px solid color-mix(in srgb,var(--acc) 40%,transparent); border-radius:99px;
+  padding:3px 9px; display:inline-block; margin-bottom:8px}
+.hero b{font-size:17px}
+
+/* ---------- QUESTION ---------- */
+.qhead{display:flex; justify-content:space-between; align-items:center; color:var(--dim);
+  font-size:13.5px; font-weight:600; margin-bottom:14px}
+.qhead .quit{display:flex; gap:6px; align-items:center; cursor:pointer}
+.qhead .n{color:var(--text)}
+.bar{height:6px; background:var(--surface2); border-radius:99px; overflow:hidden; margin-bottom:22px}
+.bar i{display:block; height:100%; width:0%; background:var(--acc); border-radius:99px;
+  box-shadow:0 0 12px var(--glow); transition:width .5s var(--spring)}
+.qcat{display:inline-flex; gap:7px; align-items:center; font-size:12.5px; font-weight:650;
+  color:var(--hue-culture); background:color-mix(in srgb,var(--hue-culture) 12%,transparent);
+  padding:5px 11px; border-radius:99px; margin-bottom:14px}
+.qtext{font-size:22px; font-weight:700; letter-spacing:-.3px; line-height:1.3; margin:0 0 20px}
+
+.opt{
+  display:flex; align-items:center; gap:13px; width:100%; text-align:left; color:var(--text);
+  background:var(--surface); border:1.5px solid var(--border); border-radius:16px;
+  padding:15px 16px; margin-bottom:10px; font-size:15.5px; font-weight:550; cursor:pointer;
+  transition:transform .15s var(--spring), border-color .15s, background .2s;
+}
+.opt:hover{border-color:#ffffff2e}
+.opt:active{transform:scale(.97)}
+.opt .k{width:30px; height:30px; border-radius:10px; background:var(--surface2); color:var(--dim);
+  display:grid; place-items:center; font-size:13px; font-weight:700; flex:none; transition:all .2s}
+.opt.good{border-color:var(--good); background:color-mix(in srgb,var(--good) 9%,var(--surface));
+  animation:pop .4s var(--spring)}
+.opt.good .k{background:var(--good); color:#08130b}
+.opt.bad{border-color:var(--bad); background:color-mix(in srgb,var(--bad) 9%,var(--surface));
+  animation:shake .35s}
+.opt.bad .k{background:var(--bad); color:#fff}
+.opt.off{opacity:.45; pointer-events:none}
+@keyframes pop{0%{transform:scale(1)} 45%{transform:scale(1.03)} 100%{transform:scale(1)}}
+@keyframes shake{0%,100%{transform:none} 25%{transform:translateX(-7px)} 60%{transform:translateX(6px)}}
+
+.explain{
+  border-radius:16px; padding:14px 16px; font-size:14px; line-height:1.45;
+  border:1px solid; margin-top:6px; opacity:0; transform:translateY(10px);
+  transition:all .35s var(--spring);
+}
+.explain.show{opacity:1; transform:none}
+.explain.ok{border-color:color-mix(in srgb,var(--good) 40%,transparent); background:color-mix(in srgb,var(--good) 7%,transparent)}
+.explain.ko{border-color:color-mix(in srgb,var(--bad) 40%,transparent); background:color-mix(in srgb,var(--bad) 7%,transparent)}
+.explain b{display:flex; gap:8px; align-items:center; margin-bottom:4px}
+.explain .dimtx{color:var(--dim)}
+.next{
+  width:100%; margin-top:14px; padding:15px; border:0; border-radius:16px; font-size:15px;
+  font-weight:700; background:var(--acc); color:var(--acc-ink); cursor:pointer;
+  box-shadow:0 10px 30px -10px var(--glow); opacity:0; pointer-events:none; transform:translateY(8px);
+  transition:all .3s var(--spring);
+}
+.next.show{opacity:1; pointer-events:auto; transform:none}
+.next:active{transform:scale(.97)}
+
+/* ---------- RÉSULTAT ---------- */
+.result{text-align:center}
+.ring{
+  width:170px; height:170px; margin:16px auto 6px; border-radius:50%; position:relative;
+  display:grid; place-items:center;
+  background:conic-gradient(var(--acc) calc(var(--p,0)*1%), var(--surface2) 0);
+  transition:--p 1s; animation:ringGlow 2.4s ease-in-out infinite alternate;
+}
+@keyframes ringGlow{from{box-shadow:0 0 30px -12px var(--glow)} to{box-shadow:0 0 55px -12px var(--glow)}}
+.ring::before{content:''; position:absolute; inset:10px; background:var(--bg); border-radius:50%}
+.ring .sc{position:relative; z-index:1; font-size:44px; font-weight:700; letter-spacing:-1px}
+.ring .sc small{font-size:17px; color:var(--dim); font-weight:600}
+.tier{font-size:19px; font-weight:700; margin:10px 0 2px}
+.quote{color:var(--dim); font-size:14px; font-style:italic; max-width:280px; margin:6px auto 20px; line-height:1.5}
+.stat{display:flex; gap:10px; justify-content:center; margin-bottom:22px}
+.stat div{background:var(--surface); border:1px solid var(--border); border-radius:14px; padding:10px 16px}
+.stat b{display:block; font-size:19px}
+.stat span{font-size:11.5px; color:var(--dim); letter-spacing:.4px}
+.actions{display:flex; flex-direction:column; gap:10px}
+.btn{
+  padding:15px; border-radius:16px; border:0; font-size:15px; font-weight:700; cursor:pointer;
+  transition:transform .15s var(--spring);
+}
+.btn:active{transform:scale(.97)}
+.btn.p{background:var(--acc); color:var(--acc-ink); box-shadow:0 10px 30px -10px var(--glow)}
+.btn.s{background:var(--surface); color:var(--text); border:1px solid var(--border)}
+.btn.s:hover{background:var(--surface2)}
+.share{display:flex; gap:10px; margin-top:4px}
+.share .btn{flex:1; font-size:13.5px; padding:12px; display:flex; gap:8px; align-items:center; justify-content:center}
+
+/* confetti */
+.confetti{position:absolute; top:0; left:0; right:0; height:0; z-index:40; pointer-events:none}
+.confetti i{position:absolute; width:8px; height:8px; border-radius:2px; opacity:0;
+  animation:fall 1.6s var(--ease) forwards}
+@keyframes fall{
+  0%{opacity:1; transform:translateY(-10px) rotate(0)}
+  100%{opacity:0; transform:translateY(560px) rotate(540deg)}
+}
+</style>
+</head>
+<body class="volt">
+
+<div class="lab">
+  <h1>MAQUETTE · choisis ton ambiance →</h1>
+  <div class="sw">
+    <button id="bV" class="on" onclick="setTheme('volt')">⚡ Volt</button>
+    <button id="bC" onclick="setTheme('crimson')">⛩️ Crimson</button>
+  </div>
+  <div class="sw jump">
+    <button class="on" onclick="go('home',this)">Accueil</button>
+    <button onclick="go('quiz',this); resetQuiz()">Question</button>
+    <button onclick="go('res',this); showResult()">Résultat</button>
+  </div>
+</div>
+
+<div class="phone"><div class="vp">
+
+  <!-- ======= ACCUEIL ======= -->
+  <section class="screen active" id="home">
+    <div class="topico">
+      <div class="chip-ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.6l1.4 1.4M17 17l1.4 1.4M5.6 18.4L7 17M17 7l1.4-1.4"/><circle cx="12" cy="12" r="4"/></svg></div>
+      <div class="chip-ico"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H3v6h3l5 4V5zM15.5 8.5a5 5 0 0 1 0 7"/></svg></div>
+    </div>
+
+    <div class="brand">
+      <div class="mark display">Q</div>
+      <div><h2 class="display">Quizz</h2><small>Qui est le meilleur ?</small></div>
+    </div>
+
+    <div class="seg" id="segMode">
+      <div class="thumb"></div>
+      <button class="on" onclick="seg('segMode',0,this)">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V6a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v13M4 19a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2M4 19h16M12 4v17"/></svg>
+        Réviser solo</button>
+      <button onclick="seg('segMode',1,this)">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 4 14h6l-1 8 9-12h-6l1-8z"/></svg>
+        Défi entre potes</button>
+    </div>
+
+    <div class="seg" id="segDiff" style="margin-top:10px">
+      <div class="thumb"></div>
+      <button class="on" onclick="seg('segDiff',0,this)">Facile</button>
+      <button onclick="seg('segDiff',1,this)">Expert</button>
+    </div>
+
+    <div class="label">Le classique</div>
+    <button class="hero" onclick="go('quiz'); resetQuiz()">
+      <span class="badge">250 QUESTIONS · FR</span>
+      <div class="row">
+        <div class="ic route" style="width:52px;height:52px;border-radius:16px">
+          <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="2" width="8" height="20" rx="3.5"/><circle cx="12" cy="6.5" r="1.6" fill="currentColor" stroke="none"/><circle cx="12" cy="12" r="1.6" fill="currentColor" stroke="none"/><circle cx="12" cy="17.5" r="1.6" fill="currentColor" stroke="none"/></svg>
+        </div>
+        <div class="tx"><b>Code de la route</b>
+        <span style="color:var(--dim);font-size:13px">Révise sérieusement, ou défie un pote</span></div>
+        <svg class="go" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>
+      </div>
+    </button>
+
+    <div class="label">Toutes les catégories</div>
+
+    <button class="cat" onclick="go('quiz'); resetQuiz()">
+      <div class="ic culture"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 1 3.6 10.8c-.7.5-1.1 1.3-1.1 2.2h-5c0-.9-.4-1.7-1.1-2.2A6 6 0 0 1 12 3z"/></svg></div>
+      <div class="tx"><b>Culture Générale</b><span>126 questions</span></div>
+      <svg class="go" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>
+    </button>
+
+    <button class="cat" onclick="go('quiz'); resetQuiz()">
+      <div class="ic manga"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5c3-1.5 15-1.5 18 0M5 4.6V8m14-3.4V8M3.5 8h17M7 8v11m10-11v11M5.5 19h13"/></svg></div>
+      <div class="tx"><b>Manga &amp; Animé</b><span>128 questions</span></div>
+      <svg class="go" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>
+    </button>
+
+    <button class="cat" onclick="go('quiz'); resetQuiz()">
+      <div class="ic panneaux"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.3 3.8 2.6 17a2 2 0 0 0 1.7 3h15.4a2 2 0 0 0 1.7-3L13.7 3.8a2 2 0 0 0-3.4 0z"/><path d="M12 9v4M12 17h.01"/></svg></div>
+      <div class="tx"><b>Panneaux routiers</b><span>62 panneaux + quiz visuel</span></div>
+      <svg class="go" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>
+    </button>
+
+    <button class="cat" onclick="go('quiz'); resetQuiz()">
+      <div class="ic cinema"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.2 6 3 11l-.5-1.8a2 2 0 0 1 1.4-2.5l14.7-3.9a2 2 0 0 1 2.4 1.4L21.5 6M3 11h18v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-8zM7 9.2 9.5 5M12.5 7.7 15 3.5"/></svg></div>
+      <div class="tx"><b>Cinéma &amp; Séries</b><span>128 questions</span></div>
+      <svg class="go" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>
+    </button>
+
+  </section>
+
+  <!-- ======= QUESTION ======= -->
+  <section class="screen" id="quiz">
+    <div class="qhead">
+      <span class="quit" onclick="go('home')">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m15 6-6 6 6 6"/></svg>
+        Quitter</span>
+      <span>Lot 1/4 · <span class="n" id="qn">1</span>/2</span>
+    </div>
+    <div class="bar"><i id="prog"></i></div>
+    <div class="qcat">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 1 3.6 10.8c-.7.5-1.1 1.3-1.1 2.2h-5c0-.9-.4-1.7-1.1-2.2A6 6 0 0 1 12 3z"/></svg>
+      Culture Générale
+    </div>
+    <h3 class="qtext" id="qtext">De quelle couleur sont traditionnellement les taxis de New York ?</h3>
+    <div id="opts"></div>
+    <div class="explain" id="explain"><b id="exTitle"></b><span class="dimtx" id="exText"></span></div>
+    <button class="next" id="next" onclick="nextQ()">Question suivante</button>
+  </section>
+
+  <!-- ======= RÉSULTAT ======= -->
+  <section class="screen result" id="res">
+    <div class="confetti" id="confetti"></div>
+    <div class="qcat" style="margin-top:6px">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 1 3.6 10.8c-.7.5-1.1 1.3-1.1 2.2h-5c0-.9-.4-1.7-1.1-2.2A6 6 0 0 1 12 3z"/></svg>
+      Culture Générale · Lot 1/4
+    </div>
+    <div class="ring" id="ring"><div class="sc display"><span id="score">0</span><small>/2</small></div></div>
+    <div class="tier display" id="tier">…</div>
+    <p class="quote" id="quote">…</p>
+    <div class="stat">
+      <div><b class="display">12</b><span>QUESTIONS JOUÉES</span></div>
+      <div><b class="display">8</b><span>BONNES RÉPONSES</span></div>
+      <div><b class="display">67%</b><span>PRÉCISION</span></div>
+    </div>
+    <div class="actions">
+      <button class="btn p" onclick="go('quiz'); resetQuiz()">Continuer — 10 nouvelles questions</button>
+      <button class="btn s">
+        <svg style="vertical-align:-3px;margin-right:7px" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 4 14h6l-1 8 9-12h-6l1-8z"/></svg>
+        Défier un pote</button>
+      <div class="share">
+        <button class="btn s">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg>
+          Copier le lien</button>
+        <button class="btn s">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="9" cy="9" r="2"/><path d="m21 15-4.4-4.4a2 2 0 0 0-2.8 0L4 20"/></svg>
+          Partager en image</button>
+      </div>
+    </div>
+  </section>
+
+</div></div>
+
+<p style="color:#5b6478;font-size:12.5px;max-width:520px;text-align:center;line-height:1.6">
+Maquette cliquable : réponds aux 2 questions pour voir les animations (bonne ET mauvaise réponse),
+le résultat anime le score. Tout est jouable dans les deux ambiances — l'interrupteur en haut change
+uniquement la couleur signature, le reste du système est identique.
+</p>
+
+<script>
+/* ------- ambiance ------- */
+function setTheme(t){
+  document.body.className=t;
+  document.getElementById('bV').classList.toggle('on', t==='volt');
+  document.getElementById('bC').classList.toggle('on', t==='crimson');
+}
+/* ------- navigation ------- */
+function go(id, btn){
+  document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));
+  const el=document.getElementById(id);
+  void el.offsetWidth; el.classList.add('active');
+  document.querySelector('.vp').scrollTop=0;
+  if(btn){document.querySelectorAll('.jump button').forEach(b=>b.classList.remove('on')); btn.classList.add('on');}
+}
+function seg(id, i, btn){
+  const s=document.getElementById(id);
+  s.classList.toggle('right', i===1);
+  s.querySelectorAll('button').forEach(b=>b.classList.remove('on'));
+  btn.classList.add('on');
+}
+/* ------- mini quiz ------- */
+const QS=[
+  {q:"De quelle couleur sont traditionnellement les taxis de New York ?",
+   opts:["Noir","Blanc","Rouge","Jaune"], ok:3,
+   ex:"Les taxis new-yorkais sont célèbres pour leur couleur jaune."},
+  {q:"Quel animal figure sur les armoiries de l'Australie avec l'émeu ?",
+   opts:["Le dingo","Le koala","Le kangourou","Le wombat"], ok:2,
+   ex:"Le kangourou et l'émeu figurent sur les armoiries australiennes."}
+];
+let qi=0, pts=0;
+function resetQuiz(){qi=0; pts=0; renderQ();}
+function renderQ(){
+  const Q=QS[qi];
+  document.getElementById('qn').textContent=qi+1;
+  document.getElementById('prog').style.width=(qi/QS.length*100)+'%';
+  document.getElementById('qtext').textContent=Q.q;
+  const box=document.getElementById('opts'); box.innerHTML='';
+  Q.opts.forEach((o,i)=>{
+    const b=document.createElement('button');
+    b.className='opt';
+    b.innerHTML='<span class="k">'+String.fromCharCode(65+i)+'</span>'+o;
+    b.onclick=()=>answer(i,b);
+    box.appendChild(b);
+  });
+  const ex=document.getElementById('explain');
+  ex.className='explain';
+  document.getElementById('next').className='next';
+}
+function answer(i,btn){
+  const Q=QS[qi], opts=[...document.querySelectorAll('.opt')];
+  opts.forEach((o,j)=>{
+    o.classList.add('off');
+    if(j===Q.ok) o.classList.remove('off'), o.classList.add('good');
+  });
+  const ok=(i===Q.ok);
+  if(!ok){btn.classList.remove('off'); btn.classList.add('bad');}
+  else pts++;
+  document.getElementById('prog').style.width=((qi+1)/QS.length*100)+'%';
+  const ex=document.getElementById('explain');
+  document.getElementById('exTitle').textContent= ok?'✓ Bonne réponse !':'✗ Raté !';
+  document.getElementById('exTitle').style.color= ok?'var(--good)':'var(--bad)';
+  document.getElementById('exText').textContent=Q.ex;
+  ex.classList.add('show', ok?'ok':'ko');
+  document.getElementById('next').classList.add('show');
+  document.getElementById('next').textContent = (qi<QS.length-1)?'Question suivante':'Voir le résultat';
+}
+function nextQ(){
+  if(qi<QS.length-1){qi++; renderQ();}
+  else{go('res'); showResult();}
+}
+/* ------- résultat ------- */
+function showResult(){
+  const total=QS.length, p=Math.round(pts/total*100);
+  const ring=document.getElementById('ring');
+  const tiers=[
+    [100,"Cerveau galactique 🧠","« Sérieusement ? Même Google te demande de l'aide. »"],
+    [50,"Pas mal du tout","« Encore un lot et tu passes en mode légende. »"],
+    [0,"Aïe… faut réviser","« Aïe… mais c'est en jouant qu'on apprend ! »"]
+  ];
+  const t=tiers.find(x=>p>=x[0]);
+  document.getElementById('tier').textContent=t[1];
+  document.getElementById('quote').textContent=t[2];
+  /* score compteur + anneau progressif */
+  let cur=0; const target=pts;
+  const el=document.getElementById('score');
+  el.textContent='0'; ring.style.background=`conic-gradient(var(--acc) 0%, var(--surface2) 0)`;
+  const iv=setInterval(()=>{
+    cur+=0.05;
+    const pc=Math.min(cur/total*100, p);
+    ring.style.background=`conic-gradient(var(--acc) ${pc}%, var(--surface2) 0)`;
+    el.textContent=Math.round(Math.min(cur,target));
+    if(cur>=target){clearInterval(iv); el.textContent=target;}
+  },28);
+  /* confetti si score parfait */
+  const c=document.getElementById('confetti'); c.innerHTML='';
+  if(p===100){
+    const hues=['var(--acc)','#2ee06e','#4cc2ff','#ff6b9d'];
+    for(let k=0;k<26;k++){
+      const s=document.createElement('i');
+      s.style.left=(4+Math.random()*92)+'%';
+      s.style.background=hues[k%hues.length];
+      s.style.animationDelay=(Math.random()*0.5)+'s';
+      c.appendChild(s);
+    }
+  }
+}
+renderQ();
+</script>
+</body>
+</html>

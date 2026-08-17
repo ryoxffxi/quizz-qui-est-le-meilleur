@@ -12,8 +12,10 @@ import Paywall from './components/Paywall'
 import LegalModal from './components/LegalModal'
 import { usePremium } from './lib/usePremium'
 import { PREMIUM_LIVE } from './lib/premium'
+import { getTheme, toggleTheme } from './lib/theme'
 import { sound } from './lib/sound'
 import { useI18n } from './i18n'
+import { IconSwatch, IconSoundOn, IconSoundOff } from './components/icons'
 import {
   clearChallengeUrl,
   readChallengeFromUrl,
@@ -33,6 +35,7 @@ export default function App() {
     return invite ? { screen: 'invite', invite } : { screen: 'home' }
   })
   const [muted, setMuted] = useState(false)
+  const [theme, setThemeState] = useState(getTheme)
 
   // Nettoie un éventuel hash résiduel quand on est à l'accueil.
   useEffect(() => {
@@ -87,6 +90,18 @@ export default function App() {
             👑
           </button>
         )}
+        <button
+          className="theme-toggle"
+          data-theme-name={theme}
+          onClick={() => {
+            sound.select()
+            setThemeState(toggleTheme())
+          }}
+          aria-label={t('theme_toggle')}
+          title={t('theme_toggle')}
+        >
+          <IconSwatch size={18} />
+        </button>
         <LanguageSelector />
         <button
           className="sound-toggle"
@@ -94,7 +109,7 @@ export default function App() {
           aria-label={muted ? t('sound_off') : t('sound_on')}
           title={muted ? t('sound_off') : t('sound_on')}
         >
-          {muted ? '🔇' : '🔊'}
+          {muted ? <IconSoundOff size={18} /> : <IconSoundOn size={18} />}
         </button>
       </div>
 
@@ -150,7 +165,9 @@ export default function App() {
         <ChallengeQuiz config={route.config} onExit={goHome} />
       )}
 
-      <Footer />
+      {/* Pas de footer PENDANT une partie : l'écran de jeu reste sans
+          distraction (les résultats offrent déjà le retour à l'accueil). */}
+      {route.screen !== 'solo' && route.screen !== 'challenge' && <Footer />}
       <CookieConsent />
       <Paywall />
       <LegalModal />

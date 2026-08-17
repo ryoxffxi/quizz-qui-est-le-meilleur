@@ -8,6 +8,7 @@ import {
 } from '../lib/game'
 import { sound } from '../lib/sound'
 import { useI18n } from '../i18n'
+import { CatIcon } from './icons'
 
 // Écran d'accueil quand un ami ouvre un lien de défi.
 // invite = { p: pseudo J1, c, d, s, n, r: [scores], l: langue }
@@ -56,14 +57,10 @@ export default function ChallengeInvite({ invite, onStart, onCancel }) {
 
   return (
     <div className="quiz">
-      <div
-        className="setup-card"
-        style={{
-          background: `linear-gradient(160deg, ${category.gradient[0]}, ${category.gradient[1]})`,
-        }}
-      >
+      <div className="setup-card" style={{ '--cat': category.gradient[0] }}>
         <span className="hero-cat">
-          {category.emoji} {t(category.labelKey)} · {t(`diff_${invite.d}`)}
+          <CatIcon id={category.id} size={14} strokeWidth={2.2} />{' '}
+          {t(category.labelKey)} · {t(`diff_${invite.d}`)}
         </span>
         <h2 className="setup-title">{t('invite_title', { host })}</h2>
         <p className="setup-sub">

@@ -12,6 +12,7 @@ import { buildChallengeDeck } from '../lib/quiz'
 import { buildChallengeUrl } from '../lib/challengeLink'
 import { sound } from '../lib/sound'
 import { useI18n } from '../i18n'
+import { CatIcon } from './icons'
 import ErrorRecap from './ErrorRecap'
 import SignImage from './SignImage'
 import ResultHero from './ResultHero'
@@ -332,8 +333,9 @@ export default function ChallengeQuiz({ config, onExit }) {
       </div>
 
       <div className="quiz-body">
-        <span className="quiz-cat" style={{ color: category.gradient[0] }}>
-          {category.emoji} {catName} · {myName}
+        <span className="quiz-cat" style={{ '--cat': category.gradient[0] }}>
+          <CatIcon id={category.id} size={14} strokeWidth={2.2} />
+          {catName} · {myName}
         </span>
         {question.image && (
           <SignImage id={question.image} className="quiz-sign" />

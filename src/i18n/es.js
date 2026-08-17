@@ -50,8 +50,8 @@ export default {
   tagline:
     'Repasa tu cultura general, el cine y el manga — desafiando a tus amigos.',
   mode_label: 'Modo de juego',
-  mode_solo: '📖 Práctica en solitario',
-  mode_challenge: '⚡ Desafía a un amigo',
+  mode_solo: 'Práctica en solitario',
+  mode_challenge: 'Desafía a un amigo',
   help_solo: 'Solitario: banco completo en grupos de 10, corrección inmediata, sin cronómetro.',
   help_challenge:
     'Desafío: rondas de 5 preguntas cronometradas, puntuación por velocidad y duelos por enlace.',
@@ -69,12 +69,12 @@ export default {
   cat_panneaux: 'Señales de tráfico',
 
   // Pestaña Panneaux (revisión del código francés, solo FR)
-  home_tab_quiz: '🎮 Quiz',
-  home_tab_panneaux: '🚸 Señales',
-  panneaux_quiz_title: '🚸 El quiz de señales',
+  home_tab_quiz: 'Quiz',
+  home_tab_panneaux: 'Señales',
+  panneaux_quiz_title: 'El quiz de señales',
   panneaux_quiz_sub:
     'Solo señales, cada una con su imagen: ¿podrás reconocerlas todas?',
-  panneaux_quiz_cta: '🎯 Empezar el quiz de señales',
+  panneaux_quiz_cta: 'Empezar el quiz de señales',
   panneaux_browse: 'Repasar por familia',
   panneaux_count: '{n} señales',
   sign_close: 'Cerrar',
@@ -84,20 +84,20 @@ export default {
   // Navegación
   quit: '← Salir',
   back: '← Atrás',
-  home: '🏠 Inicio',
+  home: 'Inicio',
 
   // Quiz en solitario — desarrollo
   hint_next: 'Toca en cualquier lugar para pasar a la siguiente.',
   hint_choose: 'Toca una respuesta para elegirla.',
   hint_validate: 'Toca de nuevo tu respuesta para confirmar.',
-  feedback_correct: '✅ ¡Correcto!',
-  feedback_wrong: '❌ ¡Fallaste!',
+  feedback_correct: '✓ ¡Correcto!',
+  feedback_wrong: '✗ ¡Fallaste!',
   next_question: 'Siguiente pregunta',
   see_recap: 'Ver resumen',
   solo_topbar: 'Grupo {b}/{tb} · {i}/{n}',
   lot_label: 'Grupo {b} / {tb}',
   continue_solo: 'Continuar ({n} preguntas nuevas)',
-  challenge_a_friend: '⚡ Desafía a un amigo',
+  challenge_a_friend: 'Desafía a un amigo',
 
   // Resumen de errores
   recap_perfect: '🎉 ¡Sin errores, perfecto!',
@@ -112,7 +112,7 @@ export default {
   personality_bad: 'Ay... toca repasar 😅',
 
   // Desafío — configuración
-  challenge_title: '⚡ Desafía a un amigo',
+  challenge_title: 'Desafía a un amigo',
   setup_sub:
     'Juega tu partida y comparte un enlace con un amigo: jugará las mismas preguntas y compararéis vuestras puntuaciones ronda a ronda.',
   pseudo_label: 'Tu apodo',
@@ -122,7 +122,7 @@ export default {
   rounds_help: '{n} rondas · {q} preguntas, todas distintas',
   rounds_help_one: '{n} ronda · {q} preguntas, todas distintas',
   launch_challenge: 'Empezar el desafío',
-  simulate_friend: '🤖 Probar con un amigo simulado',
+  simulate_friend: 'Probar con un amigo simulado',
   default_host: 'Jugador 1',
   default_join: 'Jugador 2',
   default_friend: 'Un amigo',
@@ -145,8 +145,8 @@ export default {
   result_lose_final: '😅 Gana {opp}',
   result_tie_lead: '🤝 ¡Empatados!',
   result_lead: '🏆 ¡Vas ganando!',
-  result_behind: '⚡ {opp} va ganando',
-  result_round_done: '✅ ¡Ronda completada!',
+  result_behind: '{opp} va ganando',
+  result_round_done: '✓ ¡Ronda completada!',
   result_challenge_done: '🎉 ¡Desafío completado!',
   round_cumulative: 'Ronda {r} / {mr} · puntuación acumulada',
   round_gain: 'Ronda {r} / {mr} · +{g} esta ronda',
@@ -154,18 +154,18 @@ export default {
   points_suffix: ' pts',
 
   // Compartir el enlace de juego (anfitrión)
-  share_play_title: '🔗 Comparte este enlace con tu amigo',
+  share_play_title: 'Comparte este enlace con tu amigo',
   share_play_sub:
     'Jugará exactamente las mismas preguntas y luego compararéis las puntuaciones ronda a ronda.',
   copy: 'Copiar',
   copied: '✓ Copiado',
 
   // Compartir el resultado
-  share_result_title: '📤 Comparte tu resultado',
-  share_copy_link: '🔗 Copiar el enlace del resultado',
+  share_result_title: 'Comparte tu resultado',
+  share_copy_link: 'Copiar el enlace del resultado',
   share_link_copied: '✓ Enlace copiado',
-  share_as_image: '🖼️ Compartir como imagen',
-  share_generating: '⏳ Generando…',
+  share_as_image: 'Compartir como imagen',
+  share_generating: 'Generando…',
   share_downloaded: 'Imagen descargada ✓',
   share_image_error: 'No se pudo generar la imagen 😕',
   share_native_title: 'Quizz - ¿Quién es el mejor?',
@@ -175,23 +175,23 @@ export default {
   // Vista de resultado (página de conversión del enlace compartido)
   result_invalid: 'Enlace de resultado no válido 😕',
   result_solo_label: 'Práctica en solitario · {diff}',
-  result_solo_play: '🎯 Jugar en Quizz',
+  result_solo_play: 'Jugar en Quizz',
   landing_intro: 'Esta puntuación se hizo en Quizz 👇',
   landing_challenge: '⚔️ Desafía a un amigo',
-  landing_play: '🎯 Jugar ahora',
+  landing_play: 'Jugar ahora',
   concept_title: '💡 ¿Qué es Quizz?',
   concept_text:
     'Cuestionarios divertidos para poner a prueba tus conocimientos, solo o contra tus amigos. Gratis, sin cuenta.',
   result_duel_win: '🏆 ¡Gana {name}!',
   result_duel_tie: '🤝 ¡Empate perfecto!',
   result_rounds_diff: '{rounds} · {diff}',
-  result_play_own: '⚡ Empezar mi propio desafío',
+  result_play_own: 'Empezar mi propio desafío',
   round_word: 'Ronda',
   rounds_count: '{n} rondas',
   rounds_count_one: '{n} ronda',
 
   // Tarjeta de imagen
-  card_solo_kicker: '📖 PRÁCTICA EN SOLITARIO',
+  card_solo_kicker: 'PRÁCTICA EN SOLITARIO',
   card_duel_kicker: '⚔️ DESAFÍO ENTRE AMIGOS',
   card_my_score: 'Mi puntuación',
   card_points: 'puntos',
@@ -205,4 +205,11 @@ export default {
   card_cta_duel: 'Te toca, ¿lo superas?',
   card_cta_solo: '¿Crees que puedes hacerlo mejor?',
   card_play_cta: 'Juega gratis en',
+  // Design v2 (ambiances + tuiles de stats)
+  theme_toggle: 'Cambiar ambiente',
+  hero_sub: 'Repasa en serio, o reta a un amigo',
+  tile_answered: 'preguntas jugadas',
+  tile_correct: 'aciertos',
+  tile_precision: 'precisión',
+
 }

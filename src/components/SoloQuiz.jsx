@@ -12,6 +12,7 @@ import ResultQuote from './ResultQuote'
 import ResultHero, { personalityKey } from './ResultHero'
 import ResultShare from './ResultShare'
 import ResultAd from './ResultAd'
+import { CatIcon } from './icons'
 
 export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }) {
   const { t, lang } = useI18n()
@@ -120,24 +121,16 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
     setFinished(false)
   }
 
-  // Clics successifs sur une réponse : choisir → valider.
-  // Une fois validé, l'avancement est géré par le clic sur la zone (quiz-body),
-  // pour éviter un double appel à next() quand le clic remonte (bubbling).
+  // Solo v2 : validation DIRECTE au premier tap (la révision privilégie le
+  // rythme ; la double confirmation reste réservée au mode Défi, où l'enjeu
+  // justifie l'anti-fausse-manip). Une fois validé, l'avancement est géré par
+  // le clic sur la zone (quiz-body).
   function handleOption(i) {
-    if (validated) return // 3e clic : laisse la bulle déclencher next()
-    if (selected === i) {
-      validateChoice(i) // 2e clic sur la MÊME réponse = valider
-    } else {
-      sound.select() // 1er clic (ou changement de choix) = sélectionner
-      setSelected(i)
-    }
+    if (validated) return // clic suivant : laisse la bulle déclencher next()
+    validateChoice(i)
   }
 
-  const stepHint = validated
-    ? t('hint_next')
-    : selected === null
-      ? t('hint_choose')
-      : t('hint_validate')
+  const stepHint = validated ? t('hint_next') : t('hint_choose')
 
   if (finished) {
     const remaining = pool.filter((q) => !seenIdsRef.current.has(q.id)).length
@@ -147,28 +140,53 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
     const canContinue =
       batchNumber < totalBatches && remaining >= SOLO_BATCH_SIZE
 
+    const percent = Math.round((correctCount / questions.length) * 100)
+    const precision =
+      totals.answered > 0
+        ? Math.round((totals.correct / totals.answered) * 100)
+        : 0
+
     return (
       <div className="quiz">
-        <ResultHero category={category}>
+        <ResultHero
+          category={category}
+          percent={percent}
+          below={
+            <>
+              <div className="hero-personality">
+                {t(personalityKey(correctCount, questions.length))}
+              </div>
+              <span className="hero-round">
+                {t('lot_label', { b: batchNumber, tb: totalBatches })}
+              </span>
+            </>
+          }
+        >
           <div className="hero-score">
             {correctCount}
             <span className="hero-score-total">/{questions.length}</span>
           </div>
-          <div className="hero-personality">
-            {t(personalityKey(correctCount, questions.length))}
-          </div>
-          <span className="hero-round">
-            {t('lot_label', { b: batchNumber, tb: totalBatches })}
-          </span>
         </ResultHero>
 
         <ResultQuote correct={correctCount} total={questions.length} seed={quoteSeed} />
 
         <ErrorRecap mistakes={mistakes} />
 
-        <p className="lifetime-stats">
-          {t('stats_lifetime', { a: totals.answered, c: totals.correct })}
-        </p>
+        {/* Total cumulé toutes sessions, en tuiles. */}
+        <div className="stat-tiles">
+          <div>
+            <b>{totals.answered}</b>
+            <span>{t('tile_answered')}</span>
+          </div>
+          <div>
+            <b>{totals.correct}</b>
+            <span>{t('tile_correct')}</span>
+          </div>
+          <div>
+            <b>{precision}%</b>
+            <span>{t('tile_precision')}</span>
+          </div>
+        </div>
 
         <ResultShare
           resultData={{
@@ -240,8 +258,9 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
 
       {/* Une fois validé, un clic n'importe où dans cette zone avance. */}
       <div className="quiz-body" onClick={validated ? next : undefined}>
-        <span className="quiz-cat" style={{ color: category.gradient[0] }}>
-          {category.emoji} {catName}
+        <span className="quiz-cat" style={{ '--cat': category.gradient[0] }}>
+          <CatIcon id={category.id} size={14} strokeWidth={2.2} />
+          {catName}
         </span>
         {question.image && (
           <SignImage id={question.image} className="quiz-sign" />
@@ -255,6 +274,7 @@ export default function SoloQuiz({ categoryId, difficulty, onExit, onChallenge }
             if (validated) {
               if (i === question.correct) state = 'correct'
               else if (isChosen) state = 'wrong'
+              else state = 'dim'
             } else if (isChosen) {
               state = 'chosen'
             }
