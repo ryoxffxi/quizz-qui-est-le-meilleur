@@ -1231,15 +1231,17 @@ body {
 }
 
 /* ===== Pub sur l'écran de résultat ===== */
+/* Masqué par défaut : tant qu'AdSense n'a PAS rendu une vraie annonce
+   (data-ad-status="filled"), on n'affiche ni l'étiquette ni le trou vide.
+   Couvre à la fois le cas « site en cours d'examen » (aucun statut posé)
+   et le cas « unfilled » (pas d'annonce disponible pour ce visiteur). */
 .result-ad {
+  display: none;
   margin: 4px 0 18px;
   text-align: center;
 }
-/* AdSense marque data-ad-status="unfilled" quand il n'a rien à afficher
-   (site en cours d'examen, ou pas d'annonce disponible) : on masque alors
-   tout le bloc, étiquette comprise, plutôt que de laisser un trou vide. */
-.result-ad:has(ins.adsbygoogle[data-ad-status='unfilled']) {
-  display: none;
+.result-ad:has(ins.adsbygoogle[data-ad-status='filled']) {
+  display: block;
 }
 .result-ad-label {
   display: block;
