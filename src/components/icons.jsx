@@ -23,20 +23,16 @@ function Svg({ children, size = 20, strokeWidth = 2, ...rest }) {
 
 /* ---- Marque ---- */
 
-// Pastille « Q » (logo maison, même dessin que le favicon).
+// Pastille « Q » (logo maison) : la LETTRE en Space Grotesk, comme sur la
+// maquette validée — le tracé géométrique ressemblait trop à une loupe.
 export function QMark({ size = 44 }) {
   return (
-    <span className="q-mark" style={{ width: size, height: size }} aria-hidden="true">
-      <svg width={Math.round(size * 0.62)} height={Math.round(size * 0.62)} viewBox="0 0 64 64" fill="none">
-        <circle cx="30.5" cy="28.5" r="13" stroke="currentColor" strokeWidth="7" />
-        <path
-          d="M36.5 35.5 43 42l-3 2.5 7 7"
-          stroke="currentColor"
-          strokeWidth="6"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-        />
-      </svg>
+    <span
+      className="q-mark"
+      style={{ width: size, height: size, fontSize: Math.round(size * 0.56) }}
+      aria-hidden="true"
+    >
+      Q
     </span>
   )
 }

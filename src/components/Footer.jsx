@@ -49,7 +49,6 @@ export default function Footer() {
         </svg>
         <span>@ryo.offc</span>
       </a>
-      <p className="footer-note">{t('footer_follow')}</p>
       <nav className="footer-links">
         <button
           type="button"

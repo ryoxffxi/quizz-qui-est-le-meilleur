@@ -36,6 +36,8 @@ export default function App() {
   })
   const [muted, setMuted] = useState(false)
   const [theme, setThemeState] = useState(getTheme)
+  // Écrans « en partie » : interface réduite (pas de footer, contrôles limités).
+  const inGame = route.screen === 'solo' || route.screen === 'challenge'
 
   // Nettoie un éventuel hash résiduel quand on est à l'accueil.
   useEffect(() => {
@@ -78,7 +80,9 @@ export default function App() {
   return (
     <div className="app">
       <div className="topbar-controls">
-        {PREMIUM_LIVE && !premium && (
+        {/* Pendant une partie, seule la coupure du son reste : l'ambiance et
+            la langue se règlent à l'accueil (évite le chevauchement mobile). */}
+        {!inGame && PREMIUM_LIVE && !premium && (
           <button
             className="premium-toggle"
             onClick={() =>
@@ -90,19 +94,21 @@ export default function App() {
             👑
           </button>
         )}
-        <button
-          className="theme-toggle"
-          data-theme-name={theme}
-          onClick={() => {
-            sound.select()
-            setThemeState(toggleTheme())
-          }}
-          aria-label={t('theme_toggle')}
-          title={t('theme_toggle')}
-        >
-          <IconSwatch size={18} />
-        </button>
-        <LanguageSelector />
+        {!inGame && (
+          <button
+            className="theme-toggle"
+            data-theme-name={theme}
+            onClick={() => {
+              sound.select()
+              setThemeState(toggleTheme())
+            }}
+            aria-label={t('theme_toggle')}
+            title={t('theme_toggle')}
+          >
+            <IconSwatch size={18} />
+          </button>
+        )}
+        {!inGame && <LanguageSelector />}
         <button
           className="sound-toggle"
           onClick={toggleMute}
@@ -167,7 +173,7 @@ export default function App() {
 
       {/* Pas de footer PENDANT une partie : l'écran de jeu reste sans
           distraction (les résultats offrent déjà le retour à l'accueil). */}
-      {route.screen !== 'solo' && route.screen !== 'challenge' && <Footer />}
+      {!inGame && <Footer />}
       <CookieConsent />
       <Paywall />
       <LegalModal />

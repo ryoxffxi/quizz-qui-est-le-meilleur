@@ -1,17 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Aperçu de partage (design v2 « Arcade sobre », ambiance Volt). -->
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b0f1a"/>
-      <stop offset="1" stop-color="#1a1033"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#8b5cf6"/>
-      <stop offset="1" stop-color="#ec4899"/>
-    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="-0.1" r="0.9">
+      <stop offset="0" stop-color="#d8ff3d" stop-opacity="0.16"/>
+      <stop offset="0.55" stop-color="#d8ff3d" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="1200" height="630" fill="url(#bg)"/>
-  <text x="600" y="240" font-family="Arial, Helvetica, sans-serif" font-size="120" font-weight="800" fill="#ffffff" text-anchor="middle">🏆 Quizz</text>
-  <text x="600" y="350" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="800" fill="url(#accent)" text-anchor="middle">Qui est le meilleur ?</text>
-  <text x="600" y="440" font-family="Arial, Helvetica, sans-serif" font-size="36" fill="#9ca3af" text-anchor="middle">Quiz fun · seul ou en défi entre potes</text>
-  <text x="600" y="545" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#8b5cf6" text-anchor="middle">ryo-offc.com</text>
+  <rect width="1200" height="630" fill="#0a0d16"/>
+  <rect width="1200" height="630" fill="url(#halo)"/>
+
+  <!-- Pastille Q + wordmark -->
+  <rect x="380" y="140" width="120" height="120" rx="32" fill="#d8ff3d"/>
+  <text x="440" y="228" text-anchor="middle" font-family="'Space Grotesk','Avenir Next','Helvetica Neue',Arial,sans-serif" font-size="76" font-weight="700" fill="#10140a">Q</text>
+  <text x="530" y="232" font-family="'Space Grotesk','Avenir Next','Helvetica Neue',Arial,sans-serif" font-size="104" font-weight="700" letter-spacing="-3" fill="#ffffff">Quizz</text>
+
+  <text x="600" y="360" text-anchor="middle" font-family="'Space Grotesk','Avenir Next','Helvetica Neue',Arial,sans-serif" font-size="56" font-weight="700" fill="#d8ff3d">Qui est le meilleur ?</text>
+  <text x="600" y="430" text-anchor="middle" font-family="'Avenir Next','Helvetica Neue',Arial,sans-serif" font-size="34" fill="#8b95ad">Code de la route · Culture G · Manga · Cinéma — seul ou en défi</text>
+
+  <!-- Pilule URL -->
+  <rect x="440" y="490" width="320" height="66" rx="33" fill="none" stroke="#d8ff3d" stroke-width="3"/>
+  <text x="600" y="534" text-anchor="middle" font-family="'Space Grotesk','Avenir Next','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="700" fill="#d8ff3d">ryo-offc.com</text>
 </svg>

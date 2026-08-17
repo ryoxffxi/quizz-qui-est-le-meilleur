@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <!-- Logo « Q » Quizz : pastille volt, anneau + queue éclair (marque maison). -->
+  <!-- Logo « Q » Quizz : pastille volt + lettre (police système grasse,
+       cohérente avec la marque Space Grotesk affichée dans l'app). -->
   <rect width="64" height="64" rx="15" fill="#d8ff3d"/>
-  <circle cx="30.5" cy="28.5" r="13" fill="none" stroke="#10140a" stroke-width="7"/>
-  <path d="M36.5 35.5 43 42l-3 2.5 7 7" fill="none" stroke="#10140a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="32" y="45" text-anchor="middle" font-family="'Space Grotesk','Avenir Next','Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="700" fill="#10140a">Q</text>
 </svg>

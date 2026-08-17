@@ -229,6 +229,9 @@ body {
   border-radius: 14px;
   background: var(--accent);
   color: var(--accent-ink);
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 1;
   box-shadow: 0 6px 24px -6px var(--accent-glow);
 }
 .logo {
@@ -464,8 +467,8 @@ body {
   justify-content: space-between;
   gap: 10px;
   margin-bottom: 14px;
-  /* Laisse la place aux contrôles flottants (ambiance/langue/son) à droite. */
-  padding-right: 140px;
+  /* Laisse la place au seul contrôle flottant restant en partie (le son). */
+  padding-right: 58px;
 }
 .btn-ghost {
   background: none;

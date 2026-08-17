@@ -2,59 +2,94 @@ import { forwardRef } from 'react'
 import { useI18n } from '../i18n'
 import { gameHost } from '../lib/challengeLink'
 import { personalityKey } from './ResultHero'
+import { getTheme } from '../lib/theme'
 
-const GOLD = '#fde68a'
+// Palette de la carte selon l'ambiance ACTIVE de l'utilisateur (design v2).
+const CARD_THEMES = {
+  volt: { acc: '#d8ff3d', ink: '#10140a', tint: 'rgba(216,255,61,0.12)' },
+  crimson: { acc: '#ff4155', ink: '#ffffff', tint: 'rgba(255,65,85,0.14)' },
+}
 
-// Carte de résultat partageable, format story (1080×1920).
-// Asset marketing : nom du jeu, score valorisé, appel au défi, URL du jeu.
-// Styles 100 % en ligne pour une capture html-to-image fidèle.
+const BG = '#0a0d16'
+const SURFACE = 'rgba(255,255,255,0.06)'
+const BORDER = 'rgba(255,255,255,0.12)'
+const DIM = 'rgba(255,255,255,0.62)'
+const DISPLAY =
+  "'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+
+// Carte de résultat partageable, format story (1080×1920), design v2 :
+// fond sombre, accent de l'ambiance, anneau de score en SVG (fiable pour
+// la capture html-to-image). Styles 100 % en ligne.
 const ShareCard = forwardRef(function ShareCard({ resultData, category }, ref) {
   const { t } = useI18n()
-  const [g1, g2] = category.gradient
+  const theme = CARD_THEMES[getTheme()] || CARD_THEMES.volt
+  const catColor = category.gradient[0]
   const diffLabel = t(`diff_${resultData.d}`)
   const catName = t(category.labelKey)
   const gameUrl = gameHost()
   const cta = resultData.solo ? t('card_cta_solo') : t('card_cta_duel')
 
   const Header = ({ kicker }) => (
-    <div
-      style={{
-        background: `linear-gradient(160deg, ${g1}, ${g2})`,
-        padding: '90px 80px 70px',
-        textAlign: 'center',
-      }}
-    >
+    <div style={{ padding: '84px 80px 0', textAlign: 'center' }}>
       <div
         style={{
-          fontSize: 92,
-          fontWeight: 900,
-          letterSpacing: -2,
-          color: '#fff',
-          textShadow: '0 4px 18px rgba(0,0,0,0.3)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          gap: 26,
         }}
       >
-        {t('app_name')}
+        <div
+          style={{
+            width: 108,
+            height: 108,
+            borderRadius: 30,
+            background: theme.acc,
+            color: theme.ink,
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            fontFamily: DISPLAY,
+            fontSize: 64,
+            fontWeight: 700,
+            lineHeight: 1,
+          }}
+        >
+          Q
+        </div>
+        <div
+          style={{
+            fontFamily: DISPLAY,
+            fontSize: 88,
+            fontWeight: 700,
+            letterSpacing: -2,
+            color: '#fff',
+          }}
+        >
+          {t('app_name')}
+        </div>
       </div>
       <div
         style={{
           display: 'inline-block',
-          marginTop: 26,
-          padding: '16px 34px',
+          marginTop: 36,
+          padding: '14px 32px',
           borderRadius: 999,
-          background: 'rgba(0,0,0,0.28)',
-          fontSize: 40,
+          background: `color-mix(in srgb, ${catColor} 16%, transparent)`,
+          color: catColor,
+          fontSize: 38,
           fontWeight: 700,
         }}
       >
-        {category.emoji} {catName} · {diffLabel}
+        {catName} · {diffLabel}
       </div>
       <div
         style={{
-          marginTop: 30,
-          fontSize: 50,
-          fontWeight: 800,
-          letterSpacing: 6,
-          opacity: 0.95,
+          marginTop: 28,
+          fontSize: 40,
+          fontWeight: 700,
+          letterSpacing: 8,
+          color: DIM,
         }}
       >
         {kicker}
@@ -68,7 +103,7 @@ const ShareCard = forwardRef(function ShareCard({ resultData, category }, ref) {
       style={{
         width: 1080,
         height: 1920,
-        background: '#0b0f1a',
+        background: `radial-gradient(120% 40% at 50% -5%, ${theme.tint} 0%, transparent 60%), ${BG}`,
         color: '#fff',
         fontFamily:
           "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
@@ -86,53 +121,88 @@ const ShareCard = forwardRef(function ShareCard({ resultData, category }, ref) {
   if (resultData.solo) {
     const { sc, tot } = resultData
     const pct = tot > 0 ? Math.round((sc / tot) * 100) : 0
+    // Anneau SVG : circonférence pour r=210 ≈ 1319.
+    const R = 210
+    const C = 2 * Math.PI * R
     return shell(
       <>
         <Header kicker={t('card_solo_kicker')} />
         <div
           style={{
             flex: 1,
-            padding: '90px 80px',
+            padding: '40px 80px',
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
             justifyContent: 'center',
           }}
         >
-          <div style={{ fontSize: 44, color: 'rgba(255,255,255,0.65)', marginBottom: 20 }}>
-            {t('card_my_score')}
+          <div style={{ position: 'relative', width: 520, height: 520 }}>
+            <svg width="520" height="520" viewBox="0 0 520 520">
+              <circle
+                cx="260"
+                cy="260"
+                r={R}
+                fill="none"
+                stroke="rgba(255,255,255,0.09)"
+                strokeWidth="34"
+              />
+              <circle
+                cx="260"
+                cy="260"
+                r={R}
+                fill="none"
+                stroke={theme.acc}
+                strokeWidth="34"
+                strokeLinecap="round"
+                strokeDasharray={`${(C * pct) / 100} ${C}`}
+                transform="rotate(-90 260 260)"
+              />
+            </svg>
+            <div
+              style={{
+                position: 'absolute',
+                inset: 0,
+                display: 'flex',
+                flexDirection: 'column',
+                alignItems: 'center',
+                justifyContent: 'center',
+                fontFamily: DISPLAY,
+                fontVariantNumeric: 'tabular-nums',
+              }}
+            >
+              <div style={{ fontSize: 170, fontWeight: 700, lineHeight: 1, color: '#fff' }}>
+                {sc}
+                <span style={{ fontSize: 70, color: DIM }}>/{tot}</span>
+              </div>
+            </div>
           </div>
           <div
             style={{
-              fontWeight: 900,
-              lineHeight: 1,
-              color: GOLD,
-              fontVariantNumeric: 'tabular-nums',
+              fontFamily: DISPLAY,
+              fontSize: 62,
+              fontWeight: 700,
+              marginTop: 34,
+              textAlign: 'center',
             }}
           >
-            <span style={{ fontSize: 320 }}>{sc}</span>
-            <span style={{ fontSize: 130, color: 'rgba(255,255,255,0.7)' }}>
-              /{tot}
-            </span>
-          </div>
-          <div style={{ fontSize: 60, fontWeight: 800, marginTop: 30 }}>
             {t(personalityKey(sc, tot))}
           </div>
           <div
             style={{
-              marginTop: 56,
-              padding: '20px 46px',
+              marginTop: 40,
+              padding: '18px 44px',
               borderRadius: 999,
-              border: `4px solid ${GOLD}`,
-              fontSize: 56,
-              fontWeight: 900,
-              color: GOLD,
+              border: `4px solid ${theme.acc}`,
+              fontSize: 50,
+              fontWeight: 800,
+              color: theme.acc,
             }}
           >
             {t('card_success_rate', { pct })}
           </div>
         </div>
-        <Bottom cta={cta} url={gameUrl} ctaLabel={t('card_play_cta')} />
+        <Bottom cta={cta} url={gameUrl} ctaLabel={t('card_play_cta')} acc={theme.acc} />
       </>,
     )
   }
@@ -148,12 +218,11 @@ const ShareCard = forwardRef(function ShareCard({ resultData, category }, ref) {
     <div
       style={{
         flex: 1,
-        background: 'rgba(255,255,255,0.08)',
-        border: `4px solid ${isWinner ? GOLD : 'rgba(255,255,255,0.14)'}`,
+        background: SURFACE,
+        border: `4px solid ${isWinner ? theme.acc : BORDER}`,
         borderRadius: 36,
         padding: '44px 24px 40px',
         textAlign: 'center',
-        boxShadow: isWinner ? `0 0 0 2px ${GOLD} inset` : 'none',
       }}
     >
       <div style={{ height: 70, fontSize: 56, lineHeight: 1 }}>
@@ -174,16 +243,17 @@ const ShareCard = forwardRef(function ShareCard({ resultData, category }, ref) {
       </div>
       <div
         style={{
+          fontFamily: DISPLAY,
           fontSize: 132,
-          fontWeight: 900,
+          fontWeight: 700,
           lineHeight: 1,
-          color: isWinner ? GOLD : '#fff',
+          color: isWinner ? theme.acc : '#fff',
           fontVariantNumeric: 'tabular-nums',
         }}
       >
         {score}
       </div>
-      <div style={{ fontSize: 34, color: 'rgba(255,255,255,0.65)', marginTop: 10 }}>
+      <div style={{ fontSize: 34, color: DIM, marginTop: 10 }}>
         {t('card_points')}
       </div>
     </div>
@@ -195,18 +265,19 @@ const ShareCard = forwardRef(function ShareCard({ resultData, category }, ref) {
       <div
         style={{
           flex: 1,
-          padding: '64px 70px 40px',
+          padding: '54px 70px 40px',
           display: 'flex',
           flexDirection: 'column',
         }}
       >
         <div
           style={{
+            fontFamily: DISPLAY,
             fontSize: 60,
-            fontWeight: 900,
+            fontWeight: 700,
             textAlign: 'center',
             marginBottom: 40,
-            color: GOLD,
+            color: theme.acc,
           }}
         >
           {winner === 'tie'
@@ -219,9 +290,10 @@ const ShareCard = forwardRef(function ShareCard({ resultData, category }, ref) {
           <div
             style={{
               alignSelf: 'center',
+              fontFamily: DISPLAY,
               fontSize: 56,
-              fontWeight: 900,
-              color: 'rgba(255,255,255,0.6)',
+              fontWeight: 700,
+              color: DIM,
             }}
           >
             VS
@@ -232,8 +304,8 @@ const ShareCard = forwardRef(function ShareCard({ resultData, category }, ref) {
         <div
           style={{
             marginTop: 56,
-            background: 'rgba(255,255,255,0.05)',
-            border: '3px solid rgba(255,255,255,0.12)',
+            background: SURFACE,
+            border: `3px solid ${BORDER}`,
             borderRadius: 30,
             padding: '34px 40px',
           }}
@@ -242,7 +314,7 @@ const ShareCard = forwardRef(function ShareCard({ resultData, category }, ref) {
             style={{
               fontSize: 34,
               fontWeight: 700,
-              color: 'rgba(255,255,255,0.6)',
+              color: DIM,
               marginBottom: 22,
               letterSpacing: 1,
             }}
@@ -268,15 +340,28 @@ const ShareCard = forwardRef(function ShareCard({ resultData, category }, ref) {
                   padding: '14px 0',
                   borderBottom:
                     i < rows - 1 ? '2px solid rgba(255,255,255,0.08)' : 'none',
+                  fontVariantNumeric: 'tabular-nums',
                 }}
               >
-                <span style={{ color: a >= b ? GOLD : '#fff', width: 200, textAlign: 'left' }}>
+                <span
+                  style={{
+                    color: a >= b ? theme.acc : '#fff',
+                    width: 200,
+                    textAlign: 'left',
+                  }}
+                >
                   {a}
                 </span>
                 <span style={{ fontSize: 30, color: 'rgba(255,255,255,0.5)' }}>
                   {t('card_round', { i: i + 1 })}
                 </span>
-                <span style={{ color: b >= a ? GOLD : '#fff', width: 200, textAlign: 'right' }}>
+                <span
+                  style={{
+                    color: b >= a ? theme.acc : '#fff',
+                    width: 200,
+                    textAlign: 'right',
+                  }}
+                >
                   {b}
                 </span>
               </div>
@@ -284,37 +369,39 @@ const ShareCard = forwardRef(function ShareCard({ resultData, category }, ref) {
           })}
         </div>
       </div>
-      <Bottom cta={cta} url={gameUrl} ctaLabel={t('card_play_cta')} />
+      <Bottom cta={cta} url={gameUrl} ctaLabel={t('card_play_cta')} acc={theme.acc} />
     </>,
   )
 })
 
 // Bandeau d'appel à l'action + URL du jeu (boucle virale / retrouvabilité).
-function Bottom({ cta, url, ctaLabel }) {
+function Bottom({ cta, url, ctaLabel, acc }) {
   return (
     <div style={{ padding: '0 70px 64px' }}>
       <div
         style={{
-          background: 'rgba(253,230,138,0.1)',
-          border: `4px solid ${GOLD}`,
+          background: SURFACE,
+          border: `4px solid ${acc}`,
           borderRadius: 30,
           padding: '34px 30px',
           textAlign: 'center',
         }}
       >
         <div style={{ fontSize: 54, fontWeight: 900, color: '#fff' }}>{cta}</div>
-        <div
-          style={{
-            marginTop: 18,
-            fontSize: 34,
-            fontWeight: 700,
-            color: 'rgba(255,255,255,0.7)',
-          }}
-        >
+        <div style={{ marginTop: 18, fontSize: 34, fontWeight: 700, color: DIM }}>
           {ctaLabel}
         </div>
-        <div style={{ marginTop: 6, fontSize: 46, fontWeight: 900, color: GOLD }}>
-          🎯 {url}
+        <div
+          style={{
+            marginTop: 6,
+            fontFamily:
+              "'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif",
+            fontSize: 48,
+            fontWeight: 700,
+            color: acc,
+          }}
+        >
+          {url}
         </div>
       </div>
     </div>
