@@ -1,6 +1,12 @@
 // État "Premium" (sans publicité). Source de VÉRITÉ = serveur (entitlement D1),
 // identifié par un jeton signé. Le localStorage n'est qu'un CACHE d'affichage :
 // sans jeton valide, pas de premium (un cache falsifié est nettoyé au démarrage).
+
+// Tant que Stripe est en mode TEST (compte non activé pour encaisser), on masque
+// l'entrée du Premium : une vraie carte serait refusée sur le Checkout de test.
+// Passer à true au go-live réel (clés live posées + compte Stripe activé).
+export const PREMIUM_LIVE = false
+
 const KEY = 'quizz_premium'
 const TOKEN_KEY = 'quizz_token'
 

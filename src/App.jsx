@@ -11,6 +11,7 @@ import CookieConsent from './components/CookieConsent'
 import Paywall from './components/Paywall'
 import LegalModal from './components/LegalModal'
 import { usePremium } from './lib/usePremium'
+import { PREMIUM_LIVE } from './lib/premium'
 import { sound } from './lib/sound'
 import { useI18n } from './i18n'
 import {
@@ -74,7 +75,7 @@ export default function App() {
   return (
     <div className="app">
       <div className="topbar-controls">
-        {!premium && (
+        {PREMIUM_LIVE && !premium && (
           <button
             className="premium-toggle"
             onClick={() =>

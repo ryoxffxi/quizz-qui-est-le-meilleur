@@ -4,6 +4,34 @@ Backend vérifié côté serveur. Le navigateur n'est jamais de confiance : l'en
 vit en base **D1**, inscrit uniquement via un **webhook Stripe signé** ou une **session
 Stripe vérifiée payée**. Le code est dans `worker/index.js` et `db/schema.sql`.
 
+> ✅ **ÉTAT 2026-08-17 : TOUT CE QUI SUIT EST FAIT en mode TEST** (sandbox Stripe
+> « environnement de test ryo-offc », compte `acct_1U5P2PRuYsvpBRHd`). E2E validé en
+> prod : achat à vie carte 4242 → premium ; remboursement → révocation ; webhook +
+> confirm + idempotence OK. La couronne est MASQUÉE (`PREMIUM_LIVE=false` dans
+> `src/lib/premium.js`) tant que le compte n'encaisse pas pour de vrai.
+
+## 🚀 Passage en LIVE (encaisser du vrai argent) — checklist
+
+**A. Côté Ryo, AVANT tout (administratif, non technique) :**
+1. **Statut légal** : encaisser des abonnements = activité commerciale à déclarer
+   (micro-entreprise). Sans statut, Stripe demandera quand même une catégorie
+   (« particulier » a des limites) et le fisc attendra une déclaration des revenus.
+2. **Contrat AmRest** : clause de déclaration de cumul → déclarer l'activité
+   secondaire à l'employeur si le contrat l'exige.
+3. **Activation Stripe** : dashboard → « Vérifier votre entreprise » → tout remplir
+   avec des infos EXACTES (identité, adresse, statut, **IBAN** pour recevoir les
+   virements). Un dossier approximatif = compte bloqué et fonds gelés plus tard.
+
+**B. Côté technique (10 minutes, avec Claude) :**
+1. `bash go-live-stripe.sh --live` (demande la `sk_live_`, crée les tarifs live +
+   le webhook live, pose les secrets sur le Worker)
+2. Claude : met les nouveaux `price_live_…` dans `wrangler.jsonc`, passe
+   `PREMIUM_LIVE=true` dans `src/lib/premium.js`, commit + push (déploiement auto)
+3. **Test réel** : UN paiement de 2 € par Ryo lui-même, vérifier le premium,
+   puis rembourser depuis le dashboard et vérifier la révocation
+4. Frais Stripe ≈ 1,5 % + 0,25 € par transaction ; premier virement bancaire
+   sous ~7 jours, puis rythme quotidien/hebdo (réglable)
+
 > ⚠️ Tant que ces étapes ne sont pas faites, le site reste 100 % statique et le bouton
 > « Passer sans pub » retombe sur « bientôt disponible » (aucune casse). N'applique la
 > config `wrangler.jsonc` (étape 4) **qu'après** avoir créé la D1 et posé les secrets.
