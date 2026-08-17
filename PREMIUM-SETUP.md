@@ -9,8 +9,8 @@ Stripe vérifiée payée**. Le code est dans `worker/index.js` et `db/schema.sql
 > config `wrangler.jsonc` (étape 4) **qu'après** avoir créé la D1 et posé les secrets.
 
 ## 1. Stripe (mode test) — produits ✅ FAIT (créés via l'API le 18/06)
-- **Quizz Premium — Mensuel** : `price_1TjkXSL7yOe4yBtCW8q7pko3` (2,00 €/mois récurrent)
-- **Quizz Premium — À vie** : `price_1TjkXTL7yOe4yBtCRPy3pkNW` (9,99 € paiement unique)
+- **Quizz Premium — Mensuel** : `price_1U5P8XRuYsvpBRHdbbyRTjBY` (2,00 €/mois récurrent)
+- **Quizz Premium — À vie** : `price_1U5P8YRuYsvpBRHdukbFsjDL` (9,99 € paiement unique)
 
 La clé secrète de test a servi à les créer ; **à renouveler** (Stripe → Développeurs → Clés API → rouler la clé) — on remettra la nouvelle dans le Worker à l'étape 3.
 
@@ -42,8 +42,8 @@ Remplacer le contenu actuel par :
     "binding": "ASSETS"
   },
   "vars": {
-    "PRICE_MONTHLY": "price_1TjkXSL7yOe4yBtCW8q7pko3",
-    "PRICE_LIFETIME": "price_1TjkXTL7yOe4yBtCRPy3pkNW"
+    "PRICE_MONTHLY": "price_1U5P8XRuYsvpBRHdbbyRTjBY",
+    "PRICE_LIFETIME": "price_1U5P8YRuYsvpBRHdukbFsjDL"
   },
   "d1_databases": [
     { "binding": "DB", "database_name": "quizz-premium", "database_id": "REMPLACER_PAR_LE_DATABASE_ID" }

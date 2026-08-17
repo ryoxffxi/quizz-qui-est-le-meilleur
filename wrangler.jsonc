@@ -17,9 +17,10 @@
     "binding": "ASSETS"
   },
   // IDs publics des tarifs Stripe (les secrets, eux, passent par `wrangler secret put`).
+  // Compte Stripe acct_1U5P2PRuYsvpBRHd (recréé le 2026-08-17), lookup_keys quizz_monthly / quizz_lifetime.
   "vars": {
-    "PRICE_MONTHLY": "price_1TjkXSL7yOe4yBtCW8q7pko3",
-    "PRICE_LIFETIME": "price_1TjkXTL7yOe4yBtCRPy3pkNW"
+    "PRICE_MONTHLY": "price_1U5P8XRuYsvpBRHdbbyRTjBY",
+    "PRICE_LIFETIME": "price_1U5P8YRuYsvpBRHdukbFsjDL"
   },
   // Base D1 des entitlements premium (créée le 2026-08-17, région WEUR).
   "d1_databases": [

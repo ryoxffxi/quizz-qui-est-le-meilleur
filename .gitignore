@@ -30,3 +30,4 @@ dist-ssr
 .env.*
 .dev.vars
 !.env.example
+go-live-stripe.sh
