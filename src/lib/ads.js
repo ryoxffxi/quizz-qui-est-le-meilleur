@@ -6,7 +6,8 @@
 // 1. ADSENSE_CLIENT = ton ID éditeur, ex. 'ca-pub-1234567890123456'
 // 2. ADSENSE_SLOT_RESULT = l'ID du bloc d'annonce créé pour l'écran de résultat
 export const ADSENSE_CLIENT = 'ca-pub-1164405138212191'
-export const ADSENSE_SLOT_RESULT = '' // ⬅️ à compléter avec l'ID du bloc "Display"
+// Bloc "Quizz - Ecran de resultat" (Display responsive), créé le 2026-08-17.
+export const ADSENSE_SLOT_RESULT = '1966671408'
 
 // Nombre de pubs montrées après un quiz (choix produit : 1 pour préserver l'UX).
 export const INTERSTITIAL_COUNT = 1
