@@ -1,7 +1,7 @@
 {
-  // Configuration Cloudflare Workers (Static Assets) pour servir le build Vite.
-  // Le site est 100 % statique : on ne déclare pas de "main" (pas de script Worker),
-  // uniquement le dossier d'assets généré par `npm run build`.
+  // Configuration Cloudflare Workers : assets statiques (build Vite) + Worker premium.
+  // Le Worker (worker/index.js) gère /api/* (Stripe Checkout, webhook, entitlement) et
+  // délègue tout le reste aux assets via le binding ASSETS (SPA fallback conservé).
   // Doit correspondre au Worker qui porte le domaine ryo-offc.com,
   // sinon le déploiement Git mettrait à jour un autre Worker.
   "name": "quizz-qui-est-le-meilleur",
@@ -9,9 +9,20 @@
   // Le site public est sur le domaine ryo-offc.com : on garde l'URL workers.dev
   // (qui contient le vrai nom de compte) désactivée, même après un déploiement.
   "workers_dev": false,
+  "main": "worker/index.js",
   "assets": {
     "directory": "./dist",
     // Toute route inconnue renvoie index.html (SPA) — équivalent du _redirects.
-    "not_found_handling": "single-page-application"
-  }
+    "not_found_handling": "single-page-application",
+    "binding": "ASSETS"
+  },
+  // IDs publics des tarifs Stripe (les secrets, eux, passent par `wrangler secret put`).
+  "vars": {
+    "PRICE_MONTHLY": "price_1TjkXSL7yOe4yBtCW8q7pko3",
+    "PRICE_LIFETIME": "price_1TjkXTL7yOe4yBtCRPy3pkNW"
+  },
+  // Base D1 des entitlements premium (créée le 2026-08-17, région WEUR).
+  "d1_databases": [
+    { "binding": "DB", "database_name": "quizz-premium", "database_id": "a5c5423f-859f-48b9-9926-461b22f4d703" }
+  ]
 }
