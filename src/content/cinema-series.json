@@ -8880,94 +8880,6 @@
     }
   },
   {
-    "id": "cinema_0201",
-    "category": "cinema-series",
-    "difficulty": "facile",
-    "question": {
-      "fr": "Quel acteur incarne Tony Stark, alias Iron Man, dans l'univers cinématographique Marvel ?",
-      "en": "Which actor plays Tony Stark, alias Iron Man, in the Marvel Cinematic Universe?",
-      "es": "¿Qué actor interpreta a Tony Stark, alias Iron Man, en el universo cinematográfico de Marvel?",
-      "pt": "Qual ator interpreta Tony Stark, também conhecido como Homem de Ferro, no universo cinematográfico da Marvel?"
-    },
-    "options": {
-      "fr": [
-        "Chris Evans",
-        "Robert Downey Jr.",
-        "Chris Hemsworth",
-        "Mark Ruffalo"
-      ],
-      "en": [
-        "Chris Evans",
-        "Robert Downey Jr.",
-        "Chris Hemsworth",
-        "Mark Ruffalo"
-      ],
-      "es": [
-        "Chris Evans",
-        "Robert Downey Jr.",
-        "Chris Hemsworth",
-        "Mark Ruffalo"
-      ],
-      "pt": [
-        "Chris Evans",
-        "Robert Downey Jr.",
-        "Chris Hemsworth",
-        "Mark Ruffalo"
-      ]
-    },
-    "correct": 1,
-    "explanation": {
-      "fr": "Robert Downey Jr. incarne Tony Stark/Iron Man depuis le film de 2008 qui a lancé le MCU.",
-      "en": "Robert Downey Jr. has played Tony Stark/Iron Man since the 2008 film that launched the MCU.",
-      "es": "Robert Downey Jr. interpreta a Tony Stark/Iron Man desde la película de 2008 que inició el MCU.",
-      "pt": "Robert Downey Jr. interpreta Tony Stark/Homem de Ferro desde o filme de 2008 que iniciou o MCU."
-    }
-  },
-  {
-    "id": "cinema_0202",
-    "category": "cinema-series",
-    "difficulty": "facile",
-    "question": {
-      "fr": "Dans Harry Potter, quelle est la maison de Poudlard à laquelle appartient Harry ?",
-      "en": "In Harry Potter, which Hogwarts house does Harry belong to?",
-      "es": "En Harry Potter, ¿a qué casa de Hogwarts pertenece Harry?",
-      "pt": "Em Harry Potter, a qual casa de Hogwarts pertence Harry?"
-    },
-    "options": {
-      "fr": [
-        "Serpentard",
-        "Poufsouffle",
-        "Gryffondor",
-        "Serdaigle"
-      ],
-      "en": [
-        "Slytherin",
-        "Hufflepuff",
-        "Gryffindor",
-        "Ravenclaw"
-      ],
-      "es": [
-        "Slytherin",
-        "Hufflepuff",
-        "Gryffindor",
-        "Ravenclaw"
-      ],
-      "pt": [
-        "Sonserina",
-        "Lufa-Lufa",
-        "Grifinória",
-        "Corvinal"
-      ]
-    },
-    "correct": 2,
-    "explanation": {
-      "fr": "Le Choixpeau magique répartit Harry à Gryffondor, la maison de Dumbledore et de la plupart de ses amis.",
-      "en": "The Sorting Hat places Harry in Gryffindor, the house of Dumbledore and most of his friends.",
-      "es": "El Sombrero Seleccionador asigna a Harry a Gryffindor, la casa de Dumbledore y de la mayoría de sus amigos.",
-      "pt": "O Chapéu Seletor coloca Harry na Grifinória, a casa de Dumbledore e da maioria de seus amigos."
-    }
-  },
-  {
     "id": "cinema_0203",
     "category": "cinema-series",
     "difficulty": "facile",
@@ -10068,94 +9980,6 @@
     }
   },
   {
-    "id": "cinema_0228",
-    "category": "cinema-series",
-    "difficulty": "facile",
-    "question": {
-      "fr": "Dans « La Reine des Neiges » (Frozen), quel est le nom du bonhomme de neige comique ?",
-      "en": "In \"Frozen\", what is the name of the comical snowman?",
-      "es": "En \"Frozen\", ¿cómo se llama el muñeco de nieve cómico?",
-      "pt": "Em \"Frozen\", qual é o nome do boneco de neve cômico?"
-    },
-    "options": {
-      "fr": [
-        "Sven",
-        "Kristoff",
-        "Olaf",
-        "Hans"
-      ],
-      "en": [
-        "Sven",
-        "Kristoff",
-        "Olaf",
-        "Hans"
-      ],
-      "es": [
-        "Sven",
-        "Kristoff",
-        "Olaf",
-        "Hans"
-      ],
-      "pt": [
-        "Sven",
-        "Kristoff",
-        "Olaf",
-        "Hans"
-      ]
-    },
-    "correct": 2,
-    "explanation": {
-      "fr": "Olaf est le bonhomme de neige créé par Elsa, qui rêve de connaître l'été.",
-      "en": "Olaf is the snowman created by Elsa who dreams of experiencing summer.",
-      "es": "Olaf es el muñeco de nieve creado por Elsa que sueña con conocer el verano.",
-      "pt": "Olaf é o boneco de neve criado por Elsa que sonha em conhecer o verão."
-    }
-  },
-  {
-    "id": "cinema_0229",
-    "category": "cinema-series",
-    "difficulty": "facile",
-    "question": {
-      "fr": "Dans « Le Monde de Nemo » de Pixar, quel type de poisson est Nemo ?",
-      "en": "In Pixar's \"Finding Nemo\", what type of fish is Nemo?",
-      "es": "En \"Buscando a Nemo\" de Pixar, ¿qué tipo de pez es Nemo?",
-      "pt": "Em \"Procurando Nemo\" da Pixar, que tipo de peixe é o Nemo?"
-    },
-    "options": {
-      "fr": [
-        "Un poisson-clown",
-        "Un poisson-chirurgien",
-        "Un requin",
-        "Un hippocampe"
-      ],
-      "en": [
-        "A clownfish",
-        "A surgeonfish",
-        "A shark",
-        "A seahorse"
-      ],
-      "es": [
-        "Un pez payaso",
-        "Un pez cirujano",
-        "Un tiburón",
-        "Un caballito de mar"
-      ],
-      "pt": [
-        "Um peixe-palhaço",
-        "Um peixe-cirurgião",
-        "Um tubarão",
-        "Um cavalo-marinho"
-      ]
-    },
-    "correct": 0,
-    "explanation": {
-      "fr": "Nemo et son père Marin sont des poissons-clowns, reconnaissables à leurs rayures orange et blanches.",
-      "en": "Nemo and his father Marlin are clownfish, recognizable by their orange and white stripes.",
-      "es": "Nemo y su padre Marlin son peces payaso, reconocibles por sus rayas naranjas y blancas.",
-      "pt": "Nemo e seu pai Marlin são peixes-palhaço, reconhecíveis pelas listras laranja e brancas."
-    }
-  },
-  {
     "id": "cinema_0230",
     "category": "cinema-series",
     "difficulty": "facile",
@@ -11124,50 +10948,6 @@
     }
   },
   {
-    "id": "cinema_0252",
-    "category": "cinema-series",
-    "difficulty": "facile",
-    "question": {
-      "fr": "Quel film a remporté l'Oscar du meilleur film en 2020, une première pour un film non anglophone ?",
-      "en": "Which film won the Best Picture Oscar in 2020, a first for a non-English-language film?",
-      "es": "¿Qué película ganó el Óscar a la mejor película en 2020, la primera para un film en lengua no inglesa?",
-      "pt": "Qual filme ganhou o Oscar de melhor filme em 2020, o primeiro para um filme em língua não inglesa?"
-    },
-    "options": {
-      "fr": [
-        "1917",
-        "Parasite",
-        "Joker",
-        "Le Mans 66"
-      ],
-      "en": [
-        "1917",
-        "Parasite",
-        "Joker",
-        "Ford v Ferrari"
-      ],
-      "es": [
-        "1917",
-        "Parásitos",
-        "Joker",
-        "Le Mans '66"
-      ],
-      "pt": [
-        "1917",
-        "Parasita",
-        "Coringa",
-        "Ford vs Ferrari"
-      ]
-    },
-    "correct": 1,
-    "explanation": {
-      "fr": "« Parasite » de Bong Joon-ho est devenu le premier film non anglophone à remporter l'Oscar du meilleur film.",
-      "en": "Bong Joon-ho's 'Parasite' became the first non-English-language film to win the Best Picture Oscar.",
-      "es": "'Parásitos' de Bong Joon-ho fue la primera película en lengua no inglesa en ganar el Óscar a la mejor película.",
-      "pt": "'Parasita', de Bong Joon-ho, foi o primeiro filme em língua não inglesa a ganhar o Oscar de melhor filme."
-    }
-  },
-  {
     "id": "cinema_0253",
     "category": "cinema-series",
     "difficulty": "expert",
@@ -11344,50 +11124,6 @@
     }
   },
   {
-    "id": "cinema_0257",
-    "category": "cinema-series",
-    "difficulty": "expert",
-    "question": {
-      "fr": "Quel film a remporté la première Palme d'or jamais décernée, en 1955 sous ce nom ?",
-      "en": "Which film won the very first Palme d'Or awarded under that name, in 1955?",
-      "es": "¿Qué película ganó la primera Palma de Oro otorgada con ese nombre, en 1955?",
-      "pt": "Qual filme ganhou a primeira Palma de Ouro concedida com esse nome, em 1955?"
-    },
-    "options": {
-      "fr": [
-        "La Dolce Vita",
-        "Marty",
-        "Le Salaire de la peur",
-        "Othello"
-      ],
-      "en": [
-        "La Dolce Vita",
-        "Marty",
-        "The Wages of Fear",
-        "Othello"
-      ],
-      "es": [
-        "La Dolce Vita",
-        "Marty",
-        "El salario del miedo",
-        "Otelo"
-      ],
-      "pt": [
-        "La Dolce Vita",
-        "Marty",
-        "O Salário do Medo",
-        "Otelo"
-      ]
-    },
-    "correct": 1,
-    "explanation": {
-      "fr": "« Marty » de Delbert Mann reçut la première Palme d'or officielle en 1955, le trophée remplaçant le Grand Prix.",
-      "en": "Delbert Mann's 'Marty' received the first official Palme d'Or in 1955, the trophy replacing the Grand Prix.",
-      "es": "'Marty', de Delbert Mann, recibió la primera Palma de Oro oficial en 1955, sustituyendo al Gran Premio.",
-      "pt": "'Marty', de Delbert Mann, recebeu a primeira Palma de Ouro oficial em 1955, substituindo o Grande Prêmio."
-    }
-  },
-  {
     "id": "cinema_0258",
     "category": "cinema-series",
     "difficulty": "expert",
@@ -11429,6 +11165,1854 @@
       "en": "Alfred Hitchcock was nominated five times but only received an honorary Oscar, never one for directing.",
       "es": "Alfred Hitchcock fue nominado cinco veces pero solo recibió un Óscar honorífico, nunca el de dirección.",
       "pt": "Alfred Hitchcock foi indicado cinco vezes, mas só recebeu um Oscar honorário, nunca o de direção."
+    }
+  },
+  {
+    "id": "cinema_0259",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Retour vers le futur », quelle voiture sert de machine à voyager dans le temps ?",
+      "en": "In \"Back to the Future\", which car is used as a time machine?",
+      "es": "En «Regreso al futuro», ¿qué coche sirve de máquina del tiempo?",
+      "pt": "Em «Regresso ao Futuro», que carro serve de máquina do tempo?"
+    },
+    "options": {
+      "fr": [
+        "Une DeLorean",
+        "Une Ford Mustang",
+        "Une Cadillac",
+        "Une Chevrolet Camaro"
+      ],
+      "en": [
+        "A DeLorean",
+        "A Ford Mustang",
+        "A Cadillac",
+        "A Chevrolet Camaro"
+      ],
+      "es": [
+        "Un DeLorean",
+        "Un Ford Mustang",
+        "Un Cadillac",
+        "Un Chevrolet Camaro"
+      ],
+      "pt": [
+        "Um DeLorean",
+        "Um Ford Mustang",
+        "Um Cadillac",
+        "Um Chevrolet Camaro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La DeLorean DMC-12 du Doc voyage dans le temps une fois lancée à 88 miles à l'heure.",
+      "en": "Doc's DeLorean DMC-12 travels through time once it hits 88 miles per hour.",
+      "es": "El DeLorean DMC-12 del Doc viaja en el tiempo al alcanzar las 88 millas por hora.",
+      "pt": "O DeLorean DMC-12 do Doc viaja no tempo ao atingir as 88 milhas por hora."
+    }
+  },
+  {
+    "id": "cinema_0260",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Intouchables », quels deux acteurs forment le duo principal ?",
+      "en": "In \"The Intouchables\", which two actors form the main duo?",
+      "es": "En «Intocable», ¿qué dos actores forman el dúo principal?",
+      "pt": "Em «Intocáveis», que dois atores formam a dupla principal?"
+    },
+    "options": {
+      "fr": [
+        "Omar Sy et François Cluzet",
+        "Jean Dujardin et Gilles Lellouche",
+        "Dany Boon et Kad Merad",
+        "Vincent Cassel et Jamel Debbouze"
+      ],
+      "en": [
+        "Omar Sy and François Cluzet",
+        "Jean Dujardin and Gilles Lellouche",
+        "Dany Boon and Kad Merad",
+        "Vincent Cassel and Jamel Debbouze"
+      ],
+      "es": [
+        "Omar Sy y François Cluzet",
+        "Jean Dujardin y Gilles Lellouche",
+        "Dany Boon y Kad Merad",
+        "Vincent Cassel y Jamel Debbouze"
+      ],
+      "pt": [
+        "Omar Sy e François Cluzet",
+        "Jean Dujardin e Gilles Lellouche",
+        "Dany Boon e Kad Merad",
+        "Vincent Cassel e Jamel Debbouze"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de 2011 a valu à Omar Sy le César du meilleur acteur.",
+      "en": "The 2011 film earned Omar Sy the César for Best Actor.",
+      "es": "La película de 2011 le valió a Omar Sy el César al mejor actor.",
+      "pt": "O filme de 2011 valeu a Omar Sy o César de melhor ator."
+    }
+  },
+  {
+    "id": "cinema_0261",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel personnage de « Terminator » est incarné par Arnold Schwarzenegger ?",
+      "en": "Which \"Terminator\" character is played by Arnold Schwarzenegger?",
+      "es": "¿Qué personaje de «Terminator» interpreta Arnold Schwarzenegger?",
+      "pt": "Que personagem de «Exterminador Implacável» é interpretada por Arnold Schwarzenegger?"
+    },
+    "options": {
+      "fr": [
+        "Un robot tueur venu du futur",
+        "Un policier",
+        "Un savant",
+        "Un extraterrestre"
+      ],
+      "en": [
+        "A killer robot from the future",
+        "A policeman",
+        "A scientist",
+        "An alien"
+      ],
+      "es": [
+        "Un robot asesino del futuro",
+        "Un policía",
+        "Un científico",
+        "Un extraterrestre"
+      ],
+      "pt": [
+        "Um robô assassino do futuro",
+        "Um polícia",
+        "Um cientista",
+        "Um extraterrestre"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le T-800, cyborg envoyé par Skynet, est devenu l'un des rôles les plus célèbres du cinéma d'action.",
+      "en": "The T-800, a cyborg sent by Skynet, became one of action cinema's most famous roles.",
+      "es": "El T-800, cíborg enviado por Skynet, se convirtió en uno de los papeles más famosos del cine de acción.",
+      "pt": "O T-800, cyborg enviado pela Skynet, tornou-se num dos papéis mais famosos do cinema de ação."
+    }
+  },
+  {
+    "id": "cinema_0262",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Le Cinquième Élément », quel réalisateur français est aux commandes ?",
+      "en": "Which French director made \"The Fifth Element\"?",
+      "es": "¿Qué director francés dirigió «El quinto elemento»?",
+      "pt": "Que realizador francês dirigiu «O Quinto Elemento»?"
+    },
+    "options": {
+      "fr": [
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "Mathieu Kassovitz",
+        "Michel Gondry"
+      ],
+      "en": [
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "Mathieu Kassovitz",
+        "Michel Gondry"
+      ],
+      "es": [
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "Mathieu Kassovitz",
+        "Michel Gondry"
+      ],
+      "pt": [
+        "Luc Besson",
+        "Jean-Pierre Jeunet",
+        "Mathieu Kassovitz",
+        "Michel Gondry"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Luc Besson réalise en 1997 ce space opera avec Bruce Willis et Milla Jovovich.",
+      "en": "Luc Besson directed this 1997 space opera starring Bruce Willis and Milla Jovovich.",
+      "es": "Luc Besson dirigió en 1997 esta ópera espacial con Bruce Willis y Milla Jovovich.",
+      "pt": "Luc Besson realizou em 1997 esta ópera espacial com Bruce Willis e Milla Jovovich."
+    }
+  },
+  {
+    "id": "cinema_0263",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle récompense est remise au Festival de Berlin ?",
+      "en": "Which award is presented at the Berlin Film Festival?",
+      "es": "¿Qué premio se entrega en el Festival de Berlín?",
+      "pt": "Que prémio é entregue no Festival de Berlim?"
+    },
+    "options": {
+      "fr": [
+        "L'Ours d'or",
+        "Le Lion d'or",
+        "La Palme d'or",
+        "Le Léopard d'or"
+      ],
+      "en": [
+        "The Golden Bear",
+        "The Golden Lion",
+        "The Palme d'Or",
+        "The Golden Leopard"
+      ],
+      "es": [
+        "El Oso de Oro",
+        "El León de Oro",
+        "La Palma de Oro",
+        "El Leopardo de Oro"
+      ],
+      "pt": [
+        "O Urso de Ouro",
+        "O Leão de Ouro",
+        "A Palma de Ouro",
+        "O Leopardo de Ouro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ours d'or à Berlin, Lion d'or à Venise, Palme d'or à Cannes : les trois grands festivals européens.",
+      "en": "Golden Bear in Berlin, Golden Lion in Venice, Palme d'Or in Cannes: Europe's three big festivals.",
+      "es": "Oso de Oro en Berlín, León de Oro en Venecia, Palma de Oro en Cannes: los tres grandes festivales europeos.",
+      "pt": "Urso de Ouro em Berlim, Leão de Ouro em Veneza, Palma de Ouro em Cannes: os três grandes festivais europeus."
+    }
+  },
+  {
+    "id": "cinema_0264",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel acteur a été le premier à incarner James Bond au cinéma ?",
+      "en": "Which actor was the first to play James Bond on screen?",
+      "es": "¿Qué actor fue el primero en encarnar a James Bond en el cine?",
+      "pt": "Que ator foi o primeiro a interpretar James Bond no cinema?"
+    },
+    "options": {
+      "fr": [
+        "Sean Connery",
+        "Roger Moore",
+        "Pierce Brosnan",
+        "Daniel Craig"
+      ],
+      "en": [
+        "Sean Connery",
+        "Roger Moore",
+        "Pierce Brosnan",
+        "Daniel Craig"
+      ],
+      "es": [
+        "Sean Connery",
+        "Roger Moore",
+        "Pierce Brosnan",
+        "Daniel Craig"
+      ],
+      "pt": [
+        "Sean Connery",
+        "Roger Moore",
+        "Pierce Brosnan",
+        "Daniel Craig"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sean Connery inaugure le rôle dans « James Bond 007 contre Dr No » en 1962.",
+      "en": "Sean Connery originated the role in \"Dr. No\" in 1962.",
+      "es": "Sean Connery estrenó el papel en «Agente 007 contra el Dr. No» en 1962.",
+      "pt": "Sean Connery estreou o papel em «007 Contra o Dr. No» em 1962."
+    }
+  },
+  {
+    "id": "cinema_0265",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Rocky », quel sport pratique le héros ?",
+      "en": "In \"Rocky\", which sport does the hero practise?",
+      "es": "En «Rocky», ¿qué deporte practica el héroe?",
+      "pt": "Em «Rocky», que desporto pratica o herói?"
+    },
+    "options": {
+      "fr": [
+        "La boxe",
+        "Le catch",
+        "Le football américain",
+        "Le baseball"
+      ],
+      "en": [
+        "Boxing",
+        "Wrestling",
+        "American football",
+        "Baseball"
+      ],
+      "es": [
+        "El boxeo",
+        "La lucha libre",
+        "El fútbol americano",
+        "El béisbol"
+      ],
+      "pt": [
+        "O boxe",
+        "O wrestling",
+        "O futebol americano",
+        "O basebol"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sylvester Stallone a écrit le rôle pour lui-même ; le film a remporté l'Oscar du meilleur film en 1977.",
+      "en": "Sylvester Stallone wrote the role for himself; the film won Best Picture in 1977.",
+      "es": "Sylvester Stallone escribió el papel para sí mismo; la película ganó el Óscar a la mejor película en 1977.",
+      "pt": "Sylvester Stallone escreveu o papel para si próprio; o filme ganhou o Óscar de melhor filme em 1977."
+    }
+  },
+  {
+    "id": "cinema_0266",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Le Silence des agneaux », quel est le nom du psychiatre cannibale ?",
+      "en": "In \"The Silence of the Lambs\", what is the cannibal psychiatrist's name?",
+      "es": "En «El silencio de los corderos», ¿cómo se llama el psiquiatra caníbal?",
+      "pt": "Em «O Silêncio dos Inocentes», qual é o nome do psiquiatra canibal?"
+    },
+    "options": {
+      "fr": [
+        "Hannibal Lecter",
+        "Norman Bates",
+        "Patrick Bateman",
+        "Jack Torrance"
+      ],
+      "en": [
+        "Hannibal Lecter",
+        "Norman Bates",
+        "Patrick Bateman",
+        "Jack Torrance"
+      ],
+      "es": [
+        "Hannibal Lecter",
+        "Norman Bates",
+        "Patrick Bateman",
+        "Jack Torrance"
+      ],
+      "pt": [
+        "Hannibal Lecter",
+        "Norman Bates",
+        "Patrick Bateman",
+        "Jack Torrance"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Anthony Hopkins remporte l'Oscar pour ce rôle, pourtant présent moins de 20 minutes à l'écran.",
+      "en": "Anthony Hopkins won an Oscar for the role, despite less than 20 minutes of screen time.",
+      "es": "Anthony Hopkins ganó el Óscar por este papel, pese a aparecer menos de 20 minutos en pantalla.",
+      "pt": "Anthony Hopkins ganhou o Óscar por este papel, apesar de menos de 20 minutos em cena."
+    }
+  },
+  {
+    "id": "cinema_0267",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle technique d'animation utilise le studio Aardman pour « Wallace et Gromit » ?",
+      "en": "Which animation technique does Aardman use for \"Wallace and Gromit\"?",
+      "es": "¿Qué técnica de animación usa el estudio Aardman para «Wallace y Gromit»?",
+      "pt": "Que técnica de animação usa o estúdio Aardman para «Wallace e Gromit»?"
+    },
+    "options": {
+      "fr": [
+        "La pâte à modeler image par image",
+        "Le dessin sur celluloïd",
+        "La 3D par ordinateur",
+        "La rotoscopie"
+      ],
+      "en": [
+        "Stop-motion with modelling clay",
+        "Cel drawing",
+        "Computer 3D",
+        "Rotoscoping"
+      ],
+      "es": [
+        "La plastilina fotograma a fotograma",
+        "El dibujo sobre celuloide",
+        "El 3D por ordenador",
+        "La rotoscopia"
+      ],
+      "pt": [
+        "A plasticina imagem a imagem",
+        "O desenho sobre celuloide",
+        "O 3D por computador",
+        "A rotoscopia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est de la stop-motion : les figurines sont déplacées puis photographiées image par image.",
+      "en": "It is stop-motion: the figures are moved and photographed one frame at a time.",
+      "es": "Es stop-motion: las figuras se mueven y fotografían fotograma a fotograma.",
+      "pt": "É stop-motion: as figuras são movidas e fotografadas imagem a imagem."
+    }
+  },
+  {
+    "id": "cinema_0268",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Peaky Blinders », dans quelle ville anglaise règne la famille Shelby ?",
+      "en": "In \"Peaky Blinders\", which English city do the Shelbys rule?",
+      "es": "En «Peaky Blinders», ¿en qué ciudad inglesa reina la familia Shelby?",
+      "pt": "Em «Peaky Blinders», em que cidade inglesa reina a família Shelby?"
+    },
+    "options": {
+      "fr": [
+        "Birmingham",
+        "Manchester",
+        "Liverpool",
+        "Leeds"
+      ],
+      "en": [
+        "Birmingham",
+        "Manchester",
+        "Liverpool",
+        "Leeds"
+      ],
+      "es": [
+        "Birmingham",
+        "Mánchester",
+        "Liverpool",
+        "Leeds"
+      ],
+      "pt": [
+        "Birmingham",
+        "Manchester",
+        "Liverpool",
+        "Leeds"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série suit un gang de Birmingham au lendemain de la Première Guerre mondiale.",
+      "en": "The series follows a Birmingham gang in the aftermath of the First World War.",
+      "es": "La serie sigue a una banda de Birmingham tras la Primera Guerra Mundial.",
+      "pt": "A série segue um gangue de Birmingham no rescaldo da Primeira Guerra Mundial."
+    }
+  },
+  {
+    "id": "cinema_0269",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série retrace l'ascension du trafiquant Pablo Escobar ?",
+      "en": "Which series charts the rise of drug lord Pablo Escobar?",
+      "es": "¿Qué serie narra el ascenso del narcotraficante Pablo Escobar?",
+      "pt": "Que série narra a ascensão do traficante Pablo Escobar?"
+    },
+    "options": {
+      "fr": [
+        "Narcos",
+        "Ozark",
+        "Snowfall",
+        "Gomorra"
+      ],
+      "en": [
+        "Narcos",
+        "Ozark",
+        "Snowfall",
+        "Gomorrah"
+      ],
+      "es": [
+        "Narcos",
+        "Ozark",
+        "Snowfall",
+        "Gomorra"
+      ],
+      "pt": [
+        "Narcos",
+        "Ozark",
+        "Snowfall",
+        "Gomorra"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Diffusée à partir de 2015 sur Netflix, la série se déroule en Colombie.",
+      "en": "Released on Netflix from 2015, the series is set in Colombia.",
+      "es": "Estrenada en Netflix en 2015, la serie transcurre en Colombia.",
+      "pt": "Estreada na Netflix em 2015, a série passa-se na Colômbia."
+    }
+  },
+  {
+    "id": "cinema_0270",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "De quel média la série « The Last of Us » est-elle adaptée ?",
+      "en": "\"The Last of Us\" series is adapted from which medium?",
+      "es": "¿De qué medio está adaptada la serie «The Last of Us»?",
+      "pt": "De que meio é adaptada a série «The Last of Us»?"
+    },
+    "options": {
+      "fr": [
+        "Un jeu vidéo",
+        "Un roman",
+        "Une bande dessinée",
+        "Une pièce de théâtre"
+      ],
+      "en": [
+        "A video game",
+        "A novel",
+        "A comic book",
+        "A stage play"
+      ],
+      "es": [
+        "Un videojuego",
+        "Una novela",
+        "Un cómic",
+        "Una obra de teatro"
+      ],
+      "pt": [
+        "Um videojogo",
+        "Um romance",
+        "Uma banda desenhada",
+        "Uma peça de teatro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le jeu de Naughty Dog (2013) a été adapté par HBO en 2023 avec Pedro Pascal.",
+      "en": "Naughty Dog's 2013 game was adapted by HBO in 2023 starring Pedro Pascal.",
+      "es": "El juego de Naughty Dog (2013) fue adaptado por HBO en 2023 con Pedro Pascal.",
+      "pt": "O jogo da Naughty Dog (2013) foi adaptado pela HBO em 2023 com Pedro Pascal."
+    }
+  },
+  {
+    "id": "cinema_0271",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « La Grande Vadrouille », quel duo comique français mène l'aventure ?",
+      "en": "In \"La Grande Vadrouille\", which French comic duo leads the adventure?",
+      "es": "En «La gran juerga», ¿qué dúo cómico francés protagoniza la aventura?",
+      "pt": "Em «A Grande Aventura», que dupla cómica francesa lidera a aventura?"
+    },
+    "options": {
+      "fr": [
+        "Bourvil et Louis de Funès",
+        "Coluche et Gérard Depardieu",
+        "Pierre Richard et Gérard Depardieu",
+        "Fernandel et Jean Gabin"
+      ],
+      "en": [
+        "Bourvil and Louis de Funès",
+        "Coluche and Gérard Depardieu",
+        "Pierre Richard and Gérard Depardieu",
+        "Fernandel and Jean Gabin"
+      ],
+      "es": [
+        "Bourvil y Louis de Funès",
+        "Coluche y Gérard Depardieu",
+        "Pierre Richard y Gérard Depardieu",
+        "Fernandel y Jean Gabin"
+      ],
+      "pt": [
+        "Bourvil e Louis de Funès",
+        "Coluche e Gérard Depardieu",
+        "Pierre Richard e Gérard Depardieu",
+        "Fernandel e Jean Gabin"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sorti en 1966, le film de Gérard Oury est resté le plus gros succès du cinéma français pendant trente ans.",
+      "en": "Released in 1966, Gérard Oury's film remained France's biggest box-office hit for thirty years.",
+      "es": "Estrenada en 1966, la película de Gérard Oury fue el mayor éxito del cine francés durante treinta años.",
+      "pt": "Lançado em 1966, o filme de Gérard Oury foi o maior êxito do cinema francês durante trinta anos."
+    }
+  },
+  {
+    "id": "cinema_0272",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série met en scène des ingénieurs et des liquidateurs après une catastrophe nucléaire en 1986 ?",
+      "en": "Which series depicts engineers and liquidators after a 1986 nuclear disaster?",
+      "es": "¿Qué serie muestra a ingenieros y liquidadores tras una catástrofe nuclear en 1986?",
+      "pt": "Que série mostra engenheiros e liquidatários após uma catástrofe nuclear em 1986?"
+    },
+    "options": {
+      "fr": [
+        "Chernobyl",
+        "The Terror",
+        "Dark",
+        "Watchmen"
+      ],
+      "en": [
+        "Chernobyl",
+        "The Terror",
+        "Dark",
+        "Watchmen"
+      ],
+      "es": [
+        "Chernobyl",
+        "The Terror",
+        "Dark",
+        "Watchmen"
+      ],
+      "pt": [
+        "Chernobyl",
+        "The Terror",
+        "Dark",
+        "Watchmen"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La mini-série HBO de 2019 reconstitue l'accident de la centrale de Tchernobyl.",
+      "en": "The 2019 HBO miniseries reconstructs the accident at the Chernobyl power plant.",
+      "es": "La miniserie de HBO de 2019 reconstruye el accidente de la central de Chernóbil.",
+      "pt": "A minissérie da HBO de 2019 reconstitui o acidente da central de Chernobyl."
+    }
+  },
+  {
+    "id": "cinema_0273",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série d'anthologie britannique explore les dérives des technologies ?",
+      "en": "Which British anthology series explores the dark side of technology?",
+      "es": "¿Qué serie antológica británica explora los excesos de la tecnología?",
+      "pt": "Que série antológica britânica explora os excessos da tecnologia?"
+    },
+    "options": {
+      "fr": [
+        "Black Mirror",
+        "Doctor Who",
+        "Sherlock",
+        "Utopia"
+      ],
+      "en": [
+        "Black Mirror",
+        "Doctor Who",
+        "Sherlock",
+        "Utopia"
+      ],
+      "es": [
+        "Black Mirror",
+        "Doctor Who",
+        "Sherlock",
+        "Utopia"
+      ],
+      "pt": [
+        "Black Mirror",
+        "Doctor Who",
+        "Sherlock",
+        "Utopia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Créée par Charlie Brooker, chaque épisode est une histoire indépendante.",
+      "en": "Created by Charlie Brooker, each episode is a standalone story.",
+      "es": "Creada por Charlie Brooker, cada episodio es una historia independiente.",
+      "pt": "Criada por Charlie Brooker, cada episódio é uma história independente."
+    }
+  },
+  {
+    "id": "cinema_0274",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel acteur britannique incarne Sherlock Holmes dans la série « Sherlock » de la BBC ?",
+      "en": "Which British actor plays Sherlock Holmes in the BBC series \"Sherlock\"?",
+      "es": "¿Qué actor británico interpreta a Sherlock Holmes en la serie «Sherlock» de la BBC?",
+      "pt": "Que ator britânico interpreta Sherlock Holmes na série «Sherlock» da BBC?"
+    },
+    "options": {
+      "fr": [
+        "Benedict Cumberbatch",
+        "Martin Freeman",
+        "Tom Hiddleston",
+        "Idris Elba"
+      ],
+      "en": [
+        "Benedict Cumberbatch",
+        "Martin Freeman",
+        "Tom Hiddleston",
+        "Idris Elba"
+      ],
+      "es": [
+        "Benedict Cumberbatch",
+        "Martin Freeman",
+        "Tom Hiddleston",
+        "Idris Elba"
+      ],
+      "pt": [
+        "Benedict Cumberbatch",
+        "Martin Freeman",
+        "Tom Hiddleston",
+        "Idris Elba"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Martin Freeman, lui, incarne le docteur Watson dans cette transposition contemporaine.",
+      "en": "Martin Freeman plays Doctor Watson in this contemporary retelling.",
+      "es": "Martin Freeman interpreta al doctor Watson en esta versión contemporánea.",
+      "pt": "Martin Freeman interpreta o doutor Watson nesta versão contemporânea."
+    }
+  },
+  {
+    "id": "cinema_0275",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Blade Runner », comment appelle-t-on les androïdes traqués par le héros ?",
+      "en": "In \"Blade Runner\", what are the androids hunted by the hero called?",
+      "es": "En «Blade Runner», ¿cómo se llaman los androides perseguidos por el héroe?",
+      "pt": "Em «Blade Runner», como se chamam os androides caçados pelo herói?"
+    },
+    "options": {
+      "fr": [
+        "Des réplicants",
+        "Des clones",
+        "Des synthétiques",
+        "Des hôtes"
+      ],
+      "en": [
+        "Replicants",
+        "Clones",
+        "Synthetics",
+        "Hosts"
+      ],
+      "es": [
+        "Replicantes",
+        "Clones",
+        "Sintéticos",
+        "Anfitriones"
+      ],
+      "pt": [
+        "Replicantes",
+        "Clones",
+        "Sintéticos",
+        "Anfitriões"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de Ridley Scott (1982) adapte un roman de Philip K. Dick.",
+      "en": "Ridley Scott's 1982 film adapts a novel by Philip K. Dick.",
+      "es": "La película de Ridley Scott (1982) adapta una novela de Philip K. Dick.",
+      "pt": "O filme de Ridley Scott (1982) adapta um romance de Philip K. Dick."
+    }
+  },
+  {
+    "id": "cinema_0276",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film d'animation met en scène plusieurs Spider-Man venus d'univers parallèles ?",
+      "en": "Which animated film features several Spider-Men from parallel universes?",
+      "es": "¿Qué película de animación reúne a varios Spider-Man de universos paralelos?",
+      "pt": "Que filme de animação reúne vários Spider-Man de universos paralelos?"
+    },
+    "options": {
+      "fr": [
+        "Spider-Man: New Generation",
+        "Les Indestructibles 2",
+        "Big Hero 6",
+        "Les Nouveaux Héros"
+      ],
+      "en": [
+        "Spider-Man: Into the Spider-Verse",
+        "Incredibles 2",
+        "Big Hero 6",
+        "Wreck-It Ralph"
+      ],
+      "es": [
+        "Spider-Man: Un nuevo universo",
+        "Los Increíbles 2",
+        "Big Hero 6",
+        "Rompe Ralph"
+      ],
+      "pt": [
+        "Spider-Man: No Universo Aranha",
+        "Os Incríveis 2",
+        "Big Hero 6",
+        "Detona Ralph"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film a remporté l'Oscar du meilleur film d'animation en 2019 pour son style graphique inédit.",
+      "en": "The film won the 2019 Oscar for Best Animated Feature for its groundbreaking visual style.",
+      "es": "La película ganó el Óscar a la mejor película de animación en 2019 por su estilo gráfico inédito.",
+      "pt": "O filme ganhou o Óscar de melhor filme de animação em 2019 pelo seu estilo gráfico inédito."
+    }
+  },
+  {
+    "id": "cinema_0277",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Le Projet Blair Witch », quel procédé de mise en scène est utilisé ?",
+      "en": "Which filmmaking device does \"The Blair Witch Project\" use?",
+      "es": "¿Qué recurso narrativo utiliza «El proyecto de la bruja de Blair»?",
+      "pt": "Que recurso narrativo usa «O Projeto Blair Witch»?"
+    },
+    "options": {
+      "fr": [
+        "Le found footage (images retrouvées)",
+        "Le noir et blanc",
+        "Le muet",
+        "L'animation"
+      ],
+      "en": [
+        "Found footage",
+        "Black and white",
+        "Silent film",
+        "Animation"
+      ],
+      "es": [
+        "El metraje encontrado",
+        "El blanco y negro",
+        "El cine mudo",
+        "La animación"
+      ],
+      "pt": [
+        "As imagens encontradas (found footage)",
+        "O preto e branco",
+        "O cinema mudo",
+        "A animação"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sorti en 1999, le film se présente comme les rushes d'étudiants disparus, et popularise le genre.",
+      "en": "Released in 1999, the film poses as footage left by missing students, popularising the genre.",
+      "es": "Estrenada en 1999, la película se presenta como el material de unos estudiantes desaparecidos.",
+      "pt": "Lançado em 1999, o filme apresenta-se como as imagens de estudantes desaparecidos."
+    }
+  },
+  {
+    "id": "cinema_0278",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série allemande de Netflix mêle disparitions d'enfants et voyages dans le temps ?",
+      "en": "Which German Netflix series mixes missing children and time travel?",
+      "es": "¿Qué serie alemana de Netflix mezcla desapariciones de niños y viajes en el tiempo?",
+      "pt": "Que série alemã da Netflix mistura desaparecimentos de crianças e viagens no tempo?"
+    },
+    "options": {
+      "fr": [
+        "Dark",
+        "Babylon Berlin",
+        "How to Sell Drugs Online",
+        "Barbaren"
+      ],
+      "en": [
+        "Dark",
+        "Babylon Berlin",
+        "How to Sell Drugs Online",
+        "Barbarians"
+      ],
+      "es": [
+        "Dark",
+        "Babylon Berlin",
+        "How to Sell Drugs Online",
+        "Bárbaros"
+      ],
+      "pt": [
+        "Dark",
+        "Babylon Berlin",
+        "How to Sell Drugs Online",
+        "Bárbaros"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Diffusée à partir de 2017, « Dark » se déroule dans la ville fictive de Winden.",
+      "en": "Released from 2017, \"Dark\" is set in the fictional town of Winden.",
+      "es": "Estrenada en 2017, «Dark» transcurre en la ciudad ficticia de Winden.",
+      "pt": "Estreada em 2017, «Dark» passa-se na cidade fictícia de Winden."
+    }
+  },
+  {
+    "id": "cinema_0279",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Qui a réalisé « La Haine » (1995) ?",
+      "en": "Who directed \"La Haine\" (1995)?",
+      "es": "¿Quién dirigió «El odio» (1995)?",
+      "pt": "Quem realizou «O Ódio» (1995)?"
+    },
+    "options": {
+      "fr": [
+        "Mathieu Kassovitz",
+        "Luc Besson",
+        "Jacques Audiard",
+        "Cédric Klapisch"
+      ],
+      "en": [
+        "Mathieu Kassovitz",
+        "Luc Besson",
+        "Jacques Audiard",
+        "Cédric Klapisch"
+      ],
+      "es": [
+        "Mathieu Kassovitz",
+        "Luc Besson",
+        "Jacques Audiard",
+        "Cédric Klapisch"
+      ],
+      "pt": [
+        "Mathieu Kassovitz",
+        "Luc Besson",
+        "Jacques Audiard",
+        "Cédric Klapisch"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film en noir et blanc, porté par Vincent Cassel, a valu à Kassovitz le prix de la mise en scène à Cannes.",
+      "en": "The black-and-white film, starring Vincent Cassel, won Kassovitz Best Director at Cannes.",
+      "es": "La película en blanco y negro, con Vincent Cassel, le valió a Kassovitz el premio a la dirección en Cannes.",
+      "pt": "O filme a preto e branco, com Vincent Cassel, valeu a Kassovitz o prémio de realização em Cannes."
+    }
+  },
+  {
+    "id": "cinema_0280",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film français muet en noir et blanc a remporté l'Oscar du meilleur film en 2012 ?",
+      "en": "Which black-and-white French silent film won Best Picture in 2012?",
+      "es": "¿Qué película francesa muda en blanco y negro ganó el Óscar a la mejor película en 2012?",
+      "pt": "Que filme francês mudo a preto e branco ganhou o Óscar de melhor filme em 2012?"
+    },
+    "options": {
+      "fr": [
+        "The Artist",
+        "Intouchables",
+        "Amour",
+        "De rouille et d'os"
+      ],
+      "en": [
+        "The Artist",
+        "The Intouchables",
+        "Amour",
+        "Rust and Bone"
+      ],
+      "es": [
+        "The Artist",
+        "Intocable",
+        "Amor",
+        "De óxido y hueso"
+      ],
+      "pt": [
+        "The Artist",
+        "Intocáveis",
+        "Amor",
+        "Ferrugem e Osso"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Réalisé par Michel Hazanavicius, le film a aussi valu l'Oscar du meilleur acteur à Jean Dujardin.",
+      "en": "Directed by Michel Hazanavicius, the film also earned Jean Dujardin the Best Actor Oscar.",
+      "es": "Dirigida por Michel Hazanavicius, también le dio a Jean Dujardin el Óscar al mejor actor.",
+      "pt": "Realizado por Michel Hazanavicius, deu também a Jean Dujardin o Óscar de melhor ator."
+    }
+  },
+  {
+    "id": "cinema_0281",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur canadien a signé « Arrival », « Blade Runner 2049 » et « Dune » ?",
+      "en": "Which Canadian director made \"Arrival\", \"Blade Runner 2049\" and \"Dune\"?",
+      "es": "¿Qué director canadiense firmó «La llegada», «Blade Runner 2049» y «Dune»?",
+      "pt": "Que realizador canadiano assinou «O Primeiro Encontro», «Blade Runner 2049» e «Dune»?"
+    },
+    "options": {
+      "fr": [
+        "Denis Villeneuve",
+        "Jean-Marc Vallée",
+        "David Cronenberg",
+        "James Cameron"
+      ],
+      "en": [
+        "Denis Villeneuve",
+        "Jean-Marc Vallée",
+        "David Cronenberg",
+        "James Cameron"
+      ],
+      "es": [
+        "Denis Villeneuve",
+        "Jean-Marc Vallée",
+        "David Cronenberg",
+        "James Cameron"
+      ],
+      "pt": [
+        "Denis Villeneuve",
+        "Jean-Marc Vallée",
+        "David Cronenberg",
+        "James Cameron"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Québécois Denis Villeneuve s'est imposé comme l'un des grands noms de la science-fiction contemporaine.",
+      "en": "Quebec's Denis Villeneuve has become one of the leading names in contemporary science fiction.",
+      "es": "El quebequés Denis Villeneuve se ha impuesto como uno de los grandes de la ciencia ficción actual.",
+      "pt": "O quebequense Denis Villeneuve impôs-se como um dos grandes da ficção científica atual."
+    }
+  },
+  {
+    "id": "cinema_0282",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Qui a réalisé « Get Out » (2017) ?",
+      "en": "Who directed \"Get Out\" (2017)?",
+      "es": "¿Quién dirigió «¡Huye!» (2017)?",
+      "pt": "Quem realizou «Foge» (2017)?"
+    },
+    "options": {
+      "fr": [
+        "Jordan Peele",
+        "Ari Aster",
+        "Robert Eggers",
+        "M. Night Shyamalan"
+      ],
+      "en": [
+        "Jordan Peele",
+        "Ari Aster",
+        "Robert Eggers",
+        "M. Night Shyamalan"
+      ],
+      "es": [
+        "Jordan Peele",
+        "Ari Aster",
+        "Robert Eggers",
+        "M. Night Shyamalan"
+      ],
+      "pt": [
+        "Jordan Peele",
+        "Ari Aster",
+        "Robert Eggers",
+        "M. Night Shyamalan"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Jordan Peele a remporté l'Oscar du meilleur scénario original pour ce film d'horreur sur le racisme.",
+      "en": "Jordan Peele won the Best Original Screenplay Oscar for this horror film about racism.",
+      "es": "Jordan Peele ganó el Óscar al mejor guion original por esta película de terror sobre el racismo.",
+      "pt": "Jordan Peele ganhou o Óscar de melhor argumento original por este filme de terror sobre o racismo."
+    }
+  },
+  {
+    "id": "cinema_0283",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel compositeur italien a écrit la musique de « Cinema Paradiso » et des westerns de Sergio Leone ?",
+      "en": "Which Italian composer wrote the music for \"Cinema Paradiso\" and Sergio Leone's westerns?",
+      "es": "¿Qué compositor italiano escribió la música de «Cinema Paradiso» y de los wésterns de Sergio Leone?",
+      "pt": "Que compositor italiano escreveu a música de «Cinema Paradiso» e dos westerns de Sergio Leone?"
+    },
+    "options": {
+      "fr": [
+        "Ennio Morricone",
+        "Nino Rota",
+        "Riz Ortolani",
+        "Ludovico Einaudi"
+      ],
+      "en": [
+        "Ennio Morricone",
+        "Nino Rota",
+        "Riz Ortolani",
+        "Ludovico Einaudi"
+      ],
+      "es": [
+        "Ennio Morricone",
+        "Nino Rota",
+        "Riz Ortolani",
+        "Ludovico Einaudi"
+      ],
+      "pt": [
+        "Ennio Morricone",
+        "Nino Rota",
+        "Riz Ortolani",
+        "Ludovico Einaudi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Morricone a signé plus de 500 partitions et reçu un Oscar pour « Les Huit Salopards » en 2016.",
+      "en": "Morricone wrote over 500 scores and won an Oscar for \"The Hateful Eight\" in 2016.",
+      "es": "Morricone firmó más de 500 partituras y ganó un Óscar por «Los odiosos ocho» en 2016.",
+      "pt": "Morricone assinou mais de 500 partituras e ganhou um Óscar por «Os Oito Odiados» em 2016."
+    }
+  },
+  {
+    "id": "cinema_0284",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film italien de Roberto Benigni raconte un père protégeant son fils dans un camp par le jeu ?",
+      "en": "Which Roberto Benigni film shows a father shielding his son in a camp through a game?",
+      "es": "¿Qué película de Roberto Benigni muestra a un padre protegiendo a su hijo en un campo mediante un juego?",
+      "pt": "Que filme de Roberto Benigni mostra um pai a proteger o filho num campo através de um jogo?"
+    },
+    "options": {
+      "fr": [
+        "La vie est belle",
+        "Cinema Paradiso",
+        "Le Facteur",
+        "Nuovomondo"
+      ],
+      "en": [
+        "Life Is Beautiful",
+        "Cinema Paradiso",
+        "Il Postino",
+        "Golden Door"
+      ],
+      "es": [
+        "La vida es bella",
+        "Cinema Paradiso",
+        "El cartero",
+        "Nuovomondo"
+      ],
+      "pt": [
+        "A Vida é Bela",
+        "Cinema Paradiso",
+        "O Carteiro",
+        "Nuovomondo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film a remporté trois Oscars, dont celui du meilleur acteur pour Benigni lui-même.",
+      "en": "The film won three Oscars, including Best Actor for Benigni himself.",
+      "es": "La película ganó tres Óscar, entre ellos el de mejor actor para el propio Benigni.",
+      "pt": "O filme ganhou três Óscares, incluindo o de melhor ator para o próprio Benigni."
+    }
+  },
+  {
+    "id": "cinema_0285",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 2014 d'Alejandro González Iñárritu est monté pour ressembler à un unique plan-séquence ?",
+      "en": "Which 2014 Alejandro González Iñárritu film is edited to look like a single continuous shot?",
+      "es": "¿Qué película de 2014 de Alejandro González Iñárritu está montada como un único plano secuencia?",
+      "pt": "Que filme de 2014 de Alejandro González Iñárritu é montado como um único plano-sequência?"
+    },
+    "options": {
+      "fr": [
+        "Birdman",
+        "Gravity",
+        "Le Revenant",
+        "Whiplash"
+      ],
+      "en": [
+        "Birdman",
+        "Gravity",
+        "The Revenant",
+        "Whiplash"
+      ],
+      "es": [
+        "Birdman",
+        "Gravity",
+        "El renacido",
+        "Whiplash"
+      ],
+      "pt": [
+        "Birdman",
+        "Gravidade",
+        "O Renascido",
+        "Whiplash"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les raccords invisibles donnent l'illusion d'un seul plan ; le film a remporté l'Oscar du meilleur film.",
+      "en": "Invisible cuts create the illusion of one take; the film won Best Picture.",
+      "es": "Los cortes invisibles crean la ilusión de un solo plano; la película ganó el Óscar a la mejor película.",
+      "pt": "Os cortes invisíveis criam a ilusão de um só plano; o filme ganhou o Óscar de melhor filme."
+    }
+  },
+  {
+    "id": "cinema_0286",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de Richard Linklater a été tourné avec les mêmes acteurs pendant douze ans ?",
+      "en": "Which Richard Linklater film was shot with the same actors over twelve years?",
+      "es": "¿Qué película de Richard Linklater se rodó con los mismos actores durante doce años?",
+      "pt": "Que filme de Richard Linklater foi filmado com os mesmos atores durante doze anos?"
+    },
+    "options": {
+      "fr": [
+        "Boyhood",
+        "Before Sunrise",
+        "Dazed and Confused",
+        "Waking Life"
+      ],
+      "en": [
+        "Boyhood",
+        "Before Sunrise",
+        "Dazed and Confused",
+        "Waking Life"
+      ],
+      "es": [
+        "Boyhood",
+        "Antes del amanecer",
+        "Movida del 76",
+        "Waking Life"
+      ],
+      "pt": [
+        "Boyhood",
+        "Antes do Amanhecer",
+        "Dazed and Confused",
+        "Waking Life"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Tourné de 2002 à 2013, le film montre le héros vieillir réellement à l'écran.",
+      "en": "Shot from 2002 to 2013, the film shows its hero genuinely growing up on screen.",
+      "es": "Rodada de 2002 a 2013, la película muestra al protagonista envejecer realmente en pantalla.",
+      "pt": "Filmado de 2002 a 2013, o filme mostra o protagonista a envelhecer realmente no ecrã."
+    }
+  },
+  {
+    "id": "cinema_0287",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film d'animation français de Marjane Satrapi raconte son enfance en Iran ?",
+      "en": "Which French animated film by Marjane Satrapi recounts her childhood in Iran?",
+      "es": "¿Qué película de animación francesa de Marjane Satrapi narra su infancia en Irán?",
+      "pt": "Que filme de animação francês de Marjane Satrapi conta a sua infância no Irão?"
+    },
+    "options": {
+      "fr": [
+        "Persepolis",
+        "Les Triplettes de Belleville",
+        "Ernest et Célestine",
+        "J'ai perdu mon corps"
+      ],
+      "en": [
+        "Persepolis",
+        "The Triplets of Belleville",
+        "Ernest & Celestine",
+        "I Lost My Body"
+      ],
+      "es": [
+        "Persépolis",
+        "Bienvenidos a Belleville",
+        "Ernest y Celestine",
+        "Perdí mi cuerpo"
+      ],
+      "pt": [
+        "Persépolis",
+        "As Bicicletas de Belleville",
+        "Ernest e Célestine",
+        "Perdi o Meu Corpo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Adapté de sa bande dessinée, le film a reçu le prix du jury à Cannes en 2007.",
+      "en": "Adapted from her graphic novel, the film won the Jury Prize at Cannes in 2007.",
+      "es": "Adaptada de su novela gráfica, la película ganó el premio del jurado en Cannes en 2007.",
+      "pt": "Adaptado da sua banda desenhada, o filme recebeu o prémio do júri em Cannes em 2007."
+    }
+  },
+  {
+    "id": "cinema_0288",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série d'Apple TV+ met en scène des employés dont la mémoire est scindée entre travail et vie privée ?",
+      "en": "Which Apple TV+ series features employees whose memories are split between work and private life?",
+      "es": "¿Qué serie de Apple TV+ muestra empleados con la memoria dividida entre trabajo y vida privada?",
+      "pt": "Que série da Apple TV+ mostra empregados com a memória dividida entre trabalho e vida privada?"
+    },
+    "options": {
+      "fr": [
+        "Severance",
+        "Silo",
+        "Foundation",
+        "Devs"
+      ],
+      "en": [
+        "Severance",
+        "Silo",
+        "Foundation",
+        "Devs"
+      ],
+      "es": [
+        "Severance",
+        "Silo",
+        "Fundación",
+        "Devs"
+      ],
+      "pt": [
+        "Severance",
+        "Silo",
+        "Fundação",
+        "Devs"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ben Stiller a réalisé la majorité des épisodes de cette série sortie en 2022.",
+      "en": "Ben Stiller directed most episodes of this series, released in 2022.",
+      "es": "Ben Stiller dirigió la mayoría de los episodios de esta serie estrenada en 2022.",
+      "pt": "Ben Stiller realizou a maioria dos episódios desta série lançada em 2022."
+    }
+  },
+  {
+    "id": "cinema_0289",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans quel pays la version originale de la série « The Office » a-t-elle été créée ?",
+      "en": "In which country was the original version of \"The Office\" created?",
+      "es": "¿En qué país se creó la versión original de la serie «The Office»?",
+      "pt": "Em que país foi criada a versão original da série «The Office»?"
+    },
+    "options": {
+      "fr": [
+        "Le Royaume-Uni",
+        "Les États-Unis",
+        "Le Canada",
+        "L'Australie"
+      ],
+      "en": [
+        "The United Kingdom",
+        "The United States",
+        "Canada",
+        "Australia"
+      ],
+      "es": [
+        "El Reino Unido",
+        "Estados Unidos",
+        "Canadá",
+        "Australia"
+      ],
+      "pt": [
+        "O Reino Unido",
+        "Os Estados Unidos",
+        "O Canadá",
+        "A Austrália"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ricky Gervais et Stephen Merchant créent la série pour la BBC en 2001 ; la version américaine suivra en 2005.",
+      "en": "Ricky Gervais and Stephen Merchant created it for the BBC in 2001; the US version followed in 2005.",
+      "es": "Ricky Gervais y Stephen Merchant la crearon para la BBC en 2001; la versión estadounidense llegó en 2005.",
+      "pt": "Ricky Gervais e Stephen Merchant criaram-na para a BBC em 2001; a versão americana chegou em 2005."
+    }
+  },
+  {
+    "id": "cinema_0290",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 2019 de Sam Mendes suit deux soldats de 1917 en un faux plan-séquence continu ?",
+      "en": "Which 2019 Sam Mendes film follows two soldiers in 1917 in one seemingly continuous shot?",
+      "es": "¿Qué película de 2019 de Sam Mendes sigue a dos soldados de 1917 en un falso plano secuencia?",
+      "pt": "Que filme de 2019 de Sam Mendes segue dois soldados de 1917 num falso plano-sequência?"
+    },
+    "options": {
+      "fr": [
+        "1917",
+        "Dunkerque",
+        "Cheval de guerre",
+        "Les Sentiers de la gloire"
+      ],
+      "en": [
+        "1917",
+        "Dunkirk",
+        "War Horse",
+        "Paths of Glory"
+      ],
+      "es": [
+        "1917",
+        "Dunkerque",
+        "War Horse",
+        "Senderos de gloria"
+      ],
+      "pt": [
+        "1917",
+        "Dunkirk",
+        "Cavalo de Guerra",
+        "Horizontes de Glória"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le chef opérateur Roger Deakins a remporté l'Oscar de la meilleure photographie pour ce film.",
+      "en": "Cinematographer Roger Deakins won the Best Cinematography Oscar for the film.",
+      "es": "El director de fotografía Roger Deakins ganó el Óscar a la mejor fotografía por esta película.",
+      "pt": "O diretor de fotografia Roger Deakins ganhou o Óscar de melhor fotografia por este filme."
+    }
+  },
+  {
+    "id": "cinema_0291",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 1952 avec Gene Kelly est considéré comme la comédie musicale la plus célèbre d'Hollywood ?",
+      "en": "Which 1952 Gene Kelly film is regarded as Hollywood's most famous musical?",
+      "es": "¿Qué película de 1952 con Gene Kelly está considerada el musical más famoso de Hollywood?",
+      "pt": "Que filme de 1952 com Gene Kelly é considerado o musical mais famoso de Hollywood?"
+    },
+    "options": {
+      "fr": [
+        "Chantons sous la pluie",
+        "West Side Story",
+        "Un Américain à Paris",
+        "Le Magicien d'Oz"
+      ],
+      "en": [
+        "Singin' in the Rain",
+        "West Side Story",
+        "An American in Paris",
+        "The Wizard of Oz"
+      ],
+      "es": [
+        "Cantando bajo la lluvia",
+        "West Side Story",
+        "Un americano en París",
+        "El mago de Oz"
+      ],
+      "pt": [
+        "Serenata à Chuva",
+        "West Side Story",
+        "Um Americano em Paris",
+        "O Feiticeiro de Oz"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film raconte le passage difficile du muet au parlant à Hollywood, à la fin des années 1920.",
+      "en": "The film depicts Hollywood's difficult switch from silent films to talkies in the late 1920s.",
+      "es": "La película narra el difícil paso del cine mudo al sonoro en Hollywood a finales de los años veinte.",
+      "pt": "O filme retrata a difícil passagem do mudo ao sonoro em Hollywood no final dos anos 1920."
+    }
+  },
+  {
+    "id": "cinema_0292",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur italien a signé « Il était une fois dans l'Ouest » (1968) ?",
+      "en": "Which Italian director made \"Once Upon a Time in the West\" (1968)?",
+      "es": "¿Qué director italiano firmó «Hasta que llegó su hora» (1968)?",
+      "pt": "Que realizador italiano assinou «Aconteceu no Oeste» (1968)?"
+    },
+    "options": {
+      "fr": [
+        "Sergio Leone",
+        "Federico Fellini",
+        "Michelangelo Antonioni",
+        "Luchino Visconti"
+      ],
+      "en": [
+        "Sergio Leone",
+        "Federico Fellini",
+        "Michelangelo Antonioni",
+        "Luchino Visconti"
+      ],
+      "es": [
+        "Sergio Leone",
+        "Federico Fellini",
+        "Michelangelo Antonioni",
+        "Luchino Visconti"
+      ],
+      "pt": [
+        "Sergio Leone",
+        "Federico Fellini",
+        "Michelangelo Antonioni",
+        "Luchino Visconti"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Maître du western spaghetti, Leone y impose ses gros plans et ses silences étirés.",
+      "en": "A master of the spaghetti western, Leone made his extreme close-ups and long silences iconic.",
+      "es": "Maestro del spaghetti western, Leone impone sus primerísimos planos y sus silencios prolongados.",
+      "pt": "Mestre do western-spaghetti, Leone impõe os seus grandes planos e os silêncios prolongados."
+    }
+  },
+  {
+    "id": "cinema_0293",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de Francis Ford Coppola, tourné aux Philippines, transpose « Au cœur des ténèbres » au Viêt Nam ?",
+      "en": "Which Francis Ford Coppola film, shot in the Philippines, transposes \"Heart of Darkness\" to Vietnam?",
+      "es": "¿Qué película de Francis Ford Coppola, rodada en Filipinas, traslada «El corazón de las tinieblas» a Vietnam?",
+      "pt": "Que filme de Francis Ford Coppola, filmado nas Filipinas, transpõe «O Coração das Trevas» para o Vietname?"
+    },
+    "options": {
+      "fr": [
+        "Apocalypse Now",
+        "Voyage au bout de l'enfer",
+        "Platoon",
+        "Full Metal Jacket"
+      ],
+      "en": [
+        "Apocalypse Now",
+        "The Deer Hunter",
+        "Platoon",
+        "Full Metal Jacket"
+      ],
+      "es": [
+        "Apocalypse Now",
+        "El cazador",
+        "Platoon",
+        "La chaqueta metálica"
+      ],
+      "pt": [
+        "Apocalypse Now",
+        "O Caçador",
+        "Platoon",
+        "Nascido para Matar"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le tournage chaotique de 1976-1979 a valu au film la Palme d'or à Cannes en 1979.",
+      "en": "The chaotic 1976-1979 shoot resulted in the film winning the Palme d'Or at Cannes in 1979.",
+      "es": "El caótico rodaje de 1976-1979 le valió la Palma de Oro en Cannes en 1979.",
+      "pt": "A rodagem caótica de 1976-1979 valeu ao filme a Palma de Ouro em Cannes em 1979."
+    }
+  },
+  {
+    "id": "cinema_0294",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur a signé « L'Exorciste » (1973) ?",
+      "en": "Who directed \"The Exorcist\" (1973)?",
+      "es": "¿Quién dirigió «El exorcista» (1973)?",
+      "pt": "Quem realizou «O Exorcista» (1973)?"
+    },
+    "options": {
+      "fr": [
+        "William Friedkin",
+        "Roman Polanski",
+        "Brian De Palma",
+        "John Carpenter"
+      ],
+      "en": [
+        "William Friedkin",
+        "Roman Polanski",
+        "Brian De Palma",
+        "John Carpenter"
+      ],
+      "es": [
+        "William Friedkin",
+        "Roman Polanski",
+        "Brian De Palma",
+        "John Carpenter"
+      ],
+      "pt": [
+        "William Friedkin",
+        "Roman Polanski",
+        "Brian De Palma",
+        "John Carpenter"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film fut le premier film d'horreur nommé à l'Oscar du meilleur film.",
+      "en": "It was the first horror film ever nominated for the Best Picture Oscar.",
+      "es": "Fue la primera película de terror nominada al Óscar a la mejor película.",
+      "pt": "Foi o primeiro filme de terror nomeado para o Óscar de melhor filme."
+    }
+  },
+  {
+    "id": "cinema_0295",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle actrice britannique incarne Fleabag dans la série qu'elle a elle-même créée ?",
+      "en": "Which British actress plays Fleabag in the series she also created?",
+      "es": "¿Qué actriz británica interpreta a Fleabag en la serie que ella misma creó?",
+      "pt": "Que atriz britânica interpreta Fleabag na série que ela própria criou?"
+    },
+    "options": {
+      "fr": [
+        "Phoebe Waller-Bridge",
+        "Olivia Colman",
+        "Jodie Comer",
+        "Emma Corrin"
+      ],
+      "en": [
+        "Phoebe Waller-Bridge",
+        "Olivia Colman",
+        "Jodie Comer",
+        "Emma Corrin"
+      ],
+      "es": [
+        "Phoebe Waller-Bridge",
+        "Olivia Colman",
+        "Jodie Comer",
+        "Emma Corrin"
+      ],
+      "pt": [
+        "Phoebe Waller-Bridge",
+        "Olivia Colman",
+        "Jodie Comer",
+        "Emma Corrin"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elle y parle directement à la caméra ; la série a raflé six Emmy Awards en 2019.",
+      "en": "She speaks directly to camera; the series swept six Emmy Awards in 2019.",
+      "es": "Habla directamente a cámara; la serie se llevó seis premios Emmy en 2019.",
+      "pt": "Fala diretamente para a câmara; a série arrecadou seis Emmys em 2019."
+    }
+  },
+  {
+    "id": "cinema_0296",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de Stanley Kubrick de 1971 met en scène Alex et ses « drougs » ?",
+      "en": "Which 1971 Stanley Kubrick film features Alex and his \"droogs\"?",
+      "es": "¿Qué película de Stanley Kubrick de 1971 presenta a Alex y sus «drugos»?",
+      "pt": "Que filme de Stanley Kubrick de 1971 apresenta Alex e os seus «drugues»?"
+    },
+    "options": {
+      "fr": [
+        "Orange mécanique",
+        "Barry Lyndon",
+        "Lolita",
+        "Docteur Folamour"
+      ],
+      "en": [
+        "A Clockwork Orange",
+        "Barry Lyndon",
+        "Lolita",
+        "Dr. Strangelove"
+      ],
+      "es": [
+        "La naranja mecánica",
+        "Barry Lyndon",
+        "Lolita",
+        "Teléfono rojo"
+      ],
+      "pt": [
+        "Laranja Mecânica",
+        "Barry Lyndon",
+        "Lolita",
+        "Dr. Estranhoamor"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Adapté du roman d'Anthony Burgess, le film fut retiré des écrans britanniques à la demande de Kubrick lui-même.",
+      "en": "Adapted from Anthony Burgess's novel, the film was pulled from UK screens at Kubrick's own request.",
+      "es": "Adaptada de la novela de Anthony Burgess, fue retirada de las salas británicas a petición del propio Kubrick.",
+      "pt": "Adaptado do romance de Anthony Burgess, foi retirado dos ecrãs britânicos a pedido do próprio Kubrick."
+    }
+  },
+  {
+    "id": "cinema_0297",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle chaîne a diffusé la série « Les Soprano » à partir de 1999 ?",
+      "en": "Which network aired \"The Sopranos\" from 1999?",
+      "es": "¿Qué cadena emitió «Los Soprano» a partir de 1999?",
+      "pt": "Que canal transmitiu «Os Sopranos» a partir de 1999?"
+    },
+    "options": {
+      "fr": [
+        "HBO",
+        "NBC",
+        "AMC",
+        "Showtime"
+      ],
+      "en": [
+        "HBO",
+        "NBC",
+        "AMC",
+        "Showtime"
+      ],
+      "es": [
+        "HBO",
+        "NBC",
+        "AMC",
+        "Showtime"
+      ],
+      "pt": [
+        "HBO",
+        "NBC",
+        "AMC",
+        "Showtime"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série de David Chase est considérée comme le point de départ de l'âge d'or des séries.",
+      "en": "David Chase's series is widely seen as the starting point of television's golden age.",
+      "es": "La serie de David Chase se considera el punto de partida de la edad dorada de las series.",
+      "pt": "A série de David Chase é vista como o ponto de partida da idade de ouro das séries."
+    }
+  },
+  {
+    "id": "cinema_0298",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film d'Alain Chabat sorti en 2002 adapte une aventure égyptienne d'Astérix ?",
+      "en": "Which 2002 Alain Chabat film adapts an Egyptian Asterix adventure?",
+      "es": "¿Qué película de Alain Chabat de 2002 adapta una aventura egipcia de Astérix?",
+      "pt": "Que filme de Alain Chabat de 2002 adapta uma aventura egípcia de Astérix?"
+    },
+    "options": {
+      "fr": [
+        "Astérix & Obélix : Mission Cléopâtre",
+        "Astérix aux Jeux olympiques",
+        "Astérix et Obélix contre César",
+        "Astérix et le Domaine des dieux"
+      ],
+      "en": [
+        "Asterix & Obelix: Mission Cleopatra",
+        "Asterix at the Olympic Games",
+        "Asterix and Obelix vs Caesar",
+        "Asterix: The Mansions of the Gods"
+      ],
+      "es": [
+        "Astérix y Obélix: Misión Cleopatra",
+        "Astérix en los Juegos Olímpicos",
+        "Astérix y Obélix contra César",
+        "Astérix: La residencia de los dioses"
+      ],
+      "pt": [
+        "Astérix e Obélix: Missão Cleópatra",
+        "Astérix nos Jogos Olímpicos",
+        "Astérix e Obélix contra César",
+        "Astérix: O Domínio dos Deuses"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film, devenu culte pour ses répliques, a réuni plus de 14 millions de spectateurs en France.",
+      "en": "The film, now a cult classic for its one-liners, drew over 14 million admissions in France.",
+      "es": "La película, de culto por sus réplicas, superó los 14 millones de espectadores en Francia.",
+      "pt": "O filme, de culto pelas suas réplicas, ultrapassou os 14 milhões de espectadores em França."
+    }
+  },
+  {
+    "id": "cinema_0299",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de Ridley Scott de 1979 a pour slogan « Dans l'espace, personne ne vous entendra crier » ?",
+      "en": "Which 1979 Ridley Scott film is tagged \"In space, no one can hear you scream\"?",
+      "es": "¿Qué película de Ridley Scott de 1979 tiene el eslogan «En el espacio nadie puede oírte gritar»?",
+      "pt": "Que filme de Ridley Scott de 1979 tem o slogan «No espaço ninguém te ouve gritar»?"
+    },
+    "options": {
+      "fr": [
+        "Alien",
+        "Blade Runner",
+        "The Thing",
+        "Event Horizon"
+      ],
+      "en": [
+        "Alien",
+        "Blade Runner",
+        "The Thing",
+        "Event Horizon"
+      ],
+      "es": [
+        "Alien",
+        "Blade Runner",
+        "La cosa",
+        "Horizonte final"
+      ],
+      "pt": [
+        "Alien",
+        "Blade Runner",
+        "The Thing",
+        "Horizonte Final"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sigourney Weaver y impose Ripley, l'une des premières héroïnes d'action du cinéma américain.",
+      "en": "Sigourney Weaver established Ripley, one of American cinema's first action heroines.",
+      "es": "Sigourney Weaver impone a Ripley, una de las primeras heroínas de acción del cine estadounidense.",
+      "pt": "Sigourney Weaver impõe Ripley, uma das primeiras heroínas de ação do cinema americano."
+    }
+  },
+  {
+    "id": "cinema_0300",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle récompense majeure du cinéma français est remise chaque année depuis 1976 ?",
+      "en": "Which major French film award has been presented every year since 1976?",
+      "es": "¿Qué gran premio del cine francés se entrega cada año desde 1976?",
+      "pt": "Que grande prémio do cinema francês é entregue todos os anos desde 1976?"
+    },
+    "options": {
+      "fr": [
+        "Le César",
+        "Le Molière",
+        "La Victoire",
+        "Le Lumière d'or"
+      ],
+      "en": [
+        "The César",
+        "The Molière",
+        "The Victoire",
+        "The Golden Lumière"
+      ],
+      "es": [
+        "El César",
+        "El Molière",
+        "La Victoire",
+        "El Lumière de Oro"
+      ],
+      "pt": [
+        "O César",
+        "O Molière",
+        "A Victoire",
+        "O Lumière de Ouro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les César récompensent le cinéma ; les Molière, le théâtre ; les Victoires, la musique.",
+      "en": "The Césars honour film; the Molières, theatre; the Victoires, music.",
+      "es": "Los César premian el cine; los Molière, el teatro; las Victoires, la música.",
+      "pt": "Os César premeiam o cinema; os Molière, o teatro; as Victoires, a música."
     }
   }
 ]

@@ -9188,50 +9188,6 @@
     }
   },
   {
-    "id": "culture_0208",
-    "category": "culture-generale",
-    "difficulty": "expert",
-    "question": {
-      "fr": "Quelle est la capitale du Kazakhstan depuis 2019 (après avoir été renommée puis rétablie sous ce nom) ?",
-      "en": "What is the capital of Kazakhstan, restored to this name in 2019 after a brief renaming?",
-      "es": "¿Cuál es la capital de Kazajistán, que recuperó este nombre en 2019 tras un breve cambio?",
-      "pt": "Qual é a capital do Cazaquistão, que recuperou este nome em 2019 após uma breve mudança?"
-    },
-    "options": {
-      "fr": [
-        "Almaty",
-        "Astana",
-        "Bichkek",
-        "Tachkent"
-      ],
-      "en": [
-        "Almaty",
-        "Astana",
-        "Bishkek",
-        "Tashkent"
-      ],
-      "es": [
-        "Almatý",
-        "Astaná",
-        "Biskek",
-        "Taskent"
-      ],
-      "pt": [
-        "Almaty",
-        "Astana",
-        "Bisqueque",
-        "Tashkent"
-      ]
-    },
-    "correct": 1,
-    "explanation": {
-      "fr": "La capitale s'appelle Astana ; renommée Noursoultan en 2019, elle a repris le nom d'Astana en 2022.",
-      "en": "The capital is Astana; renamed Nur-Sultan in 2019, it reverted to Astana in 2022.",
-      "es": "La capital es Astaná; rebautizada Nursultán en 2019, recuperó el nombre de Astaná en 2022.",
-      "pt": "A capital é Astana; renomeada Nur-Sultan em 2019, voltou a chamar-se Astana em 2022."
-    }
-  },
-  {
     "id": "culture_0209",
     "category": "culture-generale",
     "difficulty": "expert",
@@ -9361,50 +9317,6 @@
       "en": "The Strait of Gibraltar, about 14 km wide at its narrowest, separates Europe from Africa.",
       "es": "El estrecho de Gibraltar, de unos 14 km en su punto más estrecho, separa Europa de África.",
       "pt": "O estreito de Gibraltar, com cerca de 14 km no ponto mais estreito, separa a Europa da África."
-    }
-  },
-  {
-    "id": "culture_0212",
-    "category": "culture-generale",
-    "difficulty": "facile",
-    "question": {
-      "fr": "Combien de pattes possède une araignée adulte ?",
-      "en": "How many legs does an adult spider have?",
-      "es": "¿Cuántas patas tiene una araña adulta?",
-      "pt": "Quantas patas tem uma aranha adulta?"
-    },
-    "options": {
-      "fr": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "en": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "es": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "pt": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ]
-    },
-    "correct": 1,
-    "explanation": {
-      "fr": "Les araignées sont des arachnides et possèdent huit pattes, contrairement aux insectes qui en ont six.",
-      "en": "Spiders are arachnids and have eight legs, unlike insects which have six.",
-      "es": "Las arañas son arácnidos y tienen ocho patas, a diferencia de los insectos que tienen seis.",
-      "pt": "As aranhas são aracnídeos e têm oito patas, ao contrário dos insetos que têm seis."
     }
   },
   {
@@ -9581,50 +9493,6 @@
       "en": "The adult human skeleton has 206 bones, compared to about 300 in a newborn.",
       "es": "El esqueleto humano adulto tiene 206 huesos, frente a unos 300 en el recién nacido.",
       "pt": "O esqueleto humano adulto tem 206 ossos, comparado com cerca de 300 no recém-nascido."
-    }
-  },
-  {
-    "id": "culture_0217",
-    "category": "culture-generale",
-    "difficulty": "facile",
-    "question": {
-      "fr": "Quelle planète est la plus proche du Soleil ?",
-      "en": "Which planet is closest to the Sun?",
-      "es": "¿Qué planeta está más cerca del Sol?",
-      "pt": "Qual planeta está mais próximo do Sol?"
-    },
-    "options": {
-      "fr": [
-        "Vénus",
-        "Mercure",
-        "Mars",
-        "La Terre"
-      ],
-      "en": [
-        "Venus",
-        "Mercury",
-        "Mars",
-        "Earth"
-      ],
-      "es": [
-        "Venus",
-        "Mercurio",
-        "Marte",
-        "La Tierra"
-      ],
-      "pt": [
-        "Vénus",
-        "Mercúrio",
-        "Marte",
-        "A Terra"
-      ]
-    },
-    "correct": 1,
-    "explanation": {
-      "fr": "Mercure est la planète la plus proche du Soleil, à environ 58 millions de kilomètres.",
-      "en": "Mercury is the planet closest to the Sun, at about 58 million kilometres.",
-      "es": "Mercurio es el planeta más cercano al Sol, a unos 58 millones de kilómetros.",
-      "pt": "Mercúrio é o planeta mais próximo do Sol, a cerca de 58 milhões de quilómetros."
     }
   },
   {
@@ -9845,94 +9713,6 @@
       "en": "The bat is the only mammal that truly flies by flapping its wings; the others merely glide.",
       "es": "El murciélago es el único mamífero que vuela realmente batiendo las alas; los demás solo planean.",
       "pt": "O morcego é o único mamífero que voa realmente batendo as asas; os outros apenas planam."
-    }
-  },
-  {
-    "id": "culture_0223",
-    "category": "culture-generale",
-    "difficulty": "expert",
-    "question": {
-      "fr": "Combien de chromosomes contient une cellule humaine normale ?",
-      "en": "How many chromosomes does a normal human cell contain?",
-      "es": "¿Cuántos cromosomas contiene una célula humana normal?",
-      "pt": "Quantos cromossomas contém uma célula humana normal?"
-    },
-    "options": {
-      "fr": [
-        "23",
-        "44",
-        "46",
-        "48"
-      ],
-      "en": [
-        "23",
-        "44",
-        "46",
-        "48"
-      ],
-      "es": [
-        "23",
-        "44",
-        "46",
-        "48"
-      ],
-      "pt": [
-        "23",
-        "44",
-        "46",
-        "48"
-      ]
-    },
-    "correct": 2,
-    "explanation": {
-      "fr": "Une cellule humaine normale contient 46 chromosomes, soit 23 paires.",
-      "en": "A normal human cell contains 46 chromosomes, that is 23 pairs.",
-      "es": "Una célula humana normal contiene 46 cromosomas, es decir 23 pares.",
-      "pt": "Uma célula humana normal contém 46 cromossomas, ou seja, 23 pares."
-    }
-  },
-  {
-    "id": "culture_0224",
-    "category": "culture-generale",
-    "difficulty": "facile",
-    "question": {
-      "fr": "Qui a peint la Joconde (Mona Lisa) ?",
-      "en": "Who painted the Mona Lisa?",
-      "es": "¿Quién pintó la Mona Lisa (Gioconda)?",
-      "pt": "Quem pintou a Mona Lisa (Gioconda)?"
-    },
-    "options": {
-      "fr": [
-        "Michel-Ange",
-        "Léonard de Vinci",
-        "Raphaël",
-        "Botticelli"
-      ],
-      "en": [
-        "Michelangelo",
-        "Leonardo da Vinci",
-        "Raphael",
-        "Botticelli"
-      ],
-      "es": [
-        "Miguel Ángel",
-        "Leonardo da Vinci",
-        "Rafael",
-        "Botticelli"
-      ],
-      "pt": [
-        "Michelangelo",
-        "Leonardo da Vinci",
-        "Rafael",
-        "Botticelli"
-      ]
-    },
-    "correct": 1,
-    "explanation": {
-      "fr": "Léonard de Vinci a peint la Joconde au début du XVIe siècle ; elle est exposée au Louvre.",
-      "en": "Leonardo da Vinci painted the Mona Lisa in the early 16th century; it hangs in the Louvre.",
-      "es": "Leonardo da Vinci pintó la Gioconda a principios del siglo XVI; se exhibe en el Louvre.",
-      "pt": "Leonardo da Vinci pintou a Mona Lisa no início do século XVI; está exposta no Louvre."
     }
   },
   {
@@ -10420,50 +10200,6 @@
     }
   },
   {
-    "id": "culture_0236",
-    "category": "culture-generale",
-    "difficulty": "facile",
-    "question": {
-      "fr": "Combien de joueurs composent une équipe de football sur le terrain ?",
-      "en": "How many players make up a soccer team on the field?",
-      "es": "¿Cuántos jugadores forman un equipo de fútbol en el campo?",
-      "pt": "Quantos jogadores formam uma equipe de futebol em campo?"
-    },
-    "options": {
-      "fr": [
-        "9",
-        "10",
-        "11",
-        "12"
-      ],
-      "en": [
-        "9",
-        "10",
-        "11",
-        "12"
-      ],
-      "es": [
-        "9",
-        "10",
-        "11",
-        "12"
-      ],
-      "pt": [
-        "9",
-        "10",
-        "11",
-        "12"
-      ]
-    },
-    "correct": 2,
-    "explanation": {
-      "fr": "Une équipe de football aligne onze joueurs sur le terrain, dont le gardien de but.",
-      "en": "A soccer team fields eleven players, including the goalkeeper.",
-      "es": "Un equipo de fútbol alinea once jugadores en el campo, incluido el portero.",
-      "pt": "Uma equipe de futebol coloca onze jogadores em campo, incluindo o goleiro."
-    }
-  },
-  {
     "id": "culture_0237",
     "category": "culture-generale",
     "difficulty": "facile",
@@ -10860,50 +10596,6 @@
     }
   },
   {
-    "id": "culture_0246",
-    "category": "culture-generale",
-    "difficulty": "facile",
-    "question": {
-      "fr": "Quel astronaute a été le premier homme à marcher sur la Lune en 1969 ?",
-      "en": "Which astronaut was the first man to walk on the Moon in 1969?",
-      "es": "¿Qué astronauta fue el primer hombre en caminar sobre la Luna en 1969?",
-      "pt": "Qual astronauta foi o primeiro homem a pisar na Lua em 1969?"
-    },
-    "options": {
-      "fr": [
-        "Buzz Aldrin",
-        "Neil Armstrong",
-        "Youri Gagarine",
-        "Michael Collins"
-      ],
-      "en": [
-        "Buzz Aldrin",
-        "Neil Armstrong",
-        "Yuri Gagarin",
-        "Michael Collins"
-      ],
-      "es": [
-        "Buzz Aldrin",
-        "Neil Armstrong",
-        "Yuri Gagarin",
-        "Michael Collins"
-      ],
-      "pt": [
-        "Buzz Aldrin",
-        "Neil Armstrong",
-        "Yuri Gagarin",
-        "Michael Collins"
-      ]
-    },
-    "correct": 1,
-    "explanation": {
-      "fr": "Neil Armstrong fut le premier à poser le pied sur la Lune lors de la mission Apollo 11, le 21 juillet 1969.",
-      "en": "Neil Armstrong was the first to set foot on the Moon during the Apollo 11 mission on July 21, 1969.",
-      "es": "Neil Armstrong fue el primero en pisar la Luna durante la misión Apolo 11, el 21 de julio de 1969.",
-      "pt": "Neil Armstrong foi o primeiro a pisar na Lua durante a missão Apollo 11, em 21 de julho de 1969."
-    }
-  },
-  {
     "id": "culture_0247",
     "category": "culture-generale",
     "difficulty": "facile",
@@ -10945,94 +10637,6 @@
       "en": "Thomas Edison developed the first long-lasting, commercially marketable incandescent bulb in 1879.",
       "es": "Thomas Edison desarrolló en 1879 la primera bombilla incandescente duradera y comercializable.",
       "pt": "Thomas Edison desenvolveu em 1879 a primeira lâmpada incandescente durável e comercializável."
-    }
-  },
-  {
-    "id": "culture_0248",
-    "category": "culture-generale",
-    "difficulty": "facile",
-    "question": {
-      "fr": "Qui a proposé la théorie de la relativité ?",
-      "en": "Who proposed the theory of relativity?",
-      "es": "¿Quién propuso la teoría de la relatividad?",
-      "pt": "Quem propôs a teoria da relatividade?"
-    },
-    "options": {
-      "fr": [
-        "Isaac Newton",
-        "Galilée",
-        "Albert Einstein",
-        "Niels Bohr"
-      ],
-      "en": [
-        "Isaac Newton",
-        "Galileo",
-        "Albert Einstein",
-        "Niels Bohr"
-      ],
-      "es": [
-        "Isaac Newton",
-        "Galileo",
-        "Albert Einstein",
-        "Niels Bohr"
-      ],
-      "pt": [
-        "Isaac Newton",
-        "Galileu",
-        "Albert Einstein",
-        "Niels Bohr"
-      ]
-    },
-    "correct": 2,
-    "explanation": {
-      "fr": "Albert Einstein a formulé la relativité restreinte en 1905 et la relativité générale en 1915.",
-      "en": "Albert Einstein formulated special relativity in 1905 and general relativity in 1915.",
-      "es": "Albert Einstein formuló la relatividad especial en 1905 y la relatividad general en 1915.",
-      "pt": "Albert Einstein formulou a relatividade restrita em 1905 e a relatividade geral em 1915."
-    }
-  },
-  {
-    "id": "culture_0249",
-    "category": "culture-generale",
-    "difficulty": "facile",
-    "question": {
-      "fr": "En quelle année Christophe Colomb a-t-il atteint les Amériques ?",
-      "en": "In what year did Christopher Columbus reach the Americas?",
-      "es": "¿En qué año llegó Cristóbal Colón a las Américas?",
-      "pt": "Em que ano Cristóvão Colombo chegou às Américas?"
-    },
-    "options": {
-      "fr": [
-        "1453",
-        "1492",
-        "1519",
-        "1607"
-      ],
-      "en": [
-        "1453",
-        "1492",
-        "1519",
-        "1607"
-      ],
-      "es": [
-        "1453",
-        "1492",
-        "1519",
-        "1607"
-      ],
-      "pt": [
-        "1453",
-        "1492",
-        "1519",
-        "1607"
-      ]
-    },
-    "correct": 1,
-    "explanation": {
-      "fr": "Christophe Colomb a accosté aux Caraïbes le 12 octobre 1492 lors de son premier voyage transatlantique.",
-      "en": "Christopher Columbus landed in the Caribbean on October 12, 1492, during his first transatlantic voyage.",
-      "es": "Cristóbal Colón desembarcó en el Caribe el 12 de octubre de 1492 durante su primer viaje transatlántico.",
-      "pt": "Cristóvão Colombo desembarcou no Caribe em 12 de outubro de 1492 durante sua primeira viagem transatlântica."
     }
   },
   {
@@ -11297,6 +10901,1810 @@
       "en": "James Watson and Francis Crick published the double-helix structure of DNA in Nature in 1953.",
       "es": "James Watson y Francis Crick publicaron la estructura de doble hélice del ADN en Nature en 1953.",
       "pt": "James Watson e Francis Crick publicaram a estrutura de dupla hélice do DNA na Nature em 1953."
+    }
+  },
+  {
+    "id": "culture_0256",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel insecte produit le miel ?",
+      "en": "Which insect produces honey?",
+      "es": "¿Qué insecto produce la miel?",
+      "pt": "Que inseto produz o mel?"
+    },
+    "options": {
+      "fr": [
+        "L'abeille",
+        "La guêpe",
+        "Le papillon",
+        "La fourmi"
+      ],
+      "en": [
+        "The bee",
+        "The wasp",
+        "The butterfly",
+        "The ant"
+      ],
+      "es": [
+        "La abeja",
+        "La avispa",
+        "La mariposa",
+        "La hormiga"
+      ],
+      "pt": [
+        "A abelha",
+        "A vespa",
+        "A borboleta",
+        "A formiga"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les abeilles transforment le nectar des fleurs en miel.",
+      "en": "Bees turn flower nectar into honey.",
+      "es": "Las abejas transforman el néctar de las flores en miel.",
+      "pt": "As abelhas transformam o néctar das flores em mel."
+    }
+  },
+  {
+    "id": "culture_0257",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de faces possède un dé classique ?",
+      "en": "How many faces does a standard die have?",
+      "es": "¿Cuántas caras tiene un dado clásico?",
+      "pt": "Quantas faces tem um dado clássico?"
+    },
+    "options": {
+      "fr": [
+        "6",
+        "4",
+        "8",
+        "12"
+      ],
+      "en": [
+        "6",
+        "4",
+        "8",
+        "12"
+      ],
+      "es": [
+        "6",
+        "4",
+        "8",
+        "12"
+      ],
+      "pt": [
+        "6",
+        "4",
+        "8",
+        "12"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Un dé classique est un cube : 6 faces numérotées de 1 à 6.",
+      "en": "A standard die is a cube: 6 faces numbered 1 to 6.",
+      "es": "Un dado clásico es un cubo: 6 caras numeradas del 1 al 6.",
+      "pt": "Um dado clássico é um cubo: 6 faces numeradas de 1 a 6."
+    }
+  },
+  {
+    "id": "culture_0258",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel oiseau ne vole pas et vit en Antarctique ?",
+      "en": "Which bird cannot fly and lives in Antarctica?",
+      "es": "¿Qué ave no vuela y vive en la Antártida?",
+      "pt": "Que ave não voa e vive na Antártida?"
+    },
+    "options": {
+      "fr": [
+        "Le manchot",
+        "La mouette",
+        "L'albatros",
+        "Le cormoran"
+      ],
+      "en": [
+        "The penguin",
+        "The seagull",
+        "The albatross",
+        "The cormorant"
+      ],
+      "es": [
+        "El pingüino",
+        "La gaviota",
+        "El albatros",
+        "El cormorán"
+      ],
+      "pt": [
+        "O pinguim",
+        "A gaivota",
+        "O albatroz",
+        "O corvo-marinho"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le manchot ne vole pas mais nage très bien. En français, le pingouin, lui, sait voler.",
+      "en": "Penguins cannot fly but are excellent swimmers.",
+      "es": "El pingüino no vuela, pero nada muy bien.",
+      "pt": "O pinguim não voa, mas nada muito bem."
+    }
+  },
+  {
+    "id": "culture_0259",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel matériau obtient-on en chauffant du sable à très haute température ?",
+      "en": "Which material is obtained by heating sand to a very high temperature?",
+      "es": "¿Qué material se obtiene al calentar arena a muy alta temperatura?",
+      "pt": "Que material se obtém aquecendo areia a temperatura muito alta?"
+    },
+    "options": {
+      "fr": [
+        "Le verre",
+        "Le plastique",
+        "Le ciment",
+        "L'acier"
+      ],
+      "en": [
+        "Glass",
+        "Plastic",
+        "Cement",
+        "Steel"
+      ],
+      "es": [
+        "El vidrio",
+        "El plástico",
+        "El cemento",
+        "El acero"
+      ],
+      "pt": [
+        "O vidro",
+        "O plástico",
+        "O cimento",
+        "O aço"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le sable, riche en silice, devient du verre en fondant vers 1 700 °C.",
+      "en": "Sand is rich in silica and becomes glass when melted at around 1,700 °C.",
+      "es": "La arena, rica en sílice, se convierte en vidrio al fundirse hacia los 1700 °C.",
+      "pt": "A areia, rica em sílica, torna-se vidro ao fundir por volta dos 1700 °C."
+    }
+  },
+  {
+    "id": "culture_0260",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le principal ingrédient du guacamole ?",
+      "en": "What is the main ingredient of guacamole?",
+      "es": "¿Cuál es el ingrediente principal del guacamole?",
+      "pt": "Qual é o ingrediente principal do guacamole?"
+    },
+    "options": {
+      "fr": [
+        "L'avocat",
+        "La courgette",
+        "Le concombre",
+        "Le petit pois"
+      ],
+      "en": [
+        "Avocado",
+        "Zucchini",
+        "Cucumber",
+        "Green pea"
+      ],
+      "es": [
+        "El aguacate",
+        "El calabacín",
+        "El pepino",
+        "El guisante"
+      ],
+      "pt": [
+        "O abacate",
+        "A courgette",
+        "O pepino",
+        "A ervilha"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le guacamole est une préparation mexicaine à base d'avocat écrasé.",
+      "en": "Guacamole is a Mexican dish made from mashed avocado.",
+      "es": "El guacamole es una preparación mexicana a base de aguacate machacado.",
+      "pt": "O guacamole é uma preparação mexicana à base de abacate esmagado."
+    }
+  },
+  {
+    "id": "culture_0261",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de cordes possède un ukulélé standard ?",
+      "en": "How many strings does a standard ukulele have?",
+      "es": "¿Cuántas cuerdas tiene un ukelele estándar?",
+      "pt": "Quantas cordas tem um ukulele padrão?"
+    },
+    "options": {
+      "fr": [
+        "4",
+        "6",
+        "5",
+        "8"
+      ],
+      "en": [
+        "4",
+        "6",
+        "5",
+        "8"
+      ],
+      "es": [
+        "4",
+        "6",
+        "5",
+        "8"
+      ],
+      "pt": [
+        "4",
+        "6",
+        "5",
+        "8"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le ukulélé compte 4 cordes, contre 6 pour la guitare classique.",
+      "en": "The ukulele has 4 strings, compared with 6 on a classical guitar.",
+      "es": "El ukelele tiene 4 cuerdas, frente a las 6 de la guitarra clásica.",
+      "pt": "O ukulele tem 4 cordas, contra 6 da guitarra clássica."
+    }
+  },
+  {
+    "id": "culture_0262",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel animal marin possède huit bras ?",
+      "en": "Which sea animal has eight arms?",
+      "es": "¿Qué animal marino tiene ocho brazos?",
+      "pt": "Que animal marinho tem oito braços?"
+    },
+    "options": {
+      "fr": [
+        "La pieuvre",
+        "L'étoile de mer",
+        "La méduse",
+        "Le homard"
+      ],
+      "en": [
+        "The octopus",
+        "The starfish",
+        "The jellyfish",
+        "The lobster"
+      ],
+      "es": [
+        "El pulpo",
+        "La estrella de mar",
+        "La medusa",
+        "La langosta"
+      ],
+      "pt": [
+        "O polvo",
+        "A estrela-do-mar",
+        "A alforreca",
+        "A lagosta"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La pieuvre, ou poulpe, possède huit bras couverts de ventouses.",
+      "en": "The octopus has eight arms covered in suckers.",
+      "es": "El pulpo tiene ocho brazos cubiertos de ventosas.",
+      "pt": "O polvo tem oito braços cobertos de ventosas."
+    }
+  },
+  {
+    "id": "culture_0263",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle est la plus petite planète du système solaire ?",
+      "en": "Which is the smallest planet in the Solar System?",
+      "es": "¿Cuál es el planeta más pequeño del sistema solar?",
+      "pt": "Qual é o planeta mais pequeno do sistema solar?"
+    },
+    "options": {
+      "fr": [
+        "Mercure",
+        "Mars",
+        "Vénus",
+        "Pluton"
+      ],
+      "en": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Pluto"
+      ],
+      "es": [
+        "Mercurio",
+        "Marte",
+        "Venus",
+        "Plutón"
+      ],
+      "pt": [
+        "Mercúrio",
+        "Marte",
+        "Vénus",
+        "Plutão"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Mercure est la plus petite planète. Pluton, lui, est une planète naine depuis 2006.",
+      "en": "Mercury is the smallest planet. Pluto has been a dwarf planet since 2006.",
+      "es": "Mercurio es el planeta más pequeño. Plutón es un planeta enano desde 2006.",
+      "pt": "Mercúrio é o planeta mais pequeno. Plutão é um planeta anão desde 2006."
+    }
+  },
+  {
+    "id": "culture_0264",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de lettres compte l'alphabet français ?",
+      "en": "How many letters are there in the French alphabet?",
+      "es": "¿Cuántas letras tiene el alfabeto francés?",
+      "pt": "Quantas letras tem o alfabeto francês?"
+    },
+    "options": {
+      "fr": [
+        "26",
+        "24",
+        "28",
+        "30"
+      ],
+      "en": [
+        "26",
+        "24",
+        "28",
+        "30"
+      ],
+      "es": [
+        "26",
+        "24",
+        "28",
+        "30"
+      ],
+      "pt": [
+        "26",
+        "24",
+        "28",
+        "30"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'alphabet latin utilisé en français compte 26 lettres.",
+      "en": "The Latin alphabet used in French has 26 letters.",
+      "es": "El alfabeto latino usado en francés tiene 26 letras.",
+      "pt": "O alfabeto latino usado em francês tem 26 letras."
+    }
+  },
+  {
+    "id": "culture_0265",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel animal terrestre est le plus grand en hauteur ?",
+      "en": "Which land animal is the tallest?",
+      "es": "¿Qué animal terrestre es el más alto?",
+      "pt": "Que animal terrestre é o mais alto?"
+    },
+    "options": {
+      "fr": [
+        "La girafe",
+        "L'éléphant",
+        "Le chameau",
+        "L'autruche"
+      ],
+      "en": [
+        "The giraffe",
+        "The elephant",
+        "The camel",
+        "The ostrich"
+      ],
+      "es": [
+        "La jirafa",
+        "El elefante",
+        "El camello",
+        "El avestruz"
+      ],
+      "pt": [
+        "A girafa",
+        "O elefante",
+        "O camelo",
+        "A avestruz"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La girafe atteint 5 à 6 mètres de haut grâce à son cou.",
+      "en": "Giraffes reach 5 to 6 metres tall thanks to their neck.",
+      "es": "La jirafa alcanza de 5 a 6 metros de altura gracias a su cuello.",
+      "pt": "A girafa atinge 5 a 6 metros de altura graças ao pescoço."
+    }
+  },
+  {
+    "id": "culture_0266",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans quelle ville se trouve le Colisée ?",
+      "en": "In which city is the Colosseum?",
+      "es": "¿En qué ciudad se encuentra el Coliseo?",
+      "pt": "Em que cidade fica o Coliseu?"
+    },
+    "options": {
+      "fr": [
+        "Rome",
+        "Athènes",
+        "Naples",
+        "Istanbul"
+      ],
+      "en": [
+        "Rome",
+        "Athens",
+        "Naples",
+        "Istanbul"
+      ],
+      "es": [
+        "Roma",
+        "Atenas",
+        "Nápoles",
+        "Estambul"
+      ],
+      "pt": [
+        "Roma",
+        "Atenas",
+        "Nápoles",
+        "Istambul"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Colisée, amphithéâtre romain achevé en l'an 80, se dresse à Rome.",
+      "en": "The Colosseum, a Roman amphitheatre completed in AD 80, stands in Rome.",
+      "es": "El Coliseo, anfiteatro romano terminado en el año 80, está en Roma.",
+      "pt": "O Coliseu, anfiteatro romano concluído no ano 80, fica em Roma."
+    }
+  },
+  {
+    "id": "culture_0267",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel vêtement traditionnel japonais se ferme avec une ceinture appelée obi ?",
+      "en": "Which traditional Japanese garment is fastened with a belt called an obi?",
+      "es": "¿Qué prenda tradicional japonesa se cierra con un cinturón llamado obi?",
+      "pt": "Que peça tradicional japonesa se fecha com um cinto chamado obi?"
+    },
+    "options": {
+      "fr": [
+        "Le kimono",
+        "Le sari",
+        "Le poncho",
+        "Le kilt"
+      ],
+      "en": [
+        "The kimono",
+        "The sari",
+        "The poncho",
+        "The kilt"
+      ],
+      "es": [
+        "El kimono",
+        "El sari",
+        "El poncho",
+        "La falda escocesa"
+      ],
+      "pt": [
+        "O quimono",
+        "O sári",
+        "O poncho",
+        "O kilt"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le kimono se porte croisé et maintenu par une large ceinture, l'obi.",
+      "en": "The kimono is worn wrapped and held by a wide belt, the obi.",
+      "es": "El kimono se lleva cruzado y sujeto por un ancho cinturón, el obi.",
+      "pt": "O quimono usa-se cruzado e preso por um cinto largo, o obi."
+    }
+  },
+  {
+    "id": "culture_0268",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel organe produit l'insuline ?",
+      "en": "Which organ produces insulin?",
+      "es": "¿Qué órgano produce la insulina?",
+      "pt": "Que órgão produz a insulina?"
+    },
+    "options": {
+      "fr": [
+        "Le pancréas",
+        "Le foie",
+        "La rate",
+        "L'estomac"
+      ],
+      "en": [
+        "The pancreas",
+        "The liver",
+        "The spleen",
+        "The stomach"
+      ],
+      "es": [
+        "El páncreas",
+        "El hígado",
+        "El bazo",
+        "El estómago"
+      ],
+      "pt": [
+        "O pâncreas",
+        "O fígado",
+        "O baço",
+        "O estômago"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le pancréas produit l'insuline, qui régule le taux de sucre dans le sang.",
+      "en": "The pancreas produces insulin, which regulates blood sugar levels.",
+      "es": "El páncreas produce insulina, que regula el nivel de azúcar en sangre.",
+      "pt": "O pâncreas produz insulina, que regula o nível de açúcar no sangue."
+    }
+  },
+  {
+    "id": "culture_0269",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de jours compte février lors d'une année non bissextile ?",
+      "en": "How many days does February have in a non-leap year?",
+      "es": "¿Cuántos días tiene febrero en un año no bisiesto?",
+      "pt": "Quantos dias tem fevereiro num ano não bissexto?"
+    },
+    "options": {
+      "fr": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "en": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "es": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "pt": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Février compte 28 jours, et 29 les années bissextiles.",
+      "en": "February has 28 days, and 29 in leap years.",
+      "es": "Febrero tiene 28 días, y 29 en los años bisiestos.",
+      "pt": "Fevereiro tem 28 dias, e 29 nos anos bissextos."
+    }
+  },
+  {
+    "id": "culture_0270",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle céréale sert à fabriquer la baguette française ?",
+      "en": "Which grain is used to make the French baguette?",
+      "es": "¿Qué cereal se usa para hacer la baguette francesa?",
+      "pt": "Que cereal se usa para fazer a baguete francesa?"
+    },
+    "options": {
+      "fr": [
+        "Le blé",
+        "Le riz",
+        "Le maïs",
+        "L'orge"
+      ],
+      "en": [
+        "Wheat",
+        "Rice",
+        "Corn",
+        "Barley"
+      ],
+      "es": [
+        "El trigo",
+        "El arroz",
+        "El maíz",
+        "La cebada"
+      ],
+      "pt": [
+        "O trigo",
+        "O arroz",
+        "O milho",
+        "A cevada"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La baguette se fait avec de la farine de blé, de l'eau, du sel et de la levure.",
+      "en": "The baguette is made with wheat flour, water, salt and yeast.",
+      "es": "La baguette se hace con harina de trigo, agua, sal y levadura.",
+      "pt": "A baguete faz-se com farinha de trigo, água, sal e fermento."
+    }
+  },
+  {
+    "id": "culture_0271",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel phénomène lumineux précède le bruit du tonnerre ?",
+      "en": "Which flash of light comes before the sound of thunder?",
+      "es": "¿Qué fenómeno luminoso precede al sonido del trueno?",
+      "pt": "Que fenómeno luminoso precede o som do trovão?"
+    },
+    "options": {
+      "fr": [
+        "L'éclair",
+        "L'arc-en-ciel",
+        "L'aurore boréale",
+        "Le mirage"
+      ],
+      "en": [
+        "Lightning",
+        "The rainbow",
+        "The northern lights",
+        "The mirage"
+      ],
+      "es": [
+        "El relámpago",
+        "El arcoíris",
+        "La aurora boreal",
+        "El espejismo"
+      ],
+      "pt": [
+        "O relâmpago",
+        "O arco-íris",
+        "A aurora boreal",
+        "A miragem"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On voit l'éclair avant d'entendre le tonnerre : la lumière va bien plus vite que le son.",
+      "en": "We see lightning before hearing thunder: light travels much faster than sound.",
+      "es": "Vemos el relámpago antes de oír el trueno: la luz viaja mucho más rápido que el sonido.",
+      "pt": "Vemos o relâmpago antes de ouvir o trovão: a luz viaja muito mais depressa que o som."
+    }
+  },
+  {
+    "id": "culture_0272",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de minutes dure un match de football en temps réglementaire ?",
+      "en": "How many minutes does a football match last in regulation time?",
+      "es": "¿Cuántos minutos dura un partido de fútbol en tiempo reglamentario?",
+      "pt": "Quantos minutos dura um jogo de futebol no tempo regulamentar?"
+    },
+    "options": {
+      "fr": [
+        "90",
+        "60",
+        "80",
+        "120"
+      ],
+      "en": [
+        "90",
+        "60",
+        "80",
+        "120"
+      ],
+      "es": [
+        "90",
+        "60",
+        "80",
+        "120"
+      ],
+      "pt": [
+        "90",
+        "60",
+        "80",
+        "120"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Deux mi-temps de 45 minutes, hors arrêts de jeu et prolongations.",
+      "en": "Two halves of 45 minutes, not counting stoppage time or extra time.",
+      "es": "Dos tiempos de 45 minutos, sin contar el descuento ni la prórroga.",
+      "pt": "Duas partes de 45 minutos, sem contar os descontos nem o prolongamento."
+    }
+  },
+  {
+    "id": "culture_0273",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "De quelle couleur est une émeraude ?",
+      "en": "What colour is an emerald?",
+      "es": "¿De qué color es una esmeralda?",
+      "pt": "De que cor é uma esmeralda?"
+    },
+    "options": {
+      "fr": [
+        "Verte",
+        "Rouge",
+        "Bleue",
+        "Jaune"
+      ],
+      "en": [
+        "Green",
+        "Red",
+        "Blue",
+        "Yellow"
+      ],
+      "es": [
+        "Verde",
+        "Roja",
+        "Azul",
+        "Amarilla"
+      ],
+      "pt": [
+        "Verde",
+        "Vermelha",
+        "Azul",
+        "Amarela"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'émeraude est verte ; le rubis est rouge et le saphir souvent bleu.",
+      "en": "Emeralds are green; rubies are red and sapphires are often blue.",
+      "es": "La esmeralda es verde; el rubí es rojo y el zafiro suele ser azul.",
+      "pt": "A esmeralda é verde; o rubi é vermelho e a safira é muitas vezes azul."
+    }
+  },
+  {
+    "id": "culture_0274",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle danse est emblématique de Buenos Aires ?",
+      "en": "Which dance is emblematic of Buenos Aires?",
+      "es": "¿Qué baile es emblemático de Buenos Aires?",
+      "pt": "Que dança é emblemática de Buenos Aires?"
+    },
+    "options": {
+      "fr": [
+        "Le tango",
+        "Le flamenco",
+        "La samba",
+        "La valse"
+      ],
+      "en": [
+        "The tango",
+        "Flamenco",
+        "The samba",
+        "The waltz"
+      ],
+      "es": [
+        "El tango",
+        "El flamenco",
+        "La samba",
+        "El vals"
+      ],
+      "pt": [
+        "O tango",
+        "O flamenco",
+        "O samba",
+        "A valsa"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le tango est né à la fin du XIXe siècle dans la région du Río de la Plata.",
+      "en": "Tango was born in the late 19th century in the Río de la Plata region.",
+      "es": "El tango nació a finales del siglo XIX en la región del Río de la Plata.",
+      "pt": "O tango nasceu no final do século XIX na região do Rio da Prata."
+    }
+  },
+  {
+    "id": "culture_0275",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le métal le plus produit dans le monde ?",
+      "en": "Which metal is produced the most worldwide?",
+      "es": "¿Qué metal se produce más en el mundo?",
+      "pt": "Que metal é mais produzido no mundo?"
+    },
+    "options": {
+      "fr": [
+        "Le fer",
+        "L'aluminium",
+        "Le cuivre",
+        "Le zinc"
+      ],
+      "en": [
+        "Iron",
+        "Aluminium",
+        "Copper",
+        "Zinc"
+      ],
+      "es": [
+        "El hierro",
+        "El aluminio",
+        "El cobre",
+        "El zinc"
+      ],
+      "pt": [
+        "O ferro",
+        "O alumínio",
+        "O cobre",
+        "O zinco"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le fer domine largement : il sert à fabriquer l'acier, omniprésent dans l'industrie.",
+      "en": "Iron dominates by far: it is used to make steel, found everywhere in industry.",
+      "es": "El hierro domina con creces: sirve para fabricar acero, omnipresente en la industria.",
+      "pt": "O ferro domina largamente: serve para fabricar aço, omnipresente na indústria."
+    }
+  },
+  {
+    "id": "culture_0276",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans la mythologie grecque, quel dieu règne sur les mers ?",
+      "en": "In Greek mythology, which god rules the seas?",
+      "es": "En la mitología griega, ¿qué dios reina sobre los mares?",
+      "pt": "Na mitologia grega, que deus reina sobre os mares?"
+    },
+    "options": {
+      "fr": [
+        "Poséidon",
+        "Hadès",
+        "Arès",
+        "Hermès"
+      ],
+      "en": [
+        "Poseidon",
+        "Hades",
+        "Ares",
+        "Hermes"
+      ],
+      "es": [
+        "Poseidón",
+        "Hades",
+        "Ares",
+        "Hermes"
+      ],
+      "pt": [
+        "Poséidon",
+        "Hades",
+        "Ares",
+        "Hermes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Poséidon règne sur les mers, Zeus sur le ciel et Hadès sur les Enfers.",
+      "en": "Poseidon rules the seas, Zeus the sky and Hades the underworld.",
+      "es": "Poseidón reina sobre los mares, Zeus sobre el cielo y Hades sobre el inframundo.",
+      "pt": "Poséidon reina sobre os mares, Zeus sobre o céu e Hades sobre o submundo."
+    }
+  },
+  {
+    "id": "culture_0277",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel dieu nordique manie le marteau Mjöllnir ?",
+      "en": "Which Norse god wields the hammer Mjölnir?",
+      "es": "¿Qué dios nórdico maneja el martillo Mjolnir?",
+      "pt": "Que deus nórdico maneja o martelo Mjolnir?"
+    },
+    "options": {
+      "fr": [
+        "Thor",
+        "Odin",
+        "Loki",
+        "Freyr"
+      ],
+      "en": [
+        "Thor",
+        "Odin",
+        "Loki",
+        "Freyr"
+      ],
+      "es": [
+        "Thor",
+        "Odín",
+        "Loki",
+        "Freyr"
+      ],
+      "pt": [
+        "Thor",
+        "Odin",
+        "Loki",
+        "Freyr"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Thor, dieu du tonnerre, est indissociable de son marteau Mjöllnir.",
+      "en": "Thor, god of thunder, is inseparable from his hammer Mjölnir.",
+      "es": "Thor, dios del trueno, es inseparable de su martillo Mjolnir.",
+      "pt": "Thor, deus do trovão, é inseparável do seu martelo Mjolnir."
+    }
+  },
+  {
+    "id": "culture_0278",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel fleuve les morts devaient-ils traverser pour rejoindre les Enfers grecs ?",
+      "en": "Which river did the dead have to cross to reach the Greek underworld?",
+      "es": "¿Qué río debían cruzar los muertos para llegar al inframundo griego?",
+      "pt": "Que rio os mortos tinham de atravessar para chegar ao submundo grego?"
+    },
+    "options": {
+      "fr": [
+        "Le Styx",
+        "Le Tibre",
+        "L'Euphrate",
+        "Le Nil"
+      ],
+      "en": [
+        "The Styx",
+        "The Tiber",
+        "The Euphrates",
+        "The Nile"
+      ],
+      "es": [
+        "La Estigia",
+        "El Tíber",
+        "El Éufrates",
+        "El Nilo"
+      ],
+      "pt": [
+        "O Estige",
+        "O Tibre",
+        "O Eufrates",
+        "O Nilo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le passeur Charon faisait traverser le Styx aux âmes, contre une pièce.",
+      "en": "The ferryman Charon carried souls across the Styx in exchange for a coin.",
+      "es": "El barquero Caronte cruzaba la Estigia con las almas a cambio de una moneda.",
+      "pt": "O barqueiro Caronte atravessava o Estige com as almas a troco de uma moeda."
+    }
+  },
+  {
+    "id": "culture_0279",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle unité mesure la puissance électrique ?",
+      "en": "Which unit measures electrical power?",
+      "es": "¿Qué unidad mide la potencia eléctrica?",
+      "pt": "Que unidade mede a potência elétrica?"
+    },
+    "options": {
+      "fr": [
+        "Le watt",
+        "Le volt",
+        "L'ampère",
+        "Le joule"
+      ],
+      "en": [
+        "The watt",
+        "The volt",
+        "The ampere",
+        "The joule"
+      ],
+      "es": [
+        "El vatio",
+        "El voltio",
+        "El amperio",
+        "El julio"
+      ],
+      "pt": [
+        "O watt",
+        "O volt",
+        "O ampere",
+        "O joule"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le watt mesure la puissance ; le joule mesure l'énergie.",
+      "en": "The watt measures power; the joule measures energy.",
+      "es": "El vatio mide la potencia; el julio mide la energía.",
+      "pt": "O watt mede a potência; o joule mede a energia."
+    }
+  },
+  {
+    "id": "culture_0280",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le plus grand lac d'eau douce du monde par sa superficie ?",
+      "en": "Which is the largest freshwater lake in the world by surface area?",
+      "es": "¿Cuál es el lago de agua dulce más grande del mundo por superficie?",
+      "pt": "Qual é o maior lago de água doce do mundo em superfície?"
+    },
+    "options": {
+      "fr": [
+        "Le lac Supérieur",
+        "Le lac Baïkal",
+        "Le lac Victoria",
+        "Le lac Tanganyika"
+      ],
+      "en": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Lake Victoria",
+        "Lake Tanganyika"
+      ],
+      "es": [
+        "El lago Superior",
+        "El lago Baikal",
+        "El lago Victoria",
+        "El lago Tanganica"
+      ],
+      "pt": [
+        "O lago Superior",
+        "O lago Baikal",
+        "O lago Vitória",
+        "O lago Tanganica"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le lac Supérieur est le plus vaste en surface ; le Baïkal, lui, est le plus profond et le plus volumineux.",
+      "en": "Lake Superior is the largest by area; Baikal is the deepest and holds the most water.",
+      "es": "El lago Superior es el mayor en superficie; el Baikal es el más profundo y voluminoso.",
+      "pt": "O lago Superior é o maior em superfície; o Baikal é o mais profundo e volumoso."
+    }
+  },
+  {
+    "id": "culture_0281",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel océan est le plus petit du monde ?",
+      "en": "Which is the smallest ocean in the world?",
+      "es": "¿Cuál es el océano más pequeño del mundo?",
+      "pt": "Qual é o oceano mais pequeno do mundo?"
+    },
+    "options": {
+      "fr": [
+        "L'océan Arctique",
+        "L'océan Indien",
+        "L'océan Atlantique",
+        "L'océan Austral"
+      ],
+      "en": [
+        "The Arctic Ocean",
+        "The Indian Ocean",
+        "The Atlantic Ocean",
+        "The Southern Ocean"
+      ],
+      "es": [
+        "El océano Ártico",
+        "El océano Índico",
+        "El océano Atlántico",
+        "El océano Austral"
+      ],
+      "pt": [
+        "O oceano Ártico",
+        "O oceano Índico",
+        "O oceano Atlântico",
+        "O oceano Antártico"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'océan Arctique est le plus petit et le moins profond des cinq océans.",
+      "en": "The Arctic Ocean is the smallest and shallowest of the five oceans.",
+      "es": "El océano Ártico es el más pequeño y menos profundo de los cinco océanos.",
+      "pt": "O oceano Ártico é o mais pequeno e menos profundo dos cinco oceanos."
+    }
+  },
+  {
+    "id": "culture_0282",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel organe du corps humain produit la bile ?",
+      "en": "Which organ of the human body produces bile?",
+      "es": "¿Qué órgano del cuerpo humano produce la bilis?",
+      "pt": "Que órgão do corpo humano produz a bílis?"
+    },
+    "options": {
+      "fr": [
+        "Le foie",
+        "La vésicule biliaire",
+        "Le pancréas",
+        "L'estomac"
+      ],
+      "en": [
+        "The liver",
+        "The gallbladder",
+        "The pancreas",
+        "The stomach"
+      ],
+      "es": [
+        "El hígado",
+        "La vesícula biliar",
+        "El páncreas",
+        "El estómago"
+      ],
+      "pt": [
+        "O fígado",
+        "A vesícula biliar",
+        "O pâncreas",
+        "O estômago"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le foie produit la bile ; la vésicule biliaire ne fait que la stocker.",
+      "en": "The liver produces bile; the gallbladder only stores it.",
+      "es": "El hígado produce la bilis; la vesícula biliar solo la almacena.",
+      "pt": "O fígado produz a bílis; a vesícula biliar apenas a armazena."
+    }
+  },
+  {
+    "id": "culture_0283",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Combien de temps met la lumière du Soleil pour atteindre la Terre ?",
+      "en": "How long does sunlight take to reach the Earth?",
+      "es": "¿Cuánto tarda la luz del Sol en llegar a la Tierra?",
+      "pt": "Quanto tempo demora a luz do Sol a chegar à Terra?"
+    },
+    "options": {
+      "fr": [
+        "Environ 8 minutes",
+        "Environ 1 seconde",
+        "Environ 1 heure",
+        "Environ 8 heures"
+      ],
+      "en": [
+        "About 8 minutes",
+        "About 1 second",
+        "About 1 hour",
+        "About 8 hours"
+      ],
+      "es": [
+        "Unos 8 minutos",
+        "Un segundo",
+        "Una hora",
+        "Unas 8 horas"
+      ],
+      "pt": [
+        "Cerca de 8 minutos",
+        "Cerca de 1 segundo",
+        "Cerca de 1 hora",
+        "Cerca de 8 horas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Environ 8 minutes et 20 secondes pour parcourir les 150 millions de kilomètres.",
+      "en": "About 8 minutes 20 seconds to cover the 150 million kilometres.",
+      "es": "Unos 8 minutos y 20 segundos para recorrer los 150 millones de kilómetros.",
+      "pt": "Cerca de 8 minutos e 20 segundos para percorrer os 150 milhões de quilómetros."
+    }
+  },
+  {
+    "id": "culture_0284",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Qui fut la première femme à voyager dans l'espace ?",
+      "en": "Who was the first woman to travel into space?",
+      "es": "¿Quién fue la primera mujer en viajar al espacio?",
+      "pt": "Quem foi a primeira mulher a viajar ao espaço?"
+    },
+    "options": {
+      "fr": [
+        "Valentina Terechkova",
+        "Sally Ride",
+        "Mae Jemison",
+        "Claudie Haigneré"
+      ],
+      "en": [
+        "Valentina Tereshkova",
+        "Sally Ride",
+        "Mae Jemison",
+        "Claudie Haigneré"
+      ],
+      "es": [
+        "Valentina Tereshkova",
+        "Sally Ride",
+        "Mae Jemison",
+        "Claudie Haigneré"
+      ],
+      "pt": [
+        "Valentina Tereshkova",
+        "Sally Ride",
+        "Mae Jemison",
+        "Claudie Haigneré"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La cosmonaute soviétique Valentina Terechkova a volé seule à bord de Vostok 6 en 1963.",
+      "en": "Soviet cosmonaut Valentina Tereshkova flew solo aboard Vostok 6 in 1963.",
+      "es": "La cosmonauta soviética Valentina Tereshkova voló sola a bordo del Vostok 6 en 1963.",
+      "pt": "A cosmonauta soviética Valentina Tereshkova voou sozinha a bordo da Vostok 6 em 1963."
+    }
+  },
+  {
+    "id": "culture_0285",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Combien d'États membres compte l'Organisation des Nations unies ?",
+      "en": "How many member states does the United Nations have?",
+      "es": "¿Cuántos Estados miembros tiene la Organización de las Naciones Unidas?",
+      "pt": "Quantos Estados-membros tem a Organização das Nações Unidas?"
+    },
+    "options": {
+      "fr": [
+        "193",
+        "156",
+        "205",
+        "172"
+      ],
+      "en": [
+        "193",
+        "156",
+        "205",
+        "172"
+      ],
+      "es": [
+        "193",
+        "156",
+        "205",
+        "172"
+      ],
+      "pt": [
+        "193",
+        "156",
+        "205",
+        "172"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'ONU compte 193 États membres depuis l'entrée du Soudan du Sud en 2011.",
+      "en": "The UN has had 193 member states since South Sudan joined in 2011.",
+      "es": "La ONU tiene 193 Estados miembros desde el ingreso de Sudán del Sur en 2011.",
+      "pt": "A ONU tem 193 Estados-membros desde a entrada do Sudão do Sul em 2011."
+    }
+  },
+  {
+    "id": "culture_0286",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel traité de 1957 a créé la Communauté économique européenne ?",
+      "en": "Which 1957 treaty created the European Economic Community?",
+      "es": "¿Qué tratado de 1957 creó la Comunidad Económica Europea?",
+      "pt": "Que tratado de 1957 criou a Comunidade Económica Europeia?"
+    },
+    "options": {
+      "fr": [
+        "Le traité de Rome",
+        "Le traité de Maastricht",
+        "Le traité de Lisbonne",
+        "Le traité de Paris"
+      ],
+      "en": [
+        "The Treaty of Rome",
+        "The Maastricht Treaty",
+        "The Treaty of Lisbon",
+        "The Treaty of Paris"
+      ],
+      "es": [
+        "El Tratado de Roma",
+        "El Tratado de Maastricht",
+        "El Tratado de Lisboa",
+        "El Tratado de París"
+      ],
+      "pt": [
+        "O Tratado de Roma",
+        "O Tratado de Maastricht",
+        "O Tratado de Lisboa",
+        "O Tratado de Paris"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Signé en 1957, le traité de Rome fonde la CEE. Maastricht créera l'Union européenne en 1992.",
+      "en": "Signed in 1957, the Treaty of Rome founded the EEC. Maastricht created the EU in 1992.",
+      "es": "Firmado en 1957, el Tratado de Roma funda la CEE. Maastricht creará la UE en 1992.",
+      "pt": "Assinado em 1957, o Tratado de Roma funda a CEE. Maastricht criará a UE em 1992."
+    }
+  },
+  {
+    "id": "culture_0287",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle épice est la plus chère du monde au poids ?",
+      "en": "Which spice is the most expensive in the world by weight?",
+      "es": "¿Qué especia es la más cara del mundo por peso?",
+      "pt": "Que especiaria é a mais cara do mundo por peso?"
+    },
+    "options": {
+      "fr": [
+        "Le safran",
+        "La vanille",
+        "La cardamome",
+        "Le poivre noir"
+      ],
+      "en": [
+        "Saffron",
+        "Vanilla",
+        "Cardamom",
+        "Black pepper"
+      ],
+      "es": [
+        "El azafrán",
+        "La vainilla",
+        "El cardamomo",
+        "La pimienta negra"
+      ],
+      "pt": [
+        "O açafrão",
+        "A baunilha",
+        "O cardamomo",
+        "A pimenta preta"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il faut environ 150 000 fleurs de crocus, cueillies à la main, pour un kilo de safran.",
+      "en": "It takes about 150,000 hand-picked crocus flowers to make one kilo of saffron.",
+      "es": "Hacen falta unas 150 000 flores de azafrán, recogidas a mano, para un kilo.",
+      "pt": "São precisas cerca de 150 000 flores de açafrão, colhidas à mão, para um quilo."
+    }
+  },
+  {
+    "id": "culture_0288",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "De quel arbre provient le cacao ?",
+      "en": "Which tree does cocoa come from?",
+      "es": "¿De qué árbol proviene el cacao?",
+      "pt": "De que árvore provém o cacau?"
+    },
+    "options": {
+      "fr": [
+        "Le cacaoyer",
+        "Le caféier",
+        "Le baobab",
+        "Le palmier"
+      ],
+      "en": [
+        "The cacao tree",
+        "The coffee tree",
+        "The baobab",
+        "The palm tree"
+      ],
+      "es": [
+        "El cacaotero",
+        "El cafeto",
+        "El baobab",
+        "La palmera"
+      ],
+      "pt": [
+        "O cacaueiro",
+        "O cafeeiro",
+        "O baobá",
+        "A palmeira"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les fèves de cacao poussent dans les cabosses du cacaoyer, un arbre tropical.",
+      "en": "Cocoa beans grow inside the pods of the cacao tree, a tropical species.",
+      "es": "Los granos de cacao crecen en las mazorcas del cacaotero, un árbol tropical.",
+      "pt": "As sementes de cacau crescem nas vagens do cacaueiro, uma árvore tropical."
+    }
+  },
+  {
+    "id": "culture_0289",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel pays est le premier producteur mondial de café ?",
+      "en": "Which country is the world's largest coffee producer?",
+      "es": "¿Qué país es el primer productor mundial de café?",
+      "pt": "Que país é o primeiro produtor mundial de café?"
+    },
+    "options": {
+      "fr": [
+        "Le Brésil",
+        "La Colombie",
+        "L'Éthiopie",
+        "Le Viêt Nam"
+      ],
+      "en": [
+        "Brazil",
+        "Colombia",
+        "Ethiopia",
+        "Vietnam"
+      ],
+      "es": [
+        "Brasil",
+        "Colombia",
+        "Etiopía",
+        "Vietnam"
+      ],
+      "pt": [
+        "O Brasil",
+        "A Colômbia",
+        "A Etiópia",
+        "O Vietname"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Brésil produit à lui seul environ un tiers du café mondial.",
+      "en": "Brazil alone produces about a third of the world's coffee.",
+      "es": "Brasil produce por sí solo cerca de un tercio del café mundial.",
+      "pt": "O Brasil produz sozinho cerca de um terço do café mundial."
+    }
+  },
+  {
+    "id": "culture_0290",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle civilisation a bâti le Machu Picchu ?",
+      "en": "Which civilisation built Machu Picchu?",
+      "es": "¿Qué civilización construyó el Machu Picchu?",
+      "pt": "Que civilização construiu o Machu Picchu?"
+    },
+    "options": {
+      "fr": [
+        "Les Incas",
+        "Les Mayas",
+        "Les Aztèques",
+        "Les Olmèques"
+      ],
+      "en": [
+        "The Incas",
+        "The Maya",
+        "The Aztecs",
+        "The Olmecs"
+      ],
+      "es": [
+        "Los incas",
+        "Los mayas",
+        "Los aztecas",
+        "Los olmecas"
+      ],
+      "pt": [
+        "Os incas",
+        "Os maias",
+        "Os astecas",
+        "Os olmecas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Cette cité inca du XVe siècle se dresse à 2 430 mètres d'altitude, au Pérou.",
+      "en": "This 15th-century Inca city sits at 2,430 metres above sea level in Peru.",
+      "es": "Esta ciudad inca del siglo XV se alza a 2430 metros de altitud, en Perú.",
+      "pt": "Esta cidade inca do século XV ergue-se a 2430 metros de altitude, no Peru."
+    }
+  },
+  {
+    "id": "culture_0291",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle civilisation a inventé l'écriture cunéiforme ?",
+      "en": "Which civilisation invented cuneiform writing?",
+      "es": "¿Qué civilización inventó la escritura cuneiforme?",
+      "pt": "Que civilização inventou a escrita cuneiforme?"
+    },
+    "options": {
+      "fr": [
+        "Les Sumériens",
+        "Les Égyptiens",
+        "Les Phéniciens",
+        "Les Hittites"
+      ],
+      "en": [
+        "The Sumerians",
+        "The Egyptians",
+        "The Phoenicians",
+        "The Hittites"
+      ],
+      "es": [
+        "Los sumerios",
+        "Los egipcios",
+        "Los fenicios",
+        "Los hititas"
+      ],
+      "pt": [
+        "Os sumérios",
+        "Os egípcios",
+        "Os fenícios",
+        "Os hititas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les Sumériens de Mésopotamie gravaient des signes en forme de coins dans l'argile, vers 3300 av. J.-C.",
+      "en": "The Sumerians of Mesopotamia pressed wedge-shaped signs into clay around 3300 BC.",
+      "es": "Los sumerios de Mesopotamia grababan signos en forma de cuña en arcilla, hacia 3300 a. C.",
+      "pt": "Os sumérios da Mesopotâmia gravavam sinais em forma de cunha na argila, por volta de 3300 a.C."
+    }
+  },
+  {
+    "id": "culture_0292",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le plus grand pays du monde sans accès à la mer ?",
+      "en": "Which is the largest landlocked country in the world?",
+      "es": "¿Cuál es el país más grande del mundo sin salida al mar?",
+      "pt": "Qual é o maior país do mundo sem acesso ao mar?"
+    },
+    "options": {
+      "fr": [
+        "Le Kazakhstan",
+        "La Mongolie",
+        "Le Tchad",
+        "La Bolivie"
+      ],
+      "en": [
+        "Kazakhstan",
+        "Mongolia",
+        "Chad",
+        "Bolivia"
+      ],
+      "es": [
+        "Kazajistán",
+        "Mongolia",
+        "Chad",
+        "Bolivia"
+      ],
+      "pt": [
+        "O Cazaquistão",
+        "A Mongólia",
+        "O Chade",
+        "A Bolívia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Kazakhstan borde la mer Caspienne, qui est un lac fermé : le pays reste enclavé.",
+      "en": "Kazakhstan borders the Caspian Sea, a closed lake, so it remains landlocked.",
+      "es": "Kazajistán limita con el mar Caspio, un lago cerrado: el país sigue sin salida al mar.",
+      "pt": "O Cazaquistão faz fronteira com o mar Cáspio, um lago fechado: o país continua sem litoral."
+    }
+  },
+  {
+    "id": "culture_0293",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel philosophe a écrit « Du contrat social » ?",
+      "en": "Which philosopher wrote \"The Social Contract\"?",
+      "es": "¿Qué filósofo escribió «El contrato social»?",
+      "pt": "Que filósofo escreveu «O Contrato Social»?"
+    },
+    "options": {
+      "fr": [
+        "Jean-Jacques Rousseau",
+        "Voltaire",
+        "Montesquieu",
+        "Denis Diderot"
+      ],
+      "en": [
+        "Jean-Jacques Rousseau",
+        "Voltaire",
+        "Montesquieu",
+        "Denis Diderot"
+      ],
+      "es": [
+        "Jean-Jacques Rousseau",
+        "Voltaire",
+        "Montesquieu",
+        "Denis Diderot"
+      ],
+      "pt": [
+        "Jean-Jacques Rousseau",
+        "Voltaire",
+        "Montesquieu",
+        "Denis Diderot"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Publié en 1762, l'ouvrage de Rousseau s'ouvre sur « L'homme est né libre… ».",
+      "en": "Published in 1762, Rousseau's work opens with \"Man is born free…\".",
+      "es": "Publicada en 1762, la obra de Rousseau se abre con «El hombre nace libre…».",
+      "pt": "Publicada em 1762, a obra de Rousseau abre com «O homem nasce livre…»."
+    }
+  },
+  {
+    "id": "culture_0294",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel pays compte le plus de fuseaux horaires, territoires d'outre-mer compris ?",
+      "en": "Which country has the most time zones, including its overseas territories?",
+      "es": "¿Qué país tiene más husos horarios, incluidos sus territorios de ultramar?",
+      "pt": "Que país tem mais fusos horários, incluindo os territórios ultramarinos?"
+    },
+    "options": {
+      "fr": [
+        "La France",
+        "La Russie",
+        "Les États-Unis",
+        "Le Royaume-Uni"
+      ],
+      "en": [
+        "France",
+        "Russia",
+        "The United States",
+        "The United Kingdom"
+      ],
+      "es": [
+        "Francia",
+        "Rusia",
+        "Estados Unidos",
+        "El Reino Unido"
+      ],
+      "pt": [
+        "A França",
+        "A Rússia",
+        "Os Estados Unidos",
+        "O Reino Unido"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Grâce à ses territoires répartis sur tous les océans, la France couvre 12 fuseaux horaires, devant la Russie.",
+      "en": "Thanks to territories spread across every ocean, France spans 12 time zones, ahead of Russia.",
+      "es": "Gracias a sus territorios repartidos por todos los océanos, Francia cubre 12 husos horarios, por delante de Rusia.",
+      "pt": "Graças aos territórios espalhados por todos os oceanos, a França cobre 12 fusos horários, à frente da Rússia."
+    }
+  },
+  {
+    "id": "culture_0295",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle organisation internationale chargée de la santé a son siège à Genève ?",
+      "en": "Which international health organisation is headquartered in Geneva?",
+      "es": "¿Qué organización internacional de salud tiene su sede en Ginebra?",
+      "pt": "Que organização internacional de saúde tem sede em Genebra?"
+    },
+    "options": {
+      "fr": [
+        "L'OMS",
+        "L'UNICEF",
+        "La FAO",
+        "L'UNESCO"
+      ],
+      "en": [
+        "The WHO",
+        "UNICEF",
+        "The FAO",
+        "UNESCO"
+      ],
+      "es": [
+        "La OMS",
+        "UNICEF",
+        "La FAO",
+        "La UNESCO"
+      ],
+      "pt": [
+        "A OMS",
+        "A UNICEF",
+        "A FAO",
+        "A UNESCO"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'Organisation mondiale de la santé, agence de l'ONU créée en 1948, siège à Genève.",
+      "en": "The World Health Organization, a UN agency founded in 1948, is based in Geneva.",
+      "es": "La Organización Mundial de la Salud, agencia de la ONU creada en 1948, tiene su sede en Ginebra.",
+      "pt": "A Organização Mundial da Saúde, agência da ONU criada em 1948, tem sede em Genebra."
+    }
+  },
+  {
+    "id": "culture_0296",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le point de congélation de l'eau en degrés Fahrenheit ?",
+      "en": "What is the freezing point of water in degrees Fahrenheit?",
+      "es": "¿Cuál es el punto de congelación del agua en grados Fahrenheit?",
+      "pt": "Qual é o ponto de congelação da água em graus Fahrenheit?"
+    },
+    "options": {
+      "fr": [
+        "32 °F",
+        "0 °F",
+        "100 °F",
+        "212 °F"
+      ],
+      "en": [
+        "32 °F",
+        "0 °F",
+        "100 °F",
+        "212 °F"
+      ],
+      "es": [
+        "32 °F",
+        "0 °F",
+        "100 °F",
+        "212 °F"
+      ],
+      "pt": [
+        "32 °F",
+        "0 °F",
+        "100 °F",
+        "212 °F"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'eau gèle à 32 °F et bout à 212 °F, soit 0 °C et 100 °C.",
+      "en": "Water freezes at 32 °F and boils at 212 °F, i.e. 0 °C and 100 °C.",
+      "es": "El agua se congela a 32 °F y hierve a 212 °F, es decir 0 °C y 100 °C.",
+      "pt": "A água congela a 32 °F e ferve a 212 °F, ou seja 0 °C e 100 °C."
     }
   }
 ]

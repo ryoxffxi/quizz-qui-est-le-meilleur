@@ -3952,50 +3952,6 @@
     }
   },
   {
-    "id": "manga_0089",
-    "category": "manga-anime",
-    "difficulty": "facile",
-    "question": {
-      "fr": "Quelle créature bleue ronde et farceuse adore les Schtroumpfs… non : quel chat-robot vient du futur dans « Doraemon » ?",
-      "en": "Which robot cat comes from the future in \"Doraemon\"?",
-      "es": "¿Qué gato robot viene del futuro en «Doraemon»?",
-      "pt": "Qual gato-robô vem do futuro em «Doraemon»?"
-    },
-    "options": {
-      "fr": [
-        "Doraemon",
-        "Jiji",
-        "Luna",
-        "Meowth"
-      ],
-      "en": [
-        "Doraemon",
-        "Jiji",
-        "Luna",
-        "Meowth"
-      ],
-      "es": [
-        "Doraemon",
-        "Jiji",
-        "Luna",
-        "Meowth"
-      ],
-      "pt": [
-        "Doraemon",
-        "Jiji",
-        "Luna",
-        "Meowth"
-      ]
-    },
-    "correct": 0,
-    "explanation": {
-      "fr": "Doraemon est le chat-robot bleu venu du futur.",
-      "en": "Doraemon is the blue robot cat from the future.",
-      "es": "Doraemon es el gato robot azul del futuro.",
-      "pt": "Doraemon é o gato-robô azul do futuro."
-    }
-  },
-  {
     "id": "manga_0090",
     "category": "manga-anime",
     "difficulty": "expert",
@@ -8352,50 +8308,6 @@
     }
   },
   {
-    "id": "manga_0189",
-    "category": "manga-anime",
-    "difficulty": "facile",
-    "question": {
-      "fr": "Dans One Piece, quel est le rêve de Monkey D. Luffy ?",
-      "en": "In One Piece, what is Monkey D. Luffy's dream?",
-      "es": "En One Piece, ¿cuál es el sueño de Monkey D. Luffy?",
-      "pt": "Em One Piece, qual é o sonho de Monkey D. Luffy?"
-    },
-    "options": {
-      "fr": [
-        "Devenir le Roi des Pirates",
-        "Devenir Amiral de la Marine",
-        "Trouver son père disparu",
-        "Devenir le meilleur cuisinier"
-      ],
-      "en": [
-        "Become the Pirate King",
-        "Become a Marine Admiral",
-        "Find his missing father",
-        "Become the best cook"
-      ],
-      "es": [
-        "Convertirse en el Rey de los Piratas",
-        "Convertirse en Almirante de la Marina",
-        "Encontrar a su padre desaparecido",
-        "Convertirse en el mejor cocinero"
-      ],
-      "pt": [
-        "Tornar-se o Rei dos Piratas",
-        "Tornar-se Almirante da Marinha",
-        "Encontrar o pai desaparecido",
-        "Tornar-se o melhor cozinheiro"
-      ]
-    },
-    "correct": 0,
-    "explanation": {
-      "fr": "Luffy veut devenir le Roi des Pirates en trouvant le trésor ultime, le One Piece.",
-      "en": "Luffy wants to become the Pirate King by finding the ultimate treasure, the One Piece.",
-      "es": "Luffy quiere convertirse en el Rey de los Piratas encontrando el tesoro definitivo, el One Piece.",
-      "pt": "Luffy quer se tornar o Rei dos Piratas ao encontrar o tesouro supremo, o One Piece."
-    }
-  },
-  {
     "id": "manga_0190",
     "category": "manga-anime",
     "difficulty": "facile",
@@ -11297,6 +11209,1898 @@
       "en": "\"Doujinshi\" are self-published works by amateurs or semi-pros, sold notably at Comiket, the largest convention of its kind.",
       "es": "Los «doujinshi» son obras autopublicadas por aficionados o semiprofesionales, vendidas especialmente en el Comiket, la mayor convención del género.",
       "pt": "Os \"doujinshi\" são obras autopublicadas por amadores ou semiprofissionais, vendidas notadamente no Comiket, a maior convenção do gênero."
+    }
+  },
+  {
+    "id": "manga_0256",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Saint Seiya » (Les Chevaliers du Zodiaque), quelle déesse les chevaliers protègent-ils ?",
+      "en": "In \"Saint Seiya\", which goddess do the knights protect?",
+      "es": "En «Saint Seiya» (Los Caballeros del Zodiaco), ¿a qué diosa protegen los caballeros?",
+      "pt": "Em «Saint Seiya» (Os Cavaleiros do Zodíaco), que deusa protegem os cavaleiros?"
+    },
+    "options": {
+      "fr": [
+        "Athéna",
+        "Aphrodite",
+        "Artémis",
+        "Héra"
+      ],
+      "en": [
+        "Athena",
+        "Aphrodite",
+        "Artemis",
+        "Hera"
+      ],
+      "es": [
+        "Atenea",
+        "Afrodita",
+        "Artemisa",
+        "Hera"
+      ],
+      "pt": [
+        "Atena",
+        "Afrodite",
+        "Ártemis",
+        "Hera"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les chevaliers se battent pour Athéna, déesse de la guerre juste, réincarnée en Saori Kido.",
+      "en": "The knights fight for Athena, goddess of just war, reincarnated as Saori Kido.",
+      "es": "Los caballeros luchan por Atenea, diosa de la guerra justa, reencarnada en Saori Kido.",
+      "pt": "Os cavaleiros lutam por Atena, deusa da guerra justa, reencarnada em Saori Kido."
+    }
+  },
+  {
+    "id": "manga_0257",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Saint Seiya », quelle constellation correspond au héros Seiya ?",
+      "en": "In \"Saint Seiya\", which constellation belongs to the hero Seiya?",
+      "es": "En «Saint Seiya», ¿qué constelación corresponde al héroe Seiya?",
+      "pt": "Em «Saint Seiya», que constelação corresponde ao herói Seiya?"
+    },
+    "options": {
+      "fr": [
+        "Pégase",
+        "Le Dragon",
+        "Le Cygne",
+        "Le Phénix"
+      ],
+      "en": [
+        "Pegasus",
+        "Dragon",
+        "Cygnus",
+        "Phoenix"
+      ],
+      "es": [
+        "Pegaso",
+        "El Dragón",
+        "El Cisne",
+        "El Fénix"
+      ],
+      "pt": [
+        "Pégaso",
+        "O Dragão",
+        "O Cisne",
+        "A Fénix"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Seiya porte l'armure de Pégase ; Shiryu le Dragon, Hyoga le Cygne et Ikki le Phénix.",
+      "en": "Seiya wears the Pegasus cloth; Shiryu Dragon, Hyoga Cygnus and Ikki Phoenix.",
+      "es": "Seiya lleva la armadura de Pegaso; Shiryu el Dragón, Hyoga el Cisne e Ikki el Fénix.",
+      "pt": "Seiya usa a armadura de Pégaso; Shiryu o Dragão, Hyoga o Cisne e Ikki a Fénix."
+    }
+  },
+  {
+    "id": "manga_0258",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Ken le Survivant » (Hokuto no Ken), quelle phrase Kenshiro lance-t-il à ses adversaires condamnés ?",
+      "en": "In \"Fist of the North Star\", what line does Kenshiro deliver to his doomed opponents?",
+      "es": "En «El Puño de la Estrella del Norte», ¿qué frase lanza Kenshiro a sus adversarios condenados?",
+      "pt": "Em «Punho da Estrela do Norte», que frase Kenshiro lança aos adversários condenados?"
+    },
+    "options": {
+      "fr": [
+        "« Tu es déjà mort »",
+        "« Prépare-toi à souffrir »",
+        "« Je suis l'élu »",
+        "« Rends-toi maintenant »"
+      ],
+      "en": [
+        "\"You are already dead\"",
+        "\"Prepare to suffer\"",
+        "\"I am the chosen one\"",
+        "\"Surrender now\""
+      ],
+      "es": [
+        "«Ya estás muerto»",
+        "«Prepárate para sufrir»",
+        "«Yo soy el elegido»",
+        "«Ríndete ahora»"
+      ],
+      "pt": [
+        "«Já estás morto»",
+        "«Prepara-te para sofrer»",
+        "«Eu sou o escolhido»",
+        "«Rende-te agora»"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Omae wa mou shindeiru » : Kenshiro frappe les points vitaux, l'adversaire explose quelques secondes plus tard.",
+      "en": "\"Omae wa mou shindeiru\": Kenshiro strikes pressure points and the opponent bursts seconds later.",
+      "es": "«Omae wa mou shindeiru»: Kenshiro golpea los puntos vitales y el rival estalla segundos después.",
+      "pt": "«Omae wa mou shindeiru»: Kenshiro atinge os pontos vitais e o adversário explode segundos depois."
+    }
+  },
+  {
+    "id": "manga_0259",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Nicky Larson » (City Hunter), quel est le vrai nom du héros ?",
+      "en": "In \"City Hunter\", what is the hero's real name?",
+      "es": "En «City Hunter», ¿cuál es el verdadero nombre del héroe?",
+      "pt": "Em «City Hunter», qual é o verdadeiro nome do herói?"
+    },
+    "options": {
+      "fr": [
+        "Ryo Saeba",
+        "Kenji Mori",
+        "Hiroshi Tanaka",
+        "Akira Saito"
+      ],
+      "en": [
+        "Ryo Saeba",
+        "Kenji Mori",
+        "Hiroshi Tanaka",
+        "Akira Saito"
+      ],
+      "es": [
+        "Ryo Saeba",
+        "Kenji Mori",
+        "Hiroshi Tanaka",
+        "Akira Saito"
+      ],
+      "pt": [
+        "Ryo Saeba",
+        "Kenji Mori",
+        "Hiroshi Tanaka",
+        "Akira Saito"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Nicky Larson » est le nom de la VF ; en version originale, le nettoyeur de Shinjuku s'appelle Ryo Saeba.",
+      "en": "\"Nicky Larson\" is the French dub name; the original Shinjuku sweeper is called Ryo Saeba.",
+      "es": "«Nicky Larson» es el nombre del doblaje francés; en la versión original se llama Ryo Saeba.",
+      "pt": "«Nicky Larson» é o nome da dobragem francesa; na versão original chama-se Ryo Saeba."
+    }
+  },
+  {
+    "id": "manga_0260",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Ranma ½ », que provoque l'eau froide sur Ranma ?",
+      "en": "In \"Ranma ½\", what does cold water do to Ranma?",
+      "es": "En «Ranma ½», ¿qué le provoca el agua fría a Ranma?",
+      "pt": "Em «Ranma ½», o que provoca a água fria em Ranma?"
+    },
+    "options": {
+      "fr": [
+        "Elle le transforme en fille",
+        "Elle le rend invisible",
+        "Elle lui fait perdre la mémoire",
+        "Elle le fait rétrécir"
+      ],
+      "en": [
+        "It turns him into a girl",
+        "It makes him invisible",
+        "It makes him lose his memory",
+        "It shrinks him"
+      ],
+      "es": [
+        "Lo transforma en chica",
+        "Lo vuelve invisible",
+        "Le hace perder la memoria",
+        "Lo encoge"
+      ],
+      "pt": [
+        "Transforma-o em rapariga",
+        "Torna-o invisível",
+        "Faz-lhe perder a memória",
+        "Encolhe-o"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Maudit aux sources de Jusenkyo, Ranma devient une fille à l'eau froide et redevient garçon à l'eau chaude.",
+      "en": "Cursed at the Jusenkyo springs, Ranma turns into a girl with cold water and back with hot water.",
+      "es": "Maldito en las fuentes de Jusenkyo, Ranma se vuelve chica con agua fría y chico con agua caliente.",
+      "pt": "Amaldiçoado nas fontes de Jusenkyo, Ranma torna-se rapariga com água fria e rapaz com água quente."
+    }
+  },
+  {
+    "id": "manga_0261",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Kenshin le vagabond », quelle particularité a le sabre de Kenshin ?",
+      "en": "In \"Rurouni Kenshin\", what is special about Kenshin's sword?",
+      "es": "En «Rurouni Kenshin», ¿qué particularidad tiene la espada de Kenshin?",
+      "pt": "Em «Rurouni Kenshin», que particularidade tem a espada de Kenshin?"
+    },
+    "options": {
+      "fr": [
+        "Sa lame est inversée, du mauvais côté",
+        "Elle est faite de bois",
+        "Elle est incassable",
+        "Elle change de taille"
+      ],
+      "en": [
+        "Its blade is reversed, on the wrong edge",
+        "It is made of wood",
+        "It is unbreakable",
+        "It changes size"
+      ],
+      "es": [
+        "Su hoja está invertida, del lado equivocado",
+        "Está hecha de madera",
+        "Es irrompible",
+        "Cambia de tamaño"
+      ],
+      "pt": [
+        "A lâmina está invertida, do lado errado",
+        "É feita de madeira",
+        "É inquebrável",
+        "Muda de tamanho"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le sakabatō a le tranchant à l'envers : Kenshin a juré de ne plus tuer.",
+      "en": "The sakabatō has its cutting edge reversed: Kenshin has sworn never to kill again.",
+      "es": "El sakabatō tiene el filo invertido: Kenshin ha jurado no volver a matar.",
+      "pt": "A sakabatō tem o gume invertido: Kenshin jurou nunca mais matar."
+    }
+  },
+  {
+    "id": "manga_0262",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel sport est au cœur de « Blue Lock » ?",
+      "en": "Which sport is at the heart of \"Blue Lock\"?",
+      "es": "¿Qué deporte está en el centro de «Blue Lock»?",
+      "pt": "Que desporto está no centro de «Blue Lock»?"
+    },
+    "options": {
+      "fr": [
+        "Le football",
+        "Le basket",
+        "Le volley",
+        "Le tennis"
+      ],
+      "en": [
+        "Football",
+        "Basketball",
+        "Volleyball",
+        "Tennis"
+      ],
+      "es": [
+        "El fútbol",
+        "El baloncesto",
+        "El voleibol",
+        "El tenis"
+      ],
+      "pt": [
+        "O futebol",
+        "O basquetebol",
+        "O voleibol",
+        "O ténis"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Blue Lock enferme 300 attaquants dans un programme visant à créer le meilleur buteur du Japon.",
+      "en": "Blue Lock locks 300 strikers into a programme designed to create Japan's best goalscorer.",
+      "es": "Blue Lock encierra a 300 delanteros en un programa para crear al mejor goleador de Japón.",
+      "pt": "Blue Lock fecha 300 avançados num programa para criar o melhor goleador do Japão."
+    }
+  },
+  {
+    "id": "manga_0263",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Spy x Family », quel est le pouvoir d'Anya ?",
+      "en": "In \"Spy x Family\", what is Anya's power?",
+      "es": "En «Spy x Family», ¿cuál es el poder de Anya?",
+      "pt": "Em «Spy x Family», qual é o poder da Anya?"
+    },
+    "options": {
+      "fr": [
+        "Elle lit dans les pensées",
+        "Elle voit l'avenir",
+        "Elle devient invisible",
+        "Elle parle aux animaux"
+      ],
+      "en": [
+        "She reads minds",
+        "She sees the future",
+        "She turns invisible",
+        "She talks to animals"
+      ],
+      "es": [
+        "Lee la mente",
+        "Ve el futuro",
+        "Se vuelve invisible",
+        "Habla con los animales"
+      ],
+      "pt": [
+        "Lê pensamentos",
+        "Vê o futuro",
+        "Torna-se invisível",
+        "Fala com os animais"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Anya est télépathe, ce que ni Loid l'espion ni Yor la tueuse à gages ne soupçonnent.",
+      "en": "Anya is a telepath, which neither Loid the spy nor Yor the assassin suspects.",
+      "es": "Anya es telépata, algo que ni Loid el espía ni Yor la asesina sospechan.",
+      "pt": "Anya é telepata, algo que nem Loid o espião nem Yor a assassina suspeitam."
+    }
+  },
+  {
+    "id": "manga_0264",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Spy x Family », quelle est la véritable activité de Yor Forger ?",
+      "en": "In \"Spy x Family\", what is Yor Forger's real job?",
+      "es": "En «Spy x Family», ¿cuál es la verdadera actividad de Yor Forger?",
+      "pt": "Em «Spy x Family», qual é a verdadeira atividade de Yor Forger?"
+    },
+    "options": {
+      "fr": [
+        "Tueuse à gages",
+        "Espionne",
+        "Policière",
+        "Journaliste"
+      ],
+      "en": [
+        "Assassin",
+        "Spy",
+        "Police officer",
+        "Journalist"
+      ],
+      "es": [
+        "Asesina a sueldo",
+        "Espía",
+        "Policía",
+        "Periodista"
+      ],
+      "pt": [
+        "Assassina a soldo",
+        "Espia",
+        "Polícia",
+        "Jornalista"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Employée de mairie le jour, Yor est la redoutable « Princesse Épine » la nuit.",
+      "en": "A city hall clerk by day, Yor is the fearsome \"Thorn Princess\" by night.",
+      "es": "Empleada del ayuntamiento de día, Yor es la temible «Princesa Espina» de noche.",
+      "pt": "Funcionária da câmara de dia, Yor é a temível «Princesa Espinho» à noite."
+    }
+  },
+  {
+    "id": "manga_0265",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Chainsaw Man », comment s'appelle le petit démon-tronçonneuse de Denji ?",
+      "en": "In \"Chainsaw Man\", what is the name of Denji's little chainsaw devil?",
+      "es": "En «Chainsaw Man», ¿cómo se llama el pequeño demonio motosierra de Denji?",
+      "pt": "Em «Chainsaw Man», como se chama o pequeno demónio motosserra de Denji?"
+    },
+    "options": {
+      "fr": [
+        "Pochita",
+        "Makima",
+        "Power",
+        "Aki"
+      ],
+      "en": [
+        "Pochita",
+        "Makima",
+        "Power",
+        "Aki"
+      ],
+      "es": [
+        "Pochita",
+        "Makima",
+        "Power",
+        "Aki"
+      ],
+      "pt": [
+        "Pochita",
+        "Makima",
+        "Power",
+        "Aki"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Pochita fusionne avec Denji et devient son cœur, lui donnant ses tronçonneuses.",
+      "en": "Pochita merges with Denji and becomes his heart, giving him his chainsaws.",
+      "es": "Pochita se fusiona con Denji y se convierte en su corazón, dándole sus motosierras.",
+      "pt": "Pochita funde-se com Denji e torna-se o seu coração, dando-lhe as motosserras."
+    }
+  },
+  {
+    "id": "manga_0266",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Détective Conan », quel est le vrai nom de Conan Edogawa ?",
+      "en": "In \"Detective Conan\", what is Conan Edogawa's real name?",
+      "es": "En «Detective Conan», ¿cuál es el verdadero nombre de Conan Edogawa?",
+      "pt": "Em «Detetive Conan», qual é o verdadeiro nome de Conan Edogawa?"
+    },
+    "options": {
+      "fr": [
+        "Shinichi Kudo",
+        "Kaito Kuroba",
+        "Heiji Hattori",
+        "Ran Mouri"
+      ],
+      "en": [
+        "Shinichi Kudo",
+        "Kaito Kuroba",
+        "Heiji Hattori",
+        "Ran Mouri"
+      ],
+      "es": [
+        "Shinichi Kudo",
+        "Kaito Kuroba",
+        "Heiji Hattori",
+        "Ran Mouri"
+      ],
+      "pt": [
+        "Shinichi Kudo",
+        "Kaito Kuroba",
+        "Heiji Hattori",
+        "Ran Mouri"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le lycéen détective Shinichi Kudo, rajeuni par un poison, prend le pseudonyme de Conan Edogawa.",
+      "en": "High-school detective Shinichi Kudo, shrunk by a poison, takes the alias Conan Edogawa.",
+      "es": "El detective de instituto Shinichi Kudo, rejuvenecido por un veneno, adopta el alias Conan Edogawa.",
+      "pt": "O detetive liceal Shinichi Kudo, rejuvenescido por um veneno, adota o pseudónimo Conan Edogawa."
+    }
+  },
+  {
+    "id": "manga_0267",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel sport est au cœur de « Hajime no Ippo » ?",
+      "en": "Which sport is at the heart of \"Hajime no Ippo\"?",
+      "es": "¿Qué deporte está en el centro de «Hajime no Ippo»?",
+      "pt": "Que desporto está no centro de «Hajime no Ippo»?"
+    },
+    "options": {
+      "fr": [
+        "La boxe",
+        "Le judo",
+        "Le kendo",
+        "La lutte"
+      ],
+      "en": [
+        "Boxing",
+        "Judo",
+        "Kendo",
+        "Wrestling"
+      ],
+      "es": [
+        "El boxeo",
+        "El judo",
+        "El kendo",
+        "La lucha"
+      ],
+      "pt": [
+        "O boxe",
+        "O judo",
+        "O kendo",
+        "A luta"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ippo Makunouchi, lycéen harcelé, se découvre une vocation sur le ring.",
+      "en": "Ippo Makunouchi, a bullied high schooler, finds his calling in the ring.",
+      "es": "Ippo Makunouchi, un estudiante acosado, descubre su vocación en el ring.",
+      "pt": "Ippo Makunouchi, um estudante intimidado, descobre a sua vocação no ringue."
+    }
+  },
+  {
+    "id": "manga_0268",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel sport est au cœur de « Kuroko's Basket » ?",
+      "en": "Which sport is at the heart of \"Kuroko's Basketball\"?",
+      "es": "¿Qué deporte está en el centro de «Kuroko no Basket»?",
+      "pt": "Que desporto está no centro de «Kuroko no Basket»?"
+    },
+    "options": {
+      "fr": [
+        "Le basket",
+        "Le handball",
+        "Le rugby",
+        "Le baseball"
+      ],
+      "en": [
+        "Basketball",
+        "Handball",
+        "Rugby",
+        "Baseball"
+      ],
+      "es": [
+        "El baloncesto",
+        "El balonmano",
+        "El rugby",
+        "El béisbol"
+      ],
+      "pt": [
+        "O basquetebol",
+        "O andebol",
+        "O râguebi",
+        "O basebol"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Kuroko, le « joueur fantôme », mise sur la passe et la discrétion plutôt que sur la puissance.",
+      "en": "Kuroko, the \"phantom player\", relies on passing and misdirection rather than power.",
+      "es": "Kuroko, el «jugador fantasma», apuesta por el pase y la discreción más que por la potencia.",
+      "pt": "Kuroko, o «jogador fantasma», aposta no passe e na discrição em vez da potência."
+    }
+  },
+  {
+    "id": "manga_0269",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Food Wars », quel domaine oppose les personnages ?",
+      "en": "In \"Food Wars\", in which field do the characters compete?",
+      "es": "En «Food Wars», ¿en qué ámbito compiten los personajes?",
+      "pt": "Em «Food Wars», em que domínio competem as personagens?"
+    },
+    "options": {
+      "fr": [
+        "La cuisine",
+        "La musique",
+        "Le dessin",
+        "La danse"
+      ],
+      "en": [
+        "Cooking",
+        "Music",
+        "Drawing",
+        "Dance"
+      ],
+      "es": [
+        "La cocina",
+        "La música",
+        "El dibujo",
+        "La danza"
+      ],
+      "pt": [
+        "A cozinha",
+        "A música",
+        "O desenho",
+        "A dança"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les « shokugeki » sont des duels culinaires dans une école de cuisine d'élite.",
+      "en": "\"Shokugeki\" are cooking duels held in an elite culinary school.",
+      "es": "Los «shokugeki» son duelos culinarios en una escuela de cocina de élite.",
+      "pt": "Os «shokugeki» são duelos culinários numa escola de cozinha de elite."
+    }
+  },
+  {
+    "id": "manga_0270",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Frieren », quelle est la particularité de l'héroïne ?",
+      "en": "In \"Frieren\", what is special about the heroine?",
+      "es": "En «Frieren», ¿cuál es la particularidad de la heroína?",
+      "pt": "Em «Frieren», qual é a particularidade da heroína?"
+    },
+    "options": {
+      "fr": [
+        "C'est une elfe qui vit des siècles",
+        "Elle est un robot",
+        "Elle ne peut pas parler",
+        "Elle rajeunit avec le temps"
+      ],
+      "en": [
+        "She is an elf who lives for centuries",
+        "She is a robot",
+        "She cannot speak",
+        "She grows younger over time"
+      ],
+      "es": [
+        "Es una elfa que vive siglos",
+        "Es un robot",
+        "No puede hablar",
+        "Rejuvenece con el tiempo"
+      ],
+      "pt": [
+        "É uma elfa que vive séculos",
+        "É um robô",
+        "Não consegue falar",
+        "Rejuvenesce com o tempo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Frieren survit des siècles à ses compagnons humains : la série parle du temps et du deuil.",
+      "en": "Frieren outlives her human companions by centuries: the series is about time and grief.",
+      "es": "Frieren sobrevive siglos a sus compañeros humanos: la serie habla del tiempo y del duelo.",
+      "pt": "Frieren sobrevive séculos aos companheiros humanos: a série fala do tempo e do luto."
+    }
+  },
+  {
+    "id": "manga_0271",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Cowboy Bebop », quel est le métier de Spike Spiegel et son équipage ?",
+      "en": "In \"Cowboy Bebop\", what do Spike Spiegel and his crew do for a living?",
+      "es": "En «Cowboy Bebop», ¿cuál es el oficio de Spike Spiegel y su tripulación?",
+      "pt": "Em «Cowboy Bebop», qual é a profissão de Spike Spiegel e da sua tripulação?"
+    },
+    "options": {
+      "fr": [
+        "Chasseurs de primes",
+        "Pirates",
+        "Policiers",
+        "Marchands"
+      ],
+      "en": [
+        "Bounty hunters",
+        "Pirates",
+        "Police officers",
+        "Traders"
+      ],
+      "es": [
+        "Cazarrecompensas",
+        "Piratas",
+        "Policías",
+        "Comerciantes"
+      ],
+      "pt": [
+        "Caçadores de recompensas",
+        "Piratas",
+        "Polícias",
+        "Comerciantes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "À bord du vaisseau Bebop, ils traquent des criminels dans un système solaire colonisé.",
+      "en": "Aboard the ship Bebop, they hunt criminals across a colonised Solar System.",
+      "es": "A bordo de la nave Bebop, persiguen criminales en un sistema solar colonizado.",
+      "pt": "A bordo da nave Bebop, perseguem criminosos num sistema solar colonizado."
+    }
+  },
+  {
+    "id": "manga_0272",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Initial D », quelle activité passionne Takumi ?",
+      "en": "In \"Initial D\", what is Takumi passionate about?",
+      "es": "En «Initial D», ¿qué actividad apasiona a Takumi?",
+      "pt": "Em «Initial D», que atividade apaixona Takumi?"
+    },
+    "options": {
+      "fr": [
+        "La course automobile en montagne",
+        "Le motocross",
+        "Le skateboard",
+        "La course à pied"
+      ],
+      "en": [
+        "Mountain-pass car racing",
+        "Motocross",
+        "Skateboarding",
+        "Running"
+      ],
+      "es": [
+        "Las carreras de coches en montaña",
+        "El motocross",
+        "El monopatín",
+        "El atletismo"
+      ],
+      "pt": [
+        "As corridas de carros na montanha",
+        "O motocross",
+        "O skate",
+        "A corrida"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Livreur de tofu, Takumi a appris à dévaler le mont Akina au volant d'une Toyota AE86.",
+      "en": "A tofu delivery driver, Takumi learned to race down Mount Akina in a Toyota AE86.",
+      "es": "Repartidor de tofu, Takumi aprendió a bajar el monte Akina al volante de un Toyota AE86.",
+      "pt": "Entregador de tofu, Takumi aprendeu a descer o monte Akina ao volante de um Toyota AE86."
+    }
+  },
+  {
+    "id": "manga_0273",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Kaiju No. 8 », que combattent les héros ?",
+      "en": "In \"Kaiju No. 8\", what do the heroes fight?",
+      "es": "En «Kaiju No. 8», ¿contra qué luchan los héroes?",
+      "pt": "Em «Kaiju No. 8», contra o que lutam os heróis?"
+    },
+    "options": {
+      "fr": [
+        "Des monstres géants",
+        "Des extraterrestres",
+        "Des zombies",
+        "Des pirates"
+      ],
+      "en": [
+        "Giant monsters",
+        "Aliens",
+        "Zombies",
+        "Pirates"
+      ],
+      "es": [
+        "Monstruos gigantes",
+        "Extraterrestres",
+        "Zombis",
+        "Piratas"
+      ],
+      "pt": [
+        "Monstros gigantes",
+        "Extraterrestres",
+        "Zombies",
+        "Piratas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Kafka Hibino, nettoyeur de carcasses de kaijus, se retrouve transformé en kaiju lui-même.",
+      "en": "Kafka Hibino, a kaiju carcass cleaner, ends up turning into a kaiju himself.",
+      "es": "Kafka Hibino, limpiador de cadáveres de kaijus, acaba convertido él mismo en kaiju.",
+      "pt": "Kafka Hibino, limpador de carcaças de kaijus, acaba transformado ele próprio em kaiju."
+    }
+  },
+  {
+    "id": "manga_0274",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel terme japonais désigne les mangas destinés à un lectorat de jeunes garçons ?",
+      "en": "Which Japanese term refers to manga aimed at young boys?",
+      "es": "¿Qué término japonés designa los mangas dirigidos a chicos jóvenes?",
+      "pt": "Que termo japonês designa os mangas dirigidos a rapazes jovens?"
+    },
+    "options": {
+      "fr": [
+        "Shōnen",
+        "Shōjo",
+        "Seinen",
+        "Josei"
+      ],
+      "en": [
+        "Shōnen",
+        "Shōjo",
+        "Seinen",
+        "Josei"
+      ],
+      "es": [
+        "Shōnen",
+        "Shōjo",
+        "Seinen",
+        "Josei"
+      ],
+      "pt": [
+        "Shōnen",
+        "Shōjo",
+        "Seinen",
+        "Josei"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Shōnen = jeunes garçons, shōjo = jeunes filles, seinen = jeunes adultes, josei = femmes adultes.",
+      "en": "Shōnen = young boys, shōjo = young girls, seinen = young adult men, josei = adult women.",
+      "es": "Shōnen = chicos jóvenes, shōjo = chicas jóvenes, seinen = adultos jóvenes, josei = mujeres adultas.",
+      "pt": "Shōnen = rapazes jovens, shōjo = raparigas jovens, seinen = jovens adultos, josei = mulheres adultas."
+    }
+  },
+  {
+    "id": "manga_0275",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Made in Abyss », qu'explorent les personnages ?",
+      "en": "In \"Made in Abyss\", what do the characters explore?",
+      "es": "En «Made in Abyss», ¿qué exploran los personajes?",
+      "pt": "Em «Made in Abyss», o que exploram as personagens?"
+    },
+    "options": {
+      "fr": [
+        "Un gigantesque gouffre",
+        "L'espace",
+        "Une jungle",
+        "Un désert"
+      ],
+      "en": [
+        "A gigantic chasm",
+        "Outer space",
+        "A jungle",
+        "A desert"
+      ],
+      "es": [
+        "Un gigantesco abismo",
+        "El espacio",
+        "Una jungla",
+        "Un desierto"
+      ],
+      "pt": [
+        "Um gigantesco abismo",
+        "O espaço",
+        "Uma selva",
+        "Um deserto"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'Abîme est un gouffre immense dont la remontée inflige une « malédiction » de plus en plus terrible.",
+      "en": "The Abyss is a vast chasm whose ascent inflicts an increasingly terrible \"curse\".",
+      "es": "El Abismo es una sima inmensa cuyo ascenso inflige una «maldición» cada vez más terrible.",
+      "pt": "O Abismo é uma fenda imensa cuja subida inflige uma «maldição» cada vez mais terrível."
+    }
+  },
+  {
+    "id": "manga_0276",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Qui est l'auteur du manga « Saint Seiya » ?",
+      "en": "Who is the author of the manga \"Saint Seiya\"?",
+      "es": "¿Quién es el autor del manga «Saint Seiya»?",
+      "pt": "Quem é o autor do manga «Saint Seiya»?"
+    },
+    "options": {
+      "fr": [
+        "Masami Kurumada",
+        "Tsukasa Hojo",
+        "Rumiko Takahashi",
+        "Yoshihiro Togashi"
+      ],
+      "en": [
+        "Masami Kurumada",
+        "Tsukasa Hojo",
+        "Rumiko Takahashi",
+        "Yoshihiro Togashi"
+      ],
+      "es": [
+        "Masami Kurumada",
+        "Tsukasa Hojo",
+        "Rumiko Takahashi",
+        "Yoshihiro Togashi"
+      ],
+      "pt": [
+        "Masami Kurumada",
+        "Tsukasa Hojo",
+        "Rumiko Takahashi",
+        "Yoshihiro Togashi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Masami Kurumada publie « Saint Seiya » dans le Weekly Shōnen Jump à partir de 1986.",
+      "en": "Masami Kurumada began publishing \"Saint Seiya\" in Weekly Shōnen Jump in 1986.",
+      "es": "Masami Kurumada publica «Saint Seiya» en la Weekly Shōnen Jump a partir de 1986.",
+      "pt": "Masami Kurumada publica «Saint Seiya» na Weekly Shōnen Jump a partir de 1986."
+    }
+  },
+  {
+    "id": "manga_0277",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle mangaka a créé « Ranma ½ » et « Inu-Yasha » ?",
+      "en": "Which manga author created \"Ranma ½\" and \"Inuyasha\"?",
+      "es": "¿Qué mangaka creó «Ranma ½» e «Inuyasha»?",
+      "pt": "Que mangaka criou «Ranma ½» e «Inuyasha»?"
+    },
+    "options": {
+      "fr": [
+        "Rumiko Takahashi",
+        "Naoko Takeuchi",
+        "Ai Yazawa",
+        "Natsuki Takaya"
+      ],
+      "en": [
+        "Rumiko Takahashi",
+        "Naoko Takeuchi",
+        "Ai Yazawa",
+        "Natsuki Takaya"
+      ],
+      "es": [
+        "Rumiko Takahashi",
+        "Naoko Takeuchi",
+        "Ai Yazawa",
+        "Natsuki Takaya"
+      ],
+      "pt": [
+        "Rumiko Takahashi",
+        "Naoko Takeuchi",
+        "Ai Yazawa",
+        "Natsuki Takaya"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Rumiko Takahashi est l'une des mangakas les plus vendues au monde (Urusei Yatsura, Maison Ikkoku, Ranma ½, Inu-Yasha).",
+      "en": "Rumiko Takahashi is one of the best-selling manga authors worldwide (Urusei Yatsura, Maison Ikkoku, Ranma ½, Inuyasha).",
+      "es": "Rumiko Takahashi es una de las mangakas más vendidas del mundo (Urusei Yatsura, Maison Ikkoku, Ranma ½, Inuyasha).",
+      "pt": "Rumiko Takahashi é uma das mangakas mais vendidas do mundo (Urusei Yatsura, Maison Ikkoku, Ranma ½, Inuyasha)."
+    }
+  },
+  {
+    "id": "manga_0278",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel art martial légendaire Kenshiro pratique-t-il dans « Ken le Survivant » ?",
+      "en": "Which legendary martial art does Kenshiro practise in \"Fist of the North Star\"?",
+      "es": "¿Qué arte marcial legendario practica Kenshiro en «El Puño de la Estrella del Norte»?",
+      "pt": "Que arte marcial lendária pratica Kenshiro em «Punho da Estrela do Norte»?"
+    },
+    "options": {
+      "fr": [
+        "Le Hokuto Shinken",
+        "Le Nanto Seiken",
+        "Le Gentle Fist",
+        "Le Baguazhang"
+      ],
+      "en": [
+        "Hokuto Shinken",
+        "Nanto Seiken",
+        "Gentle Fist",
+        "Baguazhang"
+      ],
+      "es": [
+        "El Hokuto Shinken",
+        "El Nanto Seiken",
+        "El Puño Suave",
+        "El Baguazhang"
+      ],
+      "pt": [
+        "O Hokuto Shinken",
+        "O Nanto Seiken",
+        "O Punho Suave",
+        "O Baguazhang"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Hokuto Shinken frappe les points de pression vitaux ; son rival, le Nanto Seiken, tranche.",
+      "en": "Hokuto Shinken strikes vital pressure points; its rival style, Nanto Seiken, cuts.",
+      "es": "El Hokuto Shinken golpea los puntos vitales; su rival, el Nanto Seiken, corta.",
+      "pt": "O Hokuto Shinken atinge os pontos vitais; o rival, o Nanto Seiken, corta."
+    }
+  },
+  {
+    "id": "manga_0279",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Qui a réalisé le film « Ghost in the Shell » de 1995 ?",
+      "en": "Who directed the 1995 film \"Ghost in the Shell\"?",
+      "es": "¿Quién dirigió la película «Ghost in the Shell» de 1995?",
+      "pt": "Quem realizou o filme «Ghost in the Shell» de 1995?"
+    },
+    "options": {
+      "fr": [
+        "Mamoru Oshii",
+        "Katsuhiro Ōtomo",
+        "Satoshi Kon",
+        "Hideaki Anno"
+      ],
+      "en": [
+        "Mamoru Oshii",
+        "Katsuhiro Ōtomo",
+        "Satoshi Kon",
+        "Hideaki Anno"
+      ],
+      "es": [
+        "Mamoru Oshii",
+        "Katsuhiro Ōtomo",
+        "Satoshi Kon",
+        "Hideaki Anno"
+      ],
+      "pt": [
+        "Mamoru Oshii",
+        "Katsuhiro Ōtomo",
+        "Satoshi Kon",
+        "Hideaki Anno"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Mamoru Oshii adapte le manga de Masamune Shirow ; le film influencera durablement la SF, dont « Matrix ».",
+      "en": "Mamoru Oshii adapted Masamune Shirow's manga; the film went on to influence sci-fi, including \"The Matrix\".",
+      "es": "Mamoru Oshii adapta el manga de Masamune Shirow; la película influirá en la ciencia ficción, incluida «Matrix».",
+      "pt": "Mamoru Oshii adapta o manga de Masamune Shirow; o filme influenciará a ficção científica, incluindo «Matrix»."
+    }
+  },
+  {
+    "id": "manga_0280",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Comment s'appelle la cyborg protagoniste de « Ghost in the Shell » ?",
+      "en": "What is the name of the cyborg protagonist of \"Ghost in the Shell\"?",
+      "es": "¿Cómo se llama la ciborg protagonista de «Ghost in the Shell»?",
+      "pt": "Como se chama a ciborgue protagonista de «Ghost in the Shell»?"
+    },
+    "options": {
+      "fr": [
+        "Motoko Kusanagi",
+        "Rei Ayanami",
+        "Alita",
+        "Faye Valentine"
+      ],
+      "en": [
+        "Motoko Kusanagi",
+        "Rei Ayanami",
+        "Alita",
+        "Faye Valentine"
+      ],
+      "es": [
+        "Motoko Kusanagi",
+        "Rei Ayanami",
+        "Alita",
+        "Faye Valentine"
+      ],
+      "pt": [
+        "Motoko Kusanagi",
+        "Rei Ayanami",
+        "Alita",
+        "Faye Valentine"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le major Motoko Kusanagi dirige la Section 9, unité antiterroriste d'un Japon hyperconnecté.",
+      "en": "Major Motoko Kusanagi leads Section 9, a counter-terrorism unit in a hyper-connected Japan.",
+      "es": "La mayor Motoko Kusanagi dirige la Sección 9, unidad antiterrorista de un Japón hiperconectado.",
+      "pt": "A major Motoko Kusanagi dirige a Secção 9, unidade antiterrorista de um Japão hiperligado."
+    }
+  },
+  {
+    "id": "manga_0281",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur est l'auteur de « Your Name », « Les Enfants du temps » et « Suzume » ?",
+      "en": "Which director made \"Your Name\", \"Weathering with You\" and \"Suzume\"?",
+      "es": "¿Qué director realizó «Your Name», «El tiempo contigo» y «Suzume»?",
+      "pt": "Que realizador fez «Your Name», «O Tempo Contigo» e «Suzume»?"
+    },
+    "options": {
+      "fr": [
+        "Makoto Shinkai",
+        "Hayao Miyazaki",
+        "Mamoru Hosoda",
+        "Naoko Yamada"
+      ],
+      "en": [
+        "Makoto Shinkai",
+        "Hayao Miyazaki",
+        "Mamoru Hosoda",
+        "Naoko Yamada"
+      ],
+      "es": [
+        "Makoto Shinkai",
+        "Hayao Miyazaki",
+        "Mamoru Hosoda",
+        "Naoko Yamada"
+      ],
+      "pt": [
+        "Makoto Shinkai",
+        "Hayao Miyazaki",
+        "Mamoru Hosoda",
+        "Naoko Yamada"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Makoto Shinkai signe une trilogie thématique sur la catastrophe et le lien, portée par ses ciels très travaillés.",
+      "en": "Makoto Shinkai made a thematic trilogy about disaster and connection, known for its elaborate skies.",
+      "es": "Makoto Shinkai firma una trilogía temática sobre la catástrofe y el vínculo, con sus cielos muy trabajados.",
+      "pt": "Makoto Shinkai assina uma trilogia temática sobre a catástrofe e o vínculo, com os seus céus muito trabalhados."
+    }
+  },
+  {
+    "id": "manga_0282",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur, mort en 2010, a signé « Perfect Blue » et « Paprika » ?",
+      "en": "Which director, who died in 2010, made \"Perfect Blue\" and \"Paprika\"?",
+      "es": "¿Qué director, fallecido en 2010, firmó «Perfect Blue» y «Paprika»?",
+      "pt": "Que realizador, falecido em 2010, assinou «Perfect Blue» e «Paprika»?"
+    },
+    "options": {
+      "fr": [
+        "Satoshi Kon",
+        "Mamoru Oshii",
+        "Isao Takahata",
+        "Shinichirō Watanabe"
+      ],
+      "en": [
+        "Satoshi Kon",
+        "Mamoru Oshii",
+        "Isao Takahata",
+        "Shinichirō Watanabe"
+      ],
+      "es": [
+        "Satoshi Kon",
+        "Mamoru Oshii",
+        "Isao Takahata",
+        "Shinichirō Watanabe"
+      ],
+      "pt": [
+        "Satoshi Kon",
+        "Mamoru Oshii",
+        "Isao Takahata",
+        "Shinichirō Watanabe"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Satoshi Kon brouillait rêve et réalité par le montage ; son œuvre a inspiré Aronofsky et Nolan.",
+      "en": "Satoshi Kon blurred dream and reality through editing; his work inspired Aronofsky and Nolan.",
+      "es": "Satoshi Kon difuminaba sueño y realidad mediante el montaje; su obra inspiró a Aronofsky y Nolan.",
+      "pt": "Satoshi Kon confundia sonho e realidade pela montagem; a sua obra inspirou Aronofsky e Nolan."
+    }
+  },
+  {
+    "id": "manga_0283",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Steins;Gate », quel objet du quotidien est détourné en machine à envoyer des messages dans le passé ?",
+      "en": "In \"Steins;Gate\", which everyday appliance is turned into a machine that sends messages to the past?",
+      "es": "En «Steins;Gate», ¿qué objeto cotidiano se convierte en una máquina para enviar mensajes al pasado?",
+      "pt": "Em «Steins;Gate», que objeto do quotidiano é transformado numa máquina para enviar mensagens ao passado?"
+    },
+    "options": {
+      "fr": [
+        "Un four à micro-ondes",
+        "Un réfrigérateur",
+        "Un téléviseur",
+        "Un lave-linge"
+      ],
+      "en": [
+        "A microwave oven",
+        "A refrigerator",
+        "A television",
+        "A washing machine"
+      ],
+      "es": [
+        "Un microondas",
+        "Un frigorífico",
+        "Un televisor",
+        "Una lavadora"
+      ],
+      "pt": [
+        "Um micro-ondas",
+        "Um frigorífico",
+        "Uma televisão",
+        "Uma máquina de lavar"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le « Phone Microwave », relié à un téléphone, envoie des « D-mails » dans le passé depuis un labo d'Akihabara.",
+      "en": "The \"Phone Microwave\", hooked to a phone, sends \"D-mails\" into the past from a lab in Akihabara.",
+      "es": "El «Phone Microwave», conectado a un teléfono, envía «D-mails» al pasado desde un laboratorio de Akihabara.",
+      "pt": "O «Phone Microwave», ligado a um telemóvel, envia «D-mails» para o passado de um laboratório em Akihabara."
+    }
+  },
+  {
+    "id": "manga_0284",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Re:Zero », quel pouvoir involontaire possède Subaru ?",
+      "en": "In \"Re:Zero\", what involuntary power does Subaru have?",
+      "es": "En «Re:Zero», ¿qué poder involuntario posee Subaru?",
+      "pt": "Em «Re:Zero», que poder involuntário possui Subaru?"
+    },
+    "options": {
+      "fr": [
+        "Revenir dans le temps en mourant",
+        "Lire les pensées",
+        "Se rendre invisible",
+        "Contrôler le feu"
+      ],
+      "en": [
+        "Going back in time by dying",
+        "Reading minds",
+        "Turning invisible",
+        "Controlling fire"
+      ],
+      "es": [
+        "Volver en el tiempo al morir",
+        "Leer la mente",
+        "Volverse invisible",
+        "Controlar el fuego"
+      ],
+      "pt": [
+        "Voltar no tempo ao morrer",
+        "Ler pensamentos",
+        "Tornar-se invisível",
+        "Controlar o fogo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le « Retour par la mort » le renvoie à un point de sauvegarde ; il ne peut en parler à personne.",
+      "en": "\"Return by Death\" sends him back to a checkpoint; he cannot tell anyone about it.",
+      "es": "El «Retorno por la muerte» lo devuelve a un punto de guardado; no puede contárselo a nadie.",
+      "pt": "O «Regresso pela Morte» devolve-o a um ponto de gravação; não pode contar a ninguém."
+    }
+  },
+  {
+    "id": "manga_0285",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio a animé « Frieren » ?",
+      "en": "Which studio animated \"Frieren\"?",
+      "es": "¿Qué estudio animó «Frieren»?",
+      "pt": "Que estúdio animou «Frieren»?"
+    },
+    "options": {
+      "fr": [
+        "Madhouse",
+        "Ufotable",
+        "MAPPA",
+        "Bones"
+      ],
+      "en": [
+        "Madhouse",
+        "Ufotable",
+        "MAPPA",
+        "Bones"
+      ],
+      "es": [
+        "Madhouse",
+        "Ufotable",
+        "MAPPA",
+        "Bones"
+      ],
+      "pt": [
+        "Madhouse",
+        "Ufotable",
+        "MAPPA",
+        "Bones"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Madhouse, également derrière « Hunter x Hunter » (2011) et « One Punch Man » saison 1.",
+      "en": "Madhouse, also behind \"Hunter x Hunter\" (2011) and \"One Punch Man\" season 1.",
+      "es": "Madhouse, también detrás de «Hunter x Hunter» (2011) y «One Punch Man» temporada 1.",
+      "pt": "Madhouse, também por trás de «Hunter x Hunter» (2011) e «One Punch Man» temporada 1."
+    }
+  },
+  {
+    "id": "manga_0286",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "De quel pays vient à l'origine « Solo Leveling » ?",
+      "en": "Which country does \"Solo Leveling\" originally come from?",
+      "es": "¿De qué país procede originalmente «Solo Leveling»?",
+      "pt": "De que país vem originalmente «Solo Leveling»?"
+    },
+    "options": {
+      "fr": [
+        "La Corée du Sud",
+        "Le Japon",
+        "La Chine",
+        "Taïwan"
+      ],
+      "en": [
+        "South Korea",
+        "Japan",
+        "China",
+        "Taiwan"
+      ],
+      "es": [
+        "Corea del Sur",
+        "Japón",
+        "China",
+        "Taiwán"
+      ],
+      "pt": [
+        "A Coreia do Sul",
+        "O Japão",
+        "A China",
+        "Taiwan"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est un webtoon coréen (manhwa) tiré du roman de Chugong, adapté en anime japonais en 2024.",
+      "en": "It is a Korean webtoon (manhwa) based on Chugong's novel, adapted into a Japanese anime in 2024.",
+      "es": "Es un webtoon coreano (manhwa) basado en la novela de Chugong, adaptado a anime japonés en 2024.",
+      "pt": "É um webtoon coreano (manhwa) baseado no romance de Chugong, adaptado a anime japonês em 2024."
+    }
+  },
+  {
+    "id": "manga_0287",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Oshi no Ko », quel milieu la série met-elle en scène de façon critique ?",
+      "en": "In \"Oshi no Ko\", which industry does the series portray critically?",
+      "es": "En «Oshi no Ko», ¿qué mundo retrata la serie de forma crítica?",
+      "pt": "Em «Oshi no Ko», que meio retrata a série de forma crítica?"
+    },
+    "options": {
+      "fr": [
+        "Le show-business japonais",
+        "La finance",
+        "L'armée",
+        "La médecine"
+      ],
+      "en": [
+        "Japanese show business",
+        "Finance",
+        "The military",
+        "Medicine"
+      ],
+      "es": [
+        "El mundo del espectáculo japonés",
+        "Las finanzas",
+        "El ejército",
+        "La medicina"
+      ],
+      "pt": [
+        "O show-business japonês",
+        "As finanças",
+        "O exército",
+        "A medicina"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série dissèque l'industrie des idoles, la téléréalité et le harcèlement en ligne.",
+      "en": "The series dissects the idol industry, reality TV and online harassment.",
+      "es": "La serie disecciona la industria de los ídolos, los realities y el acoso en línea.",
+      "pt": "A série disseca a indústria dos ídolos, os realities e o assédio online."
+    }
+  },
+  {
+    "id": "manga_0288",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel magazine hebdomadaire de Shūeisha a prépublié « One Piece », « Naruto » et « Dragon Ball » ?",
+      "en": "Which weekly Shueisha magazine serialised \"One Piece\", \"Naruto\" and \"Dragon Ball\"?",
+      "es": "¿Qué revista semanal de Shueisha publicó «One Piece», «Naruto» y «Dragon Ball»?",
+      "pt": "Que revista semanal da Shueisha publicou «One Piece», «Naruto» e «Dragon Ball»?"
+    },
+    "options": {
+      "fr": [
+        "Weekly Shōnen Jump",
+        "Weekly Shōnen Magazine",
+        "Weekly Shōnen Sunday",
+        "Young Animal"
+      ],
+      "en": [
+        "Weekly Shōnen Jump",
+        "Weekly Shōnen Magazine",
+        "Weekly Shōnen Sunday",
+        "Young Animal"
+      ],
+      "es": [
+        "Weekly Shōnen Jump",
+        "Weekly Shōnen Magazine",
+        "Weekly Shōnen Sunday",
+        "Young Animal"
+      ],
+      "pt": [
+        "Weekly Shōnen Jump",
+        "Weekly Shōnen Magazine",
+        "Weekly Shōnen Sunday",
+        "Young Animal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Weekly Shōnen Jump de Shūeisha est le magazine de prépublication le plus vendu de l'histoire du manga.",
+      "en": "Shueisha's Weekly Shōnen Jump is the best-selling serialisation magazine in manga history.",
+      "es": "La Weekly Shōnen Jump de Shueisha es la revista de prepublicación más vendida de la historia del manga.",
+      "pt": "A Weekly Shōnen Jump da Shueisha é a revista de pré-publicação mais vendida da história do manga."
+    }
+  },
+  {
+    "id": "manga_0289",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Comment appelle-t-on le volume relié qui rassemble plusieurs chapitres d'un manga ?",
+      "en": "What is the name of the collected volume gathering several manga chapters?",
+      "es": "¿Cómo se llama el volumen recopilatorio que reúne varios capítulos de un manga?",
+      "pt": "Como se chama o volume que reúne vários capítulos de um manga?"
+    },
+    "options": {
+      "fr": [
+        "Le tankōbon",
+        "Le doujinshi",
+        "Le light novel",
+        "Le webtoon"
+      ],
+      "en": [
+        "Tankōbon",
+        "Doujinshi",
+        "Light novel",
+        "Webtoon"
+      ],
+      "es": [
+        "El tankōbon",
+        "El doujinshi",
+        "La light novel",
+        "El webtoon"
+      ],
+      "pt": [
+        "O tankōbon",
+        "O doujinshi",
+        "A light novel",
+        "O webtoon"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Après la prépublication en magazine, les chapitres sont reliés en tankōbon, le format vendu en librairie.",
+      "en": "After magazine serialisation, chapters are collected into tankōbon, the format sold in bookshops.",
+      "es": "Tras la prepublicación en revista, los capítulos se recopilan en tankōbon, el formato de librería.",
+      "pt": "Após a pré-publicação em revista, os capítulos são reunidos em tankōbon, o formato vendido em livrarias."
+    }
+  },
+  {
+    "id": "manga_0290",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio, fondé par d'anciens de Gainax, a produit « Kill la Kill » ?",
+      "en": "Which studio, founded by Gainax veterans, produced \"Kill la Kill\"?",
+      "es": "¿Qué estudio, fundado por antiguos de Gainax, produjo «Kill la Kill»?",
+      "pt": "Que estúdio, fundado por antigos da Gainax, produziu «Kill la Kill»?"
+    },
+    "options": {
+      "fr": [
+        "Studio Trigger",
+        "Studio Bones",
+        "Studio Pierrot",
+        "Studio Wit"
+      ],
+      "en": [
+        "Studio Trigger",
+        "Studio Bones",
+        "Studio Pierrot",
+        "Wit Studio"
+      ],
+      "es": [
+        "Studio Trigger",
+        "Studio Bones",
+        "Studio Pierrot",
+        "Wit Studio"
+      ],
+      "pt": [
+        "Studio Trigger",
+        "Studio Bones",
+        "Studio Pierrot",
+        "Wit Studio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Trigger, fondé en 2011 par Hiroyuki Imaishi et Masahiko Ōtsuka, prolonge le style explosif de « Gurren Lagann ».",
+      "en": "Trigger, founded in 2011 by Hiroyuki Imaishi and Masahiko Ōtsuka, extends the explosive style of \"Gurren Lagann\".",
+      "es": "Trigger, fundado en 2011 por Hiroyuki Imaishi y Masahiko Ōtsuka, prolonga el estilo explosivo de «Gurren Lagann».",
+      "pt": "A Trigger, fundada em 2011 por Hiroyuki Imaishi e Masahiko Ōtsuka, prolonga o estilo explosivo de «Gurren Lagann»."
+    }
+  },
+  {
+    "id": "manga_0291",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel mangaka a dessiné « Slam Dunk » puis « Vagabond » ?",
+      "en": "Which manga artist drew \"Slam Dunk\" and then \"Vagabond\"?",
+      "es": "¿Qué mangaka dibujó «Slam Dunk» y luego «Vagabond»?",
+      "pt": "Que mangaka desenhou «Slam Dunk» e depois «Vagabond»?"
+    },
+    "options": {
+      "fr": [
+        "Takehiko Inoue",
+        "Naoki Urasawa",
+        "Kentaro Miura",
+        "Tsugumi Ohba"
+      ],
+      "en": [
+        "Takehiko Inoue",
+        "Naoki Urasawa",
+        "Kentaro Miura",
+        "Tsugumi Ohba"
+      ],
+      "es": [
+        "Takehiko Inoue",
+        "Naoki Urasawa",
+        "Kentaro Miura",
+        "Tsugumi Ohba"
+      ],
+      "pt": [
+        "Takehiko Inoue",
+        "Naoki Urasawa",
+        "Kentaro Miura",
+        "Tsugumi Ohba"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Takehiko Inoue est passé du basket lycéen à la vie romancée du sabreur Miyamoto Musashi.",
+      "en": "Takehiko Inoue moved from high-school basketball to a fictionalised life of swordsman Miyamoto Musashi.",
+      "es": "Takehiko Inoue pasó del baloncesto escolar a la vida novelada del espadachín Miyamoto Musashi.",
+      "pt": "Takehiko Inoue passou do basquetebol liceal à vida romanceada do espadachim Miyamoto Musashi."
+    }
+  },
+  {
+    "id": "manga_0292",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio a animé « A Silent Voice » (Koe no Katachi) ?",
+      "en": "Which studio animated \"A Silent Voice\" (Koe no Katachi)?",
+      "es": "¿Qué estudio animó «A Silent Voice» (Koe no Katachi)?",
+      "pt": "Que estúdio animou «A Silent Voice» (Koe no Katachi)?"
+    },
+    "options": {
+      "fr": [
+        "Kyoto Animation",
+        "Studio Ghibli",
+        "Toei Animation",
+        "Sunrise"
+      ],
+      "en": [
+        "Kyoto Animation",
+        "Studio Ghibli",
+        "Toei Animation",
+        "Sunrise"
+      ],
+      "es": [
+        "Kyoto Animation",
+        "Studio Ghibli",
+        "Toei Animation",
+        "Sunrise"
+      ],
+      "pt": [
+        "Kyoto Animation",
+        "Studio Ghibli",
+        "Toei Animation",
+        "Sunrise"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de 2016, réalisé par Naoko Yamada, traite du harcèlement scolaire et de la surdité.",
+      "en": "The 2016 film, directed by Naoko Yamada, deals with school bullying and deafness.",
+      "es": "La película de 2016, dirigida por Naoko Yamada, trata el acoso escolar y la sordera.",
+      "pt": "O filme de 2016, realizado por Naoko Yamada, aborda o bullying escolar e a surdez."
+    }
+  },
+  {
+    "id": "manga_0293",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Bocchi the Rock! », de quel instrument joue l'héroïne Hitori Gotoh ?",
+      "en": "In \"Bocchi the Rock!\", which instrument does heroine Hitori Gotoh play?",
+      "es": "En «Bocchi the Rock!», ¿qué instrumento toca la heroína Hitori Gotoh?",
+      "pt": "Em «Bocchi the Rock!», que instrumento toca a heroína Hitori Gotoh?"
+    },
+    "options": {
+      "fr": [
+        "La guitare",
+        "La batterie",
+        "Le clavier",
+        "La basse"
+      ],
+      "en": [
+        "The guitar",
+        "The drums",
+        "The keyboard",
+        "The bass"
+      ],
+      "es": [
+        "La guitarra",
+        "La batería",
+        "El teclado",
+        "El bajo"
+      ],
+      "pt": [
+        "A guitarra",
+        "A bateria",
+        "O teclado",
+        "O baixo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Guitariste surdouée mais paralysée par la timidité, Bocchi rejoint le groupe Kessoku Band.",
+      "en": "A gifted guitarist paralysed by shyness, Bocchi joins the band Kessoku Band.",
+      "es": "Guitarrista superdotada pero paralizada por la timidez, Bocchi se une a Kessoku Band.",
+      "pt": "Guitarrista sobredotada mas paralisada pela timidez, Bocchi junta-se aos Kessoku Band."
+    }
+  },
+  {
+    "id": "manga_0294",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel personnage de fiction français Lupin III a-t-il pour grand-père selon la série ?",
+      "en": "According to the series, which French fictional character is Lupin III's grandfather?",
+      "es": "Según la serie, ¿qué personaje de ficción francés es el abuelo de Lupin III?",
+      "pt": "Segundo a série, que personagem de ficção francesa é o avô de Lupin III?"
+    },
+    "options": {
+      "fr": [
+        "Arsène Lupin",
+        "Rocambole",
+        "Fantômas",
+        "Le comte de Monte-Cristo"
+      ],
+      "en": [
+        "Arsène Lupin",
+        "Rocambole",
+        "Fantômas",
+        "The Count of Monte Cristo"
+      ],
+      "es": [
+        "Arsène Lupin",
+        "Rocambole",
+        "Fantomas",
+        "El conde de Montecristo"
+      ],
+      "pt": [
+        "Arsène Lupin",
+        "Rocambole",
+        "Fantomas",
+        "O conde de Monte Cristo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Créé par Monkey Punch en 1967, Lupin III se présente comme le petit-fils du gentleman cambrioleur de Maurice Leblanc.",
+      "en": "Created by Monkey Punch in 1967, Lupin III is presented as the grandson of Maurice Leblanc's gentleman thief.",
+      "es": "Creado por Monkey Punch en 1967, Lupin III es el nieto del ladrón de guante blanco de Maurice Leblanc.",
+      "pt": "Criado por Monkey Punch em 1967, Lupin III é o neto do ladrão cavalheiro de Maurice Leblanc."
+    }
+  },
+  {
+    "id": "manga_0295",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Cat's Eye », quel lien unit les trois voleuses ?",
+      "en": "In \"Cat's Eye\", what connects the three thieves?",
+      "es": "En «Cat's Eye», ¿qué une a las tres ladronas?",
+      "pt": "Em «Cat's Eye», o que une as três ladras?"
+    },
+    "options": {
+      "fr": [
+        "Ce sont trois sœurs",
+        "Ce sont des cousines",
+        "Ce sont des collègues",
+        "Ce sont des jumelles"
+      ],
+      "en": [
+        "They are three sisters",
+        "They are cousins",
+        "They are colleagues",
+        "They are twins"
+      ],
+      "es": [
+        "Son tres hermanas",
+        "Son primas",
+        "Son colegas",
+        "Son gemelas"
+      ],
+      "pt": [
+        "São três irmãs",
+        "São primas",
+        "São colegas",
+        "São gémeas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les sœurs Kisugi tiennent le café Cat's Eye et volent les œuvres de la collection de leur père disparu.",
+      "en": "The Kisugi sisters run the Cat's Eye café and steal artworks from their missing father's collection.",
+      "es": "Las hermanas Kisugi regentan el café Cat's Eye y roban obras de la colección de su padre desaparecido.",
+      "pt": "As irmãs Kisugi gerem o café Cat's Eye e roubam obras da coleção do pai desaparecido."
+    }
+  },
+  {
+    "id": "manga_0296",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel mangaka a créé à la fois « Nicky Larson » (City Hunter) et « Cat's Eye » ?",
+      "en": "Which manga author created both \"City Hunter\" and \"Cat's Eye\"?",
+      "es": "¿Qué mangaka creó tanto «City Hunter» como «Cat's Eye»?",
+      "pt": "Que mangaka criou tanto «City Hunter» como «Cat's Eye»?"
+    },
+    "options": {
+      "fr": [
+        "Tsukasa Hojo",
+        "Masami Kurumada",
+        "Gosho Aoyama",
+        "Akira Toriyama"
+      ],
+      "en": [
+        "Tsukasa Hojo",
+        "Masami Kurumada",
+        "Gosho Aoyama",
+        "Akira Toriyama"
+      ],
+      "es": [
+        "Tsukasa Hojo",
+        "Masami Kurumada",
+        "Gosho Aoyama",
+        "Akira Toriyama"
+      ],
+      "pt": [
+        "Tsukasa Hojo",
+        "Masami Kurumada",
+        "Gosho Aoyama",
+        "Akira Toriyama"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Tsukasa Hojo a signé les deux séries, énormes succès en France dans les années 1990.",
+      "en": "Tsukasa Hojo created both series, huge hits in France during the 1990s.",
+      "es": "Tsukasa Hojo firmó ambas series, enormes éxitos en Francia en los años noventa.",
+      "pt": "Tsukasa Hojo assinou ambas as séries, enormes sucessos em França nos anos 90."
+    }
+  },
+  {
+    "id": "manga_0297",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel mangaka est l'auteur de « Détective Conan » ?",
+      "en": "Which manga author created \"Detective Conan\"?",
+      "es": "¿Qué mangaka es el autor de «Detective Conan»?",
+      "pt": "Que mangaka é o autor de «Detetive Conan»?"
+    },
+    "options": {
+      "fr": [
+        "Gosho Aoyama",
+        "Naoki Urasawa",
+        "Tsukasa Hojo",
+        "Hirohiko Araki"
+      ],
+      "en": [
+        "Gosho Aoyama",
+        "Naoki Urasawa",
+        "Tsukasa Hojo",
+        "Hirohiko Araki"
+      ],
+      "es": [
+        "Gosho Aoyama",
+        "Naoki Urasawa",
+        "Tsukasa Hojo",
+        "Hirohiko Araki"
+      ],
+      "pt": [
+        "Gosho Aoyama",
+        "Naoki Urasawa",
+        "Tsukasa Hojo",
+        "Hirohiko Araki"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Gosho Aoyama publie la série depuis 1994 : c'est l'un des mangas les plus longs encore en cours.",
+      "en": "Gosho Aoyama has published the series since 1994: one of the longest manga still running.",
+      "es": "Gosho Aoyama publica la serie desde 1994: uno de los mangas más largos aún en curso.",
+      "pt": "Gosho Aoyama publica a série desde 1994: um dos mangas mais longos ainda em curso."
+    }
+  },
+  {
+    "id": "manga_0298",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Dandadan », quels deux domaines du paranormal s'opposent les héros ?",
+      "en": "In \"Dandadan\", which two paranormal beliefs do the heroes argue about?",
+      "es": "En «Dandadan», ¿sobre qué dos ámbitos de lo paranormal discuten los héroes?",
+      "pt": "Em «Dandadan», sobre que dois domínios do paranormal discutem os heróis?"
+    },
+    "options": {
+      "fr": [
+        "Les fantômes et les extraterrestres",
+        "Les vampires et les loups-garous",
+        "Les anges et les démons",
+        "Les sorcières et les dragons"
+      ],
+      "en": [
+        "Ghosts and aliens",
+        "Vampires and werewolves",
+        "Angels and demons",
+        "Witches and dragons"
+      ],
+      "es": [
+        "Los fantasmas y los extraterrestres",
+        "Los vampiros y los hombres lobo",
+        "Los ángeles y los demonios",
+        "Las brujas y los dragones"
+      ],
+      "pt": [
+        "Os fantasmas e os extraterrestres",
+        "Os vampiros e os lobisomens",
+        "Os anjos e os demónios",
+        "As bruxas e os dragões"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Momo croit aux fantômes, Okarun aux extraterrestres : le pari qui lance l'intrigue leur donne raison aux deux.",
+      "en": "Momo believes in ghosts, Okarun in aliens: the bet that kicks off the plot proves both right.",
+      "es": "Momo cree en fantasmas, Okarun en extraterrestres: la apuesta inicial les da la razón a ambos.",
+      "pt": "Momo acredita em fantasmas, Okarun em extraterrestres: a aposta inicial dá razão a ambos."
     }
   }
 ]
