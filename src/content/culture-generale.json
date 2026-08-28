@@ -16182,5 +16182,1809 @@
       "es": "El CO₂ domina por volumen; el metano calienta más pero permanece menos tiempo.",
       "pt": "O CO₂ domina em volume; o metano aquece mais mas permanece menos tempo."
     }
+  },
+  {
+    "id": "culture_0378",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Qui a écrit « Le Malade imaginaire » ?",
+      "en": "Who wrote \"The Imaginary Invalid\"?",
+      "es": "¿Quién escribió «El enfermo imaginario»?",
+      "pt": "Quem escreveu «O Doente Imaginário»?"
+    },
+    "options": {
+      "fr": [
+        "Molière",
+        "Racine",
+        "Corneille",
+        "Beaumarchais"
+      ],
+      "en": [
+        "Molière",
+        "Racine",
+        "Corneille",
+        "Beaumarchais"
+      ],
+      "es": [
+        "Molière",
+        "Racine",
+        "Corneille",
+        "Beaumarchais"
+      ],
+      "pt": [
+        "Molière",
+        "Racine",
+        "Corneille",
+        "Beaumarchais"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Molière est mort quelques heures après avoir joué cette pièce, en 1673.",
+      "en": "Molière died a few hours after performing in this play, in 1673.",
+      "es": "Molière murió pocas horas después de representar esta obra, en 1673.",
+      "pt": "Molière morreu poucas horas depois de representar esta peça, em 1673."
+    }
+  },
+  {
+    "id": "culture_0379",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel écrivain français a écrit « Germinal » ?",
+      "en": "Which French writer wrote \"Germinal\"?",
+      "es": "¿Qué escritor francés escribió «Germinal»?",
+      "pt": "Que escritor francês escreveu «Germinal»?"
+    },
+    "options": {
+      "fr": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Guy de Maupassant"
+      ],
+      "en": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Guy de Maupassant"
+      ],
+      "es": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Guy de Maupassant"
+      ],
+      "pt": [
+        "Émile Zola",
+        "Victor Hugo",
+        "Gustave Flaubert",
+        "Guy de Maupassant"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le roman décrit une grève de mineurs dans le nord de la France en 1884.",
+      "en": "The novel depicts a miners' strike in northern France in 1884.",
+      "es": "La novela describe una huelga de mineros en el norte de Francia en 1884.",
+      "pt": "O romance descreve uma greve de mineiros no norte de França em 1884."
+    }
+  },
+  {
+    "id": "culture_0380",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel appareil transforme l'énergie mécanique en électricité ?",
+      "en": "Which device turns mechanical energy into electricity?",
+      "es": "¿Qué aparato transforma la energía mecánica en electricidad?",
+      "pt": "Que aparelho transforma energia mecânica em eletricidade?"
+    },
+    "options": {
+      "fr": [
+        "L'alternateur",
+        "Le transformateur",
+        "La batterie",
+        "La résistance"
+      ],
+      "en": [
+        "The alternator",
+        "The transformer",
+        "The battery",
+        "The resistor"
+      ],
+      "es": [
+        "El alternador",
+        "El transformador",
+        "La batería",
+        "La resistencia"
+      ],
+      "pt": [
+        "O alternador",
+        "O transformador",
+        "A bateria",
+        "A resistência"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est le principe des centrales : une turbine fait tourner un alternateur.",
+      "en": "That is how power stations work: a turbine spins an alternator.",
+      "es": "Es el principio de las centrales: una turbina hace girar un alternador.",
+      "pt": "É o princípio das centrais: uma turbina faz girar um alternador."
+    }
+  },
+  {
+    "id": "culture_0381",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de sens l'être humain possède-t-il traditionnellement ?",
+      "en": "How many senses do humans traditionally have?",
+      "es": "¿Cuántos sentidos tiene tradicionalmente el ser humano?",
+      "pt": "Quantos sentidos tem tradicionalmente o ser humano?"
+    },
+    "options": {
+      "fr": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "en": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "es": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "pt": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Vue, ouïe, odorat, goût et toucher. La science en identifie en réalité bien davantage.",
+      "en": "Sight, hearing, smell, taste and touch. Science actually identifies many more.",
+      "es": "Vista, oído, olfato, gusto y tacto. La ciencia identifica en realidad muchos más.",
+      "pt": "Visão, audição, olfato, paladar e tato. A ciência identifica na verdade muitos mais."
+    }
+  },
+  {
+    "id": "culture_0382",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est l'animal terrestre le plus rapide ?",
+      "en": "Which is the fastest land animal?",
+      "es": "¿Cuál es el animal terrestre más rápido?",
+      "pt": "Qual é o animal terrestre mais rápido?"
+    },
+    "options": {
+      "fr": [
+        "Le guépard",
+        "Le lion",
+        "L'antilope",
+        "Le cheval"
+      ],
+      "en": [
+        "The cheetah",
+        "The lion",
+        "The antelope",
+        "The horse"
+      ],
+      "es": [
+        "El guepardo",
+        "El león",
+        "El antílope",
+        "El caballo"
+      ],
+      "pt": [
+        "A chita",
+        "O leão",
+        "O antílope",
+        "O cavalo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il ne tient sa vitesse maximale que sur quelques centaines de mètres.",
+      "en": "It can only sustain its top speed over a few hundred metres.",
+      "es": "Solo mantiene su velocidad máxima unos cientos de metros.",
+      "pt": "Só mantém a velocidade máxima por algumas centenas de metros."
+    }
+  },
+  {
+    "id": "culture_0383",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle est la principale source d'énergie électrique en France ?",
+      "en": "What is France's main source of electrical power?",
+      "es": "¿Cuál es la principal fuente de electricidad en Francia?",
+      "pt": "Qual é a principal fonte de eletricidade em França?"
+    },
+    "options": {
+      "fr": [
+        "Le nucléaire",
+        "Le charbon",
+        "Le gaz",
+        "Le solaire"
+      ],
+      "en": [
+        "Nuclear",
+        "Coal",
+        "Gas",
+        "Solar"
+      ],
+      "es": [
+        "La nuclear",
+        "El carbón",
+        "El gas",
+        "La solar"
+      ],
+      "pt": [
+        "A nuclear",
+        "O carvão",
+        "O gás",
+        "A solar"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le nucléaire fournit environ 65 à 70 % de l'électricité française.",
+      "en": "Nuclear supplies around 65 to 70% of France's electricity.",
+      "es": "La nuclear aporta entre el 65 y el 70 % de la electricidad francesa.",
+      "pt": "A nuclear fornece cerca de 65 a 70 % da eletricidade francesa."
+    }
+  },
+  {
+    "id": "culture_0384",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle planète possède la plus grande montagne connue du système solaire ?",
+      "en": "Which planet has the largest known mountain in the Solar System?",
+      "es": "¿Qué planeta tiene la mayor montaña conocida del sistema solar?",
+      "pt": "Que planeta tem a maior montanha conhecida do sistema solar?"
+    },
+    "options": {
+      "fr": [
+        "Mars",
+        "Vénus",
+        "Jupiter",
+        "Mercure"
+      ],
+      "en": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ],
+      "es": [
+        "Marte",
+        "Venus",
+        "Júpiter",
+        "Mercurio"
+      ],
+      "pt": [
+        "Marte",
+        "Vénus",
+        "Júpiter",
+        "Mercúrio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Olympus Mons culmine à environ 22 km, presque trois fois l'Everest.",
+      "en": "Olympus Mons rises about 22 km, nearly three times Everest.",
+      "es": "El Olympus Mons alcanza unos 22 km, casi tres veces el Everest.",
+      "pt": "O Olympus Mons atinge cerca de 22 km, quase três vezes o Evereste."
+    }
+  },
+  {
+    "id": "culture_0385",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel sport se joue sur un court avec un filet et une raquette, en simple ou en double ?",
+      "en": "Which sport is played on a court with a net and a racket, in singles or doubles?",
+      "es": "¿Qué deporte se juega en una pista con red y raqueta, individual o dobles?",
+      "pt": "Que desporto se joga num court com rede e raquete, em singulares ou pares?"
+    },
+    "options": {
+      "fr": [
+        "Le tennis",
+        "Le squash",
+        "Le basket",
+        "Le hockey"
+      ],
+      "en": [
+        "Tennis",
+        "Squash",
+        "Basketball",
+        "Hockey"
+      ],
+      "es": [
+        "El tenis",
+        "El squash",
+        "El baloncesto",
+        "El hockey"
+      ],
+      "pt": [
+        "O ténis",
+        "O squash",
+        "O basquetebol",
+        "O hóquei"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le squash se joue contre un mur, sans filet séparant les joueurs.",
+      "en": "Squash is played against a wall, with no net separating the players.",
+      "es": "El squash se juega contra una pared, sin red que separe a los jugadores.",
+      "pt": "O squash joga-se contra uma parede, sem rede a separar os jogadores."
+    }
+  },
+  {
+    "id": "culture_0386",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel pharaon égyptien est célèbre pour son tombeau découvert intact en 1922 ?",
+      "en": "Which Egyptian pharaoh is famous for the intact tomb found in 1922?",
+      "es": "¿Qué faraón egipcio es célebre por la tumba hallada intacta en 1922?",
+      "pt": "Que faraó egípcio é célebre pelo túmulo encontrado intacto em 1922?"
+    },
+    "options": {
+      "fr": [
+        "Toutânkhamon",
+        "Ramsès II",
+        "Khéops",
+        "Akhenaton"
+      ],
+      "en": [
+        "Tutankhamun",
+        "Ramesses II",
+        "Khufu",
+        "Akhenaten"
+      ],
+      "es": [
+        "Tutankamón",
+        "Ramsés II",
+        "Keops",
+        "Akenatón"
+      ],
+      "pt": [
+        "Tutankamon",
+        "Ramsés II",
+        "Quéops",
+        "Aquenáton"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Howard Carter met au jour la sépulture dans la Vallée des Rois, presque intacte.",
+      "en": "Howard Carter uncovered the almost untouched tomb in the Valley of the Kings.",
+      "es": "Howard Carter descubrió la tumba casi intacta en el Valle de los Reyes.",
+      "pt": "Howard Carter descobriu o túmulo quase intacto no Vale dos Reis."
+    }
+  },
+  {
+    "id": "culture_0387",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel animal pond des œufs tout en étant un mammifère ?",
+      "en": "Which animal lays eggs yet is a mammal?",
+      "es": "¿Qué animal pone huevos siendo mamífero?",
+      "pt": "Que animal põe ovos apesar de ser mamífero?"
+    },
+    "options": {
+      "fr": [
+        "L'ornithorynque",
+        "Le kangourou",
+        "La chauve-souris",
+        "Le dauphin"
+      ],
+      "en": [
+        "The platypus",
+        "The kangaroo",
+        "The bat",
+        "The dolphin"
+      ],
+      "es": [
+        "El ornitorrinco",
+        "El canguro",
+        "El murciélago",
+        "El delfín"
+      ],
+      "pt": [
+        "O ornitorrinco",
+        "O canguru",
+        "O morcego",
+        "O golfinho"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'ornithorynque et les échidnés forment le groupe des monotrèmes, mammifères pondeurs.",
+      "en": "Platypuses and echidnas form the monotremes, the egg-laying mammals.",
+      "es": "El ornitorrinco y los equidnas forman los monotremas, mamíferos que ponen huevos.",
+      "pt": "O ornitorrinco e as equidnas formam os monotremados, mamíferos que põem ovos."
+    }
+  },
+  {
+    "id": "culture_0388",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le liquide qui protège et nourrit le bébé avant la naissance ?",
+      "en": "Which fluid protects and nourishes a baby before birth?",
+      "es": "¿Qué líquido protege y nutre al bebé antes de nacer?",
+      "pt": "Que líquido protege e nutre o bebé antes do nascimento?"
+    },
+    "options": {
+      "fr": [
+        "Le liquide amniotique",
+        "La lymphe",
+        "Le plasma",
+        "La bile"
+      ],
+      "en": [
+        "Amniotic fluid",
+        "Lymph",
+        "Plasma",
+        "Bile"
+      ],
+      "es": [
+        "El líquido amniótico",
+        "La linfa",
+        "El plasma",
+        "La bilis"
+      ],
+      "pt": [
+        "O líquido amniótico",
+        "A linfa",
+        "O plasma",
+        "A bílis"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il amortit les chocs et maintient une température stable dans l'utérus.",
+      "en": "It cushions shocks and keeps a stable temperature in the womb.",
+      "es": "Amortigua los golpes y mantiene una temperatura estable en el útero.",
+      "pt": "Amortece os choques e mantém uma temperatura estável no útero."
+    }
+  },
+  {
+    "id": "culture_0389",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle est la couleur complémentaire du rouge en synthèse additive (lumière) ?",
+      "en": "Which colour is red's complement in additive (light) mixing?",
+      "es": "¿Cuál es el color complementario del rojo en síntesis aditiva (luz)?",
+      "pt": "Qual é a cor complementar do vermelho na síntese aditiva (luz)?"
+    },
+    "options": {
+      "fr": [
+        "Le cyan",
+        "Le vert",
+        "Le jaune",
+        "Le violet"
+      ],
+      "en": [
+        "Cyan",
+        "Green",
+        "Yellow",
+        "Purple"
+      ],
+      "es": [
+        "El cian",
+        "El verde",
+        "El amarillo",
+        "El violeta"
+      ],
+      "pt": [
+        "O ciano",
+        "O verde",
+        "O amarelo",
+        "O violeta"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "En lumière, rouge + cyan donne du blanc : ce sont des complémentaires.",
+      "en": "In light, red + cyan produces white: they are complementary.",
+      "es": "En luz, rojo + cian da blanco: son complementarios.",
+      "pt": "Em luz, vermelho + ciano dá branco: são complementares."
+    }
+  },
+  {
+    "id": "culture_0390",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel instrument sert à mesurer les séismes ?",
+      "en": "Which instrument measures earthquakes?",
+      "es": "¿Qué instrumento mide los terremotos?",
+      "pt": "Que instrumento mede os sismos?"
+    },
+    "options": {
+      "fr": [
+        "Le sismographe",
+        "L'anémomètre",
+        "Le baromètre",
+        "L'altimètre"
+      ],
+      "en": [
+        "The seismograph",
+        "The anemometer",
+        "The barometer",
+        "The altimeter"
+      ],
+      "es": [
+        "El sismógrafo",
+        "El anemómetro",
+        "El barómetro",
+        "El altímetro"
+      ],
+      "pt": [
+        "O sismógrafo",
+        "O anemómetro",
+        "O barómetro",
+        "O altímetro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'anémomètre mesure le vent, le baromètre la pression, l'altimètre l'altitude.",
+      "en": "The anemometer measures wind, the barometer pressure, the altimeter altitude.",
+      "es": "El anemómetro mide el viento, el barómetro la presión, el altímetro la altitud.",
+      "pt": "O anemómetro mede o vento, o barómetro a pressão, o altímetro a altitude."
+    }
+  },
+  {
+    "id": "culture_0391",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de cordes possède une basse électrique classique ?",
+      "en": "How many strings does a standard electric bass have?",
+      "es": "¿Cuántas cuerdas tiene un bajo eléctrico clásico?",
+      "pt": "Quantas cordas tem um baixo elétrico clássico?"
+    },
+    "options": {
+      "fr": [
+        "4",
+        "6",
+        "5",
+        "8"
+      ],
+      "en": [
+        "4",
+        "6",
+        "5",
+        "8"
+      ],
+      "es": [
+        "4",
+        "6",
+        "5",
+        "8"
+      ],
+      "pt": [
+        "4",
+        "6",
+        "5",
+        "8"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les modèles à cinq ou six cordes existent, mais quatre reste le standard.",
+      "en": "Five- and six-string models exist, but four remains the standard.",
+      "es": "Existen modelos de cinco o seis cuerdas, pero cuatro sigue siendo el estándar.",
+      "pt": "Existem modelos de cinco ou seis cordas, mas quatro continua o padrão."
+    }
+  },
+  {
+    "id": "culture_0392",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel océan entoure l'Antarctique ?",
+      "en": "Which ocean surrounds Antarctica?",
+      "es": "¿Qué océano rodea la Antártida?",
+      "pt": "Que oceano rodeia a Antártida?"
+    },
+    "options": {
+      "fr": [
+        "L'océan Austral",
+        "L'océan Arctique",
+        "L'océan Indien",
+        "L'Atlantique"
+      ],
+      "en": [
+        "The Southern Ocean",
+        "The Arctic Ocean",
+        "The Indian Ocean",
+        "The Atlantic"
+      ],
+      "es": [
+        "El océano Austral",
+        "El Ártico",
+        "El Índico",
+        "El Atlántico"
+      ],
+      "pt": [
+        "O oceano Antártico",
+        "O Ártico",
+        "O Índico",
+        "O Atlântico"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Reconnu comme cinquième océan en 2000, il est délimité par un courant circumpolaire.",
+      "en": "Recognised as the fifth ocean in 2000, it is bounded by a circumpolar current.",
+      "es": "Reconocido como quinto océano en 2000, lo delimita una corriente circumpolar.",
+      "pt": "Reconhecido como quinto oceano em 2000, é delimitado por uma corrente circumpolar."
+    }
+  },
+  {
+    "id": "culture_0393",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel matériau conduit le mieux l'électricité parmi ces métaux ?",
+      "en": "Which of these metals conducts electricity best?",
+      "es": "¿Cuál de estos metales conduce mejor la electricidad?",
+      "pt": "Qual destes metais conduz melhor a eletricidade?"
+    },
+    "options": {
+      "fr": [
+        "L'argent",
+        "Le fer",
+        "Le plomb",
+        "L'étain"
+      ],
+      "en": [
+        "Silver",
+        "Iron",
+        "Lead",
+        "Tin"
+      ],
+      "es": [
+        "La plata",
+        "El hierro",
+        "El plomo",
+        "El estaño"
+      ],
+      "pt": [
+        "A prata",
+        "O ferro",
+        "O chumbo",
+        "O estanho"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'argent devance le cuivre, mais son prix explique que l'on câble au cuivre.",
+      "en": "Silver beats copper, but its price explains why wiring uses copper.",
+      "es": "La plata supera al cobre, pero su precio explica que se cablee con cobre.",
+      "pt": "A prata supera o cobre, mas o preço explica que se cableie com cobre."
+    }
+  },
+  {
+    "id": "culture_0394",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le nom du premier satellite artificiel de l'histoire ?",
+      "en": "What was the name of the first artificial satellite in history?",
+      "es": "¿Cómo se llamó el primer satélite artificial de la historia?",
+      "pt": "Qual foi o nome do primeiro satélite artificial da história?"
+    },
+    "options": {
+      "fr": [
+        "Spoutnik 1",
+        "Explorer 1",
+        "Vostok 1",
+        "Apollo 1"
+      ],
+      "en": [
+        "Sputnik 1",
+        "Explorer 1",
+        "Vostok 1",
+        "Apollo 1"
+      ],
+      "es": [
+        "Sputnik 1",
+        "Explorer 1",
+        "Vostok 1",
+        "Apolo 1"
+      ],
+      "pt": [
+        "Sputnik 1",
+        "Explorer 1",
+        "Vostok 1",
+        "Apollo 1"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Lancé par l'URSS en octobre 1957, il émettait un simple « bip » radio.",
+      "en": "Launched by the USSR in October 1957, it broadcast a simple radio \"beep\".",
+      "es": "Lanzado por la URSS en octubre de 1957, emitía un simple «bip» de radio.",
+      "pt": "Lançado pela URSS em outubro de 1957, emitia um simples «bip» de rádio."
+    }
+  },
+  {
+    "id": "culture_0395",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel arbre est le symbole du Canada ?",
+      "en": "Which tree is Canada's symbol?",
+      "es": "¿Qué árbol es el símbolo de Canadá?",
+      "pt": "Que árvore é o símbolo do Canadá?"
+    },
+    "options": {
+      "fr": [
+        "L'érable",
+        "Le sapin",
+        "Le chêne",
+        "Le bouleau"
+      ],
+      "en": [
+        "The maple",
+        "The fir",
+        "The oak",
+        "The birch"
+      ],
+      "es": [
+        "El arce",
+        "El abeto",
+        "El roble",
+        "El abedul"
+      ],
+      "pt": [
+        "O ácer",
+        "O abeto",
+        "O carvalho",
+        "A bétula"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sa feuille figure au centre du drapeau et sa sève donne le sirop d'érable.",
+      "en": "Its leaf sits at the centre of the flag and its sap yields maple syrup.",
+      "es": "Su hoja está en el centro de la bandera y su savia da el jarabe de arce.",
+      "pt": "A sua folha está no centro da bandeira e a seiva dá o xarope de ácer."
+    }
+  },
+  {
+    "id": "culture_0396",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le nom de la première femme à avoir reçu un prix Nobel ?",
+      "en": "Who was the first woman to receive a Nobel Prize?",
+      "es": "¿Quién fue la primera mujer en recibir un Premio Nobel?",
+      "pt": "Quem foi a primeira mulher a receber um Prémio Nobel?"
+    },
+    "options": {
+      "fr": [
+        "Marie Curie",
+        "Rosalind Franklin",
+        "Dorothy Hodgkin",
+        "Irène Joliot-Curie"
+      ],
+      "en": [
+        "Marie Curie",
+        "Rosalind Franklin",
+        "Dorothy Hodgkin",
+        "Irène Joliot-Curie"
+      ],
+      "es": [
+        "Marie Curie",
+        "Rosalind Franklin",
+        "Dorothy Hodgkin",
+        "Irène Joliot-Curie"
+      ],
+      "pt": [
+        "Marie Curie",
+        "Rosalind Franklin",
+        "Dorothy Hodgkin",
+        "Irène Joliot-Curie"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Prix de physique en 1903, puis de chimie en 1911 : elle reste la seule à en avoir deux dans deux sciences différentes.",
+      "en": "Physics in 1903, then chemistry in 1911: she is still the only person with two in different sciences.",
+      "es": "Física en 1903 y química en 1911: sigue siendo la única con dos en ciencias distintas.",
+      "pt": "Física em 1903 e química em 1911: continua a única com dois em ciências diferentes."
+    }
+  },
+  {
+    "id": "culture_0397",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que produit une éolienne ?",
+      "en": "What does a wind turbine produce?",
+      "es": "¿Qué produce un aerogenerador?",
+      "pt": "O que produz um aerogerador?"
+    },
+    "options": {
+      "fr": [
+        "De l'électricité",
+        "De la chaleur",
+        "De l'eau potable",
+        "Du carburant"
+      ],
+      "en": [
+        "Electricity",
+        "Heat",
+        "Drinking water",
+        "Fuel"
+      ],
+      "es": [
+        "Electricidad",
+        "Calor",
+        "Agua potable",
+        "Combustible"
+      ],
+      "pt": [
+        "Eletricidade",
+        "Calor",
+        "Água potável",
+        "Combustível"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le vent fait tourner les pales, qui entraînent un alternateur.",
+      "en": "Wind turns the blades, which drive an alternator.",
+      "es": "El viento hace girar las palas, que accionan un alternador.",
+      "pt": "O vento faz girar as pás, que acionam um alternador."
+    }
+  },
+  {
+    "id": "culture_0398",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel écrivain français a reçu le prix Nobel de littérature en 1957 pour une œuvre incluant « L'Étranger » ?",
+      "en": "Which French writer won the 1957 Nobel Prize for a body of work including \"The Stranger\"?",
+      "es": "¿Qué escritor francés recibió el Nobel de literatura en 1957 por una obra que incluye «El extranjero»?",
+      "pt": "Que escritor francês recebeu o Nobel da literatura em 1957 por uma obra que inclui «O Estrangeiro»?"
+    },
+    "options": {
+      "fr": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "André Malraux",
+        "Louis-Ferdinand Céline"
+      ],
+      "en": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "André Malraux",
+        "Louis-Ferdinand Céline"
+      ],
+      "es": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "André Malraux",
+        "Louis-Ferdinand Céline"
+      ],
+      "pt": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "André Malraux",
+        "Louis-Ferdinand Céline"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sartre refusera le sien en 1964, seul écrivain à avoir décliné le Nobel de littérature.",
+      "en": "Sartre refused his in 1964, the only writer to decline the literature Nobel.",
+      "es": "Sartre rechazó el suyo en 1964, único escritor en declinar el Nobel de literatura.",
+      "pt": "Sartre recusou o seu em 1964, único escritor a declinar o Nobel da literatura."
+    }
+  },
+  {
+    "id": "culture_0399",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est la vitesse approximative du son dans l'air à 20 °C ?",
+      "en": "What is the approximate speed of sound in air at 20 °C?",
+      "es": "¿Cuál es la velocidad aproximada del sonido en el aire a 20 °C?",
+      "pt": "Qual é a velocidade aproximada do som no ar a 20 °C?"
+    },
+    "options": {
+      "fr": [
+        "343 m/s",
+        "150 m/s",
+        "1 000 m/s",
+        "3 000 m/s"
+      ],
+      "en": [
+        "343 m/s",
+        "150 m/s",
+        "1,000 m/s",
+        "3,000 m/s"
+      ],
+      "es": [
+        "343 m/s",
+        "150 m/s",
+        "1000 m/s",
+        "3000 m/s"
+      ],
+      "pt": [
+        "343 m/s",
+        "150 m/s",
+        "1000 m/s",
+        "3000 m/s"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Soit environ 1 235 km/h. Le son va bien plus vite dans l'eau et dans les solides.",
+      "en": "That is roughly 1,235 km/h. Sound travels much faster in water and solids.",
+      "es": "Unos 1235 km/h. El sonido va mucho más rápido en agua y sólidos.",
+      "pt": "Cerca de 1235 km/h. O som viaja muito mais depressa na água e nos sólidos."
+    }
+  },
+  {
+    "id": "culture_0400",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le pH d'une solution neutre à 25 °C ?",
+      "en": "What is the pH of a neutral solution at 25 °C?",
+      "es": "¿Cuál es el pH de una disolución neutra a 25 °C?",
+      "pt": "Qual é o pH de uma solução neutra a 25 °C?"
+    },
+    "options": {
+      "fr": [
+        "7",
+        "0",
+        "10",
+        "14"
+      ],
+      "en": [
+        "7",
+        "0",
+        "10",
+        "14"
+      ],
+      "es": [
+        "7",
+        "0",
+        "10",
+        "14"
+      ],
+      "pt": [
+        "7",
+        "0",
+        "10",
+        "14"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "En dessous de 7 la solution est acide, au-dessus elle est basique.",
+      "en": "Below 7 the solution is acidic, above it is basic.",
+      "es": "Por debajo de 7 la solución es ácida, por encima es básica.",
+      "pt": "Abaixo de 7 a solução é ácida, acima é básica."
+    }
+  },
+  {
+    "id": "culture_0401",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Comment appelle-t-on une étoile en fin de vie qui s'effondre en un objet si dense que la lumière ne peut s'en échapper ?",
+      "en": "What is a collapsed star so dense that light cannot escape called?",
+      "es": "¿Cómo se llama una estrella colapsada tan densa que la luz no puede escapar?",
+      "pt": "Como se chama uma estrela colapsada tão densa que a luz não escapa?"
+    },
+    "options": {
+      "fr": [
+        "Un trou noir",
+        "Une naine blanche",
+        "Une supernova",
+        "Une nébuleuse"
+      ],
+      "en": [
+        "A black hole",
+        "A white dwarf",
+        "A supernova",
+        "A nebula"
+      ],
+      "es": [
+        "Un agujero negro",
+        "Una enana blanca",
+        "Una supernova",
+        "Una nebulosa"
+      ],
+      "pt": [
+        "Um buraco negro",
+        "Uma anã branca",
+        "Uma supernova",
+        "Uma nebulosa"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La première image d'un trou noir a été publiée en 2019 par l'Event Horizon Telescope.",
+      "en": "The first image of a black hole was published in 2019 by the Event Horizon Telescope.",
+      "es": "La primera imagen de un agujero negro se publicó en 2019 por el Event Horizon Telescope.",
+      "pt": "A primeira imagem de um buraco negro foi publicada em 2019 pelo Event Horizon Telescope."
+    }
+  },
+  {
+    "id": "culture_0402",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans quelle galaxie se trouve le système solaire ?",
+      "en": "Which galaxy contains the Solar System?",
+      "es": "¿En qué galaxia se encuentra el sistema solar?",
+      "pt": "Em que galáxia se encontra o sistema solar?"
+    },
+    "options": {
+      "fr": [
+        "La Voie lactée",
+        "Andromède",
+        "Le Triangle",
+        "Le Grand Nuage de Magellan"
+      ],
+      "en": [
+        "The Milky Way",
+        "Andromeda",
+        "Triangulum",
+        "The Large Magellanic Cloud"
+      ],
+      "es": [
+        "La Vía Láctea",
+        "Andrómeda",
+        "Triángulo",
+        "La Gran Nube de Magallanes"
+      ],
+      "pt": [
+        "A Via Láctea",
+        "Andrómeda",
+        "Triângulo",
+        "A Grande Nuvem de Magalhães"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Andromède est notre voisine : elle entrera en collision avec la nôtre dans environ 4 milliards d'années.",
+      "en": "Andromeda is our neighbour: it will collide with ours in about 4 billion years.",
+      "es": "Andrómeda es nuestra vecina: chocará con la nuestra en unos 4000 millones de años.",
+      "pt": "Andrómeda é a nossa vizinha: colidirá com a nossa daqui a cerca de 4 mil milhões de anos."
+    }
+  },
+  {
+    "id": "culture_0403",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Laquelle de ces batailles napoléoniennes n'oppose PAS la France aux Britanniques ?",
+      "en": "Which of these Napoleonic battles did NOT pit France against the British?",
+      "es": "¿Cuál de estas batallas napoleónicas NO enfrentó a Francia con los británicos?",
+      "pt": "Qual destas batalhas napoleónicas NÃO opôs a França aos britânicos?"
+    },
+    "options": {
+      "fr": [
+        "Austerlitz",
+        "Waterloo",
+        "Trafalgar",
+        "Aboukir"
+      ],
+      "en": [
+        "Austerlitz",
+        "Waterloo",
+        "Trafalgar",
+        "Aboukir"
+      ],
+      "es": [
+        "Austerlitz",
+        "Waterloo",
+        "Trafalgar",
+        "Abukir"
+      ],
+      "pt": [
+        "Austerlitz",
+        "Waterloo",
+        "Trafalgar",
+        "Abukir"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Austerlitz (1805) oppose la France aux armées russe et autrichienne : c'est sa plus grande victoire.",
+      "en": "Austerlitz (1805) pitted France against Russian and Austrian armies: his greatest victory.",
+      "es": "Austerlitz (1805) enfrentó a Francia con rusos y austriacos: su mayor victoria.",
+      "pt": "Austerlitz (1805) opôs a França a russos e austríacos: a sua maior vitória."
+    }
+  },
+  {
+    "id": "culture_0404",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel empereur romain a fait construire un mur à travers la Grande-Bretagne ?",
+      "en": "Which Roman emperor had a wall built across Britain?",
+      "es": "¿Qué emperador romano mandó construir un muro a través de Britania?",
+      "pt": "Que imperador romano mandou construir um muro através da Britânia?"
+    },
+    "options": {
+      "fr": [
+        "Hadrien",
+        "Trajan",
+        "Auguste",
+        "Néron"
+      ],
+      "en": [
+        "Hadrian",
+        "Trajan",
+        "Augustus",
+        "Nero"
+      ],
+      "es": [
+        "Adriano",
+        "Trajano",
+        "Augusto",
+        "Nerón"
+      ],
+      "pt": [
+        "Adriano",
+        "Trajano",
+        "Augusto",
+        "Nero"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le mur d'Hadrien, long de 117 km, marquait la limite nord de l'Empire au IIe siècle.",
+      "en": "Hadrian's Wall, 117 km long, marked the Empire's northern edge in the 2nd century.",
+      "es": "El muro de Adriano, de 117 km, marcaba el límite norte del Imperio en el siglo II.",
+      "pt": "A muralha de Adriano, com 117 km, marcava o limite norte do Império no século II."
+    }
+  },
+  {
+    "id": "culture_0405",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle langue ancienne servait de langue commune dans le bassin méditerranéen oriental à l'époque hellénistique ?",
+      "en": "Which ancient language served as the common tongue of the eastern Mediterranean in Hellenistic times?",
+      "es": "¿Qué lengua antigua fue la lengua común del Mediterráneo oriental en época helenística?",
+      "pt": "Que língua antiga serviu de língua comum no Mediterrâneo oriental na época helenística?"
+    },
+    "options": {
+      "fr": [
+        "Le grec",
+        "Le latin",
+        "L'araméen",
+        "Le phénicien"
+      ],
+      "en": [
+        "Greek",
+        "Latin",
+        "Aramaic",
+        "Phoenician"
+      ],
+      "es": [
+        "El griego",
+        "El latín",
+        "El arameo",
+        "El fenicio"
+      ],
+      "pt": [
+        "O grego",
+        "O latim",
+        "O aramaico",
+        "O fenício"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La koinè, forme simplifiée du grec, s'est diffusée après les conquêtes d'Alexandre.",
+      "en": "Koine, a simplified form of Greek, spread after Alexander's conquests.",
+      "es": "La koiné, forma simplificada del griego, se difundió tras las conquistas de Alejandro.",
+      "pt": "A koiné, forma simplificada do grego, difundiu-se após as conquistas de Alexandre."
+    }
+  },
+  {
+    "id": "culture_0406",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Combien de médailles d'or Usain Bolt a-t-il remportées aux Jeux olympiques ?",
+      "en": "How many Olympic gold medals did Usain Bolt win?",
+      "es": "¿Cuántas medallas de oro olímpicas ganó Usain Bolt?",
+      "pt": "Quantas medalhas de ouro olímpicas ganhou Usain Bolt?"
+    },
+    "options": {
+      "fr": [
+        "8",
+        "6",
+        "10",
+        "12"
+      ],
+      "en": [
+        "8",
+        "6",
+        "10",
+        "12"
+      ],
+      "es": [
+        "8",
+        "6",
+        "10",
+        "12"
+      ],
+      "pt": [
+        "8",
+        "6",
+        "10",
+        "12"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il en avait neuf avant qu'un relais de 2008 ne soit disqualifié pour dopage d'un coéquipier.",
+      "en": "He had nine before a 2008 relay was stripped over a teammate's doping.",
+      "es": "Tenía nueve antes de que un relevo de 2008 fuera anulado por dopaje de un compañero.",
+      "pt": "Tinha nove antes de uma estafeta de 2008 ser anulada por doping de um colega."
+    }
+  },
+  {
+    "id": "culture_0407",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est la distance officielle d'un marathon ?",
+      "en": "What is the official marathon distance?",
+      "es": "¿Cuál es la distancia oficial de un maratón?",
+      "pt": "Qual é a distância oficial de uma maratona?"
+    },
+    "options": {
+      "fr": [
+        "42,195 km",
+        "40 km",
+        "45 km",
+        "50 km"
+      ],
+      "en": [
+        "42.195 km",
+        "40 km",
+        "45 km",
+        "50 km"
+      ],
+      "es": [
+        "42,195 km",
+        "40 km",
+        "45 km",
+        "50 km"
+      ],
+      "pt": [
+        "42,195 km",
+        "40 km",
+        "45 km",
+        "50 km"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La distance a été fixée aux Jeux de Londres de 1908, pour partir du château de Windsor.",
+      "en": "The distance was set at the 1908 London Games, to start from Windsor Castle.",
+      "es": "La distancia se fijó en los Juegos de Londres de 1908, para salir del castillo de Windsor.",
+      "pt": "A distância foi fixada nos Jogos de Londres de 1908, para partir do castelo de Windsor."
+    }
+  },
+  {
+    "id": "culture_0408",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le seul pays à avoir participé à toutes les Coupes du monde de football ?",
+      "en": "Which is the only country to have played in every football World Cup?",
+      "es": "¿Cuál es el único país que ha participado en todos los Mundiales de fútbol?",
+      "pt": "Qual é o único país que participou em todos os Mundiais de futebol?"
+    },
+    "options": {
+      "fr": [
+        "Le Brésil",
+        "L'Allemagne",
+        "L'Italie",
+        "L'Argentine"
+      ],
+      "en": [
+        "Brazil",
+        "Germany",
+        "Italy",
+        "Argentina"
+      ],
+      "es": [
+        "Brasil",
+        "Alemania",
+        "Italia",
+        "Argentina"
+      ],
+      "pt": [
+        "O Brasil",
+        "A Alemanha",
+        "A Itália",
+        "A Argentina"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Brésil est présent depuis 1930 et détient aussi le record de titres.",
+      "en": "Brazil has appeared since 1930 and also holds the record for titles.",
+      "es": "Brasil está presente desde 1930 y también tiene el récord de títulos.",
+      "pt": "O Brasil está presente desde 1930 e detém também o recorde de títulos."
+    }
+  },
+  {
+    "id": "culture_0409",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel organe du corps humain possède environ 100 milliards de neurones ?",
+      "en": "Which human organ has around 100 billion neurons?",
+      "es": "¿Qué órgano humano tiene unos 100 000 millones de neuronas?",
+      "pt": "Que órgão humano tem cerca de 100 mil milhões de neurónios?"
+    },
+    "options": {
+      "fr": [
+        "Le cerveau",
+        "Le cœur",
+        "Le foie",
+        "L'intestin"
+      ],
+      "en": [
+        "The brain",
+        "The heart",
+        "The liver",
+        "The gut"
+      ],
+      "es": [
+        "El cerebro",
+        "El corazón",
+        "El hígado",
+        "El intestino"
+      ],
+      "pt": [
+        "O cérebro",
+        "O coração",
+        "O fígado",
+        "O intestino"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'intestin en compte tout de même quelques centaines de millions : on parle de « deuxième cerveau ».",
+      "en": "The gut still holds a few hundred million, which is why it is called the \"second brain\".",
+      "es": "El intestino tiene aun así cientos de millones: por eso se habla de «segundo cerebro».",
+      "pt": "O intestino tem ainda assim centenas de milhões: daí falar-se de «segundo cérebro»."
+    }
+  },
+  {
+    "id": "culture_0410",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est l'unité de mesure de la pression dans le système international ?",
+      "en": "What is the SI unit of pressure?",
+      "es": "¿Cuál es la unidad de presión en el sistema internacional?",
+      "pt": "Qual é a unidade de pressão no sistema internacional?"
+    },
+    "options": {
+      "fr": [
+        "Le pascal",
+        "Le newton",
+        "Le bar",
+        "Le joule"
+      ],
+      "en": [
+        "The pascal",
+        "The newton",
+        "The bar",
+        "The joule"
+      ],
+      "es": [
+        "El pascal",
+        "El newton",
+        "El bar",
+        "El julio"
+      ],
+      "pt": [
+        "O pascal",
+        "O newton",
+        "O bar",
+        "O joule"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Un pascal vaut un newton par mètre carré ; le bar, très utilisé, vaut 100 000 pascals.",
+      "en": "One pascal is one newton per square metre; the widely used bar equals 100,000 pascals.",
+      "es": "Un pascal es un newton por metro cuadrado; el bar, muy usado, son 100 000 pascales.",
+      "pt": "Um pascal é um newton por metro quadrado; o bar, muito usado, vale 100 000 pascais."
+    }
+  },
+  {
+    "id": "culture_0411",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel peintre espagnol est le maître du surréalisme aux montres molles ?",
+      "en": "Which Spanish painter is the surrealist master of melting clocks?",
+      "es": "¿Qué pintor español es el maestro surrealista de los relojes blandos?",
+      "pt": "Que pintor espanhol é o mestre surrealista dos relógios moles?"
+    },
+    "options": {
+      "fr": [
+        "Salvador Dalí",
+        "Joan Miró",
+        "Pablo Picasso",
+        "Francisco Goya"
+      ],
+      "en": [
+        "Salvador Dalí",
+        "Joan Miró",
+        "Pablo Picasso",
+        "Francisco Goya"
+      ],
+      "es": [
+        "Salvador Dalí",
+        "Joan Miró",
+        "Pablo Picasso",
+        "Francisco Goya"
+      ],
+      "pt": [
+        "Salvador Dalí",
+        "Joan Miró",
+        "Pablo Picasso",
+        "Francisco Goya"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« La Persistance de la mémoire » (1931) est son tableau le plus connu.",
+      "en": "\"The Persistence of Memory\" (1931) is his best-known painting.",
+      "es": "«La persistencia de la memoria» (1931) es su cuadro más conocido.",
+      "pt": "«A Persistência da Memória» (1931) é o seu quadro mais conhecido."
+    }
+  },
+  {
+    "id": "culture_0412",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle organisation attribue chaque année le prix Nobel de la paix ?",
+      "en": "Which body awards the Nobel Peace Prize each year?",
+      "es": "¿Qué organismo concede cada año el Premio Nobel de la Paz?",
+      "pt": "Que organismo atribui todos os anos o Prémio Nobel da Paz?"
+    },
+    "options": {
+      "fr": [
+        "Un comité norvégien",
+        "L'Académie suédoise",
+        "L'ONU",
+        "Le Vatican"
+      ],
+      "en": [
+        "A Norwegian committee",
+        "The Swedish Academy",
+        "The UN",
+        "The Vatican"
+      ],
+      "es": [
+        "Un comité noruego",
+        "La Academia Sueca",
+        "La ONU",
+        "El Vaticano"
+      ],
+      "pt": [
+        "Um comité norueguês",
+        "A Academia Sueca",
+        "A ONU",
+        "O Vaticano"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Alfred Nobel a voulu que ce prix soit décerné à Oslo, et non à Stockholm comme les autres.",
+      "en": "Alfred Nobel wanted this prize awarded in Oslo, not Stockholm like the others.",
+      "es": "Alfred Nobel quiso que este premio se entregara en Oslo, no en Estocolmo.",
+      "pt": "Alfred Nobel quis que este prémio fosse entregue em Oslo, não em Estocolmo."
+    }
+  },
+  {
+    "id": "culture_0413",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel phénomène explique que le ciel soit bleu ?",
+      "en": "Which phenomenon explains why the sky is blue?",
+      "es": "¿Qué fenómeno explica que el cielo sea azul?",
+      "pt": "Que fenómeno explica que o céu seja azul?"
+    },
+    "options": {
+      "fr": [
+        "La diffusion de la lumière par l'atmosphère",
+        "La réflexion des océans",
+        "L'ozone",
+        "La rotation terrestre"
+      ],
+      "en": [
+        "Scattering of light by the atmosphere",
+        "Reflection from the oceans",
+        "Ozone",
+        "Earth's rotation"
+      ],
+      "es": [
+        "La dispersión de la luz por la atmósfera",
+        "El reflejo de los océanos",
+        "El ozono",
+        "La rotación terrestre"
+      ],
+      "pt": [
+        "A dispersão da luz pela atmosfera",
+        "O reflexo dos oceanos",
+        "O ozono",
+        "A rotação terrestre"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les molécules de l'air diffusent davantage le bleu, de courte longueur d'onde : c'est la diffusion Rayleigh.",
+      "en": "Air molecules scatter short-wavelength blue more strongly: this is Rayleigh scattering.",
+      "es": "Las moléculas del aire dispersan más el azul, de onda corta: es la dispersión de Rayleigh.",
+      "pt": "As moléculas do ar dispersam mais o azul, de onda curta: é a dispersão de Rayleigh."
+    }
+  },
+  {
+    "id": "culture_0414",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel pays a construit le canal de Suez, inauguré en 1869 ?",
+      "en": "Which country built the Suez Canal, opened in 1869?",
+      "es": "¿Qué país construyó el canal de Suez, inaugurado en 1869?",
+      "pt": "Que país construiu o canal do Suez, inaugurado em 1869?"
+    },
+    "options": {
+      "fr": [
+        "La France",
+        "Le Royaume-Uni",
+        "L'Égypte seule",
+        "L'Empire ottoman"
+      ],
+      "en": [
+        "France",
+        "The United Kingdom",
+        "Egypt alone",
+        "The Ottoman Empire"
+      ],
+      "es": [
+        "Francia",
+        "El Reino Unido",
+        "Egipto en solitario",
+        "El Imperio otomano"
+      ],
+      "pt": [
+        "A França",
+        "O Reino Unido",
+        "O Egito sozinho",
+        "O Império Otomano"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le chantier a été mené par le Français Ferdinand de Lesseps ; les Britanniques en prendront le contrôle plus tard.",
+      "en": "The works were led by Frenchman Ferdinand de Lesseps; the British took control later.",
+      "es": "La obra la dirigió el francés Ferdinand de Lesseps; los británicos la controlarían después.",
+      "pt": "A obra foi dirigida pelo francês Ferdinand de Lesseps; os britânicos controlaram-no depois."
+    }
+  },
+  {
+    "id": "culture_0415",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel langage de programmation, créé en 1995, fait tourner l'essentiel des sites web côté navigateur ?",
+      "en": "Which programming language, created in 1995, powers most websites in the browser?",
+      "es": "¿Qué lenguaje de programación, creado en 1995, mueve la mayoría de webs en el navegador?",
+      "pt": "Que linguagem de programação, criada em 1995, move a maioria dos sites no navegador?"
+    },
+    "options": {
+      "fr": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "PHP"
+      ],
+      "en": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "PHP"
+      ],
+      "es": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "PHP"
+      ],
+      "pt": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "PHP"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Malgré son nom, JavaScript n'a aucun lien technique avec le langage Java.",
+      "en": "Despite the name, JavaScript has no technical link to the Java language.",
+      "es": "Pese al nombre, JavaScript no tiene relación técnica con el lenguaje Java.",
+      "pt": "Apesar do nome, o JavaScript não tem ligação técnica à linguagem Java."
+    }
+  },
+  {
+    "id": "culture_0416",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est la principale cause des marées sur Terre ?",
+      "en": "What is the main cause of tides on Earth?",
+      "es": "¿Cuál es la causa principal de las mareas en la Tierra?",
+      "pt": "Qual é a principal causa das marés na Terra?"
+    },
+    "options": {
+      "fr": [
+        "L'attraction de la Lune",
+        "Le vent",
+        "La rotation seule",
+        "Les courants marins"
+      ],
+      "en": [
+        "The Moon's pull",
+        "Wind",
+        "Rotation alone",
+        "Ocean currents"
+      ],
+      "es": [
+        "La atracción de la Luna",
+        "El viento",
+        "Solo la rotación",
+        "Las corrientes marinas"
+      ],
+      "pt": [
+        "A atração da Lua",
+        "O vento",
+        "Só a rotação",
+        "As correntes marinhas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Soleil y contribue aussi, mais deux fois moins que la Lune malgré sa masse.",
+      "en": "The Sun contributes too, but half as much as the Moon despite its mass.",
+      "es": "El Sol también influye, pero la mitad que la Luna pese a su masa.",
+      "pt": "O Sol também contribui, mas metade da Lua apesar da sua massa."
+    }
+  },
+  {
+    "id": "culture_0417",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel traité de 1919 met fin officiellement à la Première Guerre mondiale ?",
+      "en": "Which 1919 treaty formally ended the First World War?",
+      "es": "¿Qué tratado de 1919 puso fin oficialmente a la Primera Guerra Mundial?",
+      "pt": "Que tratado de 1919 pôs fim oficialmente à Primeira Guerra Mundial?"
+    },
+    "options": {
+      "fr": [
+        "Le traité de Versailles",
+        "Le traité de Vienne",
+        "Le traité de Yalta",
+        "Le traité de Trianon"
+      ],
+      "en": [
+        "The Treaty of Versailles",
+        "The Treaty of Vienna",
+        "The Yalta agreement",
+        "The Treaty of Trianon"
+      ],
+      "es": [
+        "El Tratado de Versalles",
+        "El Tratado de Viena",
+        "El acuerdo de Yalta",
+        "El Tratado de Trianon"
+      ],
+      "pt": [
+        "O Tratado de Versalhes",
+        "O Tratado de Viena",
+        "O acordo de Ialta",
+        "O Tratado de Trianon"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Signé dans la galerie des Glaces, il impose de lourdes réparations à l'Allemagne.",
+      "en": "Signed in the Hall of Mirrors, it imposed heavy reparations on Germany.",
+      "es": "Firmado en la galería de los Espejos, impuso duras reparaciones a Alemania.",
+      "pt": "Assinado na galeria dos Espelhos, impôs pesadas reparações à Alemanha."
+    }
+  },
+  {
+    "id": "culture_0418",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le nom du plus grand récif corallien du monde ?",
+      "en": "What is the world's largest coral reef called?",
+      "es": "¿Cómo se llama el mayor arrecife de coral del mundo?",
+      "pt": "Como se chama o maior recife de coral do mundo?"
+    },
+    "options": {
+      "fr": [
+        "La Grande Barrière de corail",
+        "L'atoll de Bikini",
+        "Le récif de Belize",
+        "Les Maldives"
+      ],
+      "en": [
+        "The Great Barrier Reef",
+        "Bikini Atoll",
+        "The Belize Barrier Reef",
+        "The Maldives"
+      ],
+      "es": [
+        "La Gran Barrera de Coral",
+        "El atolón Bikini",
+        "El arrecife de Belice",
+        "Las Maldivas"
+      ],
+      "pt": [
+        "A Grande Barreira de Coral",
+        "O atol Bikini",
+        "O recife de Belize",
+        "As Maldivas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Longue de 2 300 km au large de l'Australie, elle est visible depuis l'espace.",
+      "en": "Stretching 2,300 km off Australia, it is visible from space.",
+      "es": "Con 2300 km frente a Australia, es visible desde el espacio.",
+      "pt": "Com 2300 km ao largo da Austrália, é visível do espaço."
+    }
   }
 ]

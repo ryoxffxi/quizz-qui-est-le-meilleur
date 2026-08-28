@@ -16622,5 +16622,1765 @@
       "es": "Jean-Pierre y Luc Dardenne filman el mundo obrero con cámara al hombro.",
       "pt": "Jean-Pierre e Luc Dardenne filmam o mundo operário com câmara ao ombro."
     }
+  },
+  {
+    "id": "cinema_0383",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Les Visiteurs », d'où viennent Godefroy et Jacquouille ?",
+      "en": "In \"Les Visiteurs\", where do Godefroy and Jacquouille come from?",
+      "es": "En «Los visitantes», ¿de dónde vienen Godefroy y Jacquouille?",
+      "pt": "Em «Os Visitantes», de onde vêm Godefroy e Jacquouille?"
+    },
+    "options": {
+      "fr": [
+        "Du Moyen Âge",
+        "Du futur",
+        "D'un autre pays",
+        "D'un rêve"
+      ],
+      "en": [
+        "The Middle Ages",
+        "The future",
+        "Another country",
+        "A dream"
+      ],
+      "es": [
+        "De la Edad Media",
+        "Del futuro",
+        "De otro país",
+        "De un sueño"
+      ],
+      "pt": [
+        "Da Idade Média",
+        "Do futuro",
+        "De outro país",
+        "De um sonho"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Un philtre raté les propulse en 1993 : le film a réuni près de 14 millions de spectateurs.",
+      "en": "A botched potion sends them to 1993: the film drew nearly 14 million admissions.",
+      "es": "Un filtro fallido los lanza a 1993: la película reunió casi 14 millones de espectadores.",
+      "pt": "Uma poção falhada lança-os para 1993: o filme reuniu quase 14 milhões de espectadores."
+    }
+  },
+  {
+    "id": "cinema_0384",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel personnage muet à la canne et au chapeau melon a été créé par Charlie Chaplin ?",
+      "en": "Which silent character with a cane and bowler hat did Charlie Chaplin create?",
+      "es": "¿Qué personaje mudo con bastón y bombín creó Charlie Chaplin?",
+      "pt": "Que personagem muda de bengala e chapéu de coco criou Charlie Chaplin?"
+    },
+    "options": {
+      "fr": [
+        "Charlot",
+        "Buster",
+        "Fatty",
+        "Le Kid"
+      ],
+      "en": [
+        "The Tramp",
+        "Buster",
+        "Fatty",
+        "The Kid"
+      ],
+      "es": [
+        "Charlot",
+        "Buster",
+        "Fatty",
+        "El chico"
+      ],
+      "pt": [
+        "Carlitos",
+        "Buster",
+        "Fatty",
+        "O Miúdo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Charlot apparaît dès 1914 et devient la silhouette la plus reconnaissable du cinéma muet.",
+      "en": "The Tramp appeared in 1914 and became silent cinema's most recognisable silhouette.",
+      "es": "Charlot aparece en 1914 y se vuelve la silueta más reconocible del cine mudo.",
+      "pt": "Carlitos aparece em 1914 e torna-se a silhueta mais reconhecível do cinema mudo."
+    }
+  },
+  {
+    "id": "cinema_0385",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quels frères ont organisé la première projection publique payante de cinéma en 1895 ?",
+      "en": "Which brothers held the first paying public film screening in 1895?",
+      "es": "¿Qué hermanos organizaron la primera proyección pública de pago en 1895?",
+      "pt": "Que irmãos organizaram a primeira projeção pública paga em 1895?"
+    },
+    "options": {
+      "fr": [
+        "Les frères Lumière",
+        "Les frères Pathé",
+        "Les frères Warner",
+        "Les frères Grimm"
+      ],
+      "en": [
+        "The Lumière brothers",
+        "The Pathé brothers",
+        "The Warner brothers",
+        "The Grimm brothers"
+      ],
+      "es": [
+        "Los hermanos Lumière",
+        "Los hermanos Pathé",
+        "Los hermanos Warner",
+        "Los hermanos Grimm"
+      ],
+      "pt": [
+        "Os irmãos Lumière",
+        "Os irmãos Pathé",
+        "Os irmãos Warner",
+        "Os irmãos Grimm"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La séance a eu lieu au Grand Café, à Paris, le 28 décembre 1895.",
+      "en": "The screening took place at the Grand Café in Paris on 28 December 1895.",
+      "es": "La sesión tuvo lugar en el Grand Café de París, el 28 de diciembre de 1895.",
+      "pt": "A sessão decorreu no Grand Café, em Paris, a 28 de dezembro de 1895."
+    }
+  },
+  {
+    "id": "cinema_0386",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel illusionniste français a réalisé « Le Voyage dans la Lune » en 1902 ?",
+      "en": "Which French magician directed \"A Trip to the Moon\" in 1902?",
+      "es": "¿Qué ilusionista francés dirigió «Viaje a la Luna» en 1902?",
+      "pt": "Que ilusionista francês realizou «Viagem à Lua» em 1902?"
+    },
+    "options": {
+      "fr": [
+        "Georges Méliès",
+        "Louis Feuillade",
+        "Émile Cohl",
+        "Abel Gance"
+      ],
+      "en": [
+        "Georges Méliès",
+        "Louis Feuillade",
+        "Émile Cohl",
+        "Abel Gance"
+      ],
+      "es": [
+        "Georges Méliès",
+        "Louis Feuillade",
+        "Émile Cohl",
+        "Abel Gance"
+      ],
+      "pt": [
+        "Georges Méliès",
+        "Louis Feuillade",
+        "Émile Cohl",
+        "Abel Gance"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'image de la fusée plantée dans l'œil de la Lune est l'une des plus célèbres du cinéma.",
+      "en": "The rocket lodged in the Moon's eye is one of cinema's most famous images.",
+      "es": "La imagen del cohete clavado en el ojo de la Luna es de las más célebres del cine.",
+      "pt": "A imagem do foguetão cravado no olho da Lua é das mais célebres do cinema."
+    }
+  },
+  {
+    "id": "cinema_0387",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans quelle ville fictive vit la famille Simpson ?",
+      "en": "In which fictional town do the Simpsons live?",
+      "es": "¿En qué ciudad ficticia vive la familia Simpson?",
+      "pt": "Em que cidade fictícia vive a família Simpson?"
+    },
+    "options": {
+      "fr": [
+        "Springfield",
+        "Quahog",
+        "South Park",
+        "Gotham"
+      ],
+      "en": [
+        "Springfield",
+        "Quahog",
+        "South Park",
+        "Gotham"
+      ],
+      "es": [
+        "Springfield",
+        "Quahog",
+        "South Park",
+        "Gotham"
+      ],
+      "pt": [
+        "Springfield",
+        "Quahog",
+        "South Park",
+        "Gotham"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Matt Groening a choisi ce nom parce qu'il existe dans de très nombreux États américains.",
+      "en": "Matt Groening chose the name because it exists in a great many US states.",
+      "es": "Matt Groening eligió ese nombre porque existe en muchísimos estados de EE. UU.",
+      "pt": "Matt Groening escolheu o nome porque existe em imensos estados dos EUA."
+    }
+  },
+  {
+    "id": "cinema_0388",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Squid Game », que risquent les joueurs en perdant une épreuve ?",
+      "en": "In \"Squid Game\", what do players risk by losing a round?",
+      "es": "En «El juego del calamar», ¿qué arriesgan los jugadores al perder una prueba?",
+      "pt": "Em «Round 6», o que arriscam os jogadores ao perder uma prova?"
+    },
+    "options": {
+      "fr": [
+        "La mort",
+        "Une amende",
+        "L'exclusion",
+        "Une dette"
+      ],
+      "en": [
+        "Death",
+        "A fine",
+        "Elimination",
+        "A debt"
+      ],
+      "es": [
+        "La muerte",
+        "Una multa",
+        "La expulsión",
+        "Una deuda"
+      ],
+      "pt": [
+        "A morte",
+        "Uma multa",
+        "A expulsão",
+        "Uma dívida"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "456 joueurs surendettés s'affrontent sur des jeux d'enfants coréens, pour une cagnotte géante.",
+      "en": "456 heavily indebted players compete in Korean children's games for a giant prize pot.",
+      "es": "456 jugadores endeudados compiten en juegos infantiles coreanos por un bote enorme.",
+      "pt": "456 jogadores endividados competem em jogos infantis coreanos por um prémio gigante."
+    }
+  },
+  {
+    "id": "cinema_0389",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « La Casa de Papel », quel bâtiment est braqué dans la première partie ?",
+      "en": "In \"Money Heist\", which building is robbed in the first part?",
+      "es": "En «La casa de papel», ¿qué edificio se atraca en la primera parte?",
+      "pt": "Em «A Casa de Papel», que edifício é assaltado na primeira parte?"
+    },
+    "options": {
+      "fr": [
+        "La Fabrique nationale de la monnaie",
+        "Une banque privée",
+        "Un musée",
+        "Un casino"
+      ],
+      "en": [
+        "The Royal Mint of Spain",
+        "A private bank",
+        "A museum",
+        "A casino"
+      ],
+      "es": [
+        "La Fábrica Nacional de Moneda y Timbre",
+        "Un banco privado",
+        "Un museo",
+        "Un casino"
+      ],
+      "pt": [
+        "A Casa da Moeda espanhola",
+        "Um banco privado",
+        "Um museu",
+        "Um casino"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le plan n'est pas de voler l'argent, mais de l'imprimer sur place.",
+      "en": "The plan is not to steal money but to print it on site.",
+      "es": "El plan no es robar el dinero, sino imprimirlo allí mismo.",
+      "pt": "O plano não é roubar o dinheiro, mas imprimi-lo no local."
+    }
+  },
+  {
+    "id": "cinema_0390",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel super-héros Marvel s'adresse directement aux spectateurs en brisant le quatrième mur ?",
+      "en": "Which Marvel superhero speaks straight to the audience, breaking the fourth wall?",
+      "es": "¿Qué superhéroe de Marvel se dirige al público rompiendo la cuarta pared?",
+      "pt": "Que super-herói da Marvel fala diretamente ao público, quebrando a quarta parede?"
+    },
+    "options": {
+      "fr": [
+        "Deadpool",
+        "Iron Man",
+        "Thor",
+        "Hulk"
+      ],
+      "en": [
+        "Deadpool",
+        "Iron Man",
+        "Thor",
+        "Hulk"
+      ],
+      "es": [
+        "Deadpool",
+        "Iron Man",
+        "Thor",
+        "Hulk"
+      ],
+      "pt": [
+        "Deadpool",
+        "Iron Man",
+        "Thor",
+        "Hulk"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ryan Reynolds a porté le projet pendant des années avant que le film sorte en 2016.",
+      "en": "Ryan Reynolds pushed the project for years before the film came out in 2016.",
+      "es": "Ryan Reynolds impulsó el proyecto durante años hasta su estreno en 2016.",
+      "pt": "Ryan Reynolds impulsionou o projeto durante anos até à estreia em 2016."
+    }
+  },
+  {
+    "id": "cinema_0391",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Les Gardiens de la Galaxie », quel objet Peter Quill garde-t-il de sa mère ?",
+      "en": "In \"Guardians of the Galaxy\", what does Peter Quill keep from his mother?",
+      "es": "En «Guardianes de la Galaxia», ¿qué objeto conserva Peter Quill de su madre?",
+      "pt": "Em «Guardiões da Galáxia», que objeto guarda Peter Quill da mãe?"
+    },
+    "options": {
+      "fr": [
+        "Une cassette audio",
+        "Une montre",
+        "Une bague",
+        "Un livre"
+      ],
+      "en": [
+        "A mixtape",
+        "A watch",
+        "A ring",
+        "A book"
+      ],
+      "es": [
+        "Una cinta de música",
+        "Un reloj",
+        "Un anillo",
+        "Un libro"
+      ],
+      "pt": [
+        "Uma cassete de música",
+        "Um relógio",
+        "Um anel",
+        "Um livro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La bande-son pop des années 1970 est devenue la signature de la trilogie.",
+      "en": "The 1970s pop soundtrack became the trilogy's signature.",
+      "es": "La banda sonora pop de los setenta se volvió la firma de la trilogía.",
+      "pt": "A banda sonora pop dos anos 70 tornou-se a assinatura da trilogia."
+    }
+  },
+  {
+    "id": "cinema_0392",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film de 2023 réalisé par Greta Gerwig met en scène une poupée célèbre ?",
+      "en": "Which 2023 Greta Gerwig film features a famous doll?",
+      "es": "¿Qué película de 2023 de Greta Gerwig protagoniza una muñeca famosa?",
+      "pt": "Que filme de 2023 de Greta Gerwig tem como protagonista uma boneca famosa?"
+    },
+    "options": {
+      "fr": [
+        "Barbie",
+        "Lady Bird",
+        "Les Filles du docteur March",
+        "Poor Things"
+      ],
+      "en": [
+        "Barbie",
+        "Lady Bird",
+        "Little Women",
+        "Poor Things"
+      ],
+      "es": [
+        "Barbie",
+        "Lady Bird",
+        "Mujercitas",
+        "Pobres criaturas"
+      ],
+      "pt": [
+        "Barbie",
+        "Lady Bird",
+        "Mulherzinhas",
+        "Pobres Criaturas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sa sortie le même jour qu'« Oppenheimer » a donné le phénomène « Barbenheimer ».",
+      "en": "Its release on the same day as \"Oppenheimer\" created the \"Barbenheimer\" phenomenon.",
+      "es": "Su estreno el mismo día que «Oppenheimer» dio lugar al fenómeno «Barbenheimer».",
+      "pt": "A estreia no mesmo dia que «Oppenheimer» deu origem ao fenómeno «Barbenheimer»."
+    }
+  },
+  {
+    "id": "cinema_0393",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Encanto », dans quel pays se déroule l'histoire ?",
+      "en": "In \"Encanto\", in which country is the story set?",
+      "es": "En «Encanto», ¿en qué país transcurre la historia?",
+      "pt": "Em «Encanto», em que país se passa a história?"
+    },
+    "options": {
+      "fr": [
+        "La Colombie",
+        "Le Mexique",
+        "Le Pérou",
+        "Le Brésil"
+      ],
+      "en": [
+        "Colombia",
+        "Mexico",
+        "Peru",
+        "Brazil"
+      ],
+      "es": [
+        "Colombia",
+        "México",
+        "Perú",
+        "Brasil"
+      ],
+      "pt": [
+        "A Colômbia",
+        "O México",
+        "O Peru",
+        "O Brasil"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les chansons sont signées Lin-Manuel Miranda, également auteur de « Hamilton ».",
+      "en": "The songs are by Lin-Manuel Miranda, who also wrote \"Hamilton\".",
+      "es": "Las canciones son de Lin-Manuel Miranda, autor también de «Hamilton».",
+      "pt": "As canções são de Lin-Manuel Miranda, autor também de «Hamilton»."
+    }
+  },
+  {
+    "id": "cinema_0394",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série animée pour adultes suit un cheval anthropomorphe ancienne star de sitcom ?",
+      "en": "Which adult animated series follows an anthropomorphic horse and former sitcom star?",
+      "es": "¿Qué serie animada para adultos sigue a un caballo antropomorfo exestrella de sitcom?",
+      "pt": "Que série animada para adultos segue um cavalo antropomórfico ex-estrela de sitcom?"
+    },
+    "options": {
+      "fr": [
+        "BoJack Horseman",
+        "Rick et Morty",
+        "Archer",
+        "F is for Family"
+      ],
+      "en": [
+        "BoJack Horseman",
+        "Rick and Morty",
+        "Archer",
+        "F is for Family"
+      ],
+      "es": [
+        "BoJack Horseman",
+        "Rick y Morty",
+        "Archer",
+        "F is for Family"
+      ],
+      "pt": [
+        "BoJack Horseman",
+        "Rick and Morty",
+        "Archer",
+        "F is for Family"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sous ses gags, la série traite frontalement de dépression et d'addiction.",
+      "en": "Beneath the gags, the series deals head-on with depression and addiction.",
+      "es": "Bajo los gags, la serie aborda de frente la depresión y la adicción.",
+      "pt": "Sob as piadas, a série aborda de frente a depressão e a dependência."
+    }
+  },
+  {
+    "id": "cinema_0395",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel vaisseau explore l'espace dans la série « Star Trek » originelle ?",
+      "en": "Which starship explores space in the original \"Star Trek\" series?",
+      "es": "¿Qué nave explora el espacio en la serie original de «Star Trek»?",
+      "pt": "Que nave explora o espaço na série original de «Star Trek»?"
+    },
+    "options": {
+      "fr": [
+        "L'USS Enterprise",
+        "Le Faucon Millenium",
+        "Le Serenity",
+        "Le Nostromo"
+      ],
+      "en": [
+        "The USS Enterprise",
+        "The Millennium Falcon",
+        "Serenity",
+        "The Nostromo"
+      ],
+      "es": [
+        "La USS Enterprise",
+        "El Halcón Milenario",
+        "La Serenity",
+        "La Nostromo"
+      ],
+      "pt": [
+        "A USS Enterprise",
+        "A Millennium Falcon",
+        "A Serenity",
+        "A Nostromo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Créée par Gene Roddenberry en 1966, la série a lancé une des plus longues franchises de SF.",
+      "en": "Created by Gene Roddenberry in 1966, it launched one of sci-fi's longest franchises.",
+      "es": "Creada por Gene Roddenberry en 1966, lanzó una de las franquicias de ciencia ficción más largas.",
+      "pt": "Criada por Gene Roddenberry em 1966, lançou uma das franquias de ficção científica mais longas."
+    }
+  },
+  {
+    "id": "cinema_0396",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Ozark », quelle activité illégale la famille Byrde pratique-t-elle ?",
+      "en": "In \"Ozark\", which illegal activity does the Byrde family run?",
+      "es": "En «Ozark», ¿qué actividad ilegal practica la familia Byrde?",
+      "pt": "Em «Ozark», que atividade ilegal pratica a família Byrde?"
+    },
+    "options": {
+      "fr": [
+        "Le blanchiment d'argent",
+        "Le trafic d'armes",
+        "Le vol de voitures",
+        "La contrefaçon d'art"
+      ],
+      "en": [
+        "Money laundering",
+        "Arms trafficking",
+        "Car theft",
+        "Art forgery"
+      ],
+      "es": [
+        "El blanqueo de dinero",
+        "El tráfico de armas",
+        "El robo de coches",
+        "La falsificación de arte"
+      ],
+      "pt": [
+        "O branqueamento de dinheiro",
+        "O tráfico de armas",
+        "O roubo de carros",
+        "A falsificação de arte"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Jason Bateman, qui joue le père, a aussi réalisé plusieurs épisodes.",
+      "en": "Jason Bateman, who plays the father, also directed several episodes.",
+      "es": "Jason Bateman, que interpreta al padre, dirigió también varios episodios.",
+      "pt": "Jason Bateman, que interpreta o pai, realizou também vários episódios."
+    }
+  },
+  {
+    "id": "cinema_0397",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel écrivain a écrit les romans à l'origine de « Game of Thrones » ?",
+      "en": "Which author wrote the novels behind \"Game of Thrones\"?",
+      "es": "¿Qué escritor escribió las novelas en las que se basa «Juego de Tronos»?",
+      "pt": "Que escritor escreveu os romances na origem de «A Guerra dos Tronos»?"
+    },
+    "options": {
+      "fr": [
+        "George R. R. Martin",
+        "J. R. R. Tolkien",
+        "Patrick Rothfuss",
+        "Robert Jordan"
+      ],
+      "en": [
+        "George R. R. Martin",
+        "J. R. R. Tolkien",
+        "Patrick Rothfuss",
+        "Robert Jordan"
+      ],
+      "es": [
+        "George R. R. Martin",
+        "J. R. R. Tolkien",
+        "Patrick Rothfuss",
+        "Robert Jordan"
+      ],
+      "pt": [
+        "George R. R. Martin",
+        "J. R. R. Tolkien",
+        "Patrick Rothfuss",
+        "Robert Jordan"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La saga s'intitule « Le Trône de fer » en français, « A Song of Ice and Fire » en anglais.",
+      "en": "The saga is titled \"A Song of Ice and Fire\".",
+      "es": "La saga se titula «Canción de hielo y fuego».",
+      "pt": "A saga chama-se «As Crónicas de Gelo e Fogo»."
+    }
+  },
+  {
+    "id": "cinema_0398",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film de 1927 est considéré comme le premier long métrage parlant ?",
+      "en": "Which 1927 film is regarded as the first feature-length talkie?",
+      "es": "¿Qué película de 1927 se considera el primer largometraje sonoro?",
+      "pt": "Que filme de 1927 é considerado a primeira longa-metragem sonora?"
+    },
+    "options": {
+      "fr": [
+        "Le Chanteur de jazz",
+        "Metropolis",
+        "L'Aurore",
+        "Les Lumières de la ville"
+      ],
+      "en": [
+        "The Jazz Singer",
+        "Metropolis",
+        "Sunrise",
+        "City Lights"
+      ],
+      "es": [
+        "El cantor de jazz",
+        "Metrópolis",
+        "Amanecer",
+        "Luces de la ciudad"
+      ],
+      "pt": [
+        "O Cantor de Jazz",
+        "Metropolis",
+        "Aurora",
+        "Luzes da Cidade"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film ne contient que quelques minutes de dialogues, mais il a signé la fin du muet.",
+      "en": "The film has only a few minutes of dialogue, but it ended the silent era.",
+      "es": "La película tiene solo unos minutos de diálogo, pero acabó con el cine mudo.",
+      "pt": "O filme tem apenas alguns minutos de diálogo, mas acabou com o cinema mudo."
+    }
+  },
+  {
+    "id": "cinema_0399",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série Netflix suit un adolescent qui ouvre une clinique de conseils sexuels au lycée ?",
+      "en": "Which Netflix series follows a teenager running a sex-advice clinic at school?",
+      "es": "¿Qué serie de Netflix sigue a un adolescente que monta una clínica de consejos sexuales en el instituto?",
+      "pt": "Que série da Netflix segue um adolescente que abre uma clínica de conselhos sexuais na escola?"
+    },
+    "options": {
+      "fr": [
+        "Sex Education",
+        "Élite",
+        "Heartstopper",
+        "The End of the F***ing World"
+      ],
+      "en": [
+        "Sex Education",
+        "Elite",
+        "Heartstopper",
+        "The End of the F***ing World"
+      ],
+      "es": [
+        "Sex Education",
+        "Élite",
+        "Heartstopper",
+        "The End of the F***ing World"
+      ],
+      "pt": [
+        "Sex Education",
+        "Elite",
+        "Heartstopper",
+        "The End of the F***ing World"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sa mère, jouée par Gillian Anderson, est elle-même sexologue.",
+      "en": "His mother, played by Gillian Anderson, is herself a sex therapist.",
+      "es": "Su madre, interpretada por Gillian Anderson, es sexóloga.",
+      "pt": "A mãe dele, interpretada por Gillian Anderson, é sexóloga."
+    }
+  },
+  {
+    "id": "cinema_0400",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel studio a produit le film « Super Mario Bros. » sorti en 2023 ?",
+      "en": "Which studio produced the 2023 \"Super Mario Bros. Movie\"?",
+      "es": "¿Qué estudio produjo la película «Super Mario Bros.» de 2023?",
+      "pt": "Que estúdio produziu o filme «Super Mario Bros.» de 2023?"
+    },
+    "options": {
+      "fr": [
+        "Illumination",
+        "Pixar",
+        "DreamWorks",
+        "Sony Pictures Animation"
+      ],
+      "en": [
+        "Illumination",
+        "Pixar",
+        "DreamWorks",
+        "Sony Pictures Animation"
+      ],
+      "es": [
+        "Illumination",
+        "Pixar",
+        "DreamWorks",
+        "Sony Pictures Animation"
+      ],
+      "pt": [
+        "Illumination",
+        "Pixar",
+        "DreamWorks",
+        "Sony Pictures Animation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film est devenu l'une des adaptations de jeu vidéo les plus rentables de l'histoire.",
+      "en": "The film became one of the highest-grossing video game adaptations ever.",
+      "es": "La película se volvió una de las adaptaciones de videojuego más taquilleras.",
+      "pt": "O filme tornou-se numa das adaptações de videojogo mais rentáveis de sempre."
+    }
+  },
+  {
+    "id": "cinema_0401",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série animée américaine, créée par Trey Parker et Matt Stone, se déroule dans une petite ville du Colorado ?",
+      "en": "Which US animated series by Trey Parker and Matt Stone is set in a small Colorado town?",
+      "es": "¿Qué serie animada estadounidense de Trey Parker y Matt Stone transcurre en un pueblo de Colorado?",
+      "pt": "Que série animada americana de Trey Parker e Matt Stone decorre numa vila do Colorado?"
+    },
+    "options": {
+      "fr": [
+        "South Park",
+        "Les Simpson",
+        "Family Guy",
+        "American Dad"
+      ],
+      "en": [
+        "South Park",
+        "The Simpsons",
+        "Family Guy",
+        "American Dad"
+      ],
+      "es": [
+        "South Park",
+        "Los Simpson",
+        "Padre de familia",
+        "American Dad"
+      ],
+      "pt": [
+        "South Park",
+        "Os Simpsons",
+        "Family Guy",
+        "American Dad"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série est célèbre pour ses épisodes bouclés en quelques jours, collant à l'actualité.",
+      "en": "The show is famous for episodes finished in days, tracking the news closely.",
+      "es": "La serie es célebre por episodios hechos en días, pegados a la actualidad.",
+      "pt": "A série é célebre por episódios feitos em dias, colados à atualidade."
+    }
+  },
+  {
+    "id": "cinema_0402",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Le Père Noël est une ordure », quelle association les personnages tiennent-ils ?",
+      "en": "In \"Santa Claus Is a Stinker\", what kind of helpline do the characters run?",
+      "es": "En «Papá Noel es un asco», ¿qué asociación llevan los personajes?",
+      "pt": "Em «O Pai Natal é uma Porcaria», que associação gerem as personagens?"
+    },
+    "options": {
+      "fr": [
+        "Une permanence téléphonique d'écoute",
+        "Une agence de voyage",
+        "Un restaurant",
+        "Un cabinet médical"
+      ],
+      "en": [
+        "A telephone helpline",
+        "A travel agency",
+        "A restaurant",
+        "A doctor's surgery"
+      ],
+      "es": [
+        "Un teléfono de ayuda",
+        "Una agencia de viajes",
+        "Un restaurante",
+        "Una consulta médica"
+      ],
+      "pt": [
+        "Uma linha de apoio telefónico",
+        "Uma agência de viagens",
+        "Um restaurante",
+        "Um consultório médico"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de 1982, issu de la troupe du Splendid, est rediffusé chaque Noël en France.",
+      "en": "The 1982 film, from the Splendid troupe, is rerun every Christmas in France.",
+      "es": "La película de 1982, de la compañía Le Splendid, se reemite cada Navidad en Francia.",
+      "pt": "O filme de 1982, da companhia Le Splendid, é reposto todos os Natais em França."
+    }
+  },
+  {
+    "id": "cinema_0403",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle actrice détient le record de nominations aux Oscars ?",
+      "en": "Which actress holds the record for Oscar nominations?",
+      "es": "¿Qué actriz tiene el récord de nominaciones al Óscar?",
+      "pt": "Que atriz detém o recorde de nomeações aos Óscares?"
+    },
+    "options": {
+      "fr": [
+        "Meryl Streep",
+        "Katharine Hepburn",
+        "Bette Davis",
+        "Cate Blanchett"
+      ],
+      "en": [
+        "Meryl Streep",
+        "Katharine Hepburn",
+        "Bette Davis",
+        "Cate Blanchett"
+      ],
+      "es": [
+        "Meryl Streep",
+        "Katharine Hepburn",
+        "Bette Davis",
+        "Cate Blanchett"
+      ],
+      "pt": [
+        "Meryl Streep",
+        "Katharine Hepburn",
+        "Bette Davis",
+        "Cate Blanchett"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Katharine Hepburn détient de son côté le record de statuettes d'interprétation, avec quatre.",
+      "en": "Katharine Hepburn, for her part, holds the record for acting wins, with four.",
+      "es": "Katharine Hepburn tiene, por su parte, el récord de estatuillas de interpretación, con cuatro.",
+      "pt": "Katharine Hepburn detém, por seu lado, o recorde de estatuetas de representação, com quatro."
+    }
+  },
+  {
+    "id": "cinema_0404",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel acteur a remporté l'Oscar du meilleur acteur deux années de suite, en 1994 et 1995 ?",
+      "en": "Which actor won Best Actor two years running, in 1994 and 1995?",
+      "es": "¿Qué actor ganó el Óscar al mejor actor dos años seguidos, en 1994 y 1995?",
+      "pt": "Que ator ganhou o Óscar de melhor ator dois anos seguidos, em 1994 e 1995?"
+    },
+    "options": {
+      "fr": [
+        "Tom Hanks",
+        "Daniel Day-Lewis",
+        "Jack Nicholson",
+        "Denzel Washington"
+      ],
+      "en": [
+        "Tom Hanks",
+        "Daniel Day-Lewis",
+        "Jack Nicholson",
+        "Denzel Washington"
+      ],
+      "es": [
+        "Tom Hanks",
+        "Daniel Day-Lewis",
+        "Jack Nicholson",
+        "Denzel Washington"
+      ],
+      "pt": [
+        "Tom Hanks",
+        "Daniel Day-Lewis",
+        "Jack Nicholson",
+        "Denzel Washington"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Pour « Philadelphia » puis « Forrest Gump » : seul Spencer Tracy l'avait fait avant lui.",
+      "en": "For \"Philadelphia\" then \"Forrest Gump\": only Spencer Tracy had done it before.",
+      "es": "Por «Philadelphia» y luego «Forrest Gump»: solo Spencer Tracy lo había logrado antes.",
+      "pt": "Por «Philadelphia» e depois «Forrest Gump»: só Spencer Tracy o tinha feito antes."
+    }
+  },
+  {
+    "id": "cinema_0405",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle réalisatrice a signé « Virgin Suicides », « Lost in Translation » et « Marie-Antoinette » ?",
+      "en": "Which director made \"The Virgin Suicides\", \"Lost in Translation\" and \"Marie Antoinette\"?",
+      "es": "¿Qué directora firmó «Las vírgenes suicidas», «Lost in Translation» y «María Antonieta»?",
+      "pt": "Que realizadora assinou «As Virgens Suicidas», «Lost in Translation» e «Maria Antonieta»?"
+    },
+    "options": {
+      "fr": [
+        "Sofia Coppola",
+        "Greta Gerwig",
+        "Kathryn Bigelow",
+        "Lynne Ramsay"
+      ],
+      "en": [
+        "Sofia Coppola",
+        "Greta Gerwig",
+        "Kathryn Bigelow",
+        "Lynne Ramsay"
+      ],
+      "es": [
+        "Sofia Coppola",
+        "Greta Gerwig",
+        "Kathryn Bigelow",
+        "Lynne Ramsay"
+      ],
+      "pt": [
+        "Sofia Coppola",
+        "Greta Gerwig",
+        "Kathryn Bigelow",
+        "Lynne Ramsay"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Fille de Francis Ford Coppola, elle a reçu l'Oscar du meilleur scénario original en 2004.",
+      "en": "Daughter of Francis Ford Coppola, she won the Best Original Screenplay Oscar in 2004.",
+      "es": "Hija de Francis Ford Coppola, ganó el Óscar al mejor guion original en 2004.",
+      "pt": "Filha de Francis Ford Coppola, ganhou o Óscar de melhor argumento original em 2004."
+    }
+  },
+  {
+    "id": "cinema_0406",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel documentariste américain a remporté la Palme d'or en 2004 pour « Fahrenheit 9/11 » ?",
+      "en": "Which American documentary maker won the 2004 Palme d'Or for \"Fahrenheit 9/11\"?",
+      "es": "¿Qué documentalista estadounidense ganó la Palma de Oro de 2004 por «Fahrenheit 9/11»?",
+      "pt": "Que documentarista americano ganhou a Palma de Ouro de 2004 por «Fahrenheit 9/11»?"
+    },
+    "options": {
+      "fr": [
+        "Michael Moore",
+        "Errol Morris",
+        "Werner Herzog",
+        "Alex Gibney"
+      ],
+      "en": [
+        "Michael Moore",
+        "Errol Morris",
+        "Werner Herzog",
+        "Alex Gibney"
+      ],
+      "es": [
+        "Michael Moore",
+        "Errol Morris",
+        "Werner Herzog",
+        "Alex Gibney"
+      ],
+      "pt": [
+        "Michael Moore",
+        "Errol Morris",
+        "Werner Herzog",
+        "Alex Gibney"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est le premier documentaire à recevoir la Palme d'or depuis 1956.",
+      "en": "It was the first documentary to win the Palme d'Or since 1956.",
+      "es": "Fue el primer documental en ganar la Palma de Oro desde 1956.",
+      "pt": "Foi o primeiro documentário a ganhar a Palma de Ouro desde 1956."
+    }
+  },
+  {
+    "id": "cinema_0407",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel acteur du cinéma muet, surnommé « l'homme qui ne rit jamais », est célèbre pour ses cascades réelles ?",
+      "en": "Which silent film star, \"The Great Stone Face\", is famous for performing his own stunts?",
+      "es": "¿Qué actor del cine mudo, «el hombre que nunca ríe», es célebre por sus acrobacias reales?",
+      "pt": "Que ator do cinema mudo, «o homem que nunca ri», é célebre pelas acrobacias reais?"
+    },
+    "options": {
+      "fr": [
+        "Buster Keaton",
+        "Charlie Chaplin",
+        "Harold Lloyd",
+        "Max Linder"
+      ],
+      "en": [
+        "Buster Keaton",
+        "Charlie Chaplin",
+        "Harold Lloyd",
+        "Max Linder"
+      ],
+      "es": [
+        "Buster Keaton",
+        "Charlie Chaplin",
+        "Harold Lloyd",
+        "Max Linder"
+      ],
+      "pt": [
+        "Buster Keaton",
+        "Charlie Chaplin",
+        "Harold Lloyd",
+        "Max Linder"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il exécutait lui-même des cascades périlleuses, sans jamais changer d'expression.",
+      "en": "He performed dangerous stunts himself without ever changing expression.",
+      "es": "Ejecutaba él mismo acrobacias peligrosas, sin cambiar nunca de expresión.",
+      "pt": "Executava ele próprio acrobacias perigosas, sem nunca mudar de expressão."
+    }
+  },
+  {
+    "id": "cinema_0408",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Breaking Bad », quelle maladie pousse Walter White à fabriquer de la drogue ?",
+      "en": "In \"Breaking Bad\", which illness pushes Walter White into making drugs?",
+      "es": "En «Breaking Bad», ¿qué enfermedad empuja a Walter White a fabricar droga?",
+      "pt": "Em «Breaking Bad», que doença leva Walter White a fabricar droga?"
+    },
+    "options": {
+      "fr": [
+        "Un cancer du poumon",
+        "Un cancer du pancréas",
+        "Une leucémie",
+        "Une sclérose"
+      ],
+      "en": [
+        "Lung cancer",
+        "Pancreatic cancer",
+        "Leukaemia",
+        "Sclerosis"
+      ],
+      "es": [
+        "Un cáncer de pulmón",
+        "Un cáncer de páncreas",
+        "Una leucemia",
+        "Una esclerosis"
+      ],
+      "pt": [
+        "Um cancro do pulmão",
+        "Um cancro do pâncreas",
+        "Uma leucemia",
+        "Uma esclerose"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le diagnostic tombe dès le premier épisode et sert de déclencheur à toute la série.",
+      "en": "The diagnosis lands in the first episode and triggers the entire series.",
+      "es": "El diagnóstico llega en el primer episodio y desencadena toda la serie.",
+      "pt": "O diagnóstico chega no primeiro episódio e desencadeia toda a série."
+    }
+  },
+  {
+    "id": "cinema_0409",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de Chaplin, sorti en 1940, tourne en dérision un dictateur ?",
+      "en": "Which 1940 Chaplin film mocks a dictator?",
+      "es": "¿Qué película de Chaplin, de 1940, ridiculiza a un dictador?",
+      "pt": "Que filme de Chaplin, de 1940, ridiculariza um ditador?"
+    },
+    "options": {
+      "fr": [
+        "Le Dictateur",
+        "Les Temps modernes",
+        "Le Kid",
+        "Les Lumières de la ville"
+      ],
+      "en": [
+        "The Great Dictator",
+        "Modern Times",
+        "The Kid",
+        "City Lights"
+      ],
+      "es": [
+        "El gran dictador",
+        "Tiempos modernos",
+        "El chico",
+        "Luces de la ciudad"
+      ],
+      "pt": [
+        "O Grande Ditador",
+        "Tempos Modernos",
+        "O Miúdo",
+        "Luzes da Cidade"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est le premier film entièrement parlant de Chaplin, et son plus gros succès commercial.",
+      "en": "It was Chaplin's first fully talking film and his biggest commercial success.",
+      "es": "Fue la primera película totalmente sonora de Chaplin y su mayor éxito comercial.",
+      "pt": "Foi o primeiro filme totalmente sonoro de Chaplin e o seu maior êxito comercial."
+    }
+  },
+  {
+    "id": "cinema_0410",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série créée par Shonda Rhimes se déroule dans la haute société londonienne du XIXe siècle ?",
+      "en": "Which Shonda Rhimes series is set in 19th-century London high society?",
+      "es": "¿Qué serie creada por Shonda Rhimes transcurre en la alta sociedad londinense del siglo XIX?",
+      "pt": "Que série criada por Shonda Rhimes decorre na alta sociedade londrina do século XIX?"
+    },
+    "options": {
+      "fr": [
+        "La Chronique des Bridgerton",
+        "The Crown",
+        "Downton Abbey",
+        "Sanditon"
+      ],
+      "en": [
+        "Bridgerton",
+        "The Crown",
+        "Downton Abbey",
+        "Sanditon"
+      ],
+      "es": [
+        "Los Bridgerton",
+        "The Crown",
+        "Downton Abbey",
+        "Sanditon"
+      ],
+      "pt": [
+        "Bridgerton",
+        "The Crown",
+        "Downton Abbey",
+        "Sanditon"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série fait entendre des tubes pop actuels arrangés pour quatuor à cordes.",
+      "en": "The series features contemporary pop hits arranged for string quartet.",
+      "es": "La serie usa éxitos pop actuales arreglados para cuarteto de cuerda.",
+      "pt": "A série usa êxitos pop atuais arranjados para quarteto de cordas."
+    }
+  },
+  {
+    "id": "cinema_0411",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur a dirigé « Les Gardiens de la Galaxie » puis pris la tête des films DC ?",
+      "en": "Which director made \"Guardians of the Galaxy\" then took charge of DC's films?",
+      "es": "¿Qué director dirigió «Guardianes de la Galaxia» y luego tomó las riendas del cine DC?",
+      "pt": "Que realizador dirigiu «Guardiões da Galáxia» e depois assumiu os filmes da DC?"
+    },
+    "options": {
+      "fr": [
+        "James Gunn",
+        "Zack Snyder",
+        "Taika Waititi",
+        "Joss Whedon"
+      ],
+      "en": [
+        "James Gunn",
+        "Zack Snyder",
+        "Taika Waititi",
+        "Joss Whedon"
+      ],
+      "es": [
+        "James Gunn",
+        "Zack Snyder",
+        "Taika Waititi",
+        "Joss Whedon"
+      ],
+      "pt": [
+        "James Gunn",
+        "Zack Snyder",
+        "Taika Waititi",
+        "Joss Whedon"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Cas rare : il a réalisé des films majeurs pour les deux écuries concurrentes.",
+      "en": "A rare case: he has directed major films for both rival stables.",
+      "es": "Caso raro: ha dirigido películas importantes para las dos casas rivales.",
+      "pt": "Caso raro: realizou filmes importantes para as duas casas rivais."
+    }
+  },
+  {
+    "id": "cinema_0412",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film muet français de 1927, d'Abel Gance, utilisait trois écrans côte à côte ?",
+      "en": "Which 1927 French silent film by Abel Gance used three screens side by side?",
+      "es": "¿Qué película muda francesa de 1927, de Abel Gance, usaba tres pantallas contiguas?",
+      "pt": "Que filme mudo francês de 1927, de Abel Gance, usava três ecrãs lado a lado?"
+    },
+    "options": {
+      "fr": [
+        "Napoléon",
+        "J'accuse",
+        "La Roue",
+        "Le Ballon rouge"
+      ],
+      "en": [
+        "Napoléon",
+        "J'accuse",
+        "La Roue",
+        "The Red Balloon"
+      ],
+      "es": [
+        "Napoleón",
+        "Yo acuso",
+        "La rueda",
+        "El globo rojo"
+      ],
+      "pt": [
+        "Napoleão",
+        "J'accuse",
+        "A Roda",
+        "O Balão Vermelho"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ce procédé, la « polyvision », préfigure de plusieurs décennies le cinéma large.",
+      "en": "This process, \"Polyvision\", anticipated widescreen cinema by decades.",
+      "es": "Este procedimiento, la «polivisión», anticipó en décadas el cine panorámico.",
+      "pt": "Este processo, a «polivisão», antecipou em décadas o cinema panorâmico."
+    }
+  },
+  {
+    "id": "cinema_0413",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel acteur a refusé son Oscar en 1973 pour dénoncer le traitement des Amérindiens à Hollywood ?",
+      "en": "Which actor refused his 1973 Oscar to protest Hollywood's treatment of Native Americans?",
+      "es": "¿Qué actor rechazó su Óscar en 1973 para denunciar el trato a los nativos americanos?",
+      "pt": "Que ator recusou o Óscar em 1973 para denunciar o tratamento dos nativos americanos?"
+    },
+    "options": {
+      "fr": [
+        "Marlon Brando",
+        "Paul Newman",
+        "Robert Redford",
+        "Dustin Hoffman"
+      ],
+      "en": [
+        "Marlon Brando",
+        "Paul Newman",
+        "Robert Redford",
+        "Dustin Hoffman"
+      ],
+      "es": [
+        "Marlon Brando",
+        "Paul Newman",
+        "Robert Redford",
+        "Dustin Hoffman"
+      ],
+      "pt": [
+        "Marlon Brando",
+        "Paul Newman",
+        "Robert Redford",
+        "Dustin Hoffman"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il avait été récompensé pour « Le Parrain » et envoya une militante refuser à sa place.",
+      "en": "He had won for \"The Godfather\" and sent an activist to decline in his place.",
+      "es": "Había sido premiado por «El Padrino» y envió a una activista a rechazarlo en su lugar.",
+      "pt": "Tinha sido premiado por «O Padrinho» e enviou uma ativista para recusar em seu lugar."
+    }
+  },
+  {
+    "id": "cinema_0414",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle chaîne américaine a diffusé « The Wire », « Les Soprano » et « Game of Thrones » ?",
+      "en": "Which US network aired \"The Wire\", \"The Sopranos\" and \"Game of Thrones\"?",
+      "es": "¿Qué cadena estadounidense emitió «The Wire», «Los Soprano» y «Juego de Tronos»?",
+      "pt": "Que canal americano transmitiu «The Wire», «Os Sopranos» e «A Guerra dos Tronos»?"
+    },
+    "options": {
+      "fr": [
+        "HBO",
+        "AMC",
+        "Showtime",
+        "FX"
+      ],
+      "en": [
+        "HBO",
+        "AMC",
+        "Showtime",
+        "FX"
+      ],
+      "es": [
+        "HBO",
+        "AMC",
+        "Showtime",
+        "FX"
+      ],
+      "pt": [
+        "HBO",
+        "AMC",
+        "Showtime",
+        "FX"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Son slogan « It's not TV. It's HBO » résume sa stratégie de prestige.",
+      "en": "Its slogan \"It's not TV. It's HBO\" sums up its prestige strategy.",
+      "es": "Su lema «It's not TV. It's HBO» resume su estrategia de prestigio.",
+      "pt": "O slogan «It's not TV. It's HBO» resume a sua estratégia de prestígio."
+    }
+  },
+  {
+    "id": "cinema_0415",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 1962 de David Lean suit un officier britannique dans le désert arabe ?",
+      "en": "Which 1962 David Lean film follows a British officer in the Arabian desert?",
+      "es": "¿Qué película de 1962 de David Lean sigue a un oficial británico en el desierto árabe?",
+      "pt": "Que filme de 1962 de David Lean segue um oficial britânico no deserto árabe?"
+    },
+    "options": {
+      "fr": [
+        "Lawrence d'Arabie",
+        "Le Pont de la rivière Kwaï",
+        "Docteur Jivago",
+        "La Route des Indes"
+      ],
+      "en": [
+        "Lawrence of Arabia",
+        "The Bridge on the River Kwai",
+        "Doctor Zhivago",
+        "A Passage to India"
+      ],
+      "es": [
+        "Lawrence de Arabia",
+        "El puente sobre el río Kwai",
+        "Doctor Zhivago",
+        "Pasaje a la India"
+      ],
+      "pt": [
+        "Lawrence da Arábia",
+        "A Ponte do Rio Kwai",
+        "Doutor Jivago",
+        "Passagem para a Índia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film a remporté sept Oscars, dont celui du meilleur film.",
+      "en": "The film won seven Oscars, including Best Picture.",
+      "es": "La película ganó siete Óscar, incluido el de mejor película.",
+      "pt": "O filme ganhou sete Óscares, incluindo o de melhor filme."
+    }
+  },
+  {
+    "id": "cinema_0416",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série française d'anticipation, diffusée sur Canal+, suit le retour de morts dans un village de montagne ?",
+      "en": "Which French Canal+ series follows the dead returning to a mountain village?",
+      "es": "¿Qué serie francesa de Canal+ sigue el regreso de muertos a un pueblo de montaña?",
+      "pt": "Que série francesa do Canal+ segue o regresso de mortos a uma aldeia de montanha?"
+    },
+    "options": {
+      "fr": [
+        "Les Revenants",
+        "Le Bureau des Légendes",
+        "Engrenages",
+        "Braquo"
+      ],
+      "en": [
+        "The Returned",
+        "The Bureau",
+        "Spiral",
+        "Braquo"
+      ],
+      "es": [
+        "Los resucitados",
+        "El Bureau",
+        "Spiral",
+        "Braquo"
+      ],
+      "pt": [
+        "Os Regressados",
+        "O Bureau",
+        "Spiral",
+        "Braquo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La musique est signée par le groupe écossais Mogwai.",
+      "en": "The score was written by the Scottish band Mogwai.",
+      "es": "La música está firmada por la banda escocesa Mogwai.",
+      "pt": "A música é assinada pela banda escocesa Mogwai."
+    }
+  },
+  {
+    "id": "cinema_0417",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel acteur incarne le personnage principal de « Forrest Gump » et de « Seul au monde » ?",
+      "en": "Which actor stars in both \"Forrest Gump\" and \"Cast Away\"?",
+      "es": "¿Qué actor protagoniza «Forrest Gump» y «Náufrago»?",
+      "pt": "Que ator protagoniza «Forrest Gump» e «Náufrago»?"
+    },
+    "options": {
+      "fr": [
+        "Tom Hanks",
+        "Kevin Costner",
+        "Harrison Ford",
+        "Bruce Willis"
+      ],
+      "en": [
+        "Tom Hanks",
+        "Kevin Costner",
+        "Harrison Ford",
+        "Bruce Willis"
+      ],
+      "es": [
+        "Tom Hanks",
+        "Kevin Costner",
+        "Harrison Ford",
+        "Bruce Willis"
+      ],
+      "pt": [
+        "Tom Hanks",
+        "Kevin Costner",
+        "Harrison Ford",
+        "Bruce Willis"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les deux films sont réalisés par Robert Zemeckis, également auteur de « Retour vers le futur ».",
+      "en": "Both films are by Robert Zemeckis, who also made \"Back to the Future\".",
+      "es": "Ambas son de Robert Zemeckis, autor también de «Regreso al futuro».",
+      "pt": "Ambos são de Robert Zemeckis, autor também de «Regresso ao Futuro»."
+    }
+  },
+  {
+    "id": "cinema_0418",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 1976 de Sidney Lumet dénonce les dérives de la télévision et sa course à l'audience ?",
+      "en": "Which 1976 Sidney Lumet film attacks television's chase for ratings?",
+      "es": "¿Qué película de 1976 de Sidney Lumet denuncia la carrera televisiva por la audiencia?",
+      "pt": "Que filme de 1976 de Sidney Lumet denuncia a corrida televisiva pelas audiências?"
+    },
+    "options": {
+      "fr": [
+        "Network",
+        "Un après-midi de chien",
+        "Serpico",
+        "Le Verdict"
+      ],
+      "en": [
+        "Network",
+        "Dog Day Afternoon",
+        "Serpico",
+        "The Verdict"
+      ],
+      "es": [
+        "Network",
+        "Tarde de perros",
+        "Serpico",
+        "Veredicto final"
+      ],
+      "pt": [
+        "Network",
+        "Um Dia de Cão",
+        "Serpico",
+        "O Veredicto"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sa réplique « Je suis fou de rage » est restée l'un des grands cris du cinéma américain.",
+      "en": "Its line \"I'm as mad as hell\" remains one of American cinema's great outbursts.",
+      "es": "Su frase «Estoy hasta las narices» sigue siendo uno de los grandes gritos del cine estadounidense.",
+      "pt": "A frase «Estou furioso» continua um dos grandes gritos do cinema americano."
+    }
+  },
+  {
+    "id": "cinema_0419",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel prix a été décerné pour la première fois à un film Netflix, provoquant un débat sur la sortie en salles ?",
+      "en": "Which award first went to a Netflix film, sparking debate about theatrical release?",
+      "es": "¿Qué premio recibió por primera vez una película de Netflix, abriendo el debate sobre el estreno en salas?",
+      "pt": "Que prémio foi pela primeira vez para um filme Netflix, abrindo o debate sobre a estreia em salas?"
+    },
+    "options": {
+      "fr": [
+        "Le Lion d'or de Venise",
+        "La Palme d'or",
+        "L'Ours d'or",
+        "Le César"
+      ],
+      "en": [
+        "The Golden Lion in Venice",
+        "The Palme d'Or",
+        "The Golden Bear",
+        "The César"
+      ],
+      "es": [
+        "El León de Oro de Venecia",
+        "La Palma de Oro",
+        "El Oso de Oro",
+        "El César"
+      ],
+      "pt": [
+        "O Leão de Ouro de Veneza",
+        "A Palma de Ouro",
+        "O Urso de Ouro",
+        "O César"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Roma » d'Alfonso Cuarón l'a remporté en 2018 ; Cannes exige, lui, une sortie en salles françaises.",
+      "en": "Alfonso Cuarón's \"Roma\" won it in 2018; Cannes, by contrast, requires a French theatrical release.",
+      "es": "«Roma» de Alfonso Cuarón lo ganó en 2018; Cannes, en cambio, exige estreno en salas francesas.",
+      "pt": "«Roma» de Alfonso Cuarón ganhou-o em 2018; Cannes, por seu lado, exige estreia em salas francesas."
+    }
+  },
+  {
+    "id": "cinema_0420",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est la particularité du film « Le Projet Blair Witch » sur le plan économique ?",
+      "en": "What made \"The Blair Witch Project\" remarkable economically?",
+      "es": "¿Qué hizo notable a «El proyecto de la bruja de Blair» en lo económico?",
+      "pt": "O que tornou «O Projeto Blair Witch» notável economicamente?"
+    },
+    "options": {
+      "fr": [
+        "Un budget minuscule pour des recettes colossales",
+        "Le budget le plus élevé de 1999",
+        "Il n'a rien rapporté",
+        "Il a été financé par l'État"
+      ],
+      "en": [
+        "A tiny budget for colossal takings",
+        "The biggest budget of 1999",
+        "It made nothing",
+        "It was state-funded"
+      ],
+      "es": [
+        "Un presupuesto mínimo para una recaudación enorme",
+        "El mayor presupuesto de 1999",
+        "No recaudó nada",
+        "Lo financió el Estado"
+      ],
+      "pt": [
+        "Um orçamento mínimo para receitas enormes",
+        "O maior orçamento de 1999",
+        "Não rendeu nada",
+        "Foi financiado pelo Estado"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Tourné pour quelques dizaines de milliers de dollars, il en a rapporté près de 250 millions.",
+      "en": "Shot for a few tens of thousands of dollars, it grossed close to $250 million.",
+      "es": "Rodada por unas decenas de miles de dólares, recaudó cerca de 250 millones.",
+      "pt": "Filmado por algumas dezenas de milhares de dólares, rendeu perto de 250 milhões."
+    }
+  },
+  {
+    "id": "cinema_0421",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 1959 de Billy Wilder met en scène deux musiciens déguisés en femmes ?",
+      "en": "Which 1959 Billy Wilder film features two musicians disguised as women?",
+      "es": "¿Qué película de 1959 de Billy Wilder muestra a dos músicos disfrazados de mujeres?",
+      "pt": "Que filme de 1959 de Billy Wilder mostra dois músicos disfarçados de mulheres?"
+    },
+    "options": {
+      "fr": [
+        "Certains l'aiment chaud",
+        "Boulevard du crépuscule",
+        "La Garçonnière",
+        "Assurance sur la mort"
+      ],
+      "en": [
+        "Some Like It Hot",
+        "Sunset Boulevard",
+        "The Apartment",
+        "Double Indemnity"
+      ],
+      "es": [
+        "Con faldas y a lo loco",
+        "El crepúsculo de los dioses",
+        "El apartamento",
+        "Perdición"
+      ],
+      "pt": [
+        "Quanto Mais Quente Melhor",
+        "O Crepúsculo dos Deuses",
+        "O Apartamento",
+        "Pagos a Dobrar"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Marilyn Monroe y tient l'un de ses rôles les plus célèbres.",
+      "en": "Marilyn Monroe plays one of her most famous roles in it.",
+      "es": "Marilyn Monroe interpreta uno de sus papeles más célebres.",
+      "pt": "Marilyn Monroe interpreta um dos seus papéis mais célebres."
+    }
+  },
+  {
+    "id": "cinema_0422",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série animée suit un savant alcoolique et son petit-fils voyageant entre les dimensions ?",
+      "en": "Which animated series follows an alcoholic scientist and his grandson travelling across dimensions?",
+      "es": "¿Qué serie animada sigue a un científico alcohólico y su nieto viajando entre dimensiones?",
+      "pt": "Que série animada segue um cientista alcoólico e o neto a viajar entre dimensões?"
+    },
+    "options": {
+      "fr": [
+        "Rick et Morty",
+        "Futurama",
+        "Solar Opposites",
+        "Disenchantment"
+      ],
+      "en": [
+        "Rick and Morty",
+        "Futurama",
+        "Solar Opposites",
+        "Disenchantment"
+      ],
+      "es": [
+        "Rick y Morty",
+        "Futurama",
+        "Solar Opposites",
+        "Desencanto"
+      ],
+      "pt": [
+        "Rick and Morty",
+        "Futurama",
+        "Solar Opposites",
+        "Desencanto"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série est née d'une parodie de « Retour vers le futur » diffusée sur Adult Swim.",
+      "en": "The show grew out of a \"Back to the Future\" parody aired on Adult Swim.",
+      "es": "La serie nació de una parodia de «Regreso al futuro» emitida en Adult Swim.",
+      "pt": "A série nasceu de uma paródia de «Regresso ao Futuro» emitida no Adult Swim."
+    }
   }
 ]

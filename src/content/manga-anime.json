@@ -16578,5 +16578,1721 @@
       "es": "El dúo retrata desde dentro el funcionamiento de la Weekly Shōnen Jump.",
       "pt": "A dupla retrata por dentro o funcionamento da Weekly Shōnen Jump."
     }
+  },
+  {
+    "id": "manga_0381",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Demon Slayer », comment s'appelle le compagnon de Tanjiro à la tête de sanglier ?",
+      "en": "In \"Demon Slayer\", what is the boar-headed companion of Tanjiro called?",
+      "es": "En «Demon Slayer», ¿cómo se llama el compañero de Tanjiro con cabeza de jabalí?",
+      "pt": "Em «Demon Slayer», como se chama o companheiro de Tanjiro com cabeça de javali?"
+    },
+    "options": {
+      "fr": [
+        "Inosuke",
+        "Zenitsu",
+        "Genya",
+        "Kanao"
+      ],
+      "en": [
+        "Inosuke",
+        "Zenitsu",
+        "Genya",
+        "Kanao"
+      ],
+      "es": [
+        "Inosuke",
+        "Zenitsu",
+        "Genya",
+        "Kanao"
+      ],
+      "pt": [
+        "Inosuke",
+        "Zenitsu",
+        "Genya",
+        "Kanao"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Élevé par des sangliers en montagne, Inosuke maîtrise le souffle de la bête.",
+      "en": "Raised by boars in the mountains, Inosuke uses Beast Breathing.",
+      "es": "Criado por jabalíes en la montaña, Inosuke domina la respiración de la bestia.",
+      "pt": "Criado por javalis na montanha, Inosuke domina a respiração da fera."
+    }
+  },
+  {
+    "id": "manga_0382",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Chainsaw Man », quel est le premier objectif de Denji ?",
+      "en": "In \"Chainsaw Man\", what is Denji's first goal?",
+      "es": "En «Chainsaw Man», ¿cuál es el primer objetivo de Denji?",
+      "pt": "Em «Chainsaw Man», qual é o primeiro objetivo de Denji?"
+    },
+    "options": {
+      "fr": [
+        "Vivre normalement et manger à sa faim",
+        "Devenir président",
+        "Retrouver sa sœur",
+        "Voyager dans le temps"
+      ],
+      "en": [
+        "Live normally and eat his fill",
+        "Become president",
+        "Find his sister",
+        "Travel through time"
+      ],
+      "es": [
+        "Vivir normalmente y comer bien",
+        "Ser presidente",
+        "Encontrar a su hermana",
+        "Viajar en el tiempo"
+      ],
+      "pt": [
+        "Viver normalmente e comer bem",
+        "Ser presidente",
+        "Encontrar a irmã",
+        "Viajar no tempo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Endetté et affamé, Denji rêve d'abord de pain grillé avec de la confiture.",
+      "en": "In debt and starving, Denji first dreams of toast with jam.",
+      "es": "Endeudado y hambriento, Denji sueña primero con pan tostado con mermelada.",
+      "pt": "Endividado e faminto, Denji sonha primeiro com torradas com compota."
+    }
+  },
+  {
+    "id": "manga_0383",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « One Piece », quel personnage a un bras en moins et a offert son chapeau à Luffy ?",
+      "en": "In \"One Piece\", which character has one arm and gave Luffy his hat?",
+      "es": "En «One Piece», ¿qué personaje tiene un brazo menos y le dio su sombrero a Luffy?",
+      "pt": "Em «One Piece», que personagem tem um braço a menos e deu o chapéu a Luffy?"
+    },
+    "options": {
+      "fr": [
+        "Shanks",
+        "Mihawk",
+        "Garp",
+        "Rayleigh"
+      ],
+      "en": [
+        "Shanks",
+        "Mihawk",
+        "Garp",
+        "Rayleigh"
+      ],
+      "es": [
+        "Shanks",
+        "Mihawk",
+        "Garp",
+        "Rayleigh"
+      ],
+      "pt": [
+        "Shanks",
+        "Mihawk",
+        "Garp",
+        "Rayleigh"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Shanks a perdu son bras en sauvant Luffy enfant d'un monstre marin.",
+      "en": "Shanks lost his arm saving a young Luffy from a sea monster.",
+      "es": "Shanks perdió el brazo salvando a Luffy de niño de un monstruo marino.",
+      "pt": "Shanks perdeu o braço a salvar o Luffy criança de um monstro marinho."
+    }
+  },
+  {
+    "id": "manga_0384",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Dragon Ball Super », quel dieu de la destruction ressemble à un chat ?",
+      "en": "In \"Dragon Ball Super\", which god of destruction looks like a cat?",
+      "es": "En «Dragon Ball Super», ¿qué dios de la destrucción parece un gato?",
+      "pt": "Em «Dragon Ball Super», que deus da destruição parece um gato?"
+    },
+    "options": {
+      "fr": [
+        "Beerus",
+        "Whis",
+        "Zeno",
+        "Jiren"
+      ],
+      "en": [
+        "Beerus",
+        "Whis",
+        "Zeno",
+        "Jiren"
+      ],
+      "es": [
+        "Bills",
+        "Whis",
+        "Zeno",
+        "Jiren"
+      ],
+      "pt": [
+        "Beerus",
+        "Whis",
+        "Zeno",
+        "Jiren"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Whis est son ange assistant, bien plus puissant que lui.",
+      "en": "Whis is his angelic attendant, far stronger than he is.",
+      "es": "Whis es su ángel asistente, mucho más fuerte que él.",
+      "pt": "Whis é o seu anjo assistente, muito mais forte do que ele."
+    }
+  },
+  {
+    "id": "manga_0385",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Naruto », qui est le frère d'Itachi Uchiha ?",
+      "en": "In \"Naruto\", who is Itachi Uchiha's brother?",
+      "es": "En «Naruto», ¿quién es el hermano de Itachi Uchiha?",
+      "pt": "Em «Naruto», quem é o irmão de Itachi Uchiha?"
+    },
+    "options": {
+      "fr": [
+        "Sasuke",
+        "Naruto",
+        "Neji",
+        "Shisui"
+      ],
+      "en": [
+        "Sasuke",
+        "Naruto",
+        "Neji",
+        "Shisui"
+      ],
+      "es": [
+        "Sasuke",
+        "Naruto",
+        "Neji",
+        "Shisui"
+      ],
+      "pt": [
+        "Sasuke",
+        "Naruto",
+        "Neji",
+        "Shisui"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Itachi a massacré son clan en épargnant Sasuke, pour des raisons révélées bien plus tard.",
+      "en": "Itachi wiped out his clan but spared Sasuke, for reasons revealed much later.",
+      "es": "Itachi masacró a su clan pero perdonó a Sasuke, por razones reveladas mucho después.",
+      "pt": "Itachi massacrou o clã mas poupou Sasuke, por razões reveladas muito depois."
+    }
+  },
+  {
+    "id": "manga_0386",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Jujutsu Kaisen », combien de doigts de Sukuna existent au total ?",
+      "en": "In \"Jujutsu Kaisen\", how many of Sukuna's fingers exist in total?",
+      "es": "En «Jujutsu Kaisen», ¿cuántos dedos de Sukuna existen en total?",
+      "pt": "Em «Jujutsu Kaisen», quantos dedos de Sukuna existem no total?"
+    },
+    "options": {
+      "fr": [
+        "20",
+        "10",
+        "12",
+        "15"
+      ],
+      "en": [
+        "20",
+        "10",
+        "12",
+        "15"
+      ],
+      "es": [
+        "20",
+        "10",
+        "12",
+        "15"
+      ],
+      "pt": [
+        "20",
+        "10",
+        "12",
+        "15"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sukuna avait quatre bras : ses vingt doigts ont été scellés séparément.",
+      "en": "Sukuna had four arms: his twenty fingers were each sealed separately.",
+      "es": "Sukuna tenía cuatro brazos: sus veinte dedos fueron sellados por separado.",
+      "pt": "Sukuna tinha quatro braços: os vinte dedos foram selados separadamente."
+    }
+  },
+  {
+    "id": "manga_0387",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Madoka Magica », que deviennent les héroïnes en échange d'un vœu ?",
+      "en": "In \"Madoka Magica\", what do the heroines become in exchange for a wish?",
+      "es": "En «Madoka Magica», ¿en qué se convierten las heroínas a cambio de un deseo?",
+      "pt": "Em «Madoka Magica», no que se tornam as heroínas em troca de um desejo?"
+    },
+    "options": {
+      "fr": [
+        "Des magical girls",
+        "Des sorcières dès le départ",
+        "Des robots",
+        "Des vampires"
+      ],
+      "en": [
+        "Magical girls",
+        "Witches from the start",
+        "Robots",
+        "Vampires"
+      ],
+      "es": [
+        "Chicas mágicas",
+        "Brujas desde el inicio",
+        "Robots",
+        "Vampiras"
+      ],
+      "pt": [
+        "Raparigas mágicas",
+        "Bruxas desde o início",
+        "Robôs",
+        "Vampiras"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série détourne les codes du genre : le pacte a un prix bien plus sombre qu'annoncé.",
+      "en": "The series subverts the genre: the pact costs far more than advertised.",
+      "es": "La serie subvierte el género: el pacto tiene un precio mucho más oscuro.",
+      "pt": "A série subverte o género: o pacto tem um preço bem mais sombrio."
+    }
+  },
+  {
+    "id": "manga_0388",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Golden Kamuy », que recherchent les personnages en Hokkaidō ?",
+      "en": "In \"Golden Kamuy\", what are the characters searching for in Hokkaido?",
+      "es": "En «Golden Kamuy», ¿qué buscan los personajes en Hokkaidō?",
+      "pt": "Em «Golden Kamuy», o que procuram as personagens em Hokkaidō?"
+    },
+    "options": {
+      "fr": [
+        "Un trésor en or caché",
+        "Un remède",
+        "Un trésor archéologique grec",
+        "Un vaisseau"
+      ],
+      "en": [
+        "A hidden gold treasure",
+        "A cure",
+        "A Greek archaeological find",
+        "A spaceship"
+      ],
+      "es": [
+        "Un tesoro de oro escondido",
+        "Una cura",
+        "Un hallazgo arqueológico griego",
+        "Una nave"
+      ],
+      "pt": [
+        "Um tesouro de ouro escondido",
+        "Uma cura",
+        "Um achado arqueológico grego",
+        "Uma nave"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La carte du trésor est tatouée sur la peau de prisonniers évadés.",
+      "en": "The treasure map is tattooed on the skin of escaped prisoners.",
+      "es": "El mapa del tesoro está tatuado en la piel de presos fugados.",
+      "pt": "O mapa do tesouro está tatuado na pele de presos fugidos."
+    }
+  },
+  {
+    "id": "manga_0389",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel réalisateur a signé « Les Enfants loups », « Summer Wars » et « Belle » ?",
+      "en": "Which director made \"Wolf Children\", \"Summer Wars\" and \"Belle\"?",
+      "es": "¿Qué director firmó «Los niños lobo», «Summer Wars» y «Belle»?",
+      "pt": "Que realizador assinou «Wolf Children», «Summer Wars» e «Belle»?"
+    },
+    "options": {
+      "fr": [
+        "Mamoru Hosoda",
+        "Makoto Shinkai",
+        "Hayao Miyazaki",
+        "Naoko Yamada"
+      ],
+      "en": [
+        "Mamoru Hosoda",
+        "Makoto Shinkai",
+        "Hayao Miyazaki",
+        "Naoko Yamada"
+      ],
+      "es": [
+        "Mamoru Hosoda",
+        "Makoto Shinkai",
+        "Hayao Miyazaki",
+        "Naoko Yamada"
+      ],
+      "pt": [
+        "Mamoru Hosoda",
+        "Makoto Shinkai",
+        "Hayao Miyazaki",
+        "Naoko Yamada"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ancien de la Toei, Hosoda a fondé le studio Chizu ; la famille est son thème récurrent.",
+      "en": "A Toei alumnus, Hosoda founded Studio Chizu; family is his recurring theme.",
+      "es": "Exalumno de Toei, Hosoda fundó Studio Chizu; la familia es su tema recurrente.",
+      "pt": "Antigo da Toei, Hosoda fundou o Studio Chizu; a família é o seu tema recorrente."
+    }
+  },
+  {
+    "id": "manga_0390",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « L'Attaque des Titans », quel personnage se transforme en Titan Cuirassé ?",
+      "en": "In \"Attack on Titan\", which character becomes the Armoured Titan?",
+      "es": "En «Ataque a los Titanes», ¿qué personaje se convierte en el Titán Acorazado?",
+      "pt": "Em «Ataque dos Titãs», que personagem se torna o Titã Blindado?"
+    },
+    "options": {
+      "fr": [
+        "Reiner",
+        "Bertholdt",
+        "Annie",
+        "Zeke"
+      ],
+      "en": [
+        "Reiner",
+        "Bertholdt",
+        "Annie",
+        "Zeke"
+      ],
+      "es": [
+        "Reiner",
+        "Bertholdt",
+        "Annie",
+        "Zeke"
+      ],
+      "pt": [
+        "Reiner",
+        "Bertholdt",
+        "Annie",
+        "Zeke"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Bertholdt est le Titan Colossal, Annie le Titan Féminin et Zeke le Titan Bestial.",
+      "en": "Bertholdt is the Colossal Titan, Annie the Female Titan and Zeke the Beast Titan.",
+      "es": "Bertholdt es el Titán Colosal, Annie el Titán Hembra y Zeke el Titán Bestia.",
+      "pt": "Bertholdt é o Titã Colossal, Annie o Titã Fêmea e Zeke o Titã Besta."
+    }
+  },
+  {
+    "id": "manga_0392",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Fairy Tail », quel est le pouvoir de Natsu ?",
+      "en": "In \"Fairy Tail\", what is Natsu's power?",
+      "es": "En «Fairy Tail», ¿cuál es el poder de Natsu?",
+      "pt": "Em «Fairy Tail», qual é o poder de Natsu?"
+    },
+    "options": {
+      "fr": [
+        "La magie du feu de dragon",
+        "La magie de glace",
+        "La magie stellaire",
+        "La magie du temps"
+      ],
+      "en": [
+        "Fire dragon magic",
+        "Ice magic",
+        "Celestial magic",
+        "Time magic"
+      ],
+      "es": [
+        "La magia del fuego de dragón",
+        "La magia de hielo",
+        "La magia estelar",
+        "La magia del tiempo"
+      ],
+      "pt": [
+        "A magia do fogo de dragão",
+        "A magia de gelo",
+        "A magia estelar",
+        "A magia do tempo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Natsu est un « chasseur de dragons » élevé par le dragon Ignir.",
+      "en": "Natsu is a \"dragon slayer\" raised by the dragon Igneel.",
+      "es": "Natsu es un «cazador de dragones» criado por el dragón Igneel.",
+      "pt": "Natsu é um «caçador de dragões» criado pelo dragão Igneel."
+    }
+  },
+  {
+    "id": "manga_0393",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Psycho-Pass », qu'évalue le système Sibyl chez chaque citoyen ?",
+      "en": "In \"Psycho-Pass\", what does the Sibyl system measure in each citizen?",
+      "es": "En «Psycho-Pass», ¿qué evalúa el sistema Sibyl en cada ciudadano?",
+      "pt": "Em «Psycho-Pass», o que avalia o sistema Sibyl em cada cidadão?"
+    },
+    "options": {
+      "fr": [
+        "Sa probabilité de commettre un crime",
+        "Sa richesse",
+        "Son intelligence",
+        "Sa santé physique"
+      ],
+      "en": [
+        "Their likelihood of committing a crime",
+        "Their wealth",
+        "Their intelligence",
+        "Their physical health"
+      ],
+      "es": [
+        "Su probabilidad de cometer un delito",
+        "Su riqueza",
+        "Su inteligencia",
+        "Su salud física"
+      ],
+      "pt": [
+        "A probabilidade de cometer um crime",
+        "A riqueza",
+        "A inteligência",
+        "A saúde física"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On peut être arrêté avant tout délit : la série interroge la justice prédictive.",
+      "en": "People can be arrested before any crime: the series questions predictive justice.",
+      "es": "Se puede detener a alguien antes del delito: la serie cuestiona la justicia predictiva.",
+      "pt": "Pode prender-se alguém antes do crime: a série questiona a justiça preditiva."
+    }
+  },
+  {
+    "id": "manga_0394",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Kaguya-sama », que refusent de faire les deux héros ?",
+      "en": "In \"Kaguya-sama\", what do the two leads refuse to do?",
+      "es": "En «Kaguya-sama», ¿qué se niegan a hacer los dos protagonistas?",
+      "pt": "Em «Kaguya-sama», o que recusam fazer os dois protagonistas?"
+    },
+    "options": {
+      "fr": [
+        "Se déclarer en premier",
+        "Aller en cours",
+        "Manger ensemble",
+        "Se parler"
+      ],
+      "en": [
+        "Confess their feelings first",
+        "Attend class",
+        "Eat together",
+        "Speak to each other"
+      ],
+      "es": [
+        "Declararse primero",
+        "Ir a clase",
+        "Comer juntos",
+        "Hablarse"
+      ],
+      "pt": [
+        "Declarar-se primeiro",
+        "Ir às aulas",
+        "Comer juntos",
+        "Falar um com o outro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Chacun considère qu'avouer ses sentiments en premier serait une défaite.",
+      "en": "Each considers confessing first to be a defeat.",
+      "es": "Cada uno considera que declararse primero sería una derrota.",
+      "pt": "Cada um considera que declarar-se primeiro seria uma derrota."
+    }
+  },
+  {
+    "id": "manga_0395",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Bleach », comment s'appelle la libération du zanpakuto au premier niveau ?",
+      "en": "In \"Bleach\", what is the first-stage release of a zanpakuto called?",
+      "es": "En «Bleach», ¿cómo se llama la liberación de primer nivel del zanpakuto?",
+      "pt": "Em «Bleach», como se chama a libertação de primeiro nível do zanpakuto?"
+    },
+    "options": {
+      "fr": [
+        "Le shikai",
+        "Le bankai",
+        "Le kidō",
+        "Le hollowfication"
+      ],
+      "en": [
+        "Shikai",
+        "Bankai",
+        "Kidō",
+        "Hollowfication"
+      ],
+      "es": [
+        "Shikai",
+        "Bankai",
+        "Kidō",
+        "Hollowficación"
+      ],
+      "pt": [
+        "Shikai",
+        "Bankai",
+        "Kidō",
+        "Hollowficação"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le bankai est le second niveau, bien plus rare et plus puissant.",
+      "en": "Bankai is the second stage, far rarer and more powerful.",
+      "es": "El bankai es el segundo nivel, mucho más raro y potente.",
+      "pt": "O bankai é o segundo nível, muito mais raro e poderoso."
+    }
+  },
+  {
+    "id": "manga_0396",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel manga suit un lycéen aux dents de fer qui joue au football américain sous un casque à visière ?",
+      "en": "Which manga follows a schoolboy playing American football behind a visored helmet?",
+      "es": "¿Qué manga sigue a un estudiante que juega al fútbol americano tras un casco con visera?",
+      "pt": "Que manga segue um estudante que joga futebol americano atrás de um capacete com viseira?"
+    },
+    "options": {
+      "fr": [
+        "Eyeshield 21",
+        "Slam Dunk",
+        "Haikyū!!",
+        "Ace of Diamond"
+      ],
+      "en": [
+        "Eyeshield 21",
+        "Slam Dunk",
+        "Haikyū!!",
+        "Ace of Diamond"
+      ],
+      "es": [
+        "Eyeshield 21",
+        "Slam Dunk",
+        "Haikyū!!",
+        "Ace of Diamond"
+      ],
+      "pt": [
+        "Eyeshield 21",
+        "Slam Dunk",
+        "Haikyū!!",
+        "Ace of Diamond"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sena cache son identité derrière une visière teintée, d'où le titre.",
+      "en": "Sena hides his identity behind a tinted visor, hence the title.",
+      "es": "Sena oculta su identidad tras una visera tintada, de ahí el título.",
+      "pt": "Sena esconde a identidade atrás de uma viseira escura, daí o título."
+    }
+  },
+  {
+    "id": "manga_0397",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Dorohedoro », quelle particularité a la tête du héros Caïman ?",
+      "en": "In \"Dorohedoro\", what is unusual about the hero Caiman's head?",
+      "es": "En «Dorohedoro», ¿qué particularidad tiene la cabeza del héroe Caimán?",
+      "pt": "Em «Dorohedoro», que particularidade tem a cabeça do herói Caiman?"
+    },
+    "options": {
+      "fr": [
+        "C'est une tête de reptile",
+        "Elle est invisible",
+        "Elle est en métal",
+        "Elle est double"
+      ],
+      "en": [
+        "It is a reptile head",
+        "It is invisible",
+        "It is metal",
+        "It is doubled"
+      ],
+      "es": [
+        "Es una cabeza de reptil",
+        "Es invisible",
+        "Es de metal",
+        "Es doble"
+      ],
+      "pt": [
+        "É uma cabeça de réptil",
+        "É invisível",
+        "É de metal",
+        "É dupla"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Un sorcier l'a transformé ; il cherche à retrouver son visage et sa mémoire.",
+      "en": "A sorcerer transformed him; he seeks to recover his face and his memory.",
+      "es": "Un hechicero lo transformó; busca recuperar su rostro y su memoria.",
+      "pt": "Um feiticeiro transformou-o; procura recuperar o rosto e a memória."
+    }
+  },
+  {
+    "id": "manga_0398",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel bloc d'émissions a diffusé la plupart des animes japonais en France dans les années 1990 ?",
+      "en": "Which TV block aired most Japanese anime in France during the 1990s?",
+      "es": "¿Qué bloque televisivo emitió la mayoría de animes japoneses en Francia en los años noventa?",
+      "pt": "Que bloco televisivo transmitiu a maioria dos animes japoneses em França nos anos 90?"
+    },
+    "options": {
+      "fr": [
+        "Le Club Dorothée",
+        "Récré A2",
+        "Les Minikeums",
+        "Téléchat"
+      ],
+      "en": [
+        "Club Dorothée",
+        "Récré A2",
+        "Les Minikeums",
+        "Téléchat"
+      ],
+      "es": [
+        "Club Dorothée",
+        "Récré A2",
+        "Les Minikeums",
+        "Téléchat"
+      ],
+      "pt": [
+        "Club Dorothée",
+        "Récré A2",
+        "Les Minikeums",
+        "Téléchat"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Club Dorothée a diffusé Dragon Ball, Saint Seiya, Nicky Larson et Ken le Survivant.",
+      "en": "Club Dorothée aired Dragon Ball, Saint Seiya, City Hunter and Fist of the North Star.",
+      "es": "Club Dorothée emitió Dragon Ball, Saint Seiya, City Hunter y El Puño de la Estrella del Norte.",
+      "pt": "O Club Dorothée transmitiu Dragon Ball, Saint Seiya, City Hunter e Punho da Estrela do Norte."
+    }
+  },
+  {
+    "id": "manga_0399",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Konosuba », quel genre de récit la série parodie-t-elle ?",
+      "en": "In \"Konosuba\", which genre does the series parody?",
+      "es": "En «Konosuba», ¿qué género parodia la serie?",
+      "pt": "Em «Konosuba», que género parodia a série?"
+    },
+    "options": {
+      "fr": [
+        "L'isekai héroïque",
+        "Le polar",
+        "Le sport",
+        "L'horreur"
+      ],
+      "en": [
+        "Heroic isekai",
+        "Crime fiction",
+        "Sports",
+        "Horror"
+      ],
+      "es": [
+        "El isekai heroico",
+        "El policíaco",
+        "El deporte",
+        "El terror"
+      ],
+      "pt": [
+        "O isekai heroico",
+        "O policial",
+        "O desporto",
+        "O terror"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Kazuma se retrouve avec une équipe incompétente au lieu des compagnons puissants habituels.",
+      "en": "Kazuma ends up with an incompetent party instead of the usual powerful companions.",
+      "es": "Kazuma acaba con un grupo incompetente en vez de los compañeros poderosos habituales.",
+      "pt": "Kazuma acaba com um grupo incompetente em vez dos companheiros poderosos habituais."
+    }
+  },
+  {
+    "id": "manga_0400",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « One Punch Man », que cherche Saitama avant tout ?",
+      "en": "In \"One Punch Man\", what does Saitama want above all?",
+      "es": "En «One Punch Man», ¿qué busca Saitama por encima de todo?",
+      "pt": "Em «One Punch Man», o que procura Saitama acima de tudo?"
+    },
+    "options": {
+      "fr": [
+        "Un adversaire à sa hauteur",
+        "De l'argent",
+        "La gloire",
+        "Un logement plus grand"
+      ],
+      "en": [
+        "An opponent who can match him",
+        "Money",
+        "Fame",
+        "A bigger flat"
+      ],
+      "es": [
+        "Un rival a su altura",
+        "Dinero",
+        "Fama",
+        "Un piso más grande"
+      ],
+      "pt": [
+        "Um adversário à sua altura",
+        "Dinheiro",
+        "Fama",
+        "Uma casa maior"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Devenu trop fort, il s'ennuie : c'est tout le ressort comique de la série.",
+      "en": "Having become too strong, he is bored: that is the series' whole comic engine.",
+      "es": "Al volverse demasiado fuerte, se aburre: ese es el motor cómico de la serie.",
+      "pt": "Tendo ficado demasiado forte, aborrece-se: é esse o motor cómico da série."
+    }
+  },
+  {
+    "id": "manga_0401",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « One Piece », comment s'appelle l'île finale où se trouve le trésor du Roi des Pirates ?",
+      "en": "In \"One Piece\", what is the final island holding the Pirate King's treasure called?",
+      "es": "En «One Piece», ¿cómo se llama la isla final donde está el tesoro del Rey de los Piratas?",
+      "pt": "Em «One Piece», como se chama a ilha final onde está o tesouro do Rei dos Piratas?"
+    },
+    "options": {
+      "fr": [
+        "Laugh Tale",
+        "Raftel City",
+        "Skypiea",
+        "Wano"
+      ],
+      "en": [
+        "Laugh Tale",
+        "Raftel City",
+        "Skypiea",
+        "Wano"
+      ],
+      "es": [
+        "Laugh Tale",
+        "Raftel City",
+        "Skypiea",
+        "Wano"
+      ],
+      "pt": [
+        "Laugh Tale",
+        "Raftel City",
+        "Skypiea",
+        "Wano"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Longtemps transcrite « Raftel », l'île a été rebaptisée Laugh Tale par l'auteur.",
+      "en": "Long transcribed as \"Raftel\", the island was renamed Laugh Tale by the author.",
+      "es": "Transcrita mucho tiempo como «Raftel», la isla fue rebautizada Laugh Tale por el autor.",
+      "pt": "Muito tempo transcrita «Raftel», a ilha foi rebatizada Laugh Tale pelo autor."
+    }
+  },
+  {
+    "id": "manga_0402",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « One Piece », qui est le grand-père de Luffy, vice-amiral de la Marine ?",
+      "en": "In \"One Piece\", who is Luffy's grandfather, a Marine vice-admiral?",
+      "es": "En «One Piece», ¿quién es el abuelo de Luffy, vicealmirante de la Marina?",
+      "pt": "Em «One Piece», quem é o avô de Luffy, vice-almirante da Marinha?"
+    },
+    "options": {
+      "fr": [
+        "Monkey D. Garp",
+        "Monkey D. Dragon",
+        "Sengoku",
+        "Kizaru"
+      ],
+      "en": [
+        "Monkey D. Garp",
+        "Monkey D. Dragon",
+        "Sengoku",
+        "Kizaru"
+      ],
+      "es": [
+        "Monkey D. Garp",
+        "Monkey D. Dragon",
+        "Sengoku",
+        "Kizaru"
+      ],
+      "pt": [
+        "Monkey D. Garp",
+        "Monkey D. Dragon",
+        "Sengoku",
+        "Kizaru"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Dragon, le père de Luffy, dirige à l'inverse l'Armée révolutionnaire.",
+      "en": "Dragon, Luffy's father, instead leads the Revolutionary Army.",
+      "es": "Dragon, el padre de Luffy, lidera en cambio el Ejército Revolucionario.",
+      "pt": "Dragon, o pai de Luffy, lidera pelo contrário o Exército Revolucionário."
+    }
+  },
+  {
+    "id": "manga_0403",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Naruto », qui manipule Obito et Madara depuis l'ombre ?",
+      "en": "In \"Naruto\", who manipulates Obito and Madara from the shadows?",
+      "es": "En «Naruto», ¿quién manipula a Obito y Madara desde las sombras?",
+      "pt": "Em «Naruto», quem manipula Obito e Madara nas sombras?"
+    },
+    "options": {
+      "fr": [
+        "Zetsu Noir",
+        "Kabuto",
+        "Orochimaru",
+        "Danzo"
+      ],
+      "en": [
+        "Black Zetsu",
+        "Kabuto",
+        "Orochimaru",
+        "Danzo"
+      ],
+      "es": [
+        "Zetsu Negro",
+        "Kabuto",
+        "Orochimaru",
+        "Danzo"
+      ],
+      "pt": [
+        "Zetsu Negro",
+        "Kabuto",
+        "Orochimaru",
+        "Danzo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Zetsu Noir agit depuis des siècles pour faire revenir Kaguya Ōtsutsuki.",
+      "en": "Black Zetsu has schemed for centuries to bring back Kaguya Ōtsutsuki.",
+      "es": "Zetsu Negro maquina desde hace siglos para devolver a Kaguya Ōtsutsuki.",
+      "pt": "O Zetsu Negro maquina há séculos para trazer de volta Kaguya Ōtsutsuki."
+    }
+  },
+  {
+    "id": "manga_0404",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Dragon Ball Super », comment s'appelle la technique divine que Goku maîtrise face à Jiren ?",
+      "en": "In \"Dragon Ball Super\", what is the divine technique Goku masters against Jiren?",
+      "es": "En «Dragon Ball Super», ¿cómo se llama la técnica divina que Goku domina ante Jiren?",
+      "pt": "Em «Dragon Ball Super», como se chama a técnica divina que Goku domina perante Jiren?"
+    },
+    "options": {
+      "fr": [
+        "L'Ultra Instinct",
+        "Le Super Saiyan Blue",
+        "Le Kaioken",
+        "Le Mafuba"
+      ],
+      "en": [
+        "Ultra Instinct",
+        "Super Saiyan Blue",
+        "Kaioken",
+        "Mafuba"
+      ],
+      "es": [
+        "El Ultra Instinto",
+        "El Super Saiyan Blue",
+        "El Kaioken",
+        "El Mafuba"
+      ],
+      "pt": [
+        "O Ultra Instinto",
+        "O Super Saiyajin Blue",
+        "O Kaioken",
+        "O Mafuba"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le corps agit seul, sans que la pensée intervienne : même les dieux la maîtrisent rarement.",
+      "en": "The body acts on its own without conscious thought: even gods rarely master it.",
+      "es": "El cuerpo actúa solo, sin pensamiento: incluso los dioses rara vez la dominan.",
+      "pt": "O corpo age sozinho, sem pensamento: mesmo os deuses raramente a dominam."
+    }
+  },
+  {
+    "id": "manga_0405",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio a animé « Fullmetal Alchemist: Brotherhood », « My Hero Academia » et « Mob Psycho 100 » ?",
+      "en": "Which studio animated \"Fullmetal Alchemist: Brotherhood\", \"My Hero Academia\" and \"Mob Psycho 100\"?",
+      "es": "¿Qué estudio animó «Fullmetal Alchemist: Brotherhood», «My Hero Academia» y «Mob Psycho 100»?",
+      "pt": "Que estúdio animou «Fullmetal Alchemist: Brotherhood», «My Hero Academia» e «Mob Psycho 100»?"
+    },
+    "options": {
+      "fr": [
+        "Bones",
+        "Madhouse",
+        "Sunrise",
+        "Kyoto Animation"
+      ],
+      "en": [
+        "Bones",
+        "Madhouse",
+        "Sunrise",
+        "Kyoto Animation"
+      ],
+      "es": [
+        "Bones",
+        "Madhouse",
+        "Sunrise",
+        "Kyoto Animation"
+      ],
+      "pt": [
+        "Bones",
+        "Madhouse",
+        "Sunrise",
+        "Kyoto Animation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Bones a été fondé en 1998 par d'anciens de Sunrise.",
+      "en": "Bones was founded in 1998 by former Sunrise staff.",
+      "es": "Bones fue fundado en 1998 por antiguos de Sunrise.",
+      "pt": "A Bones foi fundada em 1998 por antigos da Sunrise."
+    }
+  },
+  {
+    "id": "manga_0406",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur, connu pour son style très libre, a fondé le studio Science SARU ?",
+      "en": "Which director, known for his very free style, co-founded Science SARU?",
+      "es": "¿Qué director, de estilo muy libre, cofundó Science SARU?",
+      "pt": "Que realizador, de estilo muito livre, cofundou o Science SARU?"
+    },
+    "options": {
+      "fr": [
+        "Masaaki Yuasa",
+        "Hideaki Anno",
+        "Hiroyuki Imaishi",
+        "Shinichirō Watanabe"
+      ],
+      "en": [
+        "Masaaki Yuasa",
+        "Hideaki Anno",
+        "Hiroyuki Imaishi",
+        "Shinichirō Watanabe"
+      ],
+      "es": [
+        "Masaaki Yuasa",
+        "Hideaki Anno",
+        "Hiroyuki Imaishi",
+        "Shinichirō Watanabe"
+      ],
+      "pt": [
+        "Masaaki Yuasa",
+        "Hideaki Anno",
+        "Hiroyuki Imaishi",
+        "Shinichirō Watanabe"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On lui doit « Devilman Crybaby » et « Ping Pong the Animation », aux traits volontairement déformés.",
+      "en": "He made \"Devilman Crybaby\" and \"Ping Pong the Animation\", with deliberately distorted lines.",
+      "es": "Suyos son «Devilman Crybaby» y «Ping Pong the Animation», de trazos deformados a propósito.",
+      "pt": "Dele são «Devilman Crybaby» e «Ping Pong the Animation», de traços deliberadamente deformados."
+    }
+  },
+  {
+    "id": "manga_0407",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio a été gravement touché par un incendie criminel en 2019 ?",
+      "en": "Which studio was devastated by an arson attack in 2019?",
+      "es": "¿Qué estudio fue devastado por un incendio provocado en 2019?",
+      "pt": "Que estúdio foi devastado por um incêndio criminoso em 2019?"
+    },
+    "options": {
+      "fr": [
+        "Kyoto Animation",
+        "Studio Ghibli",
+        "MAPPA",
+        "Toei Animation"
+      ],
+      "en": [
+        "Kyoto Animation",
+        "Studio Ghibli",
+        "MAPPA",
+        "Toei Animation"
+      ],
+      "es": [
+        "Kyoto Animation",
+        "Studio Ghibli",
+        "MAPPA",
+        "Toei Animation"
+      ],
+      "pt": [
+        "Kyoto Animation",
+        "Studio Ghibli",
+        "MAPPA",
+        "Toei Animation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'attaque a fait 36 morts et provoqué une vague de solidarité mondiale.",
+      "en": "The attack killed 36 people and prompted a global wave of solidarity.",
+      "es": "El ataque causó 36 muertos y provocó una ola mundial de solidaridad.",
+      "pt": "O ataque causou 36 mortos e provocou uma onda mundial de solidariedade."
+    }
+  },
+  {
+    "id": "manga_0408",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « L'Attaque des Titans », comment appelle-t-on le pouvoir qui contrôle tous les titans ?",
+      "en": "In \"Attack on Titan\", what is the power that controls all titans called?",
+      "es": "En «Ataque a los Titanes», ¿cómo se llama el poder que controla a todos los titanes?",
+      "pt": "Em «Ataque dos Titãs», como se chama o poder que controla todos os titãs?"
+    },
+    "options": {
+      "fr": [
+        "Le Titan Originel",
+        "Le Titan Bestial",
+        "Le Titan Marteau d'Guerre",
+        "Le Titan Charrette"
+      ],
+      "en": [
+        "The Founding Titan",
+        "The Beast Titan",
+        "The War Hammer Titan",
+        "The Cart Titan"
+      ],
+      "es": [
+        "El Titán Fundador",
+        "El Titán Bestia",
+        "El Titán Martillo de Guerra",
+        "El Titán Carreta"
+      ],
+      "pt": [
+        "O Titã Fundador",
+        "O Titã Besta",
+        "O Titã Martelo de Guerra",
+        "O Titã Carroça"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Titan Originel peut aussi modifier la mémoire et le corps de tous les Eldiens.",
+      "en": "The Founding Titan can also alter the memories and bodies of all Eldians.",
+      "es": "El Titán Fundador también puede alterar la memoria y el cuerpo de todos los eldianos.",
+      "pt": "O Titã Fundador pode também alterar a memória e o corpo de todos os eldianos."
+    }
+  },
+  {
+    "id": "manga_0409",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel mangaka a créé « Gantz » ?",
+      "en": "Which manga author created \"Gantz\"?",
+      "es": "¿Qué mangaka creó «Gantz»?",
+      "pt": "Que mangaka criou «Gantz»?"
+    },
+    "options": {
+      "fr": [
+        "Hiroya Oku",
+        "Tsutomu Nihei",
+        "Inio Asano",
+        "Q Hayashida"
+      ],
+      "en": [
+        "Hiroya Oku",
+        "Tsutomu Nihei",
+        "Inio Asano",
+        "Q Hayashida"
+      ],
+      "es": [
+        "Hiroya Oku",
+        "Tsutomu Nihei",
+        "Inio Asano",
+        "Q Hayashida"
+      ],
+      "pt": [
+        "Hiroya Oku",
+        "Tsutomu Nihei",
+        "Inio Asano",
+        "Q Hayashida"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Tsutomu Nihei a signé « Blame! », Inio Asano « Oyasumi Punpun » et Q Hayashida « Dorohedoro ».",
+      "en": "Tsutomu Nihei made \"Blame!\", Inio Asano \"Goodnight Punpun\" and Q Hayashida \"Dorohedoro\".",
+      "es": "Tsutomu Nihei firmó «Blame!», Inio Asano «Buenas noches, Punpun» y Q Hayashida «Dorohedoro».",
+      "pt": "Tsutomu Nihei assinou «Blame!», Inio Asano «Boa Noite, Punpun» e Q Hayashida «Dorohedoro»."
+    }
+  },
+  {
+    "id": "manga_0410",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel prix récompense chaque année les jeunes talents du manga chez Shūeisha, en hommage au « dieu du manga » ?",
+      "en": "Which annual Shueisha award honours new manga talent, named after the \"god of manga\"?",
+      "es": "¿Qué premio anual de Shueisha reconoce a nuevos talentos del manga, en honor al «dios del manga»?",
+      "pt": "Que prémio anual da Shueisha distingue novos talentos do manga, em honra do «deus do manga»?"
+    },
+    "options": {
+      "fr": [
+        "Le prix Tezuka",
+        "Le prix Eisner",
+        "Le prix Kodansha",
+        "Le prix Angoulême"
+      ],
+      "en": [
+        "The Tezuka Award",
+        "The Eisner Award",
+        "The Kodansha Award",
+        "The Angoulême Prize"
+      ],
+      "es": [
+        "El Premio Tezuka",
+        "El Premio Eisner",
+        "El Premio Kodansha",
+        "El Premio Angoulême"
+      ],
+      "pt": [
+        "O Prémio Tezuka",
+        "O Prémio Eisner",
+        "O Prémio Kodansha",
+        "O Prémio Angoulême"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Eiichirō Oda a été distingué très jeune par ce prix, avant « One Piece ».",
+      "en": "Eiichiro Oda won this award very young, before \"One Piece\".",
+      "es": "Eiichiro Oda fue premiado muy joven con este galardón, antes de «One Piece».",
+      "pt": "Eiichiro Oda foi premiado muito jovem com este galardão, antes de «One Piece»."
+    }
+  },
+  {
+    "id": "manga_0411",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Jujutsu Kaisen », comment appelle-t-on l'énergie utilisée par les exorcistes ?",
+      "en": "In \"Jujutsu Kaisen\", what is the energy used by sorcerers called?",
+      "es": "En «Jujutsu Kaisen», ¿cómo se llama la energía que usan los hechiceros?",
+      "pt": "Em «Jujutsu Kaisen», como se chama a energia usada pelos feiticeiros?"
+    },
+    "options": {
+      "fr": [
+        "L'énergie occulte",
+        "Le nen",
+        "Le chakra",
+        "Le reiatsu"
+      ],
+      "en": [
+        "Cursed energy",
+        "Nen",
+        "Chakra",
+        "Reiatsu"
+      ],
+      "es": [
+        "La energía maldita",
+        "El nen",
+        "El chakra",
+        "El reiatsu"
+      ],
+      "pt": [
+        "A energia amaldiçoada",
+        "O nen",
+        "O chakra",
+        "O reiatsu"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elle naît des émotions négatives des humains, comme les fléaux eux-mêmes.",
+      "en": "It is born from humans' negative emotions, just like the curses themselves.",
+      "es": "Nace de las emociones negativas humanas, igual que las propias maldiciones.",
+      "pt": "Nasce das emoções negativas humanas, tal como as próprias maldições."
+    }
+  },
+  {
+    "id": "manga_0412",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel manga d'Inio Asano suit la vie d'un garçon dessiné sous forme d'oiseau ?",
+      "en": "Which Inio Asano manga follows a boy drawn as a bird?",
+      "es": "¿Qué manga de Inio Asano sigue a un chico dibujado como un pájaro?",
+      "pt": "Que manga de Inio Asano segue um rapaz desenhado como um pássaro?"
+    },
+    "options": {
+      "fr": [
+        "Oyasumi Punpun",
+        "Solanin",
+        "Dead Dead Demons",
+        "Bonne nuit Sherazade"
+      ],
+      "en": [
+        "Goodnight Punpun",
+        "Solanin",
+        "Dead Dead Demons",
+        "Nijigahara Holograph"
+      ],
+      "es": [
+        "Buenas noches, Punpun",
+        "Solanin",
+        "Dead Dead Demons",
+        "Nijigahara Holograph"
+      ],
+      "pt": [
+        "Boa Noite, Punpun",
+        "Solanin",
+        "Dead Dead Demons",
+        "Nijigahara Holograph"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le contraste entre le dessin naïf du héros et le réalisme du décor fait toute la force du récit.",
+      "en": "The contrast between the hero's naive drawing and the realistic backgrounds drives the whole story.",
+      "es": "El contraste entre el dibujo ingenuo del héroe y los fondos realistas es toda la fuerza del relato.",
+      "pt": "O contraste entre o desenho ingénuo do herói e os fundos realistas dá toda a força ao relato."
+    }
+  },
+  {
+    "id": "manga_0413",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Demon Slayer », quel souffle est à l'origine de tous les autres ?",
+      "en": "In \"Demon Slayer\", which breathing style is the origin of all the others?",
+      "es": "En «Demon Slayer», ¿qué respiración es el origen de todas las demás?",
+      "pt": "Em «Demon Slayer», que respiração está na origem de todas as outras?"
+    },
+    "options": {
+      "fr": [
+        "Le souffle du soleil",
+        "Le souffle de l'eau",
+        "Le souffle de la flamme",
+        "Le souffle de la lune"
+      ],
+      "en": [
+        "Sun Breathing",
+        "Water Breathing",
+        "Flame Breathing",
+        "Moon Breathing"
+      ],
+      "es": [
+        "La respiración del sol",
+        "La del agua",
+        "La de la llama",
+        "La de la luna"
+      ],
+      "pt": [
+        "A respiração do sol",
+        "A da água",
+        "A da chama",
+        "A da lua"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Tous les autres souffles en dérivent, y compris celui de la lune, employé par un démon.",
+      "en": "All other styles derive from it, including Moon Breathing, used by a demon.",
+      "es": "Todas las demás derivan de ella, incluida la de la luna, usada por un demonio.",
+      "pt": "Todas as outras derivam dela, incluindo a da lua, usada por um demónio."
+    }
+  },
+  {
+    "id": "manga_0414",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série de light novels et d'animes met en scène des guerres du Graal entre mages et héros du passé ?",
+      "en": "Which light novel and anime franchise features Grail wars between mages and legendary heroes?",
+      "es": "¿Qué franquicia de light novels y animes presenta guerras del Grial entre magos y héroes legendarios?",
+      "pt": "Que franquia de light novels e animes apresenta guerras do Graal entre magos e heróis lendários?"
+    },
+    "options": {
+      "fr": [
+        "Fate",
+        "Overlord",
+        "Shield Hero",
+        "Log Horizon"
+      ],
+      "en": [
+        "Fate",
+        "Overlord",
+        "Shield Hero",
+        "Log Horizon"
+      ],
+      "es": [
+        "Fate",
+        "Overlord",
+        "Shield Hero",
+        "Log Horizon"
+      ],
+      "pt": [
+        "Fate",
+        "Overlord",
+        "Shield Hero",
+        "Log Horizon"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les « Servants » sont des figures historiques ou mythologiques invoquées par des mages.",
+      "en": "The \"Servants\" are historical or mythological figures summoned by mages.",
+      "es": "Los «Servants» son figuras históricas o mitológicas invocadas por magos.",
+      "pt": "Os «Servants» são figuras históricas ou mitológicas invocadas por magos."
+    }
+  },
+  {
+    "id": "manga_0415",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel manga de Tsutomu Nihei se déroule dans une mégastructure infinie, presque sans dialogues ?",
+      "en": "Which Tsutomu Nihei manga is set in an endless megastructure, with almost no dialogue?",
+      "es": "¿Qué manga de Tsutomu Nihei transcurre en una megaestructura infinita, casi sin diálogos?",
+      "pt": "Que manga de Tsutomu Nihei decorre numa megaestrutura infinita, quase sem diálogos?"
+    },
+    "options": {
+      "fr": [
+        "Blame!",
+        "Knights of Sidonia",
+        "Biomega",
+        "Abara"
+      ],
+      "en": [
+        "Blame!",
+        "Knights of Sidonia",
+        "Biomega",
+        "Abara"
+      ],
+      "es": [
+        "Blame!",
+        "Knights of Sidonia",
+        "Biomega",
+        "Abara"
+      ],
+      "pt": [
+        "Blame!",
+        "Knights of Sidonia",
+        "Biomega",
+        "Abara"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ancien architecte, Nihei dessine des espaces vertigineux qui écrasent les personnages.",
+      "en": "A former architect, Nihei draws vertiginous spaces that dwarf his characters.",
+      "es": "Antiguo arquitecto, Nihei dibuja espacios vertiginosos que empequeñecen a sus personajes.",
+      "pt": "Antigo arquiteto, Nihei desenha espaços vertiginosos que esmagam as personagens."
+    }
+  },
+  {
+    "id": "manga_0416",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Hunter x Hunter », quelle catégorie de Nen correspond à la création d'objets à partir de rien ?",
+      "en": "In \"Hunter x Hunter\", which Nen category creates objects out of nothing?",
+      "es": "En «Hunter x Hunter», ¿qué categoría de Nen crea objetos de la nada?",
+      "pt": "Em «Hunter x Hunter», que categoria de Nen cria objetos do nada?"
+    },
+    "options": {
+      "fr": [
+        "La matérialisation",
+        "L'émission",
+        "Le renforcement",
+        "La manipulation"
+      ],
+      "en": [
+        "Conjuration",
+        "Emission",
+        "Enhancement",
+        "Manipulation"
+      ],
+      "es": [
+        "La materialización",
+        "La emisión",
+        "La potenciación",
+        "La manipulación"
+      ],
+      "pt": [
+        "A materialização",
+        "A emissão",
+        "O reforço",
+        "A manipulação"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Kurapika s'en sert pour créer ses chaînes, chacune dotée d'un pouvoir différent.",
+      "en": "Kurapika uses it to create his chains, each with a different power.",
+      "es": "Kurapika la usa para crear sus cadenas, cada una con un poder distinto.",
+      "pt": "Kurapika usa-a para criar as suas correntes, cada uma com um poder diferente."
+    }
+  },
+  {
+    "id": "manga_0417",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel manga de sport de Taiyō Matsumoto, adapté par Masaaki Yuasa, suit deux joueurs de tennis de table ?",
+      "en": "Which Taiyō Matsumoto sports manga, adapted by Masaaki Yuasa, follows two table tennis players?",
+      "es": "¿Qué manga deportivo de Taiyō Matsumoto, adaptado por Yuasa, sigue a dos jugadores de tenis de mesa?",
+      "pt": "Que manga desportivo de Taiyō Matsumoto, adaptado por Yuasa, segue dois jogadores de ténis de mesa?"
+    },
+    "options": {
+      "fr": [
+        "Ping Pong",
+        "Amer Béton",
+        "Sunny",
+        "Number Five"
+      ],
+      "en": [
+        "Ping Pong",
+        "Tekkonkinkreet",
+        "Sunny",
+        "Number Five"
+      ],
+      "es": [
+        "Ping Pong",
+        "Tekkonkinkreet",
+        "Sunny",
+        "Number Five"
+      ],
+      "pt": [
+        "Ping Pong",
+        "Tekkonkinkreet",
+        "Sunny",
+        "Number Five"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Son trait très éloigné des canons du shōnen a d'abord dérouté, puis fait école.",
+      "en": "Its style, far from shōnen norms, first unsettled readers, then set a trend.",
+      "es": "Su trazo, lejos de los cánones del shōnen, desconcertó primero y luego hizo escuela.",
+      "pt": "O traço, longe dos cânones do shōnen, desconcertou primeiro e depois fez escola."
+    }
+  },
+  {
+    "id": "manga_0418",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Fullmetal Alchemist », comment appelle-t-on les sept antagonistes nommés d'après les péchés capitaux ?",
+      "en": "In \"Fullmetal Alchemist\", what are the seven antagonists named after the deadly sins called?",
+      "es": "En «Fullmetal Alchemist», ¿cómo se llaman los siete antagonistas nombrados por los pecados capitales?",
+      "pt": "Em «Fullmetal Alchemist», como se chamam os sete antagonistas com nomes dos pecados capitais?"
+    },
+    "options": {
+      "fr": [
+        "Les homonculus",
+        "Les chimères",
+        "Les alchimistes d'État",
+        "Les Ishvals"
+      ],
+      "en": [
+        "The homunculi",
+        "The chimeras",
+        "The State Alchemists",
+        "The Ishvalans"
+      ],
+      "es": [
+        "Los homúnculos",
+        "Las quimeras",
+        "Los alquimistas estatales",
+        "Los ishvalíes"
+      ],
+      "pt": [
+        "Os homúnculos",
+        "As quimeras",
+        "Os alquimistas de Estado",
+        "Os ishvalianos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Orgueil, Luxure, Gourmandise, Envie, Colère, Paresse et Avarice.",
+      "en": "Pride, Lust, Gluttony, Envy, Wrath, Sloth and Greed.",
+      "es": "Orgullo, Lujuria, Gula, Envidia, Ira, Pereza y Codicia.",
+      "pt": "Orgulho, Luxúria, Gula, Inveja, Ira, Preguiça e Ganância."
+    }
+  },
+  {
+    "id": "manga_0419",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel groupe japonais a interprété plusieurs génériques de « Demon Slayer », dont « Gurenge » ?",
+      "en": "Which Japanese artist performed several \"Demon Slayer\" themes, including \"Gurenge\"?",
+      "es": "¿Qué artista japonesa interpretó varios temas de «Demon Slayer», entre ellos «Gurenge»?",
+      "pt": "Que artista japonesa interpretou vários temas de «Demon Slayer», entre eles «Gurenge»?"
+    },
+    "options": {
+      "fr": [
+        "LiSA",
+        "Yoasobi",
+        "Aimer",
+        "Radwimps"
+      ],
+      "en": [
+        "LiSA",
+        "Yoasobi",
+        "Aimer",
+        "Radwimps"
+      ],
+      "es": [
+        "LiSA",
+        "Yoasobi",
+        "Aimer",
+        "Radwimps"
+      ],
+      "pt": [
+        "LiSA",
+        "Yoasobi",
+        "Aimer",
+        "Radwimps"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Radwimps a signé la bande originale de « Your Name », et Yoasobi celle d'« Oshi no Ko ».",
+      "en": "Radwimps scored \"Your Name\", and Yoasobi performed the \"Oshi no Ko\" theme.",
+      "es": "Radwimps firmó la banda sonora de «Your Name», y Yoasobi el tema de «Oshi no Ko».",
+      "pt": "Os Radwimps assinaram a banda sonora de «Your Name», e Yoasobi o tema de «Oshi no Ko»."
+    }
+  },
+  {
+    "id": "manga_0420",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Vinland Saga », vers quelle terre lointaine Thorfinn veut-il partir dans la seconde partie ?",
+      "en": "In \"Vinland Saga\", which distant land does Thorfinn aim for in the second part?",
+      "es": "En «Vinland Saga», ¿hacia qué tierra lejana quiere partir Thorfinn en la segunda parte?",
+      "pt": "Em «Vinland Saga», para que terra distante quer partir Thorfinn na segunda parte?"
+    },
+    "options": {
+      "fr": [
+        "Le Vinland, en Amérique du Nord",
+        "L'Islande",
+        "Le Groenland",
+        "La Terre sainte"
+      ],
+      "en": [
+        "Vinland, in North America",
+        "Iceland",
+        "Greenland",
+        "The Holy Land"
+      ],
+      "es": [
+        "Vinlandia, en América del Norte",
+        "Islandia",
+        "Groenlandia",
+        "Tierra Santa"
+      ],
+      "pt": [
+        "Vinlândia, na América do Norte",
+        "A Islândia",
+        "A Gronelândia",
+        "A Terra Santa"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Vinland désigne la région atteinte par les Vikings vers l'an 1000, bien avant Colomb.",
+      "en": "Vinland is the region reached by Vikings around the year 1000, long before Columbus.",
+      "es": "Vinlandia es la región alcanzada por los vikingos hacia el año 1000, mucho antes de Colón.",
+      "pt": "A Vinlândia é a região alcançada pelos viquingues por volta do ano 1000, muito antes de Colombo."
+    }
   }
 ]
