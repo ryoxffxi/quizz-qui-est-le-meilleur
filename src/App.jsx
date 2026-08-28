@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import Home from './components/Home'
+import BankGate from './components/BankGate'
 import SoloQuiz from './components/SoloQuiz'
 import ChallengeQuiz from './components/ChallengeQuiz'
 import ChallengeSetup from './components/ChallengeSetup'
@@ -125,36 +126,44 @@ export default function App() {
 
       {route.screen === 'home' && <Home onStart={start} />}
 
+      {/* Les écrans ci-dessous lisent la banque de questions : BankGate la
+          charge (chunk séparé) avant de les monter. */}
       {route.screen === 'solo' && (
-        <SoloQuiz
-          categoryId={route.categoryId}
-          difficulty={route.difficulty}
-          onExit={goHome}
-          onChallenge={() =>
-            setRoute({
-              screen: 'challengeSetup',
-              categoryId: route.categoryId,
-              difficulty: route.difficulty,
-            })
-          }
-        />
+        <BankGate categoryId={route.categoryId}>
+          <SoloQuiz
+            categoryId={route.categoryId}
+            difficulty={route.difficulty}
+            onExit={goHome}
+            onChallenge={() =>
+              setRoute({
+                screen: 'challengeSetup',
+                categoryId: route.categoryId,
+                difficulty: route.difficulty,
+              })
+            }
+          />
+        </BankGate>
       )}
 
       {route.screen === 'challengeSetup' && (
-        <ChallengeSetup
-          categoryId={route.categoryId}
-          difficulty={route.difficulty}
-          onStart={startChallenge}
-          onCancel={goHome}
-        />
+        <BankGate categoryId={route.categoryId}>
+          <ChallengeSetup
+            categoryId={route.categoryId}
+            difficulty={route.difficulty}
+            onStart={startChallenge}
+            onCancel={goHome}
+          />
+        </BankGate>
       )}
 
       {route.screen === 'invite' && (
-        <ChallengeInvite
-          invite={route.invite}
-          onStart={startChallenge}
-          onCancel={goHome}
-        />
+        <BankGate categoryId={route.invite.c}>
+          <ChallengeInvite
+            invite={route.invite}
+            onStart={startChallenge}
+            onCancel={goHome}
+          />
+        </BankGate>
       )}
 
       {route.screen === 'result' && (
@@ -172,7 +181,9 @@ export default function App() {
       )}
 
       {route.screen === 'challenge' && (
-        <ChallengeQuiz config={route.config} onExit={goHome} />
+        <BankGate categoryId={route.config.categoryId}>
+          <ChallengeQuiz config={route.config} onExit={goHome} />
+        </BankGate>
       )}
 
       {/* Pas de footer PENDANT une partie : l'écran de jeu reste sans

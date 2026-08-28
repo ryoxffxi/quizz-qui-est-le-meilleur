@@ -2042,3 +2042,41 @@ body {
     transition: none !important;
   }
 }
+
+/* --- Chargement d'une banque de questions (BankGate) ---------------------
+   Écran d'attente court : la banque est un chunk séparé, téléchargé au
+   lancement d'une catégorie. Volontairement sobre (pas de saut de mise en
+   page) : on est entre l'accueil et le quiz. */
+.bank-gate {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  min-height: 46vh;
+  text-align: center;
+}
+.bank-gate-spinner {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 3px solid var(--accent-tint);
+  border-top-color: var(--accent);
+  animation: bank-gate-spin 0.7s linear infinite;
+}
+@keyframes bank-gate-spin {
+  to { transform: rotate(360deg); }
+}
+.bank-gate-text,
+.bank-gate-error {
+  color: var(--text-dim);
+  font-size: 0.95rem;
+  margin: 0;
+  max-width: 30ch;
+}
+.bank-gate-error { color: var(--text); }
+
+/* Respect de « animations réduites » : on garde un repère visuel fixe. */
+@media (prefers-reduced-motion: reduce) {
+  .bank-gate-spinner { animation-duration: 3s; }
+}

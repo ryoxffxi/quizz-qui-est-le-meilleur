@@ -220,4 +220,9 @@ export default {
   donate_cta: 'Doar {n} €',
   donate_thanks: 'Muito obrigado pelo teu apoio! O jogo cresce graças a ti. 💜',
 
+
+  // Chargement de la banque de questions (chunk séparé)
+  bank_loading: 'A carregar as perguntas…',
+  bank_error: 'Não foi possível carregar as perguntas. Verifica a tua ligação.',
+  bank_retry: 'Tentar de novo',
 }
