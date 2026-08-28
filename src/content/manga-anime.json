@@ -20406,5 +20406,1897 @@
       "es": "La trampa del falso Lind L. Tailor, emitida solo en Kantō, abre toda la investigación.",
       "pt": "A armadilha do falso Lind L. Tailor, emitida só em Kantō, abre toda a investigação."
     }
+  },
+  {
+    "id": "manga_0469",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans quel sens se lit traditionnellement un manga ?",
+      "en": "In which direction is a manga traditionally read?",
+      "es": "¿En qué sentido se lee tradicionalmente un manga?",
+      "pt": "Em que sentido se lê tradicionalmente um manga?"
+    },
+    "options": {
+      "fr": [
+        "De droite à gauche",
+        "De gauche à droite",
+        "De bas en haut",
+        "En diagonale"
+      ],
+      "en": [
+        "Right to left",
+        "Left to right",
+        "Bottom to top",
+        "Diagonally"
+      ],
+      "es": [
+        "De derecha a izquierda",
+        "De izquierda a derecha",
+        "De abajo arriba",
+        "En diagonal"
+      ],
+      "pt": [
+        "Da direita para a esquerda",
+        "Da esquerda para a direita",
+        "De baixo para cima",
+        "Na diagonal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les éditeurs français ont d'abord inversé les planches avant de garder le sens japonais.",
+      "en": "French publishers first mirrored the pages before keeping the Japanese direction.",
+      "es": "Las editoriales francesas invirtieron primero las páginas antes de mantener el sentido japonés.",
+      "pt": "As editoras francesas inverteram primeiro as páginas antes de manter o sentido japonês."
+    }
+  },
+  {
+    "id": "manga_0470",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « One Piece », quelle partie du corps de Chopper est visible sous son chapeau ?",
+      "en": "In \"One Piece\", what does Chopper have under his hat?",
+      "es": "En «One Piece», ¿qué tiene Chopper bajo su sombrero?",
+      "pt": "Em «One Piece», o que tem o Chopper por baixo do chapéu?"
+    },
+    "options": {
+      "fr": [
+        "Des bois de renne",
+        "Des oreilles de chat",
+        "Une corne unique",
+        "Une crête"
+      ],
+      "en": [
+        "Reindeer antlers",
+        "Cat ears",
+        "A single horn",
+        "A crest"
+      ],
+      "es": [
+        "Astas de reno",
+        "Orejas de gato",
+        "Un solo cuerno",
+        "Una cresta"
+      ],
+      "pt": [
+        "Hastes de rena",
+        "Orelhas de gato",
+        "Um único corno",
+        "Uma crista"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Renne ayant mangé un fruit du démon, Chopper est le médecin de l'équipage.",
+      "en": "A reindeer who ate a Devil Fruit, Chopper is the crew's doctor.",
+      "es": "Reno que comió una fruta del diablo, Chopper es el médico de la tripulación.",
+      "pt": "Rena que comeu uma fruta do diabo, Chopper é o médico da tripulação."
+    }
+  },
+  {
+    "id": "manga_0471",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « L'Attaque des Titans », qui est surnommé « le soldat le plus fort de l'humanité » ?",
+      "en": "In \"Attack on Titan\", who is called \"humanity's strongest soldier\"?",
+      "es": "En «Ataque a los Titanes», ¿quién es «el soldado más fuerte de la humanidad»?",
+      "pt": "Em «Ataque dos Titãs», quem é «o soldado mais forte da humanidade»?"
+    },
+    "options": {
+      "fr": [
+        "Levi Ackerman",
+        "Erwin Smith",
+        "Mikasa Ackerman",
+        "Hansi Zoe"
+      ],
+      "en": [
+        "Levi Ackerman",
+        "Erwin Smith",
+        "Mikasa Ackerman",
+        "Hange Zoë"
+      ],
+      "es": [
+        "Levi Ackerman",
+        "Erwin Smith",
+        "Mikasa Ackerman",
+        "Hange Zoë"
+      ],
+      "pt": [
+        "Levi Ackerman",
+        "Erwin Smith",
+        "Mikasa Ackerman",
+        "Hange Zoë"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Erwin est le commandant du Bataillon, Hansi la scientifique obsédée par les titans.",
+      "en": "Erwin commands the Survey Corps; Hange is the scientist obsessed with titans.",
+      "es": "Erwin comanda el Cuerpo de Exploración; Hange es la científica obsesionada con los titanes.",
+      "pt": "Erwin comanda o Corpo de Exploração; Hange é a cientista obcecada com os titãs."
+    }
+  },
+  {
+    "id": "manga_0472",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Hunter x Hunter », quel est le pouvoir principal de Killua ?",
+      "en": "In \"Hunter x Hunter\", what is Killua's main power?",
+      "es": "En «Hunter x Hunter», ¿cuál es el poder principal de Killua?",
+      "pt": "Em «Hunter x Hunter», qual é o poder principal do Killua?"
+    },
+    "options": {
+      "fr": [
+        "L'électricité",
+        "Le feu",
+        "La glace",
+        "La télépathie"
+      ],
+      "en": [
+        "Electricity",
+        "Fire",
+        "Ice",
+        "Telepathy"
+      ],
+      "es": [
+        "La electricidad",
+        "El fuego",
+        "El hielo",
+        "La telepatía"
+      ],
+      "pt": [
+        "A eletricidade",
+        "O fogo",
+        "O gelo",
+        "A telepatia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sa famille d'assassins l'a entraîné en le soumettant à des décharges dès l'enfance.",
+      "en": "His assassin family trained him by exposing him to shocks from childhood.",
+      "es": "Su familia de asesinos lo entrenó sometiéndolo a descargas desde niño.",
+      "pt": "A família de assassinos treinou-o expondo-o a descargas desde criança."
+    }
+  },
+  {
+    "id": "manga_0473",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Dragon Ball », qui est le prince des Saiyans ?",
+      "en": "In \"Dragon Ball\", who is the prince of the Saiyans?",
+      "es": "En «Dragon Ball», ¿quién es el príncipe de los saiyans?",
+      "pt": "Em «Dragon Ball», quem é o príncipe dos saiyajins?"
+    },
+    "options": {
+      "fr": [
+        "Vegeta",
+        "Nappa",
+        "Raditz",
+        "Broly"
+      ],
+      "en": [
+        "Vegeta",
+        "Nappa",
+        "Raditz",
+        "Broly"
+      ],
+      "es": [
+        "Vegeta",
+        "Nappa",
+        "Raditz",
+        "Broly"
+      ],
+      "pt": [
+        "Vegeta",
+        "Nappa",
+        "Raditz",
+        "Broly"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il porte le nom de sa planète natale, détruite par Freezer.",
+      "en": "He shares his name with his home planet, destroyed by Frieza.",
+      "es": "Comparte nombre con su planeta natal, destruido por Freezer.",
+      "pt": "Partilha o nome com o planeta natal, destruído por Freeza."
+    }
+  },
+  {
+    "id": "manga_0474",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Naruto », quelle est la particularité de Rock Lee ?",
+      "en": "In \"Naruto\", what is unusual about Rock Lee?",
+      "es": "En «Naruto», ¿qué particularidad tiene Rock Lee?",
+      "pt": "Em «Naruto», que particularidade tem o Rock Lee?"
+    },
+    "options": {
+      "fr": [
+        "Il ne peut utiliser aucune technique magique",
+        "Il est invisible",
+        "Il lit les pensées",
+        "Il ne dort jamais"
+      ],
+      "en": [
+        "He cannot use any ninjutsu",
+        "He is invisible",
+        "He reads minds",
+        "He never sleeps"
+      ],
+      "es": [
+        "No puede usar ninguna técnica mágica",
+        "Es invisible",
+        "Lee la mente",
+        "Nunca duerme"
+      ],
+      "pt": [
+        "Não consegue usar qualquer técnica mágica",
+        "É invisível",
+        "Lê pensamentos",
+        "Nunca dorme"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il compense par un taijutsu poussé à l'extrême, sous la houlette de Maito Gai.",
+      "en": "He compensates with extreme taijutsu, trained by Might Guy.",
+      "es": "Lo compensa con un taijutsu extremo, entrenado por Might Guy.",
+      "pt": "Compensa com um taijutsu extremo, treinado por Might Guy."
+    }
+  },
+  {
+    "id": "manga_0475",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « My Hero Academia », quel est l'alter d'Ochaco Uraraka ?",
+      "en": "In \"My Hero Academia\", what is Ochaco Uraraka's quirk?",
+      "es": "En «My Hero Academia», ¿cuál es el don de Ochaco Uraraka?",
+      "pt": "Em «My Hero Academia», qual é a peculiaridade de Ochaco Uraraka?"
+    },
+    "options": {
+      "fr": [
+        "Annuler la gravité",
+        "Devenir invisible",
+        "Créer de la glace",
+        "Voir à travers les murs"
+      ],
+      "en": [
+        "Cancelling gravity",
+        "Turning invisible",
+        "Creating ice",
+        "Seeing through walls"
+      ],
+      "es": [
+        "Anular la gravedad",
+        "Volverse invisible",
+        "Crear hielo",
+        "Ver a través de paredes"
+      ],
+      "pt": [
+        "Anular a gravidade",
+        "Tornar-se invisível",
+        "Criar gelo",
+        "Ver através de paredes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elle rend les objets flottants en les touchant, au prix de fortes nausées.",
+      "en": "She makes objects float by touching them, at the cost of severe nausea.",
+      "es": "Hace flotar objetos al tocarlos, a costa de fuertes náuseas.",
+      "pt": "Faz flutuar objetos ao tocar-lhes, ao preço de fortes náuseas."
+    }
+  },
+  {
+    "id": "manga_0476",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série animée suit une jeune femme androïde écrivant des lettres pour les autres ?",
+      "en": "Which anime follows a young android woman writing letters for others?",
+      "es": "¿Qué anime sigue a una joven androide que escribe cartas para otros?",
+      "pt": "Que anime segue uma jovem androide que escreve cartas para outros?"
+    },
+    "options": {
+      "fr": [
+        "Violet Evergarden",
+        "Vivy",
+        "Plastic Memories",
+        "Beatless"
+      ],
+      "en": [
+        "Violet Evergarden",
+        "Vivy",
+        "Plastic Memories",
+        "Beatless"
+      ],
+      "es": [
+        "Violet Evergarden",
+        "Vivy",
+        "Plastic Memories",
+        "Beatless"
+      ],
+      "pt": [
+        "Violet Evergarden",
+        "Vivy",
+        "Plastic Memories",
+        "Beatless"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Produite par Kyoto Animation, la série est réputée pour la finesse de son animation.",
+      "en": "Produced by Kyoto Animation, the series is renowned for its delicate animation.",
+      "es": "Producida por Kyoto Animation, destaca por la delicadeza de su animación.",
+      "pt": "Produzida pela Kyoto Animation, destaca-se pela delicadeza da animação."
+    }
+  },
+  {
+    "id": "manga_0477",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Erased », quel pouvoir involontaire possède le héros ?",
+      "en": "In \"Erased\", what involuntary power does the hero have?",
+      "es": "En «Erased», ¿qué poder involuntario tiene el héroe?",
+      "pt": "Em «Erased», que poder involuntário tem o herói?"
+    },
+    "options": {
+      "fr": [
+        "Remonter le temps juste avant un drame",
+        "Voler",
+        "Devenir invisible",
+        "Lire les pensées"
+      ],
+      "en": [
+        "Rewinding time just before a tragedy",
+        "Flying",
+        "Turning invisible",
+        "Reading minds"
+      ],
+      "es": [
+        "Retroceder en el tiempo antes de una tragedia",
+        "Volar",
+        "Volverse invisible",
+        "Leer la mente"
+      ],
+      "pt": [
+        "Recuar no tempo antes de uma tragédia",
+        "Voar",
+        "Tornar-se invisível",
+        "Ler pensamentos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le phénomène, qu'il nomme « revival », le renvoie parfois dix-huit ans en arrière.",
+      "en": "The phenomenon, which he calls \"revival\", sometimes sends him back eighteen years.",
+      "es": "El fenómeno, que llama «revival», a veces lo devuelve dieciocho años atrás.",
+      "pt": "O fenómeno, a que chama «revival», por vezes devolve-o dezoito anos atrás."
+    }
+  },
+  {
+    "id": "manga_0478",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel anime de Shinichirō Watanabe mêle époque Edo et musique hip-hop ?",
+      "en": "Which Shinichirō Watanabe anime mixes the Edo period with hip-hop?",
+      "es": "¿Qué anime de Shinichirō Watanabe mezcla la era Edo con el hip-hop?",
+      "pt": "Que anime de Shinichirō Watanabe mistura a era Edo com hip-hop?"
+    },
+    "options": {
+      "fr": [
+        "Samurai Champloo",
+        "Cowboy Bebop",
+        "Space Dandy",
+        "Terror in Resonance"
+      ],
+      "en": [
+        "Samurai Champloo",
+        "Cowboy Bebop",
+        "Space Dandy",
+        "Terror in Resonance"
+      ],
+      "es": [
+        "Samurai Champloo",
+        "Cowboy Bebop",
+        "Space Dandy",
+        "Terror in Resonance"
+      ],
+      "pt": [
+        "Samurai Champloo",
+        "Cowboy Bebop",
+        "Space Dandy",
+        "Terror in Resonance"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Watanabe construit chacune de ses séries autour d'un genre musical précis.",
+      "en": "Watanabe builds each of his series around a specific musical genre.",
+      "es": "Watanabe construye cada serie en torno a un género musical concreto.",
+      "pt": "Watanabe constrói cada série em torno de um género musical concreto."
+    }
+  },
+  {
+    "id": "manga_0479",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Comment appelle-t-on une bande dessinée coréenne ?",
+      "en": "What is a Korean comic called?",
+      "es": "¿Cómo se llama un cómic coreano?",
+      "pt": "Como se chama uma banda desenhada coreana?"
+    },
+    "options": {
+      "fr": [
+        "Un manhwa",
+        "Un manhua",
+        "Un manga",
+        "Un webcomic"
+      ],
+      "en": [
+        "A manhwa",
+        "A manhua",
+        "A manga",
+        "A webcomic"
+      ],
+      "es": [
+        "Un manhwa",
+        "Un manhua",
+        "Un manga",
+        "Un webcomic"
+      ],
+      "pt": [
+        "Um manhwa",
+        "Um manhua",
+        "Um manga",
+        "Um webcomic"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le manhua est chinois ; le manhwa coréen se lit souvent en scroll vertical sur mobile.",
+      "en": "Manhua is Chinese; Korean manhwa is often read as a vertical scroll on mobile.",
+      "es": "El manhua es chino; el manhwa coreano suele leerse en scroll vertical en el móvil.",
+      "pt": "O manhua é chinês; o manhwa coreano lê-se muitas vezes em scroll vertical no telemóvel."
+    }
+  },
+  {
+    "id": "manga_0480",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Bleach », quelle amie d'enfance d'Ichigo possède un pouvoir de guérison ?",
+      "en": "In \"Bleach\", which childhood friend of Ichigo has healing powers?",
+      "es": "En «Bleach», ¿qué amiga de infancia de Ichigo tiene poder de curación?",
+      "pt": "Em «Bleach», que amiga de infância de Ichigo tem poder de cura?"
+    },
+    "options": {
+      "fr": [
+        "Orihime Inoue",
+        "Rukia Kuchiki",
+        "Yoruichi",
+        "Rangiku"
+      ],
+      "en": [
+        "Orihime Inoue",
+        "Rukia Kuchiki",
+        "Yoruichi",
+        "Rangiku"
+      ],
+      "es": [
+        "Orihime Inoue",
+        "Rukia Kuchiki",
+        "Yoruichi",
+        "Rangiku"
+      ],
+      "pt": [
+        "Orihime Inoue",
+        "Rukia Kuchiki",
+        "Yoruichi",
+        "Rangiku"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Son pouvoir « rejette » les événements plutôt qu'il ne soigne au sens strict.",
+      "en": "Her power \"rejects\" events rather than healing in the strict sense.",
+      "es": "Su poder «rechaza» los acontecimientos más que curar en sentido estricto.",
+      "pt": "O poder dela «rejeita» acontecimentos mais do que cura em sentido estrito."
+    }
+  },
+  {
+    "id": "manga_0481",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Demon Slayer », quel souffle Zenitsu maîtrise-t-il ?",
+      "en": "In \"Demon Slayer\", which breathing style does Zenitsu use?",
+      "es": "En «Demon Slayer», ¿qué respiración domina Zenitsu?",
+      "pt": "Em «Demon Slayer», que respiração domina Zenitsu?"
+    },
+    "options": {
+      "fr": [
+        "Le souffle de la foudre",
+        "Le souffle de l'eau",
+        "Le souffle du vent",
+        "Le souffle de la pierre"
+      ],
+      "en": [
+        "Thunder Breathing",
+        "Water Breathing",
+        "Wind Breathing",
+        "Stone Breathing"
+      ],
+      "es": [
+        "La respiración del trueno",
+        "La del agua",
+        "La del viento",
+        "La de la piedra"
+      ],
+      "pt": [
+        "A respiração do trovão",
+        "A da água",
+        "A do vento",
+        "A da pedra"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il n'en maîtrise qu'une seule forme, mais la porte à un niveau exceptionnel.",
+      "en": "He masters only one of its forms, but takes it to an exceptional level.",
+      "es": "Domina solo una de sus formas, pero la lleva a un nivel excepcional.",
+      "pt": "Domina apenas uma das suas formas, mas leva-a a um nível excecional."
+    }
+  },
+  {
+    "id": "manga_0482",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Comment appelle-t-on un manga publié en une seule fois, sans suite ?",
+      "en": "What is a manga published in one go, with no sequel, called?",
+      "es": "¿Cómo se llama un manga publicado de una vez, sin continuación?",
+      "pt": "Como se chama um manga publicado de uma só vez, sem continuação?"
+    },
+    "options": {
+      "fr": [
+        "Un one-shot",
+        "Un gaiden",
+        "Un spin-off",
+        "Un tankōbon"
+      ],
+      "en": [
+        "A one-shot",
+        "A gaiden",
+        "A spin-off",
+        "A tankōbon"
+      ],
+      "es": [
+        "Un one-shot",
+        "Un gaiden",
+        "Un spin-off",
+        "Un tankōbon"
+      ],
+      "pt": [
+        "Um one-shot",
+        "Um gaiden",
+        "Um spin-off",
+        "Um tankōbon"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le gaiden est une histoire annexe, le spin-off suit un personnage secondaire.",
+      "en": "A gaiden is a side story; a spin-off follows a secondary character.",
+      "es": "El gaiden es una historia paralela; el spin-off sigue a un personaje secundario.",
+      "pt": "O gaiden é uma história paralela; o spin-off segue uma personagem secundária."
+    }
+  },
+  {
+    "id": "manga_0483",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Jujutsu Kaisen », quel élève de première année est un panda vivant ?",
+      "en": "In \"Jujutsu Kaisen\", which second-year student is a living panda?",
+      "es": "En «Jujutsu Kaisen», ¿qué estudiante es un panda viviente?",
+      "pt": "Em «Jujutsu Kaisen», que estudante é um panda vivo?"
+    },
+    "options": {
+      "fr": [
+        "Panda",
+        "Toge Inumaki",
+        "Maki Zenin",
+        "Yuta Okkotsu"
+      ],
+      "en": [
+        "Panda",
+        "Toge Inumaki",
+        "Maki Zenin",
+        "Yuta Okkotsu"
+      ],
+      "es": [
+        "Panda",
+        "Toge Inumaki",
+        "Maki Zenin",
+        "Yuta Okkotsu"
+      ],
+      "pt": [
+        "Panda",
+        "Toge Inumaki",
+        "Maki Zenin",
+        "Yuta Okkotsu"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ce n'est pas un vrai panda mais un « corps maudit » créé par le directeur de l'école.",
+      "en": "He is not a real panda but a \"cursed corpse\" created by the school's principal.",
+      "es": "No es un panda real sino un «cadáver maldito» creado por el director de la escuela.",
+      "pt": "Não é um panda real mas um «cadáver amaldiçoado» criado pelo diretor da escola."
+    }
+  },
+  {
+    "id": "manga_0484",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Naruto », quelle technique médicale Sakura apprend-elle ?",
+      "en": "In \"Naruto\", which medical skill does Sakura learn?",
+      "es": "En «Naruto», ¿qué técnica médica aprende Sakura?",
+      "pt": "Em «Naruto», que técnica médica aprende Sakura?"
+    },
+    "options": {
+      "fr": [
+        "Le ninjutsu médical",
+        "La télépathie",
+        "L'invocation",
+        "Le contrôle du sable"
+      ],
+      "en": [
+        "Medical ninjutsu",
+        "Telepathy",
+        "Summoning",
+        "Sand control"
+      ],
+      "es": [
+        "El ninjutsu médico",
+        "La telepatía",
+        "La invocación",
+        "El control de arena"
+      ],
+      "pt": [
+        "O ninjutsu médico",
+        "A telepatia",
+        "A invocação",
+        "O controlo da areia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elle est formée par Tsunade, l'une des trois Sannin légendaires.",
+      "en": "She is trained by Tsunade, one of the three legendary Sannin.",
+      "es": "La entrena Tsunade, una de los tres Sannin legendarios.",
+      "pt": "É treinada por Tsunade, um dos três Sannin lendários."
+    }
+  },
+  {
+    "id": "manga_0485",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel anime raconte la vie d'un club de musique lycéen dans une ambiance très douce ?",
+      "en": "Which anime follows a high-school music club in a very gentle tone?",
+      "es": "¿Qué anime sigue a un club de música de instituto con un tono muy suave?",
+      "pt": "Que anime segue um clube de música liceal num tom muito suave?"
+    },
+    "options": {
+      "fr": [
+        "K-On!",
+        "Given",
+        "Bocchi the Rock!",
+        "Carole & Tuesday"
+      ],
+      "en": [
+        "K-On!",
+        "Given",
+        "Bocchi the Rock!",
+        "Carole & Tuesday"
+      ],
+      "es": [
+        "K-On!",
+        "Given",
+        "Bocchi the Rock!",
+        "Carole & Tuesday"
+      ],
+      "pt": [
+        "K-On!",
+        "Given",
+        "Bocchi the Rock!",
+        "Carole & Tuesday"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Produit par Kyoto Animation, il a popularisé tout un pan du genre « slice of life ».",
+      "en": "Produced by Kyoto Animation, it popularised a whole strand of the slice-of-life genre.",
+      "es": "Producido por Kyoto Animation, popularizó toda una vertiente del slice of life.",
+      "pt": "Produzido pela Kyoto Animation, popularizou toda uma vertente do slice of life."
+    }
+  },
+  {
+    "id": "manga_0486",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « One Piece », quelle est la particularité du sabreur Zoro au combat ?",
+      "en": "In \"One Piece\", what is swordsman Zoro's fighting particularity?",
+      "es": "En «One Piece», ¿qué particularidad tiene el espadachín Zoro al combatir?",
+      "pt": "Em «One Piece», que particularidade tem o espadachim Zoro em combate?"
+    },
+    "options": {
+      "fr": [
+        "Il manie trois sabres",
+        "Il se bat sans arme",
+        "Il utilise un arc",
+        "Il combat les yeux fermés"
+      ],
+      "en": [
+        "He wields three swords",
+        "He fights unarmed",
+        "He uses a bow",
+        "He fights with eyes closed"
+      ],
+      "es": [
+        "Maneja tres espadas",
+        "Lucha sin armas",
+        "Usa un arco",
+        "Pelea con los ojos cerrados"
+      ],
+      "pt": [
+        "Maneja três espadas",
+        "Luta sem armas",
+        "Usa um arco",
+        "Luta de olhos fechados"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le troisième sabre est tenu entre les dents : c'est son style des Trois Sabres.",
+      "en": "The third sword is held between his teeth: his Three Sword Style.",
+      "es": "La tercera espada la sostiene con los dientes: es su estilo de Tres Espadas.",
+      "pt": "A terceira espada é segurada com os dentes: é o seu estilo das Três Espadas."
+    }
+  },
+  {
+    "id": "manga_0487",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Fullmetal Alchemist », de quoi est faite l'armure d'Alphonse ?",
+      "en": "In \"Fullmetal Alchemist\", what is inside Alphonse's armour?",
+      "es": "En «Fullmetal Alchemist», ¿qué hay dentro de la armadura de Alphonse?",
+      "pt": "Em «Fullmetal Alchemist», o que há dentro da armadura de Alphonse?"
+    },
+    "options": {
+      "fr": [
+        "Rien : elle est vide, seule son âme y est fixée",
+        "Un corps normal",
+        "Un mécanisme",
+        "De la pierre"
+      ],
+      "en": [
+        "Nothing: it is empty, only his soul is bound to it",
+        "A normal body",
+        "A mechanism",
+        "Stone"
+      ],
+      "es": [
+        "Nada: está vacía, solo su alma está fijada",
+        "Un cuerpo normal",
+        "Un mecanismo",
+        "Piedra"
+      ],
+      "pt": [
+        "Nada: está vazia, só a alma está fixada",
+        "Um corpo normal",
+        "Um mecanismo",
+        "Pedra"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Edward a scellé l'âme de son frère sur l'armure au prix de son propre bras.",
+      "en": "Edward bound his brother's soul to the armour at the cost of his own arm.",
+      "es": "Edward selló el alma de su hermano en la armadura a costa de su propio brazo.",
+      "pt": "Edward selou a alma do irmão na armadura ao preço do próprio braço."
+    }
+  },
+  {
+    "id": "manga_0488",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel anime met en scène des lycéennes pilotant des chars d'assaut comme discipline sportive ?",
+      "en": "Which anime has schoolgirls driving tanks as a competitive sport?",
+      "es": "¿Qué anime muestra a estudiantes pilotando tanques como deporte?",
+      "pt": "Que anime mostra estudantes a pilotar tanques como desporto?"
+    },
+    "options": {
+      "fr": [
+        "Girls und Panzer",
+        "Strike Witches",
+        "High School Fleet",
+        "Kantai Collection"
+      ],
+      "en": [
+        "Girls und Panzer",
+        "Strike Witches",
+        "High School Fleet",
+        "Kantai Collection"
+      ],
+      "es": [
+        "Girls und Panzer",
+        "Strike Witches",
+        "High School Fleet",
+        "Kantai Collection"
+      ],
+      "pt": [
+        "Girls und Panzer",
+        "Strike Witches",
+        "High School Fleet",
+        "Kantai Collection"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le « sensha-dō », ou voie du char, y est présenté comme un art traditionnel féminin.",
+      "en": "\"Sensha-dō\", the way of the tank, is presented as a traditional feminine art.",
+      "es": "El «sensha-dō», la vía del tanque, se presenta como un arte tradicional femenino.",
+      "pt": "O «sensha-dō», a via do tanque, é apresentado como uma arte tradicional feminina."
+    }
+  },
+  {
+    "id": "manga_0489",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio a réalisé « Violet Evergarden » et « A Silent Voice » ?",
+      "en": "Which studio made \"Violet Evergarden\" and \"A Silent Voice\"?",
+      "es": "¿Qué estudio hizo «Violet Evergarden» y «A Silent Voice»?",
+      "pt": "Que estúdio fez «Violet Evergarden» e «A Silent Voice»?"
+    },
+    "options": {
+      "fr": [
+        "Kyoto Animation",
+        "P.A. Works",
+        "Shaft",
+        "Trigger"
+      ],
+      "en": [
+        "Kyoto Animation",
+        "P.A. Works",
+        "Shaft",
+        "Trigger"
+      ],
+      "es": [
+        "Kyoto Animation",
+        "P.A. Works",
+        "Shaft",
+        "Trigger"
+      ],
+      "pt": [
+        "Kyoto Animation",
+        "P.A. Works",
+        "Shaft",
+        "Trigger"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le studio est réputé pour son attention aux gestes et aux détails du quotidien.",
+      "en": "The studio is known for its attention to gesture and everyday detail.",
+      "es": "El estudio destaca por su atención a los gestos y detalles cotidianos.",
+      "pt": "O estúdio destaca-se pela atenção aos gestos e detalhes do quotidiano."
+    }
+  },
+  {
+    "id": "manga_0490",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio est célèbre pour son style visuel très typé dans la série « Monogatari » ?",
+      "en": "Which studio is known for its highly distinctive style in the \"Monogatari\" series?",
+      "es": "¿Qué estudio es célebre por su estilo visual marcado en la serie «Monogatari»?",
+      "pt": "Que estúdio é célebre pelo estilo visual marcado na série «Monogatari»?"
+    },
+    "options": {
+      "fr": [
+        "Shaft",
+        "Bones",
+        "Madhouse",
+        "Sunrise"
+      ],
+      "en": [
+        "Shaft",
+        "Bones",
+        "Madhouse",
+        "Sunrise"
+      ],
+      "es": [
+        "Shaft",
+        "Bones",
+        "Madhouse",
+        "Sunrise"
+      ],
+      "pt": [
+        "Shaft",
+        "Bones",
+        "Madhouse",
+        "Sunrise"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Shaft a également animé « Puella Magi Madoka Magica ».",
+      "en": "Shaft also animated \"Puella Magi Madoka Magica\".",
+      "es": "Shaft también animó «Puella Magi Madoka Magica».",
+      "pt": "A Shaft animou também «Puella Magi Madoka Magica»."
+    }
+  },
+  {
+    "id": "manga_0491",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film d'animation de 2022 réunit à nouveau l'équipe de basket de « Slam Dunk » ?",
+      "en": "Which 2022 animated film brings the \"Slam Dunk\" basketball team back?",
+      "es": "¿Qué película de animación de 2022 reúne de nuevo al equipo de «Slam Dunk»?",
+      "pt": "Que filme de animação de 2022 reúne de novo a equipa de «Slam Dunk»?"
+    },
+    "options": {
+      "fr": [
+        "The First Slam Dunk",
+        "Slam Dunk Returns",
+        "Shohoku",
+        "Second Half"
+      ],
+      "en": [
+        "The First Slam Dunk",
+        "Slam Dunk Returns",
+        "Shohoku",
+        "Second Half"
+      ],
+      "es": [
+        "The First Slam Dunk",
+        "Slam Dunk Returns",
+        "Shohoku",
+        "Second Half"
+      ],
+      "pt": [
+        "The First Slam Dunk",
+        "Slam Dunk Returns",
+        "Shohoku",
+        "Second Half"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Takehiko Inoue l'a lui-même écrit et réalisé, près de trente ans après le manga.",
+      "en": "Takehiko Inoue wrote and directed it himself, almost thirty years after the manga.",
+      "es": "Takehiko Inoue lo escribió y dirigió él mismo, casi treinta años después del manga.",
+      "pt": "Takehiko Inoue escreveu-o e realizou-o, quase trinta anos depois do manga."
+    }
+  },
+  {
+    "id": "manga_0492",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel one-shot de Tatsuki Fujimoto, paru en 2021, traite du deuil et de la création de manga ?",
+      "en": "Which 2021 Tatsuki Fujimoto one-shot deals with grief and manga creation?",
+      "es": "¿Qué one-shot de Tatsuki Fujimoto, de 2021, trata el duelo y la creación de manga?",
+      "pt": "Que one-shot de Tatsuki Fujimoto, de 2021, aborda o luto e a criação de manga?"
+    },
+    "options": {
+      "fr": [
+        "Look Back",
+        "Goodbye, Eri",
+        "Fire Punch",
+        "Just Listen to the Song"
+      ],
+      "en": [
+        "Look Back",
+        "Goodbye, Eri",
+        "Fire Punch",
+        "Just Listen to the Song"
+      ],
+      "es": [
+        "Look Back",
+        "Goodbye, Eri",
+        "Fire Punch",
+        "Just Listen to the Song"
+      ],
+      "pt": [
+        "Look Back",
+        "Goodbye, Eri",
+        "Fire Punch",
+        "Just Listen to the Song"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le récit a été adapté en film d'animation en 2024.",
+      "en": "The story was adapted into an animated film in 2024.",
+      "es": "El relato fue adaptado a película de animación en 2024.",
+      "pt": "A história foi adaptada a filme de animação em 2024."
+    }
+  },
+  {
+    "id": "manga_0493",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série animée de 1998 explore l'identité et les réseaux dans une esthétique très expérimentale ?",
+      "en": "Which 1998 anime explores identity and networks in a highly experimental style?",
+      "es": "¿Qué anime de 1998 explora la identidad y las redes con una estética experimental?",
+      "pt": "Que anime de 1998 explora a identidade e as redes com uma estética experimental?"
+    },
+    "options": {
+      "fr": [
+        "Serial Experiments Lain",
+        "Paranoia Agent",
+        "Texhnolyze",
+        "Ergo Proxy"
+      ],
+      "en": [
+        "Serial Experiments Lain",
+        "Paranoia Agent",
+        "Texhnolyze",
+        "Ergo Proxy"
+      ],
+      "es": [
+        "Serial Experiments Lain",
+        "Paranoia Agent",
+        "Texhnolyze",
+        "Ergo Proxy"
+      ],
+      "pt": [
+        "Serial Experiments Lain",
+        "Paranoia Agent",
+        "Texhnolyze",
+        "Ergo Proxy"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série anticipe de façon troublante les questions posées par les réseaux sociaux.",
+      "en": "The series eerily anticipates the questions raised by social networks.",
+      "es": "La serie anticipa de forma inquietante las preguntas de las redes sociales.",
+      "pt": "A série antecipa de forma inquietante as questões das redes sociais."
+    }
+  },
+  {
+    "id": "manga_0494",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle franchise de mecha, lancée en 1979, a introduit la notion de robots produits en série ?",
+      "en": "Which mecha franchise, launched in 1979, introduced mass-produced robots?",
+      "es": "¿Qué franquicia mecha, lanzada en 1979, introdujo los robots de producción en serie?",
+      "pt": "Que franquia mecha, lançada em 1979, introduziu robôs de produção em série?"
+    },
+    "options": {
+      "fr": [
+        "Gundam",
+        "Macross",
+        "Evangelion",
+        "Patlabor"
+      ],
+      "en": [
+        "Gundam",
+        "Macross",
+        "Evangelion",
+        "Patlabor"
+      ],
+      "es": [
+        "Gundam",
+        "Macross",
+        "Evangelion",
+        "Patlabor"
+      ],
+      "pt": [
+        "Gundam",
+        "Macross",
+        "Evangelion",
+        "Patlabor"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On parle de « real robot » par opposition au « super robot » unique et héroïque.",
+      "en": "This is called \"real robot\", as opposed to the unique, heroic \"super robot\".",
+      "es": "Se habla de «real robot» frente al «super robot» único y heroico.",
+      "pt": "Fala-se de «real robot» por oposição ao «super robot» único e heroico."
+    }
+  },
+  {
+    "id": "manga_0495",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « One Piece », quel personnage a mangé le fruit du démon lui permettant de faire pousser des membres ?",
+      "en": "In \"One Piece\", which character ate the fruit letting her sprout limbs?",
+      "es": "En «One Piece», ¿qué personaje comió la fruta que le permite hacer brotar miembros?",
+      "pt": "Em «One Piece», que personagem comeu a fruta que lhe permite fazer brotar membros?"
+    },
+    "options": {
+      "fr": [
+        "Nico Robin",
+        "Nami",
+        "Vivi",
+        "Boa Hancock"
+      ],
+      "en": [
+        "Nico Robin",
+        "Nami",
+        "Vivi",
+        "Boa Hancock"
+      ],
+      "es": [
+        "Nico Robin",
+        "Nami",
+        "Vivi",
+        "Boa Hancock"
+      ],
+      "pt": [
+        "Nico Robin",
+        "Nami",
+        "Vivi",
+        "Boa Hancock"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le fruit des fleurs lui permet de faire apparaître bras et yeux sur n'importe quelle surface.",
+      "en": "The Flower-Flower Fruit lets her sprout arms and eyes on any surface.",
+      "es": "La fruta flor le permite hacer aparecer brazos y ojos en cualquier superficie.",
+      "pt": "A fruta flor permite-lhe fazer aparecer braços e olhos em qualquer superfície."
+    }
+  },
+  {
+    "id": "manga_0496",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel mangaka a créé « Hajime no Ippo », série de boxe en cours depuis 1989 ?",
+      "en": "Which author created \"Hajime no Ippo\", a boxing series running since 1989?",
+      "es": "¿Qué autor creó «Hajime no Ippo», serie de boxeo en curso desde 1989?",
+      "pt": "Que autor criou «Hajime no Ippo», série de boxe em curso desde 1989?"
+    },
+    "options": {
+      "fr": [
+        "George Morikawa",
+        "Takehiko Inoue",
+        "Yusuke Murata",
+        "Tsuyoshi Takaki"
+      ],
+      "en": [
+        "George Morikawa",
+        "Takehiko Inoue",
+        "Yusuke Murata",
+        "Tsuyoshi Takaki"
+      ],
+      "es": [
+        "George Morikawa",
+        "Takehiko Inoue",
+        "Yusuke Murata",
+        "Tsuyoshi Takaki"
+      ],
+      "pt": [
+        "George Morikawa",
+        "Takehiko Inoue",
+        "Yusuke Murata",
+        "Tsuyoshi Takaki"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série dépasse les 140 tomes, ce qui en fait l'un des plus longs mangas de sport.",
+      "en": "The series has passed 140 volumes, making it one of the longest sports manga.",
+      "es": "La serie supera los 140 tomos, uno de los mangas deportivos más largos.",
+      "pt": "A série ultrapassa os 140 volumes, um dos mangas desportivos mais longos."
+    }
+  },
+  {
+    "id": "manga_0497",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel dessinateur a redessiné « One Punch Man » à partir du webcomic original de ONE ?",
+      "en": "Which artist redrew \"One Punch Man\" from ONE's original webcomic?",
+      "es": "¿Qué dibujante redibujó «One Punch Man» a partir del webcómic de ONE?",
+      "pt": "Que desenhador redesenhou «One Punch Man» a partir da webcomic de ONE?"
+    },
+    "options": {
+      "fr": [
+        "Yusuke Murata",
+        "Tite Kubo",
+        "Boichi",
+        "Ryoko Kui"
+      ],
+      "en": [
+        "Yusuke Murata",
+        "Tite Kubo",
+        "Boichi",
+        "Ryoko Kui"
+      ],
+      "es": [
+        "Yusuke Murata",
+        "Tite Kubo",
+        "Boichi",
+        "Ryoko Kui"
+      ],
+      "pt": [
+        "Yusuke Murata",
+        "Tite Kubo",
+        "Boichi",
+        "Ryoko Kui"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Murata avait auparavant dessiné « Eyeshield 21 ».",
+      "en": "Murata had previously drawn \"Eyeshield 21\".",
+      "es": "Murata había dibujado antes «Eyeshield 21».",
+      "pt": "Murata tinha antes desenhado «Eyeshield 21»."
+    }
+  },
+  {
+    "id": "manga_0498",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel manga de Ryoko Kui suit un groupe d'aventuriers qui cuisinent les monstres du donjon ?",
+      "en": "Which Ryoko Kui manga follows adventurers cooking the dungeon's monsters?",
+      "es": "¿Qué manga de Ryoko Kui sigue a aventureros que cocinan a los monstruos del calabozo?",
+      "pt": "Que manga de Ryoko Kui segue aventureiros que cozinham os monstros da masmorra?"
+    },
+    "options": {
+      "fr": [
+        "Dungeon Food (Delicious in Dungeon)",
+        "Frieren",
+        "Made in Abyss",
+        "Goblin Slayer"
+      ],
+      "en": [
+        "Delicious in Dungeon",
+        "Frieren",
+        "Made in Abyss",
+        "Goblin Slayer"
+      ],
+      "es": [
+        "Tragones y mazmorras",
+        "Frieren",
+        "Made in Abyss",
+        "Goblin Slayer"
+      ],
+      "pt": [
+        "Delicious in Dungeon",
+        "Frieren",
+        "Made in Abyss",
+        "Goblin Slayer"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série a été adaptée en anime par le studio Trigger en 2024.",
+      "en": "The series was adapted into an anime by Studio Trigger in 2024.",
+      "es": "La serie fue adaptada a anime por Studio Trigger en 2024.",
+      "pt": "A série foi adaptada a anime pelo Studio Trigger em 2024."
+    }
+  },
+  {
+    "id": "manga_0499",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Naruto », quel est le nom du village natal de Gaara ?",
+      "en": "In \"Naruto\", what is Gaara's home village?",
+      "es": "En «Naruto», ¿cuál es la aldea natal de Gaara?",
+      "pt": "Em «Naruto», qual é a aldeia natal de Gaara?"
+    },
+    "options": {
+      "fr": [
+        "Le village caché du Sable",
+        "Le village caché de la Feuille",
+        "Le village caché de la Brume",
+        "Le village caché des Nuages"
+      ],
+      "en": [
+        "The Hidden Sand Village",
+        "The Hidden Leaf Village",
+        "The Hidden Mist Village",
+        "The Hidden Cloud Village"
+      ],
+      "es": [
+        "La Aldea Oculta de la Arena",
+        "La de la Hoja",
+        "La de la Niebla",
+        "La de las Nubes"
+      ],
+      "pt": [
+        "A Aldeia Oculta da Areia",
+        "A da Folha",
+        "A da Névoa",
+        "A das Nuvens"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il en deviendra le Kazekage, après avoir été rejeté par les siens toute son enfance.",
+      "en": "He becomes its Kazekage, after being shunned by his own people throughout childhood.",
+      "es": "Se convierte en su Kazekage, tras ser rechazado por los suyos toda su infancia.",
+      "pt": "Torna-se o seu Kazekage, após ser rejeitado pelos seus toda a infância."
+    }
+  },
+  {
+    "id": "manga_0500",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel anime tourne autour d'une malédiction dans un village rural et d'une visite d'été ?",
+      "en": "Which 2011 anime centres on a curse tied to a rural village and a summer visit?",
+      "es": "¿Qué anime de 2011 gira en torno a una maldición en un pueblo rural y una visita de verano?",
+      "pt": "Que anime de 2011 gira em torno de uma maldição numa aldeia rural e uma visita de verão?"
+    },
+    "options": {
+      "fr": [
+        "Higurashi",
+        "Another",
+        "Shiki",
+        "Elfen Lied"
+      ],
+      "en": [
+        "Higurashi",
+        "Another",
+        "Shiki",
+        "Elfen Lied"
+      ],
+      "es": [
+        "Higurashi",
+        "Another",
+        "Shiki",
+        "Elfen Lied"
+      ],
+      "pt": [
+        "Higurashi",
+        "Another",
+        "Shiki",
+        "Elfen Lied"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série alterne des arcs qui se répètent en changeant à chaque fois de coupable.",
+      "en": "The series repeats arcs that shift the culprit each time round.",
+      "es": "La serie repite arcos cambiando de culpable en cada vuelta.",
+      "pt": "A série repete arcos mudando de culpado a cada volta."
+    }
+  },
+  {
+    "id": "manga_0501",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « L'Attaque des Titans », quel personnage se révèle être le Titan Féminin ?",
+      "en": "In \"Attack on Titan\", who is revealed to be the Female Titan?",
+      "es": "En «Ataque a los Titanes», ¿quién resulta ser el Titán Hembra?",
+      "pt": "Em «Ataque dos Titãs», quem se revela ser o Titã Fêmea?"
+    },
+    "options": {
+      "fr": [
+        "Annie Leonhart",
+        "Mikasa Ackerman",
+        "Historia Reiss",
+        "Ymir"
+      ],
+      "en": [
+        "Annie Leonhart",
+        "Mikasa Ackerman",
+        "Historia Reiss",
+        "Ymir"
+      ],
+      "es": [
+        "Annie Leonhart",
+        "Mikasa Ackerman",
+        "Historia Reiss",
+        "Ymir"
+      ],
+      "pt": [
+        "Annie Leonhart",
+        "Mikasa Ackerman",
+        "Historia Reiss",
+        "Ymir"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elle se cristallise à la fin de l'arc pour échapper à l'interrogatoire.",
+      "en": "She crystallises at the end of the arc to escape interrogation.",
+      "es": "Se cristaliza al final del arco para escapar del interrogatorio.",
+      "pt": "Cristaliza-se no fim do arco para escapar ao interrogatório."
+    }
+  },
+  {
+    "id": "manga_0502",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle maison d'édition japonaise publie « L'Attaque des Titans » et « Fairy Tail » ?",
+      "en": "Which Japanese publisher releases \"Attack on Titan\" and \"Fairy Tail\"?",
+      "es": "¿Qué editorial japonesa publica «Ataque a los Titanes» y «Fairy Tail»?",
+      "pt": "Que editora japonesa publica «Ataque dos Titãs» e «Fairy Tail»?"
+    },
+    "options": {
+      "fr": [
+        "Kōdansha",
+        "Shūeisha",
+        "Shōgakukan",
+        "Kadokawa"
+      ],
+      "en": [
+        "Kodansha",
+        "Shueisha",
+        "Shogakukan",
+        "Kadokawa"
+      ],
+      "es": [
+        "Kodansha",
+        "Shueisha",
+        "Shogakukan",
+        "Kadokawa"
+      ],
+      "pt": [
+        "Kodansha",
+        "Shueisha",
+        "Shogakukan",
+        "Kadokawa"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Shūeisha publie le Shōnen Jump, Shōgakukan le Shōnen Sunday.",
+      "en": "Shueisha publishes Shōnen Jump, Shogakukan Shōnen Sunday.",
+      "es": "Shueisha publica la Shōnen Jump y Shogakukan la Shōnen Sunday.",
+      "pt": "A Shueisha publica a Shōnen Jump e a Shogakukan a Shōnen Sunday."
+    }
+  },
+  {
+    "id": "manga_0503",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Hunter x Hunter », que cherche Kurapika à récupérer ?",
+      "en": "In \"Hunter x Hunter\", what is Kurapika trying to recover?",
+      "es": "En «Hunter x Hunter», ¿qué intenta recuperar Kurapika?",
+      "pt": "Em «Hunter x Hunter», o que tenta Kurapika recuperar?"
+    },
+    "options": {
+      "fr": [
+        "Les yeux écarlates de son clan",
+        "Un trésor",
+        "Sa mémoire",
+        "Une épée"
+      ],
+      "en": [
+        "His clan's scarlet eyes",
+        "A treasure",
+        "His memory",
+        "A sword"
+      ],
+      "es": [
+        "Los ojos escarlata de su clan",
+        "Un tesoro",
+        "Su memoria",
+        "Una espada"
+      ],
+      "pt": [
+        "Os olhos escarlates do seu clã",
+        "Um tesouro",
+        "A memória",
+        "Uma espada"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le clan Kurta a été massacré par la Brigade fantôme pour ces yeux, très recherchés.",
+      "en": "The Kurta clan was slaughtered by the Phantom Troupe for those highly prized eyes.",
+      "es": "El clan Kurta fue masacrado por la Brigada Fantasma por esos ojos, muy codiciados.",
+      "pt": "O clã Kurta foi massacrado pela Brigada Fantasma por esses olhos, muito cobiçados."
+    }
+  },
+  {
+    "id": "manga_0504",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel anime original de 2014 suit deux adolescents commettant des attentats à Tokyo ?",
+      "en": "Which original 2014 anime follows two teenagers bombing Tokyo?",
+      "es": "¿Qué anime original de 2014 sigue a dos adolescentes que atentan en Tokio?",
+      "pt": "Que anime original de 2014 segue dois adolescentes que atentam em Tóquio?"
+    },
+    "options": {
+      "fr": [
+        "Terror in Resonance",
+        "Psycho-Pass",
+        "Death Parade",
+        "Zankyou"
+      ],
+      "en": [
+        "Terror in Resonance",
+        "Psycho-Pass",
+        "Death Parade",
+        "Zankyou"
+      ],
+      "es": [
+        "Terror in Resonance",
+        "Psycho-Pass",
+        "Death Parade",
+        "Zankyou"
+      ],
+      "pt": [
+        "Terror in Resonance",
+        "Psycho-Pass",
+        "Death Parade",
+        "Zankyou"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Réalisé par Shinichirō Watanabe, avec une bande originale de Yoko Kanno.",
+      "en": "Directed by Shinichirō Watanabe, with a score by Yoko Kanno.",
+      "es": "Dirigido por Shinichirō Watanabe, con banda sonora de Yoko Kanno.",
+      "pt": "Realizado por Shinichirō Watanabe, com banda sonora de Yoko Kanno."
+    }
+  },
+  {
+    "id": "manga_0505",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Demon Slayer », comment s'appelle l'organisation qui combat les démons ?",
+      "en": "In \"Demon Slayer\", what is the organisation fighting demons called?",
+      "es": "En «Demon Slayer», ¿cómo se llama la organización que combate demonios?",
+      "pt": "Em «Demon Slayer», como se chama a organização que combate demónios?"
+    },
+    "options": {
+      "fr": [
+        "L'armée des pourfendeurs de démons",
+        "Le Bataillon d'exploration",
+        "L'Ordre du Soleil",
+        "La Garde impériale"
+      ],
+      "en": [
+        "The Demon Slayer Corps",
+        "The Survey Corps",
+        "The Order of the Sun",
+        "The Imperial Guard"
+      ],
+      "es": [
+        "El Cuerpo de Cazadores de Demonios",
+        "El Cuerpo de Exploración",
+        "La Orden del Sol",
+        "La Guardia Imperial"
+      ],
+      "pt": [
+        "O Corpo de Caçadores de Demónios",
+        "O Corpo de Exploração",
+        "A Ordem do Sol",
+        "A Guarda Imperial"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'organisation n'est pas reconnue par l'État et agit dans l'ombre depuis des siècles.",
+      "en": "The organisation is not officially recognised and has operated in the shadows for centuries.",
+      "es": "La organización no está reconocida oficialmente y actúa en la sombra desde hace siglos.",
+      "pt": "A organização não é reconhecida oficialmente e age na sombra há séculos."
+    }
+  },
+  {
+    "id": "manga_0506",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel mangaka a dessiné « Dr. Stone » sur un scénario de Riichiro Inagaki ?",
+      "en": "Which artist drew \"Dr. Stone\" from Riichiro Inagaki's script?",
+      "es": "¿Qué dibujante ilustró «Dr. Stone» con guion de Riichiro Inagaki?",
+      "pt": "Que desenhador ilustrou «Dr. Stone» com argumento de Riichiro Inagaki?"
+    },
+    "options": {
+      "fr": [
+        "Boichi",
+        "Yusuke Murata",
+        "Posuka Demizu",
+        "Takeshi Obata"
+      ],
+      "en": [
+        "Boichi",
+        "Yusuke Murata",
+        "Posuka Demizu",
+        "Takeshi Obata"
+      ],
+      "es": [
+        "Boichi",
+        "Yusuke Murata",
+        "Posuka Demizu",
+        "Takeshi Obata"
+      ],
+      "pt": [
+        "Boichi",
+        "Yusuke Murata",
+        "Posuka Demizu",
+        "Takeshi Obata"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Boichi est un auteur coréen installé au Japon, connu aussi pour « Sun-Ken Rock ».",
+      "en": "Boichi is a Korean author based in Japan, also known for \"Sun-Ken Rock\".",
+      "es": "Boichi es un autor coreano afincado en Japón, conocido por «Sun-Ken Rock».",
+      "pt": "Boichi é um autor coreano radicado no Japão, conhecido por «Sun-Ken Rock»."
+    }
+  },
+  {
+    "id": "manga_0507",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel terme japonais désigne les onomatopées dessinées dans les cases d'un manga ?",
+      "en": "Which Japanese term refers to the drawn sound effects in manga panels?",
+      "es": "¿Qué término japonés designa las onomatopeyas dibujadas en las viñetas?",
+      "pt": "Que termo japonês designa as onomatopeias desenhadas nos quadros?"
+    },
+    "options": {
+      "fr": [
+        "Giongo et gitaigo",
+        "Furigana",
+        "Kanji",
+        "Kana"
+      ],
+      "en": [
+        "Giongo and gitaigo",
+        "Furigana",
+        "Kanji",
+        "Kana"
+      ],
+      "es": [
+        "Giongo y gitaigo",
+        "Furigana",
+        "Kanji",
+        "Kana"
+      ],
+      "pt": [
+        "Giongo e gitaigo",
+        "Furigana",
+        "Kanji",
+        "Kana"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le japonais possède aussi des onomatopées pour des états sans bruit, comme le silence.",
+      "en": "Japanese even has onomatopoeia for soundless states, such as silence itself.",
+      "es": "El japonés tiene incluso onomatopeyas para estados sin sonido, como el silencio.",
+      "pt": "O japonês tem até onomatopeias para estados sem som, como o silêncio."
+    }
+  },
+  {
+    "id": "manga_0508",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Jujutsu Kaisen », quel personnage est né sans yeux mais parle par mots de riz ?",
+      "en": "In \"Jujutsu Kaisen\", which character speaks only in rice-ball ingredients?",
+      "es": "En «Jujutsu Kaisen», ¿qué personaje habla solo con ingredientes de onigiri?",
+      "pt": "Em «Jujutsu Kaisen», que personagem fala só com ingredientes de onigiri?"
+    },
+    "options": {
+      "fr": [
+        "Toge Inumaki",
+        "Panda",
+        "Maki Zenin",
+        "Nobara Kugisaki"
+      ],
+      "en": [
+        "Toge Inumaki",
+        "Panda",
+        "Maki Zenin",
+        "Nobara Kugisaki"
+      ],
+      "es": [
+        "Toge Inumaki",
+        "Panda",
+        "Maki Zenin",
+        "Nobara Kugisaki"
+      ],
+      "pt": [
+        "Toge Inumaki",
+        "Panda",
+        "Maki Zenin",
+        "Nobara Kugisaki"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ses paroles ont un pouvoir contraignant : il limite son vocabulaire pour ne blesser personne.",
+      "en": "His words carry compulsion, so he limits his vocabulary to avoid hurting anyone.",
+      "es": "Sus palabras obligan, así que limita su vocabulario para no herir a nadie.",
+      "pt": "As palavras dele obrigam, por isso limita o vocabulário para não ferir ninguém."
+    }
+  },
+  {
+    "id": "manga_0509",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel manga de Makoto Yukimura et quel manga de Takehiko Inoue partagent le thème du guerrier renonçant à la violence ?",
+      "en": "Which pairing of manga share the theme of a warrior renouncing violence?",
+      "es": "¿Qué pareja de mangas comparte el tema del guerrero que renuncia a la violencia?",
+      "pt": "Que par de mangas partilha o tema do guerreiro que renuncia à violência?"
+    },
+    "options": {
+      "fr": [
+        "Vinland Saga et Vagabond",
+        "Berserk et Gantz",
+        "Naruto et Bleach",
+        "Akira et Blame!"
+      ],
+      "en": [
+        "Vinland Saga and Vagabond",
+        "Berserk and Gantz",
+        "Naruto and Bleach",
+        "Akira and Blame!"
+      ],
+      "es": [
+        "Vinland Saga y Vagabond",
+        "Berserk y Gantz",
+        "Naruto y Bleach",
+        "Akira y Blame!"
+      ],
+      "pt": [
+        "Vinland Saga e Vagabond",
+        "Berserk e Gantz",
+        "Naruto e Bleach",
+        "Akira e Blame!"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Thorfinn et Musashi suivent tous deux un chemin qui va du combat vers la paix.",
+      "en": "Thorfinn and Musashi both travel a road leading from combat towards peace.",
+      "es": "Thorfinn y Musashi recorren un camino que va del combate a la paz.",
+      "pt": "Thorfinn e Musashi percorrem um caminho que vai do combate à paz."
+    }
+  },
+  {
+    "id": "manga_0510",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel anime de 2016 raconte l'échange de corps entre un lycéen de Tokyo et une lycéenne de province ?",
+      "en": "Which 2016 anime tells of a body swap between a Tokyo boy and a rural girl?",
+      "es": "¿Qué anime de 2016 narra el intercambio de cuerpos entre un chico de Tokio y una chica rural?",
+      "pt": "Que anime de 2016 narra a troca de corpos entre um rapaz de Tóquio e uma rapariga rural?"
+    },
+    "options": {
+      "fr": [
+        "Your Name",
+        "Suzume",
+        "Les Enfants du temps",
+        "5 centimètres par seconde"
+      ],
+      "en": [
+        "Your Name",
+        "Suzume",
+        "Weathering with You",
+        "5 Centimeters per Second"
+      ],
+      "es": [
+        "Your Name",
+        "Suzume",
+        "El tiempo contigo",
+        "5 centímetros por segundo"
+      ],
+      "pt": [
+        "Your Name",
+        "Suzume",
+        "O Tempo Contigo",
+        "5 Centímetros por Segundo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film est devenu l'un des plus gros succès de l'animation japonaise dans le monde.",
+      "en": "The film became one of the biggest global successes of Japanese animation.",
+      "es": "La película se convirtió en uno de los mayores éxitos mundiales de la animación japonesa.",
+      "pt": "O filme tornou-se num dos maiores êxitos mundiais da animação japonesa."
+    }
+  },
+  {
+    "id": "manga_0511",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio a produit « Anohana » et « Ano Hi Mita Hana » ?",
+      "en": "Which studio produced \"Anohana\" and \"The Anthem of the Heart\"?",
+      "es": "¿Qué estudio produjo «Anohana» y «El anhelo de tu corazón»?",
+      "pt": "Que estúdio produziu «Anohana» e «O Anseio do Teu Coração»?"
+    },
+    "options": {
+      "fr": [
+        "A-1 Pictures",
+        "P.A. Works",
+        "Shaft",
+        "Bones"
+      ],
+      "en": [
+        "A-1 Pictures",
+        "P.A. Works",
+        "Shaft",
+        "Bones"
+      ],
+      "es": [
+        "A-1 Pictures",
+        "P.A. Works",
+        "Shaft",
+        "Bones"
+      ],
+      "pt": [
+        "A-1 Pictures",
+        "P.A. Works",
+        "Shaft",
+        "Bones"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les deux œuvres partagent la même équipe créative, surnommée « Super Peace Busters ».",
+      "en": "Both works share the same creative team, nicknamed the \"Super Peace Busters\".",
+      "es": "Ambas obras comparten el mismo equipo creativo, apodado «Super Peace Busters».",
+      "pt": "Ambas as obras partilham a mesma equipa criativa, apelidada «Super Peace Busters»."
+    }
   }
 ]

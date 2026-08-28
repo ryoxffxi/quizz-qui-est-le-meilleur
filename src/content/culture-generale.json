@@ -20054,5 +20054,2293 @@
       "es": "Dentro de la crisálida, casi todo el tejido de la oruga se descompone y se reconstruye.",
       "pt": "Dentro da crisálida, quase todo o tecido da lagarta é decomposto e reconstruído."
     }
+  },
+  {
+    "id": "culture_0466",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans la mythologie romaine, quel dieu correspond au Zeus grec ?",
+      "en": "In Roman mythology, which god corresponds to the Greek Zeus?",
+      "es": "En la mitología romana, ¿qué dios corresponde al Zeus griego?",
+      "pt": "Na mitologia romana, que deus corresponde ao Zeus grego?"
+    },
+    "options": {
+      "fr": [
+        "Jupiter",
+        "Mars",
+        "Neptune",
+        "Mercure"
+      ],
+      "en": [
+        "Jupiter",
+        "Mars",
+        "Neptune",
+        "Mercury"
+      ],
+      "es": [
+        "Júpiter",
+        "Marte",
+        "Neptuno",
+        "Mercurio"
+      ],
+      "pt": [
+        "Júpiter",
+        "Marte",
+        "Neptuno",
+        "Mercúrio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Mars correspond à Arès, Neptune à Poséidon et Mercure à Hermès.",
+      "en": "Mars matches Ares, Neptune Poseidon and Mercury Hermes.",
+      "es": "Marte equivale a Ares, Neptuno a Poseidón y Mercurio a Hermes.",
+      "pt": "Marte corresponde a Ares, Neptuno a Poséidon e Mercúrio a Hermes."
+    }
+  },
+  {
+    "id": "culture_0467",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel animal est vénéré comme sacré en Inde ?",
+      "en": "Which animal is revered as sacred in India?",
+      "es": "¿Qué animal se venera como sagrado en la India?",
+      "pt": "Que animal é venerado como sagrado na Índia?"
+    },
+    "options": {
+      "fr": [
+        "La vache",
+        "Le tigre",
+        "Le paon",
+        "Le singe uniquement"
+      ],
+      "en": [
+        "The cow",
+        "The tiger",
+        "The peacock",
+        "Only the monkey"
+      ],
+      "es": [
+        "La vaca",
+        "El tigre",
+        "El pavo real",
+        "Solo el mono"
+      ],
+      "pt": [
+        "A vaca",
+        "O tigre",
+        "O pavão",
+        "Só o macaco"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le paon est l'oiseau national indien, mais c'est la vache qui est sacrée dans l'hindouisme.",
+      "en": "The peacock is India's national bird, but the cow is sacred in Hinduism.",
+      "es": "El pavo real es el ave nacional india, pero la vaca es la sagrada en el hinduismo.",
+      "pt": "O pavão é a ave nacional indiana, mas a vaca é a sagrada no hinduísmo."
+    }
+  },
+  {
+    "id": "culture_0468",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le premier mois du calendrier grégorien ?",
+      "en": "Which is the first month of the Gregorian calendar?",
+      "es": "¿Cuál es el primer mes del calendario gregoriano?",
+      "pt": "Qual é o primeiro mês do calendário gregoriano?"
+    },
+    "options": {
+      "fr": [
+        "Janvier",
+        "Mars",
+        "Décembre",
+        "Septembre"
+      ],
+      "en": [
+        "January",
+        "March",
+        "December",
+        "September"
+      ],
+      "es": [
+        "Enero",
+        "Marzo",
+        "Diciembre",
+        "Septiembre"
+      ],
+      "pt": [
+        "Janeiro",
+        "Março",
+        "Dezembro",
+        "Setembro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Septembre » vient de septem, sept : c'était le 7e mois du calendrier romain, qui commençait en mars.",
+      "en": "\"September\" comes from septem, seven: it was the 7th month of the Roman calendar, which began in March.",
+      "es": "«Septiembre» viene de septem, siete: era el 7.º mes del calendario romano, que empezaba en marzo.",
+      "pt": "«Setembro» vem de septem, sete: era o 7.º mês do calendário romano, que começava em março."
+    }
+  },
+  {
+    "id": "culture_0469",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de zéros comporte un milliard ?",
+      "en": "How many zeros are in one billion (10⁹)?",
+      "es": "¿Cuántos ceros tiene mil millones?",
+      "pt": "Quantos zeros tem mil milhões?"
+    },
+    "options": {
+      "fr": [
+        "9",
+        "6",
+        "12",
+        "10"
+      ],
+      "en": [
+        "9",
+        "6",
+        "12",
+        "10"
+      ],
+      "es": [
+        "9",
+        "6",
+        "12",
+        "10"
+      ],
+      "pt": [
+        "9",
+        "6",
+        "12",
+        "10"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Un million en compte six, un milliard neuf, un billion douze.",
+      "en": "A million has six, a billion nine, a trillion twelve.",
+      "es": "Un millón tiene seis, mil millones nueve, un billón doce.",
+      "pt": "Um milhão tem seis, mil milhões nove, um bilião doze."
+    }
+  },
+  {
+    "id": "culture_0470",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle boisson est obtenue par fermentation du raisin ?",
+      "en": "Which drink is made by fermenting grapes?",
+      "es": "¿Qué bebida se obtiene fermentando uva?",
+      "pt": "Que bebida se obtém pela fermentação da uva?"
+    },
+    "options": {
+      "fr": [
+        "Le vin",
+        "La bière",
+        "Le cidre",
+        "Le saké"
+      ],
+      "en": [
+        "Wine",
+        "Beer",
+        "Cider",
+        "Sake"
+      ],
+      "es": [
+        "El vino",
+        "La cerveza",
+        "La sidra",
+        "El sake"
+      ],
+      "pt": [
+        "O vinho",
+        "A cerveja",
+        "A sidra",
+        "O saqué"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La bière vient de l'orge, le cidre des pommes et le saké du riz.",
+      "en": "Beer comes from barley, cider from apples and sake from rice.",
+      "es": "La cerveza viene de la cebada, la sidra de las manzanas y el sake del arroz.",
+      "pt": "A cerveja vem da cevada, a sidra das maçãs e o saqué do arroz."
+    }
+  },
+  {
+    "id": "culture_0471",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel os protège le cerveau ?",
+      "en": "Which bone protects the brain?",
+      "es": "¿Qué hueso protege el cerebro?",
+      "pt": "Que osso protege o cérebro?"
+    },
+    "options": {
+      "fr": [
+        "Le crâne",
+        "Les côtes",
+        "Le sternum",
+        "Le bassin"
+      ],
+      "en": [
+        "The skull",
+        "The ribs",
+        "The sternum",
+        "The pelvis"
+      ],
+      "es": [
+        "El cráneo",
+        "Las costillas",
+        "El esternón",
+        "La pelvis"
+      ],
+      "pt": [
+        "O crânio",
+        "As costelas",
+        "O esterno",
+        "A bacia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le crâne est formé de plusieurs os soudés, qui ne fusionnent complètement qu'à l'âge adulte.",
+      "en": "The skull is made of several fused bones that only fully join in adulthood.",
+      "es": "El cráneo se forma de varios huesos soldados, que solo se fusionan del todo en la edad adulta.",
+      "pt": "O crânio é formado por vários ossos soldados, que só fundem por completo na idade adulta."
+    }
+  },
+  {
+    "id": "culture_0472",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel sport olympique se pratique sur un tatami avec des ceintures de couleur ?",
+      "en": "Which Olympic sport is practised on a tatami with coloured belts?",
+      "es": "¿Qué deporte olímpico se practica en tatami con cinturones de colores?",
+      "pt": "Que desporto olímpico se pratica em tatami com cintos coloridos?"
+    },
+    "options": {
+      "fr": [
+        "Le judo",
+        "La lutte",
+        "La boxe",
+        "L'escrime"
+      ],
+      "en": [
+        "Judo",
+        "Wrestling",
+        "Boxing",
+        "Fencing"
+      ],
+      "es": [
+        "El judo",
+        "La lucha",
+        "El boxeo",
+        "La esgrima"
+      ],
+      "pt": [
+        "O judo",
+        "A luta",
+        "O boxe",
+        "A esgrima"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La France est l'un des pays les plus titrés au judo, derrière le Japon.",
+      "en": "France is one of the most decorated judo nations, behind Japan.",
+      "es": "Francia es una de las naciones más laureadas en judo, tras Japón.",
+      "pt": "A França é uma das nações mais laureadas no judo, atrás do Japão."
+    }
+  },
+  {
+    "id": "culture_0473",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle est la couleur du drapeau de la Suisse ?",
+      "en": "What are the colours of the Swiss flag?",
+      "es": "¿De qué colores es la bandera de Suiza?",
+      "pt": "De que cores é a bandeira da Suíça?"
+    },
+    "options": {
+      "fr": [
+        "Une croix blanche sur fond rouge",
+        "Une croix rouge sur fond blanc",
+        "Trois bandes verticales",
+        "Un rond rouge sur fond blanc"
+      ],
+      "en": [
+        "A white cross on red",
+        "A red cross on white",
+        "Three vertical bands",
+        "A red circle on white"
+      ],
+      "es": [
+        "Una cruz blanca sobre rojo",
+        "Una cruz roja sobre blanco",
+        "Tres bandas verticales",
+        "Un círculo rojo sobre blanco"
+      ],
+      "pt": [
+        "Uma cruz branca sobre vermelho",
+        "Uma cruz vermelha sobre branco",
+        "Três faixas verticais",
+        "Um círculo vermelho sobre branco"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'emblème de la Croix-Rouge en est l'inverse exact, en hommage à son fondateur suisse.",
+      "en": "The Red Cross emblem is its exact inverse, honouring its Swiss founder.",
+      "es": "El emblema de la Cruz Roja es su inverso exacto, en homenaje a su fundador suizo.",
+      "pt": "O emblema da Cruz Vermelha é o inverso exato, em homenagem ao fundador suíço."
+    }
+  },
+  {
+    "id": "culture_0474",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel élément chimique est indispensable à la respiration humaine ?",
+      "en": "Which chemical element is essential to human breathing?",
+      "es": "¿Qué elemento químico es indispensable para la respiración humana?",
+      "pt": "Que elemento químico é indispensável à respiração humana?"
+    },
+    "options": {
+      "fr": [
+        "L'oxygène",
+        "L'azote",
+        "Le carbone",
+        "Le soufre"
+      ],
+      "en": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon",
+        "Sulphur"
+      ],
+      "es": [
+        "El oxígeno",
+        "El nitrógeno",
+        "El carbono",
+        "El azufre"
+      ],
+      "pt": [
+        "O oxigénio",
+        "O azoto",
+        "O carbono",
+        "O enxofre"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'air en contient environ 21 %, contre 78 % d'azote qui, lui, n'est pas utilisé.",
+      "en": "Air contains about 21% of it, against 78% nitrogen, which the body does not use.",
+      "es": "El aire contiene un 21 %, frente al 78 % de nitrógeno, que no se usa.",
+      "pt": "O ar contém cerca de 21 %, contra 78 % de azoto, que não é usado."
+    }
+  },
+  {
+    "id": "culture_0475",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le petit du cheval ?",
+      "en": "What is a young horse called?",
+      "es": "¿Cómo se llama la cría del caballo?",
+      "pt": "Como se chama a cria do cavalo?"
+    },
+    "options": {
+      "fr": [
+        "Le poulain",
+        "Le veau",
+        "L'agneau",
+        "Le chevreau"
+      ],
+      "en": [
+        "The foal",
+        "The calf",
+        "The lamb",
+        "The kid"
+      ],
+      "es": [
+        "El potro",
+        "El ternero",
+        "El cordero",
+        "El cabrito"
+      ],
+      "pt": [
+        "O potro",
+        "O vitelo",
+        "O cordeiro",
+        "O cabrito"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le veau vient de la vache, l'agneau de la brebis et le chevreau de la chèvre.",
+      "en": "The calf comes from the cow, the lamb from the ewe and the kid from the goat.",
+      "es": "El ternero viene de la vaca, el cordero de la oveja y el cabrito de la cabra.",
+      "pt": "O vitelo vem da vaca, o cordeiro da ovelha e o cabrito da cabra."
+    }
+  },
+  {
+    "id": "culture_0476",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le nom du plus grand stade de France ?",
+      "en": "What is the name of France's largest stadium?",
+      "es": "¿Cómo se llama el estadio más grande de Francia?",
+      "pt": "Como se chama o maior estádio de França?"
+    },
+    "options": {
+      "fr": [
+        "Le Stade de France",
+        "Le Parc des Princes",
+        "Le Vélodrome",
+        "Le Groupama Stadium"
+      ],
+      "en": [
+        "The Stade de France",
+        "The Parc des Princes",
+        "The Vélodrome",
+        "The Groupama Stadium"
+      ],
+      "es": [
+        "El Estadio de Francia",
+        "El Parque de los Príncipes",
+        "El Vélodrome",
+        "El Groupama Stadium"
+      ],
+      "pt": [
+        "O Stade de France",
+        "O Parque dos Príncipes",
+        "O Vélodrome",
+        "O Groupama Stadium"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Construit à Saint-Denis pour la Coupe du monde 1998, il accueille plus de 80 000 spectateurs.",
+      "en": "Built in Saint-Denis for the 1998 World Cup, it holds over 80,000 spectators.",
+      "es": "Construido en Saint-Denis para el Mundial de 1998, acoge a más de 80 000 espectadores.",
+      "pt": "Construído em Saint-Denis para o Mundial de 1998, acolhe mais de 80 000 espectadores."
+    }
+  },
+  {
+    "id": "culture_0477",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle langue est la plus parlée en Amérique du Sud ?",
+      "en": "Which language is most spoken in South America?",
+      "es": "¿Qué lengua se habla más en América del Sur?",
+      "pt": "Que língua é a mais falada na América do Sul?"
+    },
+    "options": {
+      "fr": [
+        "Le portugais",
+        "L'espagnol",
+        "L'anglais",
+        "Le quechua"
+      ],
+      "en": [
+        "Portuguese",
+        "Spanish",
+        "English",
+        "Quechua"
+      ],
+      "es": [
+        "El portugués",
+        "El español",
+        "El inglés",
+        "El quechua"
+      ],
+      "pt": [
+        "O português",
+        "O espanhol",
+        "O inglês",
+        "O quíchua"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'espagnol domine en nombre de pays, mais le Brésil concentre à lui seul près de la moitié de la population du continent.",
+      "en": "Spanish leads in number of countries, but Brazil alone holds nearly half the continent's population.",
+      "es": "El español domina en número de países, pero Brasil concentra casi la mitad de la población.",
+      "pt": "O espanhol domina em número de países, mas o Brasil concentra quase metade da população."
+    }
+  },
+  {
+    "id": "culture_0478",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel appareil ménager utilise des micro-ondes pour chauffer les aliments ?",
+      "en": "Which appliance uses microwaves to heat food?",
+      "es": "¿Qué electrodoméstico usa microondas para calentar alimentos?",
+      "pt": "Que eletrodoméstico usa micro-ondas para aquecer alimentos?"
+    },
+    "options": {
+      "fr": [
+        "Le four à micro-ondes",
+        "Le grille-pain",
+        "La bouilloire",
+        "Le mixeur"
+      ],
+      "en": [
+        "The microwave oven",
+        "The toaster",
+        "The kettle",
+        "The blender"
+      ],
+      "es": [
+        "El microondas",
+        "La tostadora",
+        "El hervidor",
+        "La batidora"
+      ],
+      "pt": [
+        "O micro-ondas",
+        "A torradeira",
+        "A chaleira",
+        "A varinha mágica"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les micro-ondes font vibrer les molécules d'eau, ce qui produit la chaleur de l'intérieur.",
+      "en": "Microwaves make water molecules vibrate, generating heat from within.",
+      "es": "Las microondas hacen vibrar las moléculas de agua, generando calor desde dentro.",
+      "pt": "As micro-ondas fazem vibrar as moléculas de água, gerando calor por dentro."
+    }
+  },
+  {
+    "id": "culture_0479",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de joueurs compte une équipe de volley-ball sur le terrain ?",
+      "en": "How many players are on court in a volleyball team?",
+      "es": "¿Cuántos jugadores tiene un equipo de voleibol en pista?",
+      "pt": "Quantos jogadores tem uma equipa de voleibol em campo?"
+    },
+    "options": {
+      "fr": [
+        "6",
+        "5",
+        "7",
+        "11"
+      ],
+      "en": [
+        "6",
+        "5",
+        "7",
+        "11"
+      ],
+      "es": [
+        "6",
+        "5",
+        "7",
+        "11"
+      ],
+      "pt": [
+        "6",
+        "5",
+        "7",
+        "11"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Six joueurs qui tournent d'une position à chaque service gagné sur l'adversaire.",
+      "en": "Six players who rotate one position each time they win the serve back.",
+      "es": "Seis jugadores que rotan una posición cada vez que recuperan el saque.",
+      "pt": "Seis jogadores que rodam uma posição sempre que recuperam o serviço."
+    }
+  },
+  {
+    "id": "culture_0480",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le point commun entre le fer, le nickel et le cobalt ?",
+      "en": "What do iron, nickel and cobalt have in common?",
+      "es": "¿Qué tienen en común el hierro, el níquel y el cobalto?",
+      "pt": "O que têm em comum o ferro, o níquel e o cobalto?"
+    },
+    "options": {
+      "fr": [
+        "Ils sont magnétiques",
+        "Ils sont liquides",
+        "Ils sont radioactifs",
+        "Ils sont précieux"
+      ],
+      "en": [
+        "They are magnetic",
+        "They are liquid",
+        "They are radioactive",
+        "They are precious"
+      ],
+      "es": [
+        "Son magnéticos",
+        "Son líquidos",
+        "Son radiactivos",
+        "Son preciosos"
+      ],
+      "pt": [
+        "São magnéticos",
+        "São líquidos",
+        "São radioativos",
+        "São preciosos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ce sont les trois principaux métaux ferromagnétiques à température ambiante.",
+      "en": "They are the three main ferromagnetic metals at room temperature.",
+      "es": "Son los tres principales metales ferromagnéticos a temperatura ambiente.",
+      "pt": "São os três principais metais ferromagnéticos à temperatura ambiente."
+    }
+  },
+  {
+    "id": "culture_0481",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle est la capitale du Danemark ?",
+      "en": "What is the capital of Denmark?",
+      "es": "¿Cuál es la capital de Dinamarca?",
+      "pt": "Qual é a capital da Dinamarca?"
+    },
+    "options": {
+      "fr": [
+        "Copenhague",
+        "Oslo",
+        "Stockholm",
+        "Helsinki"
+      ],
+      "en": [
+        "Copenhagen",
+        "Oslo",
+        "Stockholm",
+        "Helsinki"
+      ],
+      "es": [
+        "Copenhague",
+        "Oslo",
+        "Estocolmo",
+        "Helsinki"
+      ],
+      "pt": [
+        "Copenhaga",
+        "Oslo",
+        "Estocolmo",
+        "Helsínquia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La ville est reliée à la Suède par le pont-tunnel de l'Øresund.",
+      "en": "The city is linked to Sweden by the Øresund bridge-tunnel.",
+      "es": "La ciudad está unida a Suecia por el puente-túnel de Øresund.",
+      "pt": "A cidade está ligada à Suécia pela ponte-túnel de Øresund."
+    }
+  },
+  {
+    "id": "culture_0482",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel organe permet de goûter les saveurs ?",
+      "en": "Which organ lets us taste flavours?",
+      "es": "¿Qué órgano permite saborear?",
+      "pt": "Que órgão permite saborear?"
+    },
+    "options": {
+      "fr": [
+        "La langue",
+        "Le nez",
+        "La gorge",
+        "L'œsophage"
+      ],
+      "en": [
+        "The tongue",
+        "The nose",
+        "The throat",
+        "The oesophagus"
+      ],
+      "es": [
+        "La lengua",
+        "La nariz",
+        "La garganta",
+        "El esófago"
+      ],
+      "pt": [
+        "A língua",
+        "O nariz",
+        "A garganta",
+        "O esófago"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'odorat participe pourtant à l'essentiel de la perception du goût : nez bouché, tout paraît fade.",
+      "en": "Smell still drives most of taste perception: with a blocked nose, everything seems bland.",
+      "es": "El olfato aporta la mayor parte del sabor: con la nariz tapada todo parece insípido.",
+      "pt": "O olfato contribui para a maior parte do sabor: com o nariz tapado tudo parece insípido."
+    }
+  },
+  {
+    "id": "culture_0483",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le plus grand reptile vivant au monde ?",
+      "en": "Which is the world's largest living reptile?",
+      "es": "¿Cuál es el reptil vivo más grande del mundo?",
+      "pt": "Qual é o maior réptil vivo do mundo?"
+    },
+    "options": {
+      "fr": [
+        "Le crocodile marin",
+        "Le python",
+        "Le varan de Komodo",
+        "L'alligator"
+      ],
+      "en": [
+        "The saltwater crocodile",
+        "The python",
+        "The Komodo dragon",
+        "The alligator"
+      ],
+      "es": [
+        "El cocodrilo marino",
+        "La pitón",
+        "El dragón de Komodo",
+        "El caimán"
+      ],
+      "pt": [
+        "O crocodilo-marinho",
+        "A píton",
+        "O dragão de Komodo",
+        "O aligátor"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il peut dépasser six mètres et vivre aussi bien en eau douce qu'en mer.",
+      "en": "It can exceed six metres and live in both fresh water and the sea.",
+      "es": "Puede superar los seis metros y vivir en agua dulce y en el mar.",
+      "pt": "Pode ultrapassar os seis metros e viver tanto em água doce como no mar."
+    }
+  },
+  {
+    "id": "culture_0484",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que fabrique une abeille ouvrière avec la cire ?",
+      "en": "What does a worker bee build with wax?",
+      "es": "¿Qué fabrica una abeja obrera con la cera?",
+      "pt": "O que fabrica uma abelha operária com a cera?"
+    },
+    "options": {
+      "fr": [
+        "Les alvéoles de la ruche",
+        "Le miel",
+        "Le pollen",
+        "La gelée royale"
+      ],
+      "en": [
+        "The hive's cells",
+        "Honey",
+        "Pollen",
+        "Royal jelly"
+      ],
+      "es": [
+        "Las celdas de la colmena",
+        "La miel",
+        "El polen",
+        "La jalea real"
+      ],
+      "pt": [
+        "Os alvéolos da colmeia",
+        "O mel",
+        "O pólen",
+        "A geleia real"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les alvéoles hexagonales offrent le meilleur rapport entre volume stocké et cire dépensée.",
+      "en": "Hexagonal cells give the best ratio between stored volume and wax used.",
+      "es": "Las celdas hexagonales dan la mejor relación entre volumen y cera gastada.",
+      "pt": "Os alvéolos hexagonais dão a melhor relação entre volume e cera gasta."
+    }
+  },
+  {
+    "id": "culture_0485",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le nom du célèbre monument mégalithique du sud de l'Angleterre ?",
+      "en": "What is the famous megalithic monument in southern England called?",
+      "es": "¿Cómo se llama el famoso monumento megalítico del sur de Inglaterra?",
+      "pt": "Como se chama o famoso monumento megalítico do sul de Inglaterra?"
+    },
+    "options": {
+      "fr": [
+        "Stonehenge",
+        "Carnac",
+        "Newgrange",
+        "Avebury Hill"
+      ],
+      "en": [
+        "Stonehenge",
+        "Carnac",
+        "Newgrange",
+        "Avebury Hill"
+      ],
+      "es": [
+        "Stonehenge",
+        "Carnac",
+        "Newgrange",
+        "Avebury Hill"
+      ],
+      "pt": [
+        "Stonehenge",
+        "Carnac",
+        "Newgrange",
+        "Avebury Hill"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Carnac, en Bretagne, aligne pour sa part des milliers de menhirs.",
+      "en": "Carnac, in Brittany, instead lines up thousands of standing stones.",
+      "es": "Carnac, en Bretaña, alinea en cambio miles de menhires.",
+      "pt": "Carnac, na Bretanha, alinha por sua vez milhares de menires."
+    }
+  },
+  {
+    "id": "culture_0486",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle saison suit l'été dans l'hémisphère nord ?",
+      "en": "Which season follows summer in the northern hemisphere?",
+      "es": "¿Qué estación sigue al verano en el hemisferio norte?",
+      "pt": "Que estação segue o verão no hemisfério norte?"
+    },
+    "options": {
+      "fr": [
+        "L'automne",
+        "L'hiver",
+        "Le printemps",
+        "Cela dépend des années"
+      ],
+      "en": [
+        "Autumn",
+        "Winter",
+        "Spring",
+        "It depends on the year"
+      ],
+      "es": [
+        "El otoño",
+        "El invierno",
+        "La primavera",
+        "Depende del año"
+      ],
+      "pt": [
+        "O outono",
+        "O inverno",
+        "A primavera",
+        "Depende do ano"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Dans l'hémisphère sud, les saisons sont exactement décalées de six mois.",
+      "en": "In the southern hemisphere, the seasons are shifted by exactly six months.",
+      "es": "En el hemisferio sur, las estaciones están desplazadas exactamente seis meses.",
+      "pt": "No hemisfério sul, as estações estão desfasadas exatamente seis meses."
+    }
+  },
+  {
+    "id": "culture_0487",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel liquide sucré les érables produisent-ils au printemps ?",
+      "en": "Which sweet liquid do maple trees produce in spring?",
+      "es": "¿Qué líquido dulce producen los arces en primavera?",
+      "pt": "Que líquido doce produzem os áceres na primavera?"
+    },
+    "options": {
+      "fr": [
+        "La sève",
+        "Le nectar",
+        "La résine",
+        "Le latex"
+      ],
+      "en": [
+        "Sap",
+        "Nectar",
+        "Resin",
+        "Latex"
+      ],
+      "es": [
+        "La savia",
+        "El néctar",
+        "La resina",
+        "El látex"
+      ],
+      "pt": [
+        "A seiva",
+        "O néctar",
+        "A resina",
+        "O látex"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il faut environ 40 litres de sève pour obtenir un seul litre de sirop d'érable.",
+      "en": "It takes about 40 litres of sap to make a single litre of maple syrup.",
+      "es": "Hacen falta unos 40 litros de savia para obtener un litro de jarabe de arce.",
+      "pt": "São precisos cerca de 40 litros de seiva para obter um litro de xarope de ácer."
+    }
+  },
+  {
+    "id": "culture_0488",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans la mythologie égyptienne, quel dieu à tête de chacal préside à l'embaumement ?",
+      "en": "In Egyptian mythology, which jackal-headed god presides over embalming?",
+      "es": "En la mitología egipcia, ¿qué dios con cabeza de chacal preside el embalsamamiento?",
+      "pt": "Na mitologia egípcia, que deus com cabeça de chacal preside ao embalsamamento?"
+    },
+    "options": {
+      "fr": [
+        "Anubis",
+        "Horus",
+        "Rê",
+        "Seth"
+      ],
+      "en": [
+        "Anubis",
+        "Horus",
+        "Ra",
+        "Set"
+      ],
+      "es": [
+        "Anubis",
+        "Horus",
+        "Ra",
+        "Set"
+      ],
+      "pt": [
+        "Anúbis",
+        "Hórus",
+        "Rá",
+        "Set"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Horus est représenté en faucon, Rê comme dieu solaire et Seth en animal indéterminé.",
+      "en": "Horus appears as a falcon, Ra as the sun god and Set as an unidentified animal.",
+      "es": "Horus aparece como halcón, Ra como dios solar y Set como animal indeterminado.",
+      "pt": "Hórus aparece como falcão, Rá como deus solar e Set como animal indeterminado."
+    }
+  },
+  {
+    "id": "culture_0489",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle déesse japonaise du soleil est considérée comme l'ancêtre de la famille impériale ?",
+      "en": "Which Japanese sun goddess is seen as ancestor of the imperial family?",
+      "es": "¿Qué diosa japonesa del sol se considera antepasada de la familia imperial?",
+      "pt": "Que deusa japonesa do sol é considerada antepassada da família imperial?"
+    },
+    "options": {
+      "fr": [
+        "Amaterasu",
+        "Tsukuyomi",
+        "Susanoo",
+        "Inari"
+      ],
+      "en": [
+        "Amaterasu",
+        "Tsukuyomi",
+        "Susanoo",
+        "Inari"
+      ],
+      "es": [
+        "Amaterasu",
+        "Tsukuyomi",
+        "Susanoo",
+        "Inari"
+      ],
+      "pt": [
+        "Amaterasu",
+        "Tsukuyomi",
+        "Susanoo",
+        "Inari"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Tsukuyomi est le dieu de la Lune et Susanoo celui des tempêtes ; Inari préside au riz.",
+      "en": "Tsukuyomi is the moon god and Susanoo the storm god; Inari presides over rice.",
+      "es": "Tsukuyomi es el dios de la Luna y Susanoo el de las tormentas; Inari preside el arroz.",
+      "pt": "Tsukuyomi é o deus da Lua e Susanoo o das tempestades; Inari preside ao arroz."
+    }
+  },
+  {
+    "id": "culture_0490",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel sculpteur italien a réalisé le « David » de Florence ?",
+      "en": "Which Italian sculptor created the \"David\" in Florence?",
+      "es": "¿Qué escultor italiano realizó el «David» de Florencia?",
+      "pt": "Que escultor italiano realizou o «David» de Florença?"
+    },
+    "options": {
+      "fr": [
+        "Michel-Ange",
+        "Donatello",
+        "Le Bernin",
+        "Cellini"
+      ],
+      "en": [
+        "Michelangelo",
+        "Donatello",
+        "Bernini",
+        "Cellini"
+      ],
+      "es": [
+        "Miguel Ángel",
+        "Donatello",
+        "Bernini",
+        "Cellini"
+      ],
+      "pt": [
+        "Miguel Ângelo",
+        "Donatello",
+        "Bernini",
+        "Cellini"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il l'a taillé entre 1501 et 1504 dans un bloc de marbre que d'autres avaient jugé inutilisable.",
+      "en": "He carved it between 1501 and 1504 from a marble block others had judged unusable.",
+      "es": "Lo talló entre 1501 y 1504 en un bloque de mármol que otros creían inservible.",
+      "pt": "Esculpiu-o entre 1501 e 1504 num bloco de mármore que outros julgavam inutilizável."
+    }
+  },
+  {
+    "id": "culture_0491",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel compositeur autrichien est mort à 35 ans en laissant un Requiem inachevé ?",
+      "en": "Which Austrian composer died at 35 leaving an unfinished Requiem?",
+      "es": "¿Qué compositor austriaco murió a los 35 años dejando un Réquiem inacabado?",
+      "pt": "Que compositor austríaco morreu aos 35 anos deixando um Requiem inacabado?"
+    },
+    "options": {
+      "fr": [
+        "Mozart",
+        "Schubert",
+        "Haydn",
+        "Bruckner"
+      ],
+      "en": [
+        "Mozart",
+        "Schubert",
+        "Haydn",
+        "Bruckner"
+      ],
+      "es": [
+        "Mozart",
+        "Schubert",
+        "Haydn",
+        "Bruckner"
+      ],
+      "pt": [
+        "Mozart",
+        "Schubert",
+        "Haydn",
+        "Bruckner"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'œuvre a été complétée par son élève Süssmayr, ce qui alimente les débats depuis deux siècles.",
+      "en": "The work was completed by his pupil Süssmayr, fuelling debate for two centuries.",
+      "es": "La obra fue completada por su alumno Süssmayr, alimentando debates desde hace dos siglos.",
+      "pt": "A obra foi completada pelo aluno Süssmayr, alimentando debates há dois séculos."
+    }
+  },
+  {
+    "id": "culture_0492",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est la monnaie officielle de la Chine ?",
+      "en": "What is China's official currency?",
+      "es": "¿Cuál es la moneda oficial de China?",
+      "pt": "Qual é a moeda oficial da China?"
+    },
+    "options": {
+      "fr": [
+        "Le yuan (renminbi)",
+        "Le yen",
+        "Le won",
+        "Le dollar de Hong Kong"
+      ],
+      "en": [
+        "The yuan (renminbi)",
+        "The yen",
+        "The won",
+        "The Hong Kong dollar"
+      ],
+      "es": [
+        "El yuan (renminbi)",
+        "El yen",
+        "El won",
+        "El dólar de Hong Kong"
+      ],
+      "pt": [
+        "O yuan (renminbi)",
+        "O iene",
+        "O won",
+        "O dólar de Hong Kong"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le yen est japonais, le won coréen ; Hong Kong garde sa propre monnaie.",
+      "en": "The yen is Japanese, the won Korean; Hong Kong keeps its own currency.",
+      "es": "El yen es japonés, el won coreano; Hong Kong conserva su propia moneda.",
+      "pt": "O iene é japonês, o won coreano; Hong Kong mantém a sua própria moeda."
+    }
+  },
+  {
+    "id": "culture_0493",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel philosophe a écrit « Ainsi parlait Zarathoustra » ?",
+      "en": "Which philosopher wrote \"Thus Spoke Zarathustra\"?",
+      "es": "¿Qué filósofo escribió «Así habló Zaratustra»?",
+      "pt": "Que filósofo escreveu «Assim Falou Zaratustra»?"
+    },
+    "options": {
+      "fr": [
+        "Friedrich Nietzsche",
+        "Arthur Schopenhauer",
+        "Karl Marx",
+        "Martin Heidegger"
+      ],
+      "en": [
+        "Friedrich Nietzsche",
+        "Arthur Schopenhauer",
+        "Karl Marx",
+        "Martin Heidegger"
+      ],
+      "es": [
+        "Friedrich Nietzsche",
+        "Arthur Schopenhauer",
+        "Karl Marx",
+        "Martin Heidegger"
+      ],
+      "pt": [
+        "Friedrich Nietzsche",
+        "Arthur Schopenhauer",
+        "Karl Marx",
+        "Martin Heidegger"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'ouverture du livre a inspiré le poème symphonique repris dans « 2001 : l'Odyssée de l'espace ».",
+      "en": "The book's opening inspired the tone poem used in \"2001: A Space Odyssey\".",
+      "es": "La apertura del libro inspiró el poema sinfónico usado en «2001: Una odisea del espacio».",
+      "pt": "A abertura do livro inspirou o poema sinfónico usado em «2001: Odisseia no Espaço»."
+    }
+  },
+  {
+    "id": "culture_0494",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel pays a le taux de natalité le plus bas au monde ces dernières années ?",
+      "en": "Which country has had the world's lowest birth rate in recent years?",
+      "es": "¿Qué país tiene la tasa de natalidad más baja del mundo en los últimos años?",
+      "pt": "Que país tem a taxa de natalidade mais baixa do mundo nos últimos anos?"
+    },
+    "options": {
+      "fr": [
+        "La Corée du Sud",
+        "Le Japon",
+        "L'Italie",
+        "L'Allemagne"
+      ],
+      "en": [
+        "South Korea",
+        "Japan",
+        "Italy",
+        "Germany"
+      ],
+      "es": [
+        "Corea del Sur",
+        "Japón",
+        "Italia",
+        "Alemania"
+      ],
+      "pt": [
+        "A Coreia do Sul",
+        "O Japão",
+        "A Itália",
+        "A Alemanha"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Son indice de fécondité est descendu sous 0,8 enfant par femme, un record mondial.",
+      "en": "Its fertility rate has fallen below 0.8 children per woman, a world record low.",
+      "es": "Su índice de fecundidad ha bajado de 0,8 hijos por mujer, un récord mundial.",
+      "pt": "O índice de fecundidade desceu abaixo de 0,8 filhos por mulher, um recorde mundial."
+    }
+  },
+  {
+    "id": "culture_0495",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle vitamine le corps humain fabrique-t-il grâce au soleil ?",
+      "en": "Which vitamin does the body make thanks to sunlight?",
+      "es": "¿Qué vitamina fabrica el cuerpo gracias al sol?",
+      "pt": "Que vitamina o corpo fabrica graças ao sol?"
+    },
+    "options": {
+      "fr": [
+        "La vitamine D",
+        "La vitamine C",
+        "La vitamine B12",
+        "La vitamine K"
+      ],
+      "en": [
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin B12",
+        "Vitamin K"
+      ],
+      "es": [
+        "La vitamina D",
+        "La vitamina C",
+        "La B12",
+        "La vitamina K"
+      ],
+      "pt": [
+        "A vitamina D",
+        "A vitamina C",
+        "A B12",
+        "A vitamina K"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sa carence est fréquente en hiver aux latitudes européennes, faute d'ensoleillement suffisant.",
+      "en": "Deficiency is common in winter at European latitudes, for lack of sunlight.",
+      "es": "Su carencia es frecuente en invierno en latitudes europeas, por falta de sol.",
+      "pt": "A carência é frequente no inverno em latitudes europeias, por falta de sol."
+    }
+  },
+  {
+    "id": "culture_0496",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle discipline étudie les tremblements de terre ?",
+      "en": "Which discipline studies earthquakes?",
+      "es": "¿Qué disciplina estudia los terremotos?",
+      "pt": "Que disciplina estuda os sismos?"
+    },
+    "options": {
+      "fr": [
+        "La sismologie",
+        "La volcanologie",
+        "La géodésie",
+        "La spéléologie"
+      ],
+      "en": [
+        "Seismology",
+        "Volcanology",
+        "Geodesy",
+        "Speleology"
+      ],
+      "es": [
+        "La sismología",
+        "La vulcanología",
+        "La geodesia",
+        "La espeleología"
+      ],
+      "pt": [
+        "A sismologia",
+        "A vulcanologia",
+        "A geodesia",
+        "A espeleologia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La spéléologie explore les grottes, la géodésie mesure la forme de la Terre.",
+      "en": "Speleology explores caves; geodesy measures the shape of the Earth.",
+      "es": "La espeleología explora cuevas; la geodesia mide la forma de la Tierra.",
+      "pt": "A espeleologia explora grutas; a geodesia mede a forma da Terra."
+    }
+  },
+  {
+    "id": "culture_0497",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel pays a inventé le papier-monnaie ?",
+      "en": "Which country invented paper money?",
+      "es": "¿Qué país inventó el papel moneda?",
+      "pt": "Que país inventou o papel-moeda?"
+    },
+    "options": {
+      "fr": [
+        "La Chine",
+        "L'Italie",
+        "L'Égypte",
+        "La Perse"
+      ],
+      "en": [
+        "China",
+        "Italy",
+        "Egypt",
+        "Persia"
+      ],
+      "es": [
+        "China",
+        "Italia",
+        "Egipto",
+        "Persia"
+      ],
+      "pt": [
+        "A China",
+        "A Itália",
+        "O Egito",
+        "A Pérsia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les premiers billets circulent sous la dynastie Song, autour du XIe siècle.",
+      "en": "The first banknotes circulated under the Song dynasty, around the 11th century.",
+      "es": "Los primeros billetes circularon bajo la dinastía Song, hacia el siglo XI.",
+      "pt": "As primeiras notas circularam sob a dinastia Song, por volta do século XI."
+    }
+  },
+  {
+    "id": "culture_0498",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est l'espérance de vie moyenne mondiale, approximativement ?",
+      "en": "Roughly what is the world's average life expectancy?",
+      "es": "¿Cuál es aproximadamente la esperanza de vida media mundial?",
+      "pt": "Qual é aproximadamente a esperança média de vida mundial?"
+    },
+    "options": {
+      "fr": [
+        "Environ 73 ans",
+        "Environ 60 ans",
+        "Environ 85 ans",
+        "Environ 50 ans"
+      ],
+      "en": [
+        "About 73 years",
+        "About 60 years",
+        "About 85 years",
+        "About 50 years"
+      ],
+      "es": [
+        "Unos 73 años",
+        "Unos 60 años",
+        "Unos 85 años",
+        "Unos 50 años"
+      ],
+      "pt": [
+        "Cerca de 73 anos",
+        "Cerca de 60 anos",
+        "Cerca de 85 anos",
+        "Cerca de 50 anos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elle a plus que doublé en un siècle, mais varie encore de plus de vingt ans selon les pays.",
+      "en": "It has more than doubled in a century but still varies by over twenty years between countries.",
+      "es": "Se ha más que duplicado en un siglo, pero varía más de veinte años según el país.",
+      "pt": "Mais do que duplicou num século, mas varia mais de vinte anos consoante o país."
+    }
+  },
+  {
+    "id": "culture_0499",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le nom du plus grand volcan actif d'Europe ?",
+      "en": "What is Europe's largest active volcano called?",
+      "es": "¿Cómo se llama el mayor volcán activo de Europa?",
+      "pt": "Como se chama o maior vulcão ativo da Europa?"
+    },
+    "options": {
+      "fr": [
+        "L'Etna",
+        "Le Vésuve",
+        "Le Stromboli",
+        "L'Eyjafjallajökull"
+      ],
+      "en": [
+        "Etna",
+        "Vesuvius",
+        "Stromboli",
+        "Eyjafjallajökull"
+      ],
+      "es": [
+        "El Etna",
+        "El Vesubio",
+        "El Estrómboli",
+        "El Eyjafjallajökull"
+      ],
+      "pt": [
+        "O Etna",
+        "O Vesúvio",
+        "O Stromboli",
+        "O Eyjafjallajökull"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Situé en Sicile, il culmine à plus de 3 300 mètres et entre en éruption très régulièrement.",
+      "en": "Located in Sicily, it rises above 3,300 metres and erupts very regularly.",
+      "es": "Situado en Sicilia, supera los 3300 metros y entra en erupción muy a menudo.",
+      "pt": "Situado na Sicília, ultrapassa os 3300 metros e entra em erupção muito regularmente."
+    }
+  },
+  {
+    "id": "culture_0500",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel écrivain a créé le personnage de Sherlock Holmes ?",
+      "en": "Which writer created Sherlock Holmes?",
+      "es": "¿Qué escritor creó al personaje de Sherlock Holmes?",
+      "pt": "Que escritor criou a personagem Sherlock Holmes?"
+    },
+    "options": {
+      "fr": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Edgar Allan Poe",
+        "Wilkie Collins"
+      ],
+      "en": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Edgar Allan Poe",
+        "Wilkie Collins"
+      ],
+      "es": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Edgar Allan Poe",
+        "Wilkie Collins"
+      ],
+      "pt": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Edgar Allan Poe",
+        "Wilkie Collins"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Lassé de son héros, il l'a tué en 1893 avant de le ressusciter face à la pression des lecteurs.",
+      "en": "Tired of his hero, he killed him in 1893 before reviving him under reader pressure.",
+      "es": "Cansado de su héroe, lo mató en 1893 antes de resucitarlo por presión de los lectores.",
+      "pt": "Cansado do herói, matou-o em 1893 antes de o ressuscitar sob pressão dos leitores."
+    }
+  },
+  {
+    "id": "culture_0501",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est l'unité de mesure de l'énergie dans le système international ?",
+      "en": "What is the SI unit of energy?",
+      "es": "¿Cuál es la unidad de energía en el sistema internacional?",
+      "pt": "Qual é a unidade de energia no sistema internacional?"
+    },
+    "options": {
+      "fr": [
+        "Le joule",
+        "Le watt",
+        "La calorie",
+        "Le kilowattheure"
+      ],
+      "en": [
+        "The joule",
+        "The watt",
+        "The calorie",
+        "The kilowatt-hour"
+      ],
+      "es": [
+        "El julio",
+        "El vatio",
+        "La caloría",
+        "El kilovatio hora"
+      ],
+      "pt": [
+        "O joule",
+        "O watt",
+        "A caloria",
+        "O quilowatt-hora"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La calorie et le kilowattheure sont des unités d'énergie usuelles, mais hors système international.",
+      "en": "The calorie and kilowatt-hour are common energy units, but outside the SI.",
+      "es": "La caloría y el kilovatio hora son unidades usuales de energía, pero fuera del SI.",
+      "pt": "A caloria e o quilowatt-hora são unidades usuais de energia, mas fora do SI."
+    }
+  },
+  {
+    "id": "culture_0502",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel pays possède le plus grand nombre de sites classés au patrimoine mondial de l'UNESCO ?",
+      "en": "Which country has the most UNESCO World Heritage sites?",
+      "es": "¿Qué país tiene más sitios del Patrimonio Mundial de la UNESCO?",
+      "pt": "Que país tem mais locais Património Mundial da UNESCO?"
+    },
+    "options": {
+      "fr": [
+        "L'Italie",
+        "La France",
+        "L'Espagne",
+        "La Chine"
+      ],
+      "en": [
+        "Italy",
+        "France",
+        "Spain",
+        "China"
+      ],
+      "es": [
+        "Italia",
+        "Francia",
+        "España",
+        "China"
+      ],
+      "pt": [
+        "A Itália",
+        "A França",
+        "A Espanha",
+        "A China"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'Italie et la Chine se disputent la première place, avec une soixantaine de sites chacune.",
+      "en": "Italy and China vie for first place, with around sixty sites each.",
+      "es": "Italia y China se disputan el primer puesto, con unos sesenta sitios cada una.",
+      "pt": "A Itália e a China disputam o primeiro lugar, com cerca de sessenta locais cada."
+    }
+  },
+  {
+    "id": "culture_0503",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel psychanalyste autrichien est le fondateur de la psychanalyse ?",
+      "en": "Which Austrian is the founder of psychoanalysis?",
+      "es": "¿Qué austriaco es el fundador del psicoanálisis?",
+      "pt": "Que austríaco é o fundador da psicanálise?"
+    },
+    "options": {
+      "fr": [
+        "Sigmund Freud",
+        "Carl Jung",
+        "Alfred Adler",
+        "Jacques Lacan"
+      ],
+      "en": [
+        "Sigmund Freud",
+        "Carl Jung",
+        "Alfred Adler",
+        "Jacques Lacan"
+      ],
+      "es": [
+        "Sigmund Freud",
+        "Carl Jung",
+        "Alfred Adler",
+        "Jacques Lacan"
+      ],
+      "pt": [
+        "Sigmund Freud",
+        "Carl Jung",
+        "Alfred Adler",
+        "Jacques Lacan"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Jung était suisse, Adler autrichien mais dissident, Lacan français.",
+      "en": "Jung was Swiss, Adler Austrian but a dissident, Lacan French.",
+      "es": "Jung era suizo, Adler austriaco pero disidente, y Lacan francés.",
+      "pt": "Jung era suíço, Adler austríaco mas dissidente, e Lacan francês."
+    }
+  },
+  {
+    "id": "culture_0504",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel gaz noble est utilisé dans les enseignes lumineuses rouges ?",
+      "en": "Which noble gas is used in red illuminated signs?",
+      "es": "¿Qué gas noble se usa en los letreros luminosos rojos?",
+      "pt": "Que gás nobre se usa nos letreiros luminosos vermelhos?"
+    },
+    "options": {
+      "fr": [
+        "Le néon",
+        "L'argon",
+        "Le krypton",
+        "Le xénon"
+      ],
+      "en": [
+        "Neon",
+        "Argon",
+        "Krypton",
+        "Xenon"
+      ],
+      "es": [
+        "El neón",
+        "El argón",
+        "El kriptón",
+        "El xenón"
+      ],
+      "pt": [
+        "O néon",
+        "O árgon",
+        "O crípton",
+        "O xénon"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les autres couleurs viennent d'autres gaz ou de revêtements fluorescents dans le tube.",
+      "en": "Other colours come from different gases or fluorescent coatings inside the tube.",
+      "es": "Los demás colores vienen de otros gases o de recubrimientos fluorescentes.",
+      "pt": "As outras cores vêm de outros gases ou de revestimentos fluorescentes."
+    }
+  },
+  {
+    "id": "culture_0505",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans quel pays la première greffe cardiaque réussie a-t-elle été réalisée, en 1967 ?",
+      "en": "In which country was the first successful heart transplant performed, in 1967?",
+      "es": "¿En qué país se hizo el primer trasplante de corazón exitoso, en 1967?",
+      "pt": "Em que país foi feito o primeiro transplante de coração bem-sucedido, em 1967?"
+    },
+    "options": {
+      "fr": [
+        "En Afrique du Sud",
+        "Aux États-Unis",
+        "En France",
+        "En URSS"
+      ],
+      "en": [
+        "South Africa",
+        "The United States",
+        "France",
+        "The USSR"
+      ],
+      "es": [
+        "En Sudáfrica",
+        "En Estados Unidos",
+        "En Francia",
+        "En la URSS"
+      ],
+      "pt": [
+        "Na África do Sul",
+        "Nos Estados Unidos",
+        "Em França",
+        "Na URSS"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le chirurgien Christiaan Barnard l'a réalisée au Cap ; le patient a survécu 18 jours.",
+      "en": "Surgeon Christiaan Barnard performed it in Cape Town; the patient survived 18 days.",
+      "es": "El cirujano Christiaan Barnard lo hizo en Ciudad del Cabo; el paciente vivió 18 días.",
+      "pt": "O cirurgião Christiaan Barnard fê-lo na Cidade do Cabo; o paciente viveu 18 dias."
+    }
+  },
+  {
+    "id": "culture_0506",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est la plus grande île de la mer Méditerranée ?",
+      "en": "Which is the largest island in the Mediterranean Sea?",
+      "es": "¿Cuál es la isla más grande del mar Mediterráneo?",
+      "pt": "Qual é a maior ilha do mar Mediterrâneo?"
+    },
+    "options": {
+      "fr": [
+        "La Sicile",
+        "La Sardaigne",
+        "Chypre",
+        "La Corse"
+      ],
+      "en": [
+        "Sicily",
+        "Sardinia",
+        "Cyprus",
+        "Corsica"
+      ],
+      "es": [
+        "Sicilia",
+        "Cerdeña",
+        "Chipre",
+        "Córcega"
+      ],
+      "pt": [
+        "A Sicília",
+        "A Sardenha",
+        "Chipre",
+        "A Córsega"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Environ 25 700 km², devant la Sardaigne puis Chypre.",
+      "en": "About 25,700 km², ahead of Sardinia and then Cyprus.",
+      "es": "Unos 25 700 km², por delante de Cerdeña y luego Chipre.",
+      "pt": "Cerca de 25 700 km², à frente da Sardenha e depois de Chipre."
+    }
+  },
+  {
+    "id": "culture_0507",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel événement de 1969 a marqué le début du mouvement moderne pour les droits LGBT ?",
+      "en": "Which 1969 event marked the start of the modern LGBT rights movement?",
+      "es": "¿Qué acontecimiento de 1969 marcó el inicio del movimiento moderno por los derechos LGBT?",
+      "pt": "Que acontecimento de 1969 marcou o início do movimento moderno pelos direitos LGBT?"
+    },
+    "options": {
+      "fr": [
+        "Les émeutes de Stonewall",
+        "La marche de Washington",
+        "Mai 68",
+        "Le Summer of Love"
+      ],
+      "en": [
+        "The Stonewall riots",
+        "The March on Washington",
+        "May 1968",
+        "The Summer of Love"
+      ],
+      "es": [
+        "Los disturbios de Stonewall",
+        "La marcha sobre Washington",
+        "Mayo del 68",
+        "El Verano del Amor"
+      ],
+      "pt": [
+        "Os motins de Stonewall",
+        "A marcha sobre Washington",
+        "Maio de 68",
+        "O Verão do Amor"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les marches des fiertés commémorent chaque année ces nuits de juin 1969 à New York.",
+      "en": "Pride marches commemorate those June 1969 nights in New York every year.",
+      "es": "Las marchas del Orgullo conmemoran cada año esas noches de junio de 1969 en Nueva York.",
+      "pt": "As marchas do Orgulho comemoram todos os anos essas noites de junho de 1969 em Nova Iorque."
+    }
+  },
+  {
+    "id": "culture_0508",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle plante produit les fibres du lin ?",
+      "en": "Which plant produces linen fibres?",
+      "es": "¿Qué planta produce las fibras del lino?",
+      "pt": "Que planta produz as fibras do linho?"
+    },
+    "options": {
+      "fr": [
+        "Le lin",
+        "Le coton",
+        "Le chanvre",
+        "Le jute"
+      ],
+      "en": [
+        "Flax",
+        "Cotton",
+        "Hemp",
+        "Jute"
+      ],
+      "es": [
+        "El lino",
+        "El algodón",
+        "El cáñamo",
+        "El yute"
+      ],
+      "pt": [
+        "O linho",
+        "O algodão",
+        "O cânhamo",
+        "A juta"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La France est le premier producteur mondial de lin textile, principalement en Normandie.",
+      "en": "France is the world's leading producer of textile flax, mainly in Normandy.",
+      "es": "Francia es el primer productor mundial de lino textil, sobre todo en Normandía.",
+      "pt": "A França é o primeiro produtor mundial de linho têxtil, sobretudo na Normandia."
+    }
+  },
+  {
+    "id": "culture_0509",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel scientifique britannique est à l'origine du modèle du trou noir et de « Une brève histoire du temps » ?",
+      "en": "Which British scientist wrote \"A Brief History of Time\"?",
+      "es": "¿Qué científico británico escribió «Breve historia del tiempo»?",
+      "pt": "Que cientista britânico escreveu «Uma Breve História do Tempo»?"
+    },
+    "options": {
+      "fr": [
+        "Stephen Hawking",
+        "Roger Penrose",
+        "Paul Dirac",
+        "James Clerk Maxwell"
+      ],
+      "en": [
+        "Stephen Hawking",
+        "Roger Penrose",
+        "Paul Dirac",
+        "James Clerk Maxwell"
+      ],
+      "es": [
+        "Stephen Hawking",
+        "Roger Penrose",
+        "Paul Dirac",
+        "James Clerk Maxwell"
+      ],
+      "pt": [
+        "Stephen Hawking",
+        "Roger Penrose",
+        "Paul Dirac",
+        "James Clerk Maxwell"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Roger Penrose, son collaborateur sur les trous noirs, a reçu le Nobel de physique en 2020.",
+      "en": "Roger Penrose, his collaborator on black holes, received the 2020 Nobel Prize in Physics.",
+      "es": "Roger Penrose, su colaborador en agujeros negros, recibió el Nobel de física en 2020.",
+      "pt": "Roger Penrose, seu colaborador nos buracos negros, recebeu o Nobel da física em 2020."
+    }
+  },
+  {
+    "id": "culture_0510",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle organisation militaire a été créée en 1949 pour la défense collective en Atlantique Nord ?",
+      "en": "Which military organisation was created in 1949 for collective North Atlantic defence?",
+      "es": "¿Qué organización militar se creó en 1949 para la defensa colectiva del Atlántico Norte?",
+      "pt": "Que organização militar foi criada em 1949 para a defesa coletiva do Atlântico Norte?"
+    },
+    "options": {
+      "fr": [
+        "L'OTAN",
+        "Le pacte de Varsovie",
+        "L'ONU",
+        "L'OSCE"
+      ],
+      "en": [
+        "NATO",
+        "The Warsaw Pact",
+        "The UN",
+        "The OSCE"
+      ],
+      "es": [
+        "La OTAN",
+        "El Pacto de Varsovia",
+        "La ONU",
+        "La OSCE"
+      ],
+      "pt": [
+        "A NATO",
+        "O Pacto de Varsóvia",
+        "A ONU",
+        "A OSCE"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le pacte de Varsovie a été créé en réponse, en 1955, par le bloc soviétique.",
+      "en": "The Warsaw Pact was created in response, in 1955, by the Soviet bloc.",
+      "es": "El Pacto de Varsovia se creó en respuesta, en 1955, por el bloque soviético.",
+      "pt": "O Pacto de Varsóvia foi criado em resposta, em 1955, pelo bloco soviético."
+    }
+  },
+  {
+    "id": "culture_0511",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le nom de la couche de l'atmosphère où volent les avions de ligne ?",
+      "en": "In which atmospheric layer do airliners cruise?",
+      "es": "¿En qué capa de la atmósfera vuelan los aviones de línea?",
+      "pt": "Em que camada da atmosfera voam os aviões de linha?"
+    },
+    "options": {
+      "fr": [
+        "La stratosphère",
+        "La troposphère",
+        "La mésosphère",
+        "La thermosphère"
+      ],
+      "en": [
+        "The stratosphere",
+        "The troposphere",
+        "The mesosphere",
+        "The thermosphere"
+      ],
+      "es": [
+        "La estratosfera",
+        "La troposfera",
+        "La mesosfera",
+        "La termosfera"
+      ],
+      "pt": [
+        "A estratosfera",
+        "A troposfera",
+        "A mesosfera",
+        "A termosfera"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ils volent à la limite basse de la stratosphère, au-dessus des nuages et des turbulences.",
+      "en": "They cruise at the lower edge of the stratosphere, above clouds and turbulence.",
+      "es": "Vuelan en el límite bajo de la estratosfera, sobre nubes y turbulencias.",
+      "pt": "Voam no limite inferior da estratosfera, acima das nuvens e da turbulência."
+    }
+  },
+  {
+    "id": "culture_0512",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le principal ingrédient du houmous ?",
+      "en": "What is the main ingredient of hummus?",
+      "es": "¿Cuál es el ingrediente principal del hummus?",
+      "pt": "Qual é o ingrediente principal do húmus?"
+    },
+    "options": {
+      "fr": [
+        "Le pois chiche",
+        "La lentille",
+        "Le haricot blanc",
+        "La fève"
+      ],
+      "en": [
+        "Chickpea",
+        "Lentil",
+        "White bean",
+        "Broad bean"
+      ],
+      "es": [
+        "El garbanzo",
+        "La lenteja",
+        "La alubia blanca",
+        "El haba"
+      ],
+      "pt": [
+        "O grão-de-bico",
+        "A lentilha",
+        "O feijão branco",
+        "A fava"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Houmous » signifie d'ailleurs « pois chiche » en arabe.",
+      "en": "\"Hummus\" actually means \"chickpea\" in Arabic.",
+      "es": "«Hummus» significa además «garbanzo» en árabe.",
+      "pt": "«Húmus» significa aliás «grão-de-bico» em árabe."
+    }
+  },
+  {
+    "id": "culture_0513",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le nom du plus long mur défensif du monde ?",
+      "en": "What is the world's longest defensive wall called?",
+      "es": "¿Cómo se llama el muro defensivo más largo del mundo?",
+      "pt": "Como se chama a muralha defensiva mais longa do mundo?"
+    },
+    "options": {
+      "fr": [
+        "La Grande Muraille de Chine",
+        "Le mur d'Hadrien",
+        "Le limes romain",
+        "Le mur de Berlin"
+      ],
+      "en": [
+        "The Great Wall of China",
+        "Hadrian's Wall",
+        "The Roman limes",
+        "The Berlin Wall"
+      ],
+      "es": [
+        "La Gran Muralla China",
+        "El muro de Adriano",
+        "El limes romano",
+        "El muro de Berlín"
+      ],
+      "pt": [
+        "A Grande Muralha da China",
+        "A muralha de Adriano",
+        "O limes romano",
+        "O muro de Berlim"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Contrairement à la légende, elle n'est pas visible à l'œil nu depuis l'espace.",
+      "en": "Contrary to legend, it is not visible to the naked eye from space.",
+      "es": "Al contrario de la leyenda, no es visible a simple vista desde el espacio.",
+      "pt": "Ao contrário da lenda, não é visível a olho nu do espaço."
+    }
+  },
+  {
+    "id": "culture_0514",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle unité mesure la quantité d'énergie contenue dans un aliment, dans l'usage courant ?",
+      "en": "Which unit is commonly used for the energy in food?",
+      "es": "¿Qué unidad se usa habitualmente para la energía de los alimentos?",
+      "pt": "Que unidade se usa habitualmente para a energia dos alimentos?"
+    },
+    "options": {
+      "fr": [
+        "La kilocalorie",
+        "Le newton",
+        "Le lumen",
+        "Le hertz"
+      ],
+      "en": [
+        "The kilocalorie",
+        "The newton",
+        "The lumen",
+        "The hertz"
+      ],
+      "es": [
+        "La kilocaloría",
+        "El newton",
+        "El lumen",
+        "El hercio"
+      ],
+      "pt": [
+        "A quilocaloria",
+        "O newton",
+        "O lúmen",
+        "O hertz"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ce qu'on appelle couramment « calorie » sur les emballages est en réalité une kilocalorie.",
+      "en": "What food labels casually call a \"calorie\" is in fact a kilocalorie.",
+      "es": "Lo que en los envases se llama «caloría» es en realidad una kilocaloría.",
+      "pt": "O que nas embalagens se chama «caloria» é na verdade uma quilocaloria."
+    }
+  },
+  {
+    "id": "culture_0515",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel animal détient le record du plus long trajet migratoire annuel ?",
+      "en": "Which animal holds the record for the longest annual migration?",
+      "es": "¿Qué animal tiene el récord de migración anual más larga?",
+      "pt": "Que animal detém o recorde da migração anual mais longa?"
+    },
+    "options": {
+      "fr": [
+        "La sterne arctique",
+        "La baleine grise",
+        "Le monarque",
+        "Le saumon"
+      ],
+      "en": [
+        "The Arctic tern",
+        "The grey whale",
+        "The monarch butterfly",
+        "The salmon"
+      ],
+      "es": [
+        "El charrán ártico",
+        "La ballena gris",
+        "La mariposa monarca",
+        "El salmón"
+      ],
+      "pt": [
+        "A andorinha-do-mar-ártica",
+        "A baleia-cinzenta",
+        "A borboleta-monarca",
+        "O salmão"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elle relie chaque année l'Arctique à l'Antarctique, soit plus de 70 000 km aller-retour.",
+      "en": "It flies from the Arctic to the Antarctic each year, over 70,000 km round trip.",
+      "es": "Va cada año del Ártico a la Antártida, más de 70 000 km ida y vuelta.",
+      "pt": "Vai todos os anos do Ártico à Antártida, mais de 70 000 km ida e volta."
+    }
+  },
+  {
+    "id": "culture_0516",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est la seule ville au monde située sur deux continents ?",
+      "en": "Which city straddles two continents?",
+      "es": "¿Qué ciudad se sitúa sobre dos continentes?",
+      "pt": "Que cidade se situa sobre dois continentes?"
+    },
+    "options": {
+      "fr": [
+        "Istanbul",
+        "Le Caire",
+        "Athènes",
+        "Bakou"
+      ],
+      "en": [
+        "Istanbul",
+        "Cairo",
+        "Athens",
+        "Baku"
+      ],
+      "es": [
+        "Estambul",
+        "El Cairo",
+        "Atenas",
+        "Bakú"
+      ],
+      "pt": [
+        "Istambul",
+        "O Cairo",
+        "Atenas",
+        "Baku"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le détroit du Bosphore y sépare la partie européenne de la partie asiatique.",
+      "en": "The Bosphorus strait separates its European and Asian sides.",
+      "es": "El estrecho del Bósforo separa su parte europea de la asiática.",
+      "pt": "O estreito do Bósforo separa a parte europeia da asiática."
+    }
+  },
+  {
+    "id": "culture_0517",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel écrivain français a écrit « À la recherche du temps perdu » ?",
+      "en": "Which French writer wrote \"In Search of Lost Time\"?",
+      "es": "¿Qué escritor francés escribió «En busca del tiempo perdido»?",
+      "pt": "Que escritor francês escreveu «Em Busca do Tempo Perdido»?"
+    },
+    "options": {
+      "fr": [
+        "Marcel Proust",
+        "André Gide",
+        "Louis Aragon",
+        "Paul Valéry"
+      ],
+      "en": [
+        "Marcel Proust",
+        "André Gide",
+        "Louis Aragon",
+        "Paul Valéry"
+      ],
+      "es": [
+        "Marcel Proust",
+        "André Gide",
+        "Louis Aragon",
+        "Paul Valéry"
+      ],
+      "pt": [
+        "Marcel Proust",
+        "André Gide",
+        "Louis Aragon",
+        "Paul Valéry"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'œuvre compte sept tomes et plus de 3 000 pages, dont la fameuse scène de la madeleine.",
+      "en": "The work runs to seven volumes and over 3,000 pages, including the famous madeleine scene.",
+      "es": "La obra tiene siete tomos y más de 3000 páginas, con la célebre escena de la magdalena.",
+      "pt": "A obra tem sete volumes e mais de 3000 páginas, incluindo a célebre cena da madalena."
+    }
   }
 ]

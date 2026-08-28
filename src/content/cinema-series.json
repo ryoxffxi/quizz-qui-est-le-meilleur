@@ -20494,5 +20494,1809 @@
       "es": "El plano-contraplano alterna en cambio dos puntos de vista en diálogo.",
       "pt": "O plano-contraplano alterna, pelo contrário, dois pontos de vista em diálogo."
     }
+  },
+  {
+    "id": "cinema_0472",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film de Spielberg de 1993, en noir et blanc, raconte le sauvetage de Juifs par un industriel allemand ?",
+      "en": "Which 1993 black-and-white Spielberg film tells of a German industrialist saving Jews?",
+      "es": "¿Qué película de Spielberg de 1993, en blanco y negro, narra el rescate de judíos por un industrial alemán?",
+      "pt": "Que filme de Spielberg de 1993, a preto e branco, narra o resgate de judeus por um industrial alemão?"
+    },
+    "options": {
+      "fr": [
+        "La Liste de Schindler",
+        "Il faut sauver le soldat Ryan",
+        "Munich",
+        "Le Pont des espions"
+      ],
+      "en": [
+        "Schindler's List",
+        "Saving Private Ryan",
+        "Munich",
+        "Bridge of Spies"
+      ],
+      "es": [
+        "La lista de Schindler",
+        "Salvar al soldado Ryan",
+        "Múnich",
+        "El puente de los espías"
+      ],
+      "pt": [
+        "A Lista de Schindler",
+        "O Resgate do Soldado Ryan",
+        "Munique",
+        "A Ponte dos Espiões"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Seule la petite fille au manteau rouge apparaît en couleur dans tout le film.",
+      "en": "Only the little girl in the red coat appears in colour in the whole film.",
+      "es": "Solo la niña del abrigo rojo aparece en color en toda la película.",
+      "pt": "Só a menina do casaco vermelho aparece a cores em todo o filme."
+    }
+  },
+  {
+    "id": "cinema_0473",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film de 1998 s'ouvre sur le débarquement d'Omaha Beach ?",
+      "en": "Which 1998 film opens with the Omaha Beach landing?",
+      "es": "¿Qué película de 1998 se abre con el desembarco de Omaha Beach?",
+      "pt": "Que filme de 1998 abre com o desembarque em Omaha Beach?"
+    },
+    "options": {
+      "fr": [
+        "Il faut sauver le soldat Ryan",
+        "La Ligne rouge",
+        "Dunkerque",
+        "Le Jour le plus long"
+      ],
+      "en": [
+        "Saving Private Ryan",
+        "The Thin Red Line",
+        "Dunkirk",
+        "The Longest Day"
+      ],
+      "es": [
+        "Salvar al soldado Ryan",
+        "La delgada línea roja",
+        "Dunkerque",
+        "El día más largo"
+      ],
+      "pt": [
+        "O Resgate do Soldado Ryan",
+        "A Barreira Invisível",
+        "Dunkirk",
+        "O Dia Mais Longo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La séquence de 25 minutes a durablement changé la façon de filmer la guerre.",
+      "en": "The 25-minute sequence permanently changed how war is filmed.",
+      "es": "La secuencia de 25 minutos cambió para siempre la forma de filmar la guerra.",
+      "pt": "A sequência de 25 minutos mudou para sempre a forma de filmar a guerra."
+    }
+  },
+  {
+    "id": "cinema_0474",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel groupe de rock est au cœur du biopic « Bohemian Rhapsody » ?",
+      "en": "Which rock band is at the heart of the biopic \"Bohemian Rhapsody\"?",
+      "es": "¿Qué banda de rock está en el centro del biopic «Bohemian Rhapsody»?",
+      "pt": "Que banda de rock está no centro do biopic «Bohemian Rhapsody»?"
+    },
+    "options": {
+      "fr": [
+        "Queen",
+        "The Rolling Stones",
+        "Led Zeppelin",
+        "Pink Floyd"
+      ],
+      "en": [
+        "Queen",
+        "The Rolling Stones",
+        "Led Zeppelin",
+        "Pink Floyd"
+      ],
+      "es": [
+        "Queen",
+        "The Rolling Stones",
+        "Led Zeppelin",
+        "Pink Floyd"
+      ],
+      "pt": [
+        "Queen",
+        "The Rolling Stones",
+        "Led Zeppelin",
+        "Pink Floyd"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Rami Malek a remporté l'Oscar du meilleur acteur pour son interprétation de Freddie Mercury.",
+      "en": "Rami Malek won the Best Actor Oscar for playing Freddie Mercury.",
+      "es": "Rami Malek ganó el Óscar al mejor actor por interpretar a Freddie Mercury.",
+      "pt": "Rami Malek ganhou o Óscar de melhor ator por interpretar Freddie Mercury."
+    }
+  },
+  {
+    "id": "cinema_0475",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série met en scène des survivants d'un crash sur une île mystérieuse ?",
+      "en": "Which series follows plane crash survivors on a mysterious island?",
+      "es": "¿Qué serie sigue a supervivientes de un accidente aéreo en una isla misteriosa?",
+      "pt": "Que série segue sobreviventes de um acidente de avião numa ilha misteriosa?"
+    },
+    "options": {
+      "fr": [
+        "Lost",
+        "The Leftovers",
+        "Manifest",
+        "From"
+      ],
+      "en": [
+        "Lost",
+        "The Leftovers",
+        "Manifest",
+        "From"
+      ],
+      "es": [
+        "Perdidos",
+        "The Leftovers",
+        "Manifest",
+        "From"
+      ],
+      "pt": [
+        "Lost",
+        "The Leftovers",
+        "Manifest",
+        "From"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Diffusée à partir de 2004, la série a popularisé le récit à mystères sur le long cours.",
+      "en": "Airing from 2004, the show popularised long-form mystery storytelling.",
+      "es": "Emitida desde 2004, popularizó el relato de misterio a largo plazo.",
+      "pt": "Transmitida desde 2004, popularizou a narrativa de mistério de longo curso."
+    }
+  },
+  {
+    "id": "cinema_0476",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans la série « 24 heures chrono », quelle est la particularité de chaque saison ?",
+      "en": "In \"24\", what is special about each season?",
+      "es": "En «24», ¿qué particularidad tiene cada temporada?",
+      "pt": "Em «24», que particularidade tem cada temporada?"
+    },
+    "options": {
+      "fr": [
+        "Elle raconte une seule journée en temps réel",
+        "Elle change d'acteurs",
+        "Elle dure un épisode",
+        "Elle se passe dans le futur"
+      ],
+      "en": [
+        "It covers a single day in real time",
+        "It changes cast",
+        "It lasts one episode",
+        "It is set in the future"
+      ],
+      "es": [
+        "Narra un solo día en tiempo real",
+        "Cambia de actores",
+        "Dura un episodio",
+        "Ocurre en el futuro"
+      ],
+      "pt": [
+        "Narra um único dia em tempo real",
+        "Muda de atores",
+        "Dura um episódio",
+        "Passa-se no futuro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Chaque épisode correspond à une heure, horloge à l'écran comprise.",
+      "en": "Each episode covers one hour, on-screen clock included.",
+      "es": "Cada episodio equivale a una hora, con reloj en pantalla incluido.",
+      "pt": "Cada episódio corresponde a uma hora, com relógio no ecrã incluído."
+    }
+  },
+  {
+    "id": "cinema_0477",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film français de 2014 met en scène un couple catholique dont les quatre filles épousent des hommes de confessions différentes ?",
+      "en": "Which 2014 French comedy features a Catholic couple whose four daughters marry men of different faiths?",
+      "es": "¿Qué comedia francesa de 2014 muestra a un matrimonio católico cuyas cuatro hijas se casan con hombres de distintas confesiones?",
+      "pt": "Que comédia francesa de 2014 mostra um casal católico cujas quatro filhas casam com homens de confissões diferentes?"
+    },
+    "options": {
+      "fr": [
+        "Qu'est-ce qu'on a fait au Bon Dieu ?",
+        "Le Prénom",
+        "La Vérité si je mens",
+        "Les Tuche"
+      ],
+      "en": [
+        "Serial (Bad) Weddings",
+        "What's in a Name?",
+        "Would I Lie to You?",
+        "The Tuche Family"
+      ],
+      "es": [
+        "Dios mío, ¿pero qué te hemos hecho?",
+        "El nombre",
+        "La verdad si miento",
+        "Los Tuche"
+      ],
+      "pt": [
+        "Que Mal Fiz Eu a Deus?",
+        "O Nome",
+        "A Verdade se Eu Mentir",
+        "Os Tuche"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film a dépassé 12 millions d'entrées en France.",
+      "en": "The film passed 12 million admissions in France.",
+      "es": "La película superó los 12 millones de espectadores en Francia.",
+      "pt": "O filme ultrapassou os 12 milhões de espectadores em França."
+    }
+  },
+  {
+    "id": "cinema_0478",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Mad Max: Fury Road », dans quel type de monde se déroule l'action ?",
+      "en": "In \"Mad Max: Fury Road\", what kind of world is the action set in?",
+      "es": "En «Mad Max: Furia en la carretera», ¿en qué tipo de mundo transcurre la acción?",
+      "pt": "Em «Mad Max: Estrada da Fúria», em que tipo de mundo decorre a ação?"
+    },
+    "options": {
+      "fr": [
+        "Un désert post-apocalyptique",
+        "Une station spatiale",
+        "Une ville souterraine",
+        "Une jungle"
+      ],
+      "en": [
+        "A post-apocalyptic desert",
+        "A space station",
+        "An underground city",
+        "A jungle"
+      ],
+      "es": [
+        "Un desierto postapocalíptico",
+        "Una estación espacial",
+        "Una ciudad subterránea",
+        "Una jungla"
+      ],
+      "pt": [
+        "Um deserto pós-apocalíptico",
+        "Uma estação espacial",
+        "Uma cidade subterrânea",
+        "Uma selva"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de George Miller a remporté six Oscars techniques en 2016.",
+      "en": "George Miller's film won six technical Oscars in 2016.",
+      "es": "La película de George Miller ganó seis Óscar técnicos en 2016.",
+      "pt": "O filme de George Miller ganhou seis Óscares técnicos em 2016."
+    }
+  },
+  {
+    "id": "cinema_0479",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel pays produit le plus grand nombre de films par an au monde ?",
+      "en": "Which country produces the most films per year in the world?",
+      "es": "¿Qué país produce más películas al año en el mundo?",
+      "pt": "Que país produz mais filmes por ano no mundo?"
+    },
+    "options": {
+      "fr": [
+        "L'Inde",
+        "Les États-Unis",
+        "La Chine",
+        "Le Nigeria"
+      ],
+      "en": [
+        "India",
+        "The United States",
+        "China",
+        "Nigeria"
+      ],
+      "es": [
+        "La India",
+        "Estados Unidos",
+        "China",
+        "Nigeria"
+      ],
+      "pt": [
+        "A Índia",
+        "Os Estados Unidos",
+        "A China",
+        "A Nigéria"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'Inde produit plus de 1 500 films par an, dans une vingtaine de langues.",
+      "en": "India produces over 1,500 films a year, in around twenty languages.",
+      "es": "India produce más de 1500 películas al año, en una veintena de idiomas.",
+      "pt": "A Índia produz mais de 1500 filmes por ano, em cerca de vinte línguas."
+    }
+  },
+  {
+    "id": "cinema_0480",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Comment appelle-t-on l'industrie cinématographique nigériane ?",
+      "en": "What is the Nigerian film industry called?",
+      "es": "¿Cómo se llama la industria cinematográfica nigeriana?",
+      "pt": "Como se chama a indústria cinematográfica nigeriana?"
+    },
+    "options": {
+      "fr": [
+        "Nollywood",
+        "Bollywood",
+        "Kollywood",
+        "Hollywood Africa"
+      ],
+      "en": [
+        "Nollywood",
+        "Bollywood",
+        "Kollywood",
+        "Hollywood Africa"
+      ],
+      "es": [
+        "Nollywood",
+        "Bollywood",
+        "Kollywood",
+        "Hollywood Africa"
+      ],
+      "pt": [
+        "Nollywood",
+        "Bollywood",
+        "Kollywood",
+        "Hollywood Africa"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est l'une des industries les plus prolifiques au monde en nombre de titres.",
+      "en": "It is one of the world's most prolific industries by number of titles.",
+      "es": "Es una de las industrias más prolíficas del mundo en número de títulos.",
+      "pt": "É uma das indústrias mais prolíficas do mundo em número de títulos."
+    }
+  },
+  {
+    "id": "cinema_0481",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film muet allemand de 1922 met en scène le vampire Comte Orlok ?",
+      "en": "Which 1922 German silent film features the vampire Count Orlok?",
+      "es": "¿Qué película muda alemana de 1922 presenta al vampiro conde Orlok?",
+      "pt": "Que filme mudo alemão de 1922 apresenta o vampiro conde Orlok?"
+    },
+    "options": {
+      "fr": [
+        "Nosferatu",
+        "Metropolis",
+        "Le Cabinet du docteur Caligari",
+        "M le maudit"
+      ],
+      "en": [
+        "Nosferatu",
+        "Metropolis",
+        "The Cabinet of Dr. Caligari",
+        "M"
+      ],
+      "es": [
+        "Nosferatu",
+        "Metrópolis",
+        "El gabinete del doctor Caligari",
+        "M, el vampiro de Düsseldorf"
+      ],
+      "pt": [
+        "Nosferatu",
+        "Metropolis",
+        "O Gabinete do Dr. Caligari",
+        "M"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Adaptation non autorisée de « Dracula », le film faillit être détruit par décision de justice.",
+      "en": "An unauthorised adaptation of \"Dracula\", the film was nearly destroyed by court order.",
+      "es": "Adaptación no autorizada de «Drácula», casi fue destruida por orden judicial.",
+      "pt": "Adaptação não autorizada de «Drácula», quase foi destruído por ordem judicial."
+    }
+  },
+  {
+    "id": "cinema_0482",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel réalisateur de la Nouvelle Vague a signé « Les Quatre Cents Coups » ?",
+      "en": "Which New Wave director made \"The 400 Blows\"?",
+      "es": "¿Qué director de la Nouvelle Vague firmó «Los cuatrocientos golpes»?",
+      "pt": "Que realizador da Nouvelle Vague assinou «Os 400 Golpes»?"
+    },
+    "options": {
+      "fr": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Claude Chabrol",
+        "Éric Rohmer"
+      ],
+      "en": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Claude Chabrol",
+        "Éric Rohmer"
+      ],
+      "es": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Claude Chabrol",
+        "Éric Rohmer"
+      ],
+      "pt": [
+        "François Truffaut",
+        "Jean-Luc Godard",
+        "Claude Chabrol",
+        "Éric Rohmer"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film, largement autobiographique, lui a valu le prix de la mise en scène à Cannes en 1959.",
+      "en": "The largely autobiographical film won him Best Director at Cannes in 1959.",
+      "es": "La película, muy autobiográfica, le dio el premio a la dirección en Cannes en 1959.",
+      "pt": "O filme, muito autobiográfico, deu-lhe o prémio de realização em Cannes em 1959."
+    }
+  },
+  {
+    "id": "cinema_0483",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel acteur américain est indissociable des westerns de John Ford ?",
+      "en": "Which American actor is inseparable from John Ford's westerns?",
+      "es": "¿Qué actor estadounidense es inseparable de los wésterns de John Ford?",
+      "pt": "Que ator americano é inseparável dos westerns de John Ford?"
+    },
+    "options": {
+      "fr": [
+        "John Wayne",
+        "Gary Cooper",
+        "Henry Fonda",
+        "James Stewart"
+      ],
+      "en": [
+        "John Wayne",
+        "Gary Cooper",
+        "Henry Fonda",
+        "James Stewart"
+      ],
+      "es": [
+        "John Wayne",
+        "Gary Cooper",
+        "Henry Fonda",
+        "James Stewart"
+      ],
+      "pt": [
+        "John Wayne",
+        "Gary Cooper",
+        "Henry Fonda",
+        "James Stewart"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Leur collaboration culmine avec « La Prisonnière du désert » en 1956.",
+      "en": "Their collaboration peaked with \"The Searchers\" in 1956.",
+      "es": "Su colaboración culmina con «Centauros del desierto» en 1956.",
+      "pt": "A colaboração culmina com «A Desaparecida» em 1956."
+    }
+  },
+  {
+    "id": "cinema_0484",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film de 2010 de Darren Aronofsky suit une danseuse du Lac des cygnes ?",
+      "en": "Which 2010 Darren Aronofsky film follows a Swan Lake dancer?",
+      "es": "¿Qué película de 2010 de Darren Aronofsky sigue a una bailarina de El lago de los cisnes?",
+      "pt": "Que filme de 2010 de Darren Aronofsky segue uma bailarina de O Lago dos Cisnes?"
+    },
+    "options": {
+      "fr": [
+        "Black Swan",
+        "Requiem for a Dream",
+        "The Wrestler",
+        "Mother!"
+      ],
+      "en": [
+        "Black Swan",
+        "Requiem for a Dream",
+        "The Wrestler",
+        "Mother!"
+      ],
+      "es": [
+        "Cisne negro",
+        "Réquiem por un sueño",
+        "El luchador",
+        "Madre!"
+      ],
+      "pt": [
+        "Cisne Negro",
+        "Réquiem para um Sonho",
+        "O Wrestler",
+        "Mãe!"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Natalie Portman a remporté l'Oscar de la meilleure actrice pour ce rôle.",
+      "en": "Natalie Portman won the Best Actress Oscar for the role.",
+      "es": "Natalie Portman ganó el Óscar a la mejor actriz por este papel.",
+      "pt": "Natalie Portman ganhou o Óscar de melhor atriz por este papel."
+    }
+  },
+  {
+    "id": "cinema_0485",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle société d'effets spéciaux a été fondée par George Lucas pour « Star Wars » ?",
+      "en": "Which visual effects company did George Lucas found for \"Star Wars\"?",
+      "es": "¿Qué empresa de efectos especiales fundó George Lucas para «Star Wars»?",
+      "pt": "Que empresa de efeitos especiais fundou George Lucas para «Star Wars»?"
+    },
+    "options": {
+      "fr": [
+        "Industrial Light & Magic",
+        "Weta Digital",
+        "Pixar",
+        "DNEG"
+      ],
+      "en": [
+        "Industrial Light & Magic",
+        "Weta Digital",
+        "Pixar",
+        "DNEG"
+      ],
+      "es": [
+        "Industrial Light & Magic",
+        "Weta Digital",
+        "Pixar",
+        "DNEG"
+      ],
+      "pt": [
+        "Industrial Light & Magic",
+        "Weta Digital",
+        "Pixar",
+        "DNEG"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Weta Digital est née en Nouvelle-Zélande pour « Le Seigneur des Anneaux ».",
+      "en": "Weta Digital was founded in New Zealand for \"The Lord of the Rings\".",
+      "es": "Weta Digital nació en Nueva Zelanda para «El Señor de los Anillos».",
+      "pt": "A Weta Digital nasceu na Nova Zelândia para «O Senhor dos Anéis»."
+    }
+  },
+  {
+    "id": "cinema_0486",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Matrix », que doit avaler Neo pour découvrir la réalité ?",
+      "en": "In \"The Matrix\", what must Neo swallow to see reality?",
+      "es": "En «Matrix», ¿qué debe tomar Neo para descubrir la realidad?",
+      "pt": "Em «Matrix», o que deve Neo tomar para descobrir a realidade?"
+    },
+    "options": {
+      "fr": [
+        "La pilule rouge",
+        "La pilule bleue",
+        "Un sérum",
+        "Une potion"
+      ],
+      "en": [
+        "The red pill",
+        "The blue pill",
+        "A serum",
+        "A potion"
+      ],
+      "es": [
+        "La pastilla roja",
+        "La pastilla azul",
+        "Un suero",
+        "Una poción"
+      ],
+      "pt": [
+        "O comprimido vermelho",
+        "O comprimido azul",
+        "Um soro",
+        "Uma poção"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La bleue lui aurait permis de se réveiller dans son lit, sans rien savoir.",
+      "en": "The blue one would have let him wake up in his bed, knowing nothing.",
+      "es": "La azul le habría permitido despertar en su cama, sin saber nada.",
+      "pt": "O azul tê-lo-ia deixado acordar na cama, sem saber nada."
+    }
+  },
+  {
+    "id": "cinema_0487",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film de 2001 est le premier de la trilogie du « Seigneur des Anneaux » ?",
+      "en": "Which 2001 film is the first in \"The Lord of the Rings\" trilogy?",
+      "es": "¿Qué película de 2001 es la primera de la trilogía de «El Señor de los Anillos»?",
+      "pt": "Que filme de 2001 é o primeiro da trilogia de «O Senhor dos Anéis»?"
+    },
+    "options": {
+      "fr": [
+        "La Communauté de l'Anneau",
+        "Les Deux Tours",
+        "Le Retour du Roi",
+        "Un voyage inattendu"
+      ],
+      "en": [
+        "The Fellowship of the Ring",
+        "The Two Towers",
+        "The Return of the King",
+        "An Unexpected Journey"
+      ],
+      "es": [
+        "La Comunidad del Anillo",
+        "Las dos torres",
+        "El retorno del rey",
+        "Un viaje inesperado"
+      ],
+      "pt": [
+        "A Irmandade do Anel",
+        "As Duas Torres",
+        "O Regresso do Rei",
+        "Uma Viagem Inesperada"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les trois films ont été tournés d'affilée, en une seule production de plus d'un an.",
+      "en": "The three films were shot back to back, in a single production of over a year.",
+      "es": "Las tres películas se rodaron seguidas, en una sola producción de más de un año.",
+      "pt": "Os três filmes foram rodados de seguida, numa só produção de mais de um ano."
+    }
+  },
+  {
+    "id": "cinema_0488",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle récompense américaine est remise par la presse étrangère de Hollywood ?",
+      "en": "Which American award is given by the Hollywood foreign press?",
+      "es": "¿Qué premio estadounidense concede la prensa extranjera de Hollywood?",
+      "pt": "Que prémio americano é atribuído pela imprensa estrangeira de Hollywood?"
+    },
+    "options": {
+      "fr": [
+        "Le Golden Globe",
+        "L'Oscar",
+        "Le BAFTA",
+        "Le SAG Award"
+      ],
+      "en": [
+        "The Golden Globe",
+        "The Oscar",
+        "The BAFTA",
+        "The SAG Award"
+      ],
+      "es": [
+        "El Globo de Oro",
+        "El Óscar",
+        "El BAFTA",
+        "El SAG Award"
+      ],
+      "pt": [
+        "O Globo de Ouro",
+        "O Óscar",
+        "O BAFTA",
+        "O SAG Award"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le BAFTA est britannique et le SAG Award est décerné par le syndicat des acteurs.",
+      "en": "The BAFTA is British and the SAG Award is given by the actors' union.",
+      "es": "El BAFTA es británico y el SAG Award lo concede el sindicato de actores.",
+      "pt": "O BAFTA é britânico e o SAG Award é atribuído pelo sindicato dos atores."
+    }
+  },
+  {
+    "id": "cinema_0489",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film d'animation japonais a remporté l'Oscar du meilleur film d'animation en 2003 ?",
+      "en": "Which Japanese animated film won the Best Animated Feature Oscar in 2003?",
+      "es": "¿Qué película de animación japonesa ganó el Óscar a la mejor animación en 2003?",
+      "pt": "Que filme de animação japonesa ganhou o Óscar de melhor animação em 2003?"
+    },
+    "options": {
+      "fr": [
+        "Le Voyage de Chihiro",
+        "Princesse Mononoké",
+        "Le Château ambulant",
+        "Le Garçon et le Héron"
+      ],
+      "en": [
+        "Spirited Away",
+        "Princess Mononoke",
+        "Howl's Moving Castle",
+        "The Boy and the Heron"
+      ],
+      "es": [
+        "El viaje de Chihiro",
+        "La princesa Mononoke",
+        "El castillo ambulante",
+        "El chico y la garza"
+      ],
+      "pt": [
+        "A Viagem de Chihiro",
+        "A Princesa Mononoke",
+        "O Castelo Andante",
+        "O Rapaz e a Garça"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Miyazaki n'était pas venu chercher sa statuette, en protestation contre la guerre en Irak.",
+      "en": "Miyazaki did not attend to collect the award, in protest against the Iraq war.",
+      "es": "Miyazaki no fue a recoger la estatuilla, en protesta por la guerra de Irak.",
+      "pt": "Miyazaki não foi buscar a estatueta, em protesto contra a guerra do Iraque."
+    }
+  },
+  {
+    "id": "cinema_0490",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Retour vers le futur », à quelle vitesse la voiture doit-elle rouler pour voyager dans le temps ?",
+      "en": "In \"Back to the Future\", what speed must the car reach to time travel?",
+      "es": "En «Regreso al futuro», ¿a qué velocidad debe ir el coche para viajar en el tiempo?",
+      "pt": "Em «Regresso ao Futuro», a que velocidade deve ir o carro para viajar no tempo?"
+    },
+    "options": {
+      "fr": [
+        "88 miles à l'heure",
+        "60 miles à l'heure",
+        "100 miles à l'heure",
+        "120 miles à l'heure"
+      ],
+      "en": [
+        "88 miles per hour",
+        "60 miles per hour",
+        "100 miles per hour",
+        "120 miles per hour"
+      ],
+      "es": [
+        "88 millas por hora",
+        "60 millas por hora",
+        "100 millas por hora",
+        "120 millas por hora"
+      ],
+      "pt": [
+        "88 milhas por hora",
+        "60 milhas por hora",
+        "100 milhas por hora",
+        "120 milhas por hora"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Soit environ 142 km/h : le chiffre a été choisi parce qu'il est facile à retenir à l'écran.",
+      "en": "About 142 km/h: the figure was chosen because it reads easily on screen.",
+      "es": "Unos 142 km/h: la cifra se eligió por ser fácil de recordar en pantalla.",
+      "pt": "Cerca de 142 km/h: o número foi escolhido por ser fácil de reter no ecrã."
+    }
+  },
+  {
+    "id": "cinema_0491",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel genre de cinéma, né dans les années 1940, se caractérise par ses ombres marquées et ses femmes fatales ?",
+      "en": "Which 1940s film genre is defined by hard shadows and femmes fatales?",
+      "es": "¿Qué género de cine, nacido en los cuarenta, se define por sombras marcadas y mujeres fatales?",
+      "pt": "Que género de cinema, nascido nos anos 40, se define por sombras marcadas e mulheres fatais?"
+    },
+    "options": {
+      "fr": [
+        "Le film noir",
+        "Le western",
+        "Le péplum",
+        "La screwball comedy"
+      ],
+      "en": [
+        "Film noir",
+        "The western",
+        "The sword-and-sandal film",
+        "Screwball comedy"
+      ],
+      "es": [
+        "El cine negro",
+        "El wéstern",
+        "El peplum",
+        "La screwball comedy"
+      ],
+      "pt": [
+        "O film noir",
+        "O western",
+        "O péplum",
+        "A screwball comedy"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le terme a été forgé par des critiques français découvrant ces films après la guerre.",
+      "en": "The term was coined by French critics discovering these films after the war.",
+      "es": "El término lo acuñaron críticos franceses al descubrir estas películas tras la guerra.",
+      "pt": "O termo foi cunhado por críticos franceses ao descobrir estes filmes após a guerra."
+    }
+  },
+  {
+    "id": "cinema_0492",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel acteur détient le record de trois Oscars du meilleur acteur ?",
+      "en": "Which actor holds the record of three Best Actor Oscars?",
+      "es": "¿Qué actor tiene el récord de tres Óscar al mejor actor?",
+      "pt": "Que ator detém o recorde de três Óscares de melhor ator?"
+    },
+    "options": {
+      "fr": [
+        "Daniel Day-Lewis",
+        "Jack Nicholson",
+        "Marlon Brando",
+        "Tom Hanks"
+      ],
+      "en": [
+        "Daniel Day-Lewis",
+        "Jack Nicholson",
+        "Marlon Brando",
+        "Tom Hanks"
+      ],
+      "es": [
+        "Daniel Day-Lewis",
+        "Jack Nicholson",
+        "Marlon Brando",
+        "Tom Hanks"
+      ],
+      "pt": [
+        "Daniel Day-Lewis",
+        "Jack Nicholson",
+        "Marlon Brando",
+        "Tom Hanks"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Pour « My Left Foot », « There Will Be Blood » et « Lincoln ».",
+      "en": "For \"My Left Foot\", \"There Will Be Blood\" and \"Lincoln\".",
+      "es": "Por «Mi pie izquierdo», «Pozos de ambición» y «Lincoln».",
+      "pt": "Por «O Meu Pé Esquerdo», «Haverá Sangue» e «Lincoln»."
+    }
+  },
+  {
+    "id": "cinema_0493",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur suédois a filmé une partie d'échecs contre la Mort dans « Le Septième Sceau » ?",
+      "en": "Which Swedish director filmed a chess game against Death in \"The Seventh Seal\"?",
+      "es": "¿Qué director sueco filmó una partida de ajedrez contra la Muerte en «El séptimo sello»?",
+      "pt": "Que realizador sueco filmou uma partida de xadrez contra a Morte em «O Sétimo Selo»?"
+    },
+    "options": {
+      "fr": [
+        "Ingmar Bergman",
+        "Roy Andersson",
+        "Ruben Östlund",
+        "Lasse Hallström"
+      ],
+      "en": [
+        "Ingmar Bergman",
+        "Roy Andersson",
+        "Ruben Östlund",
+        "Lasse Hallström"
+      ],
+      "es": [
+        "Ingmar Bergman",
+        "Roy Andersson",
+        "Ruben Östlund",
+        "Lasse Hallström"
+      ],
+      "pt": [
+        "Ingmar Bergman",
+        "Roy Andersson",
+        "Ruben Östlund",
+        "Lasse Hallström"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'image du chevalier jouant contre la Mort est l'une des plus parodiées du cinéma.",
+      "en": "The knight playing chess with Death is one of cinema's most parodied images.",
+      "es": "El caballero jugando al ajedrez con la Muerte es de las imágenes más parodiadas.",
+      "pt": "O cavaleiro a jogar xadrez com a Morte é das imagens mais parodiadas do cinema."
+    }
+  },
+  {
+    "id": "cinema_0494",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur polonais a signé la trilogie « Trois Couleurs : Bleu, Blanc, Rouge » ?",
+      "en": "Which Polish director made the \"Three Colours: Blue, White, Red\" trilogy?",
+      "es": "¿Qué director polaco firmó la trilogía «Tres colores: Azul, Blanco, Rojo»?",
+      "pt": "Que realizador polaco assinou a trilogia «Três Cores: Azul, Branco, Vermelho»?"
+    },
+    "options": {
+      "fr": [
+        "Krzysztof Kieślowski",
+        "Andrzej Wajda",
+        "Roman Polanski",
+        "Paweł Pawlikowski"
+      ],
+      "en": [
+        "Krzysztof Kieślowski",
+        "Andrzej Wajda",
+        "Roman Polanski",
+        "Paweł Pawlikowski"
+      ],
+      "es": [
+        "Krzysztof Kieślowski",
+        "Andrzej Wajda",
+        "Roman Polanski",
+        "Paweł Pawlikowski"
+      ],
+      "pt": [
+        "Krzysztof Kieślowski",
+        "Andrzej Wajda",
+        "Roman Polanski",
+        "Paweł Pawlikowski"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les trois couleurs renvoient au drapeau français et à sa devise républicaine.",
+      "en": "The three colours refer to the French flag and its republican motto.",
+      "es": "Los tres colores remiten a la bandera francesa y a su lema republicano.",
+      "pt": "As três cores remetem para a bandeira francesa e o seu lema republicano."
+    }
+  },
+  {
+    "id": "cinema_0495",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel court métrage surréaliste de 1929 a été coécrit par Luis Buñuel et Salvador Dalí ?",
+      "en": "Which 1929 surrealist short was co-written by Luis Buñuel and Salvador Dalí?",
+      "es": "¿Qué cortometraje surrealista de 1929 coescribieron Luis Buñuel y Salvador Dalí?",
+      "pt": "Que curta-metragem surrealista de 1929 foi coescrita por Luis Buñuel e Salvador Dalí?"
+    },
+    "options": {
+      "fr": [
+        "Un chien andalou",
+        "L'Âge d'or",
+        "Le Sang d'un poète",
+        "Entr'acte"
+      ],
+      "en": [
+        "Un Chien Andalou",
+        "L'Âge d'Or",
+        "The Blood of a Poet",
+        "Entr'acte"
+      ],
+      "es": [
+        "Un perro andaluz",
+        "La edad de oro",
+        "La sangre de un poeta",
+        "Entreacto"
+      ],
+      "pt": [
+        "Um Cão Andaluz",
+        "A Idade do Ouro",
+        "O Sangue de um Poeta",
+        "Entreacto"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sa première image, un œil tranché au rasoir, reste l'une des plus choquantes du cinéma.",
+      "en": "Its opening image, an eye sliced by a razor, remains one of cinema's most shocking.",
+      "es": "Su primera imagen, un ojo cortado con una navaja, sigue siendo de las más impactantes.",
+      "pt": "A primeira imagem, um olho cortado por uma navalha, continua das mais chocantes."
+    }
+  },
+  {
+    "id": "cinema_0496",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de Terrence Malick a remporté la Palme d'or en 2011 ?",
+      "en": "Which Terrence Malick film won the 2011 Palme d'Or?",
+      "es": "¿Qué película de Terrence Malick ganó la Palma de Oro en 2011?",
+      "pt": "Que filme de Terrence Malick ganhou a Palma de Ouro em 2011?"
+    },
+    "options": {
+      "fr": [
+        "The Tree of Life",
+        "La Ligne rouge",
+        "Les Moissons du ciel",
+        "À la merveille"
+      ],
+      "en": [
+        "The Tree of Life",
+        "The Thin Red Line",
+        "Days of Heaven",
+        "To the Wonder"
+      ],
+      "es": [
+        "El árbol de la vida",
+        "La delgada línea roja",
+        "Días del cielo",
+        "To the Wonder"
+      ],
+      "pt": [
+        "A Árvore da Vida",
+        "A Barreira Invisível",
+        "Dias do Paraíso",
+        "Do Assombro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film alterne une histoire familiale au Texas et une longue séquence sur la naissance du cosmos.",
+      "en": "The film alternates a Texas family story with a long sequence on the birth of the cosmos.",
+      "es": "La película alterna una historia familiar en Texas con una larga secuencia sobre el cosmos.",
+      "pt": "O filme alterna uma história familiar no Texas com uma longa sequência sobre o cosmos."
+    }
+  },
+  {
+    "id": "cinema_0497",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur québécois a reçu le prix du jury à Cannes en 2014 pour « Mommy » ?",
+      "en": "Which Quebec director won the 2014 Cannes Jury Prize for \"Mommy\"?",
+      "es": "¿Qué director quebequés ganó el premio del jurado en Cannes 2014 por «Mommy»?",
+      "pt": "Que realizador quebequense ganhou o prémio do júri em Cannes 2014 por «Mommy»?"
+    },
+    "options": {
+      "fr": [
+        "Xavier Dolan",
+        "Denis Villeneuve",
+        "Jean-Marc Vallée",
+        "Philippe Falardeau"
+      ],
+      "en": [
+        "Xavier Dolan",
+        "Denis Villeneuve",
+        "Jean-Marc Vallée",
+        "Philippe Falardeau"
+      ],
+      "es": [
+        "Xavier Dolan",
+        "Denis Villeneuve",
+        "Jean-Marc Vallée",
+        "Philippe Falardeau"
+      ],
+      "pt": [
+        "Xavier Dolan",
+        "Denis Villeneuve",
+        "Jean-Marc Vallée",
+        "Philippe Falardeau"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film est tourné dans un format carré qui s'ouvre à un moment clé du récit.",
+      "en": "The film is shot in a square format that opens up at a key moment.",
+      "es": "La película se rueda en formato cuadrado que se abre en un momento clave.",
+      "pt": "O filme é rodado em formato quadrado que se abre num momento-chave."
+    }
+  },
+  {
+    "id": "cinema_0498",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de Paul Thomas Anderson met en scène un prospecteur de pétrole incarné par Daniel Day-Lewis ?",
+      "en": "Which Paul Thomas Anderson film features an oil prospector played by Daniel Day-Lewis?",
+      "es": "¿Qué película de Paul Thomas Anderson muestra a un buscador de petróleo interpretado por Daniel Day-Lewis?",
+      "pt": "Que filme de Paul Thomas Anderson mostra um prospetor de petróleo interpretado por Daniel Day-Lewis?"
+    },
+    "options": {
+      "fr": [
+        "There Will Be Blood",
+        "Magnolia",
+        "Boogie Nights",
+        "Phantom Thread"
+      ],
+      "en": [
+        "There Will Be Blood",
+        "Magnolia",
+        "Boogie Nights",
+        "Phantom Thread"
+      ],
+      "es": [
+        "Pozos de ambición",
+        "Magnolia",
+        "Boogie Nights",
+        "El hilo invisible"
+      ],
+      "pt": [
+        "Haverá Sangue",
+        "Magnólia",
+        "Boogie Nights",
+        "Linha Fantasma"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La partition d'ouverture, signée Jonny Greenwood de Radiohead, est devenue culte.",
+      "en": "The opening score, by Radiohead's Jonny Greenwood, became a cult favourite.",
+      "es": "La partitura inicial, de Jonny Greenwood de Radiohead, se volvió de culto.",
+      "pt": "A partitura inicial, de Jonny Greenwood dos Radiohead, tornou-se de culto."
+    }
+  },
+  {
+    "id": "cinema_0499",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel code moral a encadré la production hollywoodienne de 1934 à la fin des années 1960 ?",
+      "en": "Which moral code governed Hollywood production from 1934 to the late 1960s?",
+      "es": "¿Qué código moral rigió la producción de Hollywood de 1934 a finales de los sesenta?",
+      "pt": "Que código moral regeu a produção de Hollywood de 1934 ao final dos anos 60?"
+    },
+    "options": {
+      "fr": [
+        "Le code Hays",
+        "Le code Sherman",
+        "Le code Warner",
+        "Le code Selznick"
+      ],
+      "en": [
+        "The Hays Code",
+        "The Sherman Code",
+        "The Warner Code",
+        "The Selznick Code"
+      ],
+      "es": [
+        "El código Hays",
+        "El código Sherman",
+        "El código Warner",
+        "El código Selznick"
+      ],
+      "pt": [
+        "O código Hays",
+        "O código Sherman",
+        "O código Warner",
+        "O código Selznick"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il interdisait notamment de montrer un couple partageant un lit sans un pied au sol.",
+      "en": "It notably banned showing a couple sharing a bed without a foot on the floor.",
+      "es": "Prohibía, por ejemplo, mostrar a una pareja en la cama sin un pie en el suelo.",
+      "pt": "Proibia, por exemplo, mostrar um casal na cama sem um pé no chão."
+    }
+  },
+  {
+    "id": "cinema_0500",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle actrice a remporté l'Oscar pour « Nomadland » en 2021 ?",
+      "en": "Which actress won an Oscar for \"Nomadland\" in 2021?",
+      "es": "¿Qué actriz ganó el Óscar por «Nomadland» en 2021?",
+      "pt": "Que atriz ganhou o Óscar por «Nomadland» em 2021?"
+    },
+    "options": {
+      "fr": [
+        "Frances McDormand",
+        "Carey Mulligan",
+        "Viola Davis",
+        "Vanessa Kirby"
+      ],
+      "en": [
+        "Frances McDormand",
+        "Carey Mulligan",
+        "Viola Davis",
+        "Vanessa Kirby"
+      ],
+      "es": [
+        "Frances McDormand",
+        "Carey Mulligan",
+        "Viola Davis",
+        "Vanessa Kirby"
+      ],
+      "pt": [
+        "Frances McDormand",
+        "Carey Mulligan",
+        "Viola Davis",
+        "Vanessa Kirby"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'était son troisième Oscar d'interprétation, après « Fargo » et « 3 Billboards ».",
+      "en": "It was her third acting Oscar, after \"Fargo\" and \"Three Billboards\".",
+      "es": "Era su tercer Óscar de interpretación, tras «Fargo» y «Tres anuncios».",
+      "pt": "Era o seu terceiro Óscar de representação, depois de «Fargo» e «Três Cartazes»."
+    }
+  },
+  {
+    "id": "cinema_0501",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de Christopher Nolan se déroule pendant l'évacuation d'une plage française en 1940 ?",
+      "en": "Which Christopher Nolan film takes place during a 1940 French beach evacuation?",
+      "es": "¿Qué película de Christopher Nolan transcurre durante la evacuación de una playa francesa en 1940?",
+      "pt": "Que filme de Christopher Nolan decorre durante a evacuação de uma praia francesa em 1940?"
+    },
+    "options": {
+      "fr": [
+        "Dunkerque",
+        "Tenet",
+        "Le Prestige",
+        "Insomnia"
+      ],
+      "en": [
+        "Dunkirk",
+        "Tenet",
+        "The Prestige",
+        "Insomnia"
+      ],
+      "es": [
+        "Dunkerque",
+        "Tenet",
+        "El truco final",
+        "Insomnio"
+      ],
+      "pt": [
+        "Dunkirk",
+        "Tenet",
+        "O Último Truque",
+        "Insónia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film entrelace trois durées différentes : une semaine, une journée et une heure.",
+      "en": "The film interweaves three timeframes: a week, a day and an hour.",
+      "es": "La película entrelaza tres duraciones: una semana, un día y una hora.",
+      "pt": "O filme entrelaça três durações: uma semana, um dia e uma hora."
+    }
+  },
+  {
+    "id": "cinema_0502",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 1939 en Technicolor bascule du sépia à la couleur en pleine séquence ?",
+      "en": "Which 1939 Technicolor film shifts from sepia to colour mid-scene?",
+      "es": "¿Qué película de 1939 en Technicolor pasa del sepia al color en plena secuencia?",
+      "pt": "Que filme de 1939 em Technicolor passa do sépia à cor em plena sequência?"
+    },
+    "options": {
+      "fr": [
+        "Le Magicien d'Oz",
+        "Autant en emporte le vent",
+        "Blanche-Neige",
+        "La Chevauchée fantastique"
+      ],
+      "en": [
+        "The Wizard of Oz",
+        "Gone with the Wind",
+        "Snow White",
+        "Stagecoach"
+      ],
+      "es": [
+        "El mago de Oz",
+        "Lo que el viento se llevó",
+        "Blancanieves",
+        "La diligencia"
+      ],
+      "pt": [
+        "O Feiticeiro de Oz",
+        "E Tudo o Vento Levou",
+        "Branca de Neve",
+        "A Cavalgada Heroica"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le passage marque l'arrivée de Dorothy au pays d'Oz, après le Kansas en sépia.",
+      "en": "The shift marks Dorothy's arrival in Oz, after sepia-toned Kansas.",
+      "es": "El cambio marca la llegada de Dorothy a Oz, tras el Kansas en sepia.",
+      "pt": "A mudança marca a chegada de Dorothy a Oz, após o Kansas em sépia."
+    }
+  },
+  {
+    "id": "cinema_0503",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 1963 de Federico Fellini suit un cinéaste en panne d'inspiration ?",
+      "en": "Which 1963 Fellini film follows a director suffering creative block?",
+      "es": "¿Qué película de 1963 de Fellini sigue a un cineasta sin inspiración?",
+      "pt": "Que filme de 1963 de Fellini segue um cineasta sem inspiração?"
+    },
+    "options": {
+      "fr": [
+        "Huit et demi",
+        "La Dolce Vita",
+        "Amarcord",
+        "La Strada"
+      ],
+      "en": [
+        "8½",
+        "La Dolce Vita",
+        "Amarcord",
+        "La Strada"
+      ],
+      "es": [
+        "Ocho y medio",
+        "La dolce vita",
+        "Amarcord",
+        "La strada"
+      ],
+      "pt": [
+        "Oito e Meio",
+        "A Doce Vida",
+        "Amarcord",
+        "A Estrada"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le titre renvoie au nombre de films que Fellini avait alors réalisés.",
+      "en": "The title refers to the number of films Fellini had made by then.",
+      "es": "El título alude al número de películas que Fellini había hecho hasta entonces.",
+      "pt": "O título alude ao número de filmes que Fellini tinha feito até então."
+    }
+  },
+  {
+    "id": "cinema_0504",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle mini-série de 2020 sur Netflix suit une joueuse d'échecs prodige ?",
+      "en": "Which 2020 Netflix miniseries follows a chess prodigy?",
+      "es": "¿Qué miniserie de Netflix de 2020 sigue a una prodigio del ajedrez?",
+      "pt": "Que minissérie da Netflix de 2020 segue uma prodígio do xadrez?"
+    },
+    "options": {
+      "fr": [
+        "Le Jeu de la dame",
+        "Unorthodox",
+        "Hollywood",
+        "Self Made"
+      ],
+      "en": [
+        "The Queen's Gambit",
+        "Unorthodox",
+        "Hollywood",
+        "Self Made"
+      ],
+      "es": [
+        "Gambito de dama",
+        "Unorthodox",
+        "Hollywood",
+        "Madam C. J. Walker"
+      ],
+      "pt": [
+        "Gambito de Dama",
+        "Unorthodox",
+        "Hollywood",
+        "Self Made"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série a fait exploser les ventes de jeux d'échecs dans le monde entier.",
+      "en": "The series sent chess set sales soaring worldwide.",
+      "es": "La serie disparó las ventas de juegos de ajedrez en todo el mundo.",
+      "pt": "A série disparou as vendas de jogos de xadrez em todo o mundo."
+    }
+  },
+  {
+    "id": "cinema_0505",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur a signé « Le Parrain » et « Apocalypse Now » ?",
+      "en": "Which director made \"The Godfather\" and \"Apocalypse Now\"?",
+      "es": "¿Qué director firmó «El Padrino» y «Apocalypse Now»?",
+      "pt": "Que realizador assinou «O Padrinho» e «Apocalypse Now»?"
+    },
+    "options": {
+      "fr": [
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "Michael Cimino",
+        "William Friedkin"
+      ],
+      "en": [
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "Michael Cimino",
+        "William Friedkin"
+      ],
+      "es": [
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "Michael Cimino",
+        "William Friedkin"
+      ],
+      "pt": [
+        "Francis Ford Coppola",
+        "Martin Scorsese",
+        "Michael Cimino",
+        "William Friedkin"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il fait partie du « Nouvel Hollywood », génération qui a repris le pouvoir aux studios.",
+      "en": "He belongs to \"New Hollywood\", the generation that took power back from the studios.",
+      "es": "Pertenece al «Nuevo Hollywood», generación que arrebató el poder a los estudios.",
+      "pt": "Pertence à «Nova Hollywood», geração que retirou o poder aos estúdios."
+    }
+  },
+  {
+    "id": "cinema_0506",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 2019 de Bong Joon-ho a remporté quatre Oscars dont celui du meilleur film ?",
+      "en": "Which 2019 Bong Joon-ho film won four Oscars including Best Picture?",
+      "es": "¿Qué película de 2019 de Bong Joon-ho ganó cuatro Óscar, incluido el de mejor película?",
+      "pt": "Que filme de 2019 de Bong Joon-ho ganhou quatro Óscares, incluindo o de melhor filme?"
+    },
+    "options": {
+      "fr": [
+        "Parasite",
+        "Memories of Murder",
+        "The Host",
+        "Okja"
+      ],
+      "en": [
+        "Parasite",
+        "Memories of Murder",
+        "The Host",
+        "Okja"
+      ],
+      "es": [
+        "Parásitos",
+        "Memories of Murder",
+        "The Host",
+        "Okja"
+      ],
+      "pt": [
+        "Parasitas",
+        "Memórias de um Assassino",
+        "The Host",
+        "Okja"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est le premier film non anglophone à recevoir l'Oscar du meilleur film.",
+      "en": "It is the first non-English-language film to win Best Picture.",
+      "es": "Es la primera película no anglófona en ganar el Óscar a la mejor película.",
+      "pt": "É o primeiro filme não anglófono a ganhar o Óscar de melhor filme."
+    }
+  },
+  {
+    "id": "cinema_0507",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film muet soviétique de 1925 contient la célèbre scène de l'escalier d'Odessa ?",
+      "en": "Which 1925 Soviet silent film contains the famous Odessa Steps scene?",
+      "es": "¿Qué película muda soviética de 1925 contiene la célebre escena de la escalera de Odesa?",
+      "pt": "Que filme mudo soviético de 1925 contém a célebre cena da escadaria de Odessa?"
+    },
+    "options": {
+      "fr": [
+        "Le Cuirassé Potemkine",
+        "Octobre",
+        "L'Homme à la caméra",
+        "La Grève"
+      ],
+      "en": [
+        "Battleship Potemkin",
+        "October",
+        "Man with a Movie Camera",
+        "Strike"
+      ],
+      "es": [
+        "El acorazado Potemkin",
+        "Octubre",
+        "El hombre de la cámara",
+        "La huelga"
+      ],
+      "pt": [
+        "O Couraçado Potemkine",
+        "Outubro",
+        "O Homem da Câmara de Filmar",
+        "A Greve"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le landau dévalant les marches a été cité et parodié pendant tout le XXe siècle.",
+      "en": "The pram tumbling down the steps was quoted and parodied throughout the 20th century.",
+      "es": "El cochecito bajando las escaleras fue citado y parodiado todo el siglo XX.",
+      "pt": "O carrinho a descer as escadas foi citado e parodiado durante todo o século XX."
+    }
+  },
+  {
+    "id": "cinema_0508",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel duo de réalisateurs a signé « Matrix » ?",
+      "en": "Which directing duo made \"The Matrix\"?",
+      "es": "¿Qué dúo de directores firmó «Matrix»?",
+      "pt": "Que dupla de realizadores assinou «Matrix»?"
+    },
+    "options": {
+      "fr": [
+        "Les sœurs Wachowski",
+        "Les frères Coen",
+        "Les frères Russo",
+        "Les frères Safdie"
+      ],
+      "en": [
+        "The Wachowskis",
+        "The Coen brothers",
+        "The Russo brothers",
+        "The Safdie brothers"
+      ],
+      "es": [
+        "Las hermanas Wachowski",
+        "Los hermanos Coen",
+        "Los hermanos Russo",
+        "Los hermanos Safdie"
+      ],
+      "pt": [
+        "As irmãs Wachowski",
+        "Os irmãos Coen",
+        "Os irmãos Russo",
+        "Os irmãos Safdie"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les frères Russo ont, eux, réalisé « Avengers: Infinity War » et « Endgame ».",
+      "en": "The Russo brothers instead directed \"Avengers: Infinity War\" and \"Endgame\".",
+      "es": "Los hermanos Russo dirigieron «Vengadores: Infinity War» y «Endgame».",
+      "pt": "Os irmãos Russo realizaram «Vingadores: Guerra do Infinito» e «Endgame»."
+    }
+  },
+  {
+    "id": "cinema_0509",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle actrice a joué Ellen Ripley dans la saga « Alien » ?",
+      "en": "Which actress played Ellen Ripley in the \"Alien\" saga?",
+      "es": "¿Qué actriz interpretó a Ellen Ripley en la saga «Alien»?",
+      "pt": "Que atriz interpretou Ellen Ripley na saga «Alien»?"
+    },
+    "options": {
+      "fr": [
+        "Sigourney Weaver",
+        "Linda Hamilton",
+        "Jamie Lee Curtis",
+        "Carrie Fisher"
+      ],
+      "en": [
+        "Sigourney Weaver",
+        "Linda Hamilton",
+        "Jamie Lee Curtis",
+        "Carrie Fisher"
+      ],
+      "es": [
+        "Sigourney Weaver",
+        "Linda Hamilton",
+        "Jamie Lee Curtis",
+        "Carrie Fisher"
+      ],
+      "pt": [
+        "Sigourney Weaver",
+        "Linda Hamilton",
+        "Jamie Lee Curtis",
+        "Carrie Fisher"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le rôle avait été écrit pour un homme avant d'être confié à une actrice.",
+      "en": "The role had been written for a man before being given to an actress.",
+      "es": "El papel se escribió para un hombre antes de asignarse a una actriz.",
+      "pt": "O papel foi escrito para um homem antes de ser dado a uma atriz."
+    }
+  },
+  {
+    "id": "cinema_0510",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de Jonathan Demme a remporté les cinq Oscars majeurs en 1992 ?",
+      "en": "Which Jonathan Demme film swept the five major Oscars in 1992?",
+      "es": "¿Qué película de Jonathan Demme ganó los cinco Óscar principales en 1992?",
+      "pt": "Que filme de Jonathan Demme ganhou os cinco Óscares principais em 1992?"
+    },
+    "options": {
+      "fr": [
+        "Le Silence des agneaux",
+        "Philadelphia",
+        "Rain Man",
+        "Ordinary People"
+      ],
+      "en": [
+        "The Silence of the Lambs",
+        "Philadelphia",
+        "Rain Man",
+        "Ordinary People"
+      ],
+      "es": [
+        "El silencio de los corderos",
+        "Philadelphia",
+        "Rain Man",
+        "Gente corriente"
+      ],
+      "pt": [
+        "O Silêncio dos Inocentes",
+        "Philadelphia",
+        "Rain Man",
+        "Gente Vulgar"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Film, réalisateur, acteur, actrice et scénario adapté : trois films seulement ont réussi ce grand chelem.",
+      "en": "Picture, director, actor, actress and adapted screenplay: only three films have swept all five.",
+      "es": "Película, dirección, actor, actriz y guion adaptado: solo tres filmes lo han logrado.",
+      "pt": "Filme, realização, ator, atriz e argumento adaptado: só três filmes o conseguiram."
+    }
+  },
+  {
+    "id": "cinema_0511",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle actrice britannique incarne la reine Elizabeth II dans les premières saisons de « The Crown » ?",
+      "en": "Which British actress plays Queen Elizabeth II in the first seasons of \"The Crown\"?",
+      "es": "¿Qué actriz británica interpreta a Isabel II en las primeras temporadas de «The Crown»?",
+      "pt": "Que atriz britânica interpreta Isabel II nas primeiras temporadas de «The Crown»?"
+    },
+    "options": {
+      "fr": [
+        "Claire Foy",
+        "Olivia Colman",
+        "Imelda Staunton",
+        "Helen Mirren"
+      ],
+      "en": [
+        "Claire Foy",
+        "Olivia Colman",
+        "Imelda Staunton",
+        "Helen Mirren"
+      ],
+      "es": [
+        "Claire Foy",
+        "Olivia Colman",
+        "Imelda Staunton",
+        "Helen Mirren"
+      ],
+      "pt": [
+        "Claire Foy",
+        "Olivia Colman",
+        "Imelda Staunton",
+        "Helen Mirren"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le rôle change d'actrice toutes les deux saisons pour suivre le vieillissement du personnage.",
+      "en": "The role changes actress every two seasons to follow the character's ageing.",
+      "es": "El papel cambia de actriz cada dos temporadas para seguir el envejecimiento.",
+      "pt": "O papel muda de atriz a cada duas temporadas para acompanhar o envelhecimento."
+    }
+  },
+  {
+    "id": "cinema_0512",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel terme désigne un film qui reprend une œuvre existante en repartant de zéro ?",
+      "en": "Which term describes a film restarting an existing franchise from scratch?",
+      "es": "¿Qué término designa una película que reinicia una obra existente desde cero?",
+      "pt": "Que termo designa um filme que reinicia uma obra existente do zero?"
+    },
+    "options": {
+      "fr": [
+        "Un reboot",
+        "Un remake",
+        "Un spin-off",
+        "Une préquelle"
+      ],
+      "en": [
+        "A reboot",
+        "A remake",
+        "A spin-off",
+        "A prequel"
+      ],
+      "es": [
+        "Un reboot",
+        "Un remake",
+        "Un spin-off",
+        "Una precuela"
+      ],
+      "pt": [
+        "Um reboot",
+        "Um remake",
+        "Um spin-off",
+        "Uma prequela"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le remake refait un film précis, le reboot relance toute une franchise.",
+      "en": "A remake redoes one specific film; a reboot restarts a whole franchise.",
+      "es": "El remake rehace una película concreta; el reboot reinicia toda una franquicia.",
+      "pt": "O remake refaz um filme concreto; o reboot reinicia toda uma franquia."
+    }
   }
 ]
