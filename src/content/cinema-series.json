@@ -13014,5 +13014,1853 @@
       "es": "Los César premian el cine; los Molière, el teatro; las Victoires, la música.",
       "pt": "Os César premeiam o cinema; os Molière, o teatro; as Victoires, a música."
     }
+  },
+  {
+    "id": "cinema_0301",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Léon », quel est le métier du personnage joué par Jean Reno ?",
+      "en": "In \"Léon: The Professional\", what is Jean Reno's character's job?",
+      "es": "En «León: el profesional», ¿cuál es el oficio del personaje de Jean Reno?",
+      "pt": "Em «Léon: O Profissional», qual é a profissão da personagem de Jean Reno?"
+    },
+    "options": {
+      "fr": [
+        "Tueur à gages",
+        "Policier",
+        "Fleuriste",
+        "Chauffeur de taxi"
+      ],
+      "en": [
+        "Hitman",
+        "Police officer",
+        "Florist",
+        "Taxi driver"
+      ],
+      "es": [
+        "Sicario",
+        "Policía",
+        "Florista",
+        "Taxista"
+      ],
+      "pt": [
+        "Assassino a soldo",
+        "Polícia",
+        "Florista",
+        "Taxista"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de Luc Besson (1994) révèle Natalie Portman, alors âgée de douze ans.",
+      "en": "Luc Besson's 1994 film introduced Natalie Portman, then twelve years old.",
+      "es": "La película de Luc Besson (1994) descubrió a Natalie Portman, entonces con doce años.",
+      "pt": "O filme de Luc Besson (1994) revelou Natalie Portman, então com doze anos."
+    }
+  },
+  {
+    "id": "cinema_0302",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Piège de cristal » (Die Hard), où se déroule l'essentiel de l'action ?",
+      "en": "In \"Die Hard\", where does most of the action take place?",
+      "es": "En «La jungla de cristal», ¿dónde transcurre la mayor parte de la acción?",
+      "pt": "Em «Assalto ao Arranha-Céus», onde decorre a maior parte da ação?"
+    },
+    "options": {
+      "fr": [
+        "Dans une tour de bureaux",
+        "Dans un avion",
+        "Dans un train",
+        "Dans un stade"
+      ],
+      "en": [
+        "In an office tower",
+        "On a plane",
+        "On a train",
+        "In a stadium"
+      ],
+      "es": [
+        "En una torre de oficinas",
+        "En un avión",
+        "En un tren",
+        "En un estadio"
+      ],
+      "pt": [
+        "Numa torre de escritórios",
+        "Num avião",
+        "Num comboio",
+        "Num estádio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "John McClane, joué par Bruce Willis, affronte seul des preneurs d'otages dans la tour Nakatomi.",
+      "en": "John McClane, played by Bruce Willis, takes on hostage-takers alone in Nakatomi Plaza.",
+      "es": "John McClane, interpretado por Bruce Willis, se enfrenta solo a los secuestradores en la torre Nakatomi.",
+      "pt": "John McClane, interpretado por Bruce Willis, enfrenta sozinho os sequestradores na torre Nakatomi."
+    }
+  },
+  {
+    "id": "cinema_0303",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans quel pays se déroule le film d'animation « Coco » ?",
+      "en": "In which country is the animated film \"Coco\" set?",
+      "es": "¿En qué país transcurre la película de animación «Coco»?",
+      "pt": "Em que país se passa o filme de animação «Coco»?"
+    },
+    "options": {
+      "fr": [
+        "Au Mexique",
+        "En Espagne",
+        "Au Pérou",
+        "En Colombie"
+      ],
+      "en": [
+        "Mexico",
+        "Spain",
+        "Peru",
+        "Colombia"
+      ],
+      "es": [
+        "En México",
+        "En España",
+        "En Perú",
+        "En Colombia"
+      ],
+      "pt": [
+        "No México",
+        "Em Espanha",
+        "No Peru",
+        "Na Colômbia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de Pixar s'inspire de la fête mexicaine du Jour des morts.",
+      "en": "The Pixar film draws on the Mexican Day of the Dead celebration.",
+      "es": "La película de Pixar se inspira en el Día de Muertos mexicano.",
+      "pt": "O filme da Pixar inspira-se no Dia dos Mortos mexicano."
+    }
+  },
+  {
+    "id": "cinema_0304",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel style musical est au cœur du film Pixar « Soul » ?",
+      "en": "Which musical style is at the heart of the Pixar film \"Soul\"?",
+      "es": "¿Qué estilo musical está en el centro de la película de Pixar «Soul»?",
+      "pt": "Que estilo musical está no centro do filme da Pixar «Soul»?"
+    },
+    "options": {
+      "fr": [
+        "Le jazz",
+        "Le rock",
+        "Le rap",
+        "L'opéra"
+      ],
+      "en": [
+        "Jazz",
+        "Rock",
+        "Rap",
+        "Opera"
+      ],
+      "es": [
+        "El jazz",
+        "El rock",
+        "El rap",
+        "La ópera"
+      ],
+      "pt": [
+        "O jazz",
+        "O rock",
+        "O rap",
+        "A ópera"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Joe Gardner, professeur de musique, rêve de jouer dans un club de jazz new-yorkais.",
+      "en": "Joe Gardner, a music teacher, dreams of playing in a New York jazz club.",
+      "es": "Joe Gardner, profesor de música, sueña con tocar en un club de jazz de Nueva York.",
+      "pt": "Joe Gardner, professor de música, sonha tocar num clube de jazz de Nova Iorque."
+    }
+  },
+  {
+    "id": "cinema_0305",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans la série « Lupin » de Netflix, quel acteur incarne Assane Diop ?",
+      "en": "In Netflix's \"Lupin\", which actor plays Assane Diop?",
+      "es": "En la serie «Lupin» de Netflix, ¿qué actor interpreta a Assane Diop?",
+      "pt": "Na série «Lupin» da Netflix, que ator interpreta Assane Diop?"
+    },
+    "options": {
+      "fr": [
+        "Omar Sy",
+        "Jamel Debbouze",
+        "Tahar Rahim",
+        "Vincent Cassel"
+      ],
+      "en": [
+        "Omar Sy",
+        "Jamel Debbouze",
+        "Tahar Rahim",
+        "Vincent Cassel"
+      ],
+      "es": [
+        "Omar Sy",
+        "Jamel Debbouze",
+        "Tahar Rahim",
+        "Vincent Cassel"
+      ],
+      "pt": [
+        "Omar Sy",
+        "Jamel Debbouze",
+        "Tahar Rahim",
+        "Vincent Cassel"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sortie en 2021, la série s'inspire du gentleman cambrioleur de Maurice Leblanc.",
+      "en": "Released in 2021, the series draws on Maurice Leblanc's gentleman thief.",
+      "es": "Estrenada en 2021, la serie se inspira en el ladrón de guante blanco de Maurice Leblanc.",
+      "pt": "Estreada em 2021, a série inspira-se no ladrão cavalheiro de Maurice Leblanc."
+    }
+  },
+  {
+    "id": "cinema_0306",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Very Bad Trip » (The Hangover), dans quelle ville se déroule l'enterrement de vie de garçon ?",
+      "en": "In \"The Hangover\", in which city does the bachelor party take place?",
+      "es": "En «Resacón en Las Vegas», ¿en qué ciudad transcurre la despedida de soltero?",
+      "pt": "Em «A Ressaca», em que cidade decorre a despedida de solteiro?"
+    },
+    "options": {
+      "fr": [
+        "Las Vegas",
+        "Miami",
+        "New York",
+        "Los Angeles"
+      ],
+      "en": [
+        "Las Vegas",
+        "Miami",
+        "New York",
+        "Los Angeles"
+      ],
+      "es": [
+        "Las Vegas",
+        "Miami",
+        "Nueva York",
+        "Los Ángeles"
+      ],
+      "pt": [
+        "Las Vegas",
+        "Miami",
+        "Nova Iorque",
+        "Los Angeles"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les trois amis se réveillent sans aucun souvenir de la nuit… ni du marié.",
+      "en": "The three friends wake up with no memory of the night — or of the groom.",
+      "es": "Los tres amigos despiertan sin recuerdo alguno de la noche… ni del novio.",
+      "pt": "Os três amigos acordam sem qualquer memória da noite… nem do noivo."
+    }
+  },
+  {
+    "id": "cinema_0307",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série française met en scène des agents artistiques d'une agence parisienne ?",
+      "en": "Which French series follows talent agents at a Paris agency?",
+      "es": "¿Qué serie francesa sigue a agentes artísticos de una agencia parisina?",
+      "pt": "Que série francesa segue agentes artísticos de uma agência parisiense?"
+    },
+    "options": {
+      "fr": [
+        "Dix pour cent",
+        "Le Bureau des Légendes",
+        "Engrenages",
+        "Un village français"
+      ],
+      "en": [
+        "Call My Agent!",
+        "The Bureau",
+        "Spiral",
+        "A French Village"
+      ],
+      "es": [
+        "Llama a mi agente",
+        "El Bureau",
+        "Spiral",
+        "Un pueblo francés"
+      ],
+      "pt": [
+        "Chama o Meu Agente",
+        "O Bureau",
+        "Spiral",
+        "Uma Aldeia Francesa"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Chaque épisode accueille une vedette française jouant son propre rôle.",
+      "en": "Each episode features a French star playing themselves.",
+      "es": "Cada episodio recibe a una estrella francesa interpretándose a sí misma.",
+      "pt": "Cada episódio recebe uma estrela francesa a interpretar-se a si própria."
+    }
+  },
+  {
+    "id": "cinema_0308",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série française revisite avec humour la légende du roi Arthur ?",
+      "en": "Which French series retells the King Arthur legend as a comedy?",
+      "es": "¿Qué serie francesa revisita con humor la leyenda del rey Arturo?",
+      "pt": "Que série francesa revisita com humor a lenda do rei Artur?"
+    },
+    "options": {
+      "fr": [
+        "Kaamelott",
+        "Hero Corp",
+        "Bref",
+        "Scènes de ménages"
+      ],
+      "en": [
+        "Kaamelott",
+        "Hero Corp",
+        "Bref",
+        "Scènes de ménages"
+      ],
+      "es": [
+        "Kaamelott",
+        "Hero Corp",
+        "Bref",
+        "Scènes de ménages"
+      ],
+      "pt": [
+        "Kaamelott",
+        "Hero Corp",
+        "Bref",
+        "Scènes de ménages"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Créée par Alexandre Astier, la série est passée de la comédie courte à la fresque, puis au cinéma.",
+      "en": "Created by Alexandre Astier, it grew from short comedy to epic, then to the big screen.",
+      "es": "Creada por Alexandre Astier, pasó de la comedia breve a la epopeya y luego al cine.",
+      "pt": "Criada por Alexandre Astier, passou da comédia curta à epopeia e depois ao cinema."
+    }
+  },
+  {
+    "id": "cinema_0309",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série de Disney+ suit un chasseur de primes masqué dans l'univers Star Wars ?",
+      "en": "Which Disney+ series follows a masked bounty hunter in the Star Wars universe?",
+      "es": "¿Qué serie de Disney+ sigue a un cazarrecompensas enmascarado del universo Star Wars?",
+      "pt": "Que série do Disney+ segue um caçador de recompensas mascarado no universo Star Wars?"
+    },
+    "options": {
+      "fr": [
+        "The Mandalorian",
+        "Andor",
+        "Ahsoka",
+        "Obi-Wan Kenobi"
+      ],
+      "en": [
+        "The Mandalorian",
+        "Andor",
+        "Ahsoka",
+        "Obi-Wan Kenobi"
+      ],
+      "es": [
+        "The Mandalorian",
+        "Andor",
+        "Ahsoka",
+        "Obi-Wan Kenobi"
+      ],
+      "pt": [
+        "The Mandalorian",
+        "Andor",
+        "Ahsoka",
+        "Obi-Wan Kenobi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série a fait de « Baby Yoda » (Grogu) un phénomène mondial dès 2019.",
+      "en": "The series turned \"Baby Yoda\" (Grogu) into a global phenomenon from 2019.",
+      "es": "La serie convirtió a «Baby Yoda» (Grogu) en un fenómeno mundial desde 2019.",
+      "pt": "A série transformou o «Baby Yoda» (Grogu) num fenómeno mundial desde 2019."
+    }
+  },
+  {
+    "id": "cinema_0310",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film a longtemps détenu le record des recettes mondiales au cinéma ?",
+      "en": "Which film long held the record for worldwide box-office takings?",
+      "es": "¿Qué película ostentó durante mucho tiempo el récord de recaudación mundial?",
+      "pt": "Que filme deteve durante muito tempo o recorde de receitas mundiais?"
+    },
+    "options": {
+      "fr": [
+        "Avatar",
+        "Titanic",
+        "Avengers: Endgame",
+        "Star Wars : Le Réveil de la Force"
+      ],
+      "en": [
+        "Avatar",
+        "Titanic",
+        "Avengers: Endgame",
+        "Star Wars: The Force Awakens"
+      ],
+      "es": [
+        "Avatar",
+        "Titanic",
+        "Vengadores: Endgame",
+        "Star Wars: El despertar de la Fuerza"
+      ],
+      "pt": [
+        "Avatar",
+        "Titanic",
+        "Vingadores: Endgame",
+        "Star Wars: O Despertar da Força"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sorti en 2009, « Avatar » a été détrôné puis a repris la tête après sa ressortie en salles.",
+      "en": "Released in 2009, \"Avatar\" was overtaken then reclaimed the top spot after a re-release.",
+      "es": "Estrenada en 2009, «Avatar» fue superada y luego recuperó el primer puesto tras un reestreno.",
+      "pt": "Lançado em 2009, «Avatar» foi ultrapassado e voltou ao topo após uma reposição."
+    }
+  },
+  {
+    "id": "cinema_0311",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Comment appelle-t-on le métier qui consiste à recréer les bruits d'un film en studio ?",
+      "en": "What is the job of recreating a film's sounds in a studio called?",
+      "es": "¿Cómo se llama el oficio de recrear los sonidos de una película en estudio?",
+      "pt": "Como se chama a profissão de recriar os sons de um filme em estúdio?"
+    },
+    "options": {
+      "fr": [
+        "Le bruitage",
+        "Le mixage",
+        "Le doublage",
+        "Le montage"
+      ],
+      "en": [
+        "Foley",
+        "Mixing",
+        "Dubbing",
+        "Editing"
+      ],
+      "es": [
+        "El foley (efectos de sala)",
+        "La mezcla",
+        "El doblaje",
+        "El montaje"
+      ],
+      "pt": [
+        "O foley (efeitos de sala)",
+        "A mistura",
+        "A dobragem",
+        "A montagem"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les bruiteurs reproduisent pas, portes et vaisselle avec des objets détournés, souvent surprenants.",
+      "en": "Foley artists recreate footsteps, doors and crockery using improvised, often surprising props.",
+      "es": "Los foleys recrean pasos, puertas y vajilla con objetos improvisados, a menudo sorprendentes.",
+      "pt": "Os foleys recriam passos, portas e loiça com objetos improvisados, muitas vezes surpreendentes."
+    }
+  },
+  {
+    "id": "cinema_0312",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série d'Amazon met en scène des super-héros violents et corrompus ?",
+      "en": "Which Amazon series features violent, corrupt superheroes?",
+      "es": "¿Qué serie de Amazon presenta superhéroes violentos y corruptos?",
+      "pt": "Que série da Amazon apresenta super-heróis violentos e corruptos?"
+    },
+    "options": {
+      "fr": [
+        "The Boys",
+        "Invincible",
+        "Watchmen",
+        "Umbrella Academy"
+      ],
+      "en": [
+        "The Boys",
+        "Invincible",
+        "Watchmen",
+        "The Umbrella Academy"
+      ],
+      "es": [
+        "The Boys",
+        "Invencible",
+        "Watchmen",
+        "The Umbrella Academy"
+      ],
+      "pt": [
+        "The Boys",
+        "Invencível",
+        "Watchmen",
+        "The Umbrella Academy"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Adaptée du comics de Garth Ennis, la série renverse les codes du genre.",
+      "en": "Adapted from Garth Ennis's comic, the series turns the genre's codes upside down.",
+      "es": "Adaptada del cómic de Garth Ennis, la serie invierte los códigos del género.",
+      "pt": "Adaptada da BD de Garth Ennis, a série inverte os códigos do género."
+    }
+  },
+  {
+    "id": "cinema_0313",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film d'animation Disney de 1940 est entièrement construit autour de morceaux de musique classique ?",
+      "en": "Which 1940 Disney animated film is built entirely around classical music pieces?",
+      "es": "¿Qué película de animación de Disney de 1940 se construye sobre piezas de música clásica?",
+      "pt": "Que filme de animação da Disney de 1940 é construído sobre peças de música clássica?"
+    },
+    "options": {
+      "fr": [
+        "Fantasia",
+        "Dumbo",
+        "Bambi",
+        "Pinocchio"
+      ],
+      "en": [
+        "Fantasia",
+        "Dumbo",
+        "Bambi",
+        "Pinocchio"
+      ],
+      "es": [
+        "Fantasía",
+        "Dumbo",
+        "Bambi",
+        "Pinocho"
+      ],
+      "pt": [
+        "Fantasia",
+        "Dumbo",
+        "Bambi",
+        "Pinóquio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Mickey y apparaît en apprenti sorcier sur la musique de Paul Dukas.",
+      "en": "Mickey appears as the sorcerer's apprentice, set to music by Paul Dukas.",
+      "es": "Mickey aparece como aprendiz de brujo con música de Paul Dukas.",
+      "pt": "Mickey aparece como aprendiz de feiticeiro com música de Paul Dukas."
+    }
+  },
+  {
+    "id": "cinema_0314",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle est la nationalité du réalisateur de « Parasite », Bong Joon-ho ?",
+      "en": "What is the nationality of \"Parasite\" director Bong Joon-ho?",
+      "es": "¿Cuál es la nacionalidad del director de «Parásitos», Bong Joon-ho?",
+      "pt": "Qual é a nacionalidade do realizador de «Parasitas», Bong Joon-ho?"
+    },
+    "options": {
+      "fr": [
+        "Sud-coréenne",
+        "Japonaise",
+        "Chinoise",
+        "Taïwanaise"
+      ],
+      "en": [
+        "South Korean",
+        "Japanese",
+        "Chinese",
+        "Taiwanese"
+      ],
+      "es": [
+        "Surcoreana",
+        "Japonesa",
+        "China",
+        "Taiwanesa"
+      ],
+      "pt": [
+        "Sul-coreana",
+        "Japonesa",
+        "Chinesa",
+        "Taiwanesa"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il est le premier réalisateur à remporter la Palme d'or et l'Oscar du meilleur film pour le même film.",
+      "en": "He is the first director to win both the Palme d'Or and Best Picture for the same film.",
+      "es": "Es el primer director en ganar la Palma de Oro y el Óscar a mejor película con la misma obra.",
+      "pt": "É o primeiro realizador a ganhar a Palma de Ouro e o Óscar de melhor filme com a mesma obra."
+    }
+  },
+  {
+    "id": "cinema_0315",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Les Bronzés », dans quel type de lieu se retrouvent les personnages ?",
+      "en": "In \"French Fried Vacation\" (Les Bronzés), what kind of place do the characters share?",
+      "es": "En «Los bronceados», ¿en qué tipo de lugar coinciden los personajes?",
+      "pt": "Em «Os Bronzeados», em que tipo de lugar se encontram as personagens?"
+    },
+    "options": {
+      "fr": [
+        "Un club de vacances",
+        "Un hôpital",
+        "Un lycée",
+        "Un bureau"
+      ],
+      "en": [
+        "A holiday club",
+        "A hospital",
+        "A high school",
+        "An office"
+      ],
+      "es": [
+        "Un club de vacaciones",
+        "Un hospital",
+        "Un instituto",
+        "Una oficina"
+      ],
+      "pt": [
+        "Um clube de férias",
+        "Um hospital",
+        "Uma escola",
+        "Um escritório"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de 1978, issu de la troupe du Splendid, est devenu culte en France.",
+      "en": "The 1978 film, born from the Splendid theatre troupe, became a cult classic in France.",
+      "es": "La película de 1978, nacida de la compañía Le Splendid, es de culto en Francia.",
+      "pt": "O filme de 1978, nascido da companhia Le Splendid, tornou-se de culto em França."
+    }
+  },
+  {
+    "id": "cinema_0316",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série suit un enquêteur et son collègue sur une affaire en Louisiane dans sa première saison ?",
+      "en": "Which series follows two detectives on a Louisiana case in its first season?",
+      "es": "¿Qué serie sigue a dos detectives en un caso de Luisiana en su primera temporada?",
+      "pt": "Que série segue dois detetives num caso da Luisiana na primeira temporada?"
+    },
+    "options": {
+      "fr": [
+        "True Detective",
+        "Fargo",
+        "Mindhunter",
+        "Broadchurch"
+      ],
+      "en": [
+        "True Detective",
+        "Fargo",
+        "Mindhunter",
+        "Broadchurch"
+      ],
+      "es": [
+        "True Detective",
+        "Fargo",
+        "Mindhunter",
+        "Broadchurch"
+      ],
+      "pt": [
+        "True Detective",
+        "Fargo",
+        "Mindhunter",
+        "Broadchurch"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Matthew McConaughey et Woody Harrelson portent cette première saison devenue référence.",
+      "en": "Matthew McConaughey and Woody Harrelson carry that first, now-benchmark season.",
+      "es": "Matthew McConaughey y Woody Harrelson sostienen esa primera temporada, ya referencia.",
+      "pt": "Matthew McConaughey e Woody Harrelson sustentam essa primeira temporada, já referência."
+    }
+  },
+  {
+    "id": "cinema_0317",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel studio d'animation, dont les équipes travaillent à Paris, a créé les Minions ?",
+      "en": "Which animation studio, with teams working in Paris, created the Minions?",
+      "es": "¿Qué estudio de animación, con equipos en París, creó a los Minions?",
+      "pt": "Que estúdio de animação, com equipas em Paris, criou os Minions?"
+    },
+    "options": {
+      "fr": [
+        "Illumination",
+        "Pixar",
+        "Blue Sky",
+        "Sony Pictures Animation"
+      ],
+      "en": [
+        "Illumination",
+        "Pixar",
+        "Blue Sky",
+        "Sony Pictures Animation"
+      ],
+      "es": [
+        "Illumination",
+        "Pixar",
+        "Blue Sky",
+        "Sony Pictures Animation"
+      ],
+      "pt": [
+        "Illumination",
+        "Pixar",
+        "Blue Sky",
+        "Sony Pictures Animation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Illumination fait fabriquer ses films dans son studio parisien, hérité de Mac Guff.",
+      "en": "Illumination has its films made at its Paris studio, inherited from Mac Guff.",
+      "es": "Illumination produce sus películas en su estudio parisino, heredado de Mac Guff.",
+      "pt": "A Illumination produz os filmes no seu estúdio parisiense, herdado da Mac Guff."
+    }
+  },
+  {
+    "id": "cinema_0318",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Le Dîner de cons », quel jeu cruel pratiquent les personnages ?",
+      "en": "In \"The Dinner Game\", what cruel game do the characters play?",
+      "es": "En «La cena de los idiotas», ¿qué juego cruel practican los personajes?",
+      "pt": "Em «O Jantar dos Idiotas», que jogo cruel praticam as personagens?"
+    },
+    "options": {
+      "fr": [
+        "Inviter à dîner la personne la plus ridicule possible",
+        "Parier sur les courses",
+        "Se voler des objets",
+        "Se déguiser en célébrités"
+      ],
+      "en": [
+        "Inviting the most ridiculous guest they can find to dinner",
+        "Betting on races",
+        "Stealing each other's belongings",
+        "Dressing up as celebrities"
+      ],
+      "es": [
+        "Invitar a cenar a la persona más ridícula posible",
+        "Apostar en las carreras",
+        "Robarse objetos",
+        "Disfrazarse de famosos"
+      ],
+      "pt": [
+        "Convidar para jantar a pessoa mais ridícula possível",
+        "Apostar em corridas",
+        "Roubar objetos uns aos outros",
+        "Disfarçar-se de celebridades"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de Francis Veber (1998) doit beaucoup à Jacques Villeret dans le rôle de François Pignon.",
+      "en": "Francis Veber's 1998 film owes much to Jacques Villeret as François Pignon.",
+      "es": "La película de Francis Veber (1998) debe mucho a Jacques Villeret como François Pignon.",
+      "pt": "O filme de Francis Veber (1998) deve muito a Jacques Villeret como François Pignon."
+    }
+  },
+  {
+    "id": "cinema_0319",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle technique d'animation image par image utilise le studio Laika pour « Coraline » ?",
+      "en": "Which frame-by-frame technique does Laika use for \"Coraline\"?",
+      "es": "¿Qué técnica fotograma a fotograma usa el estudio Laika en «Coraline»?",
+      "pt": "Que técnica imagem a imagem usa o estúdio Laika em «Coraline»?"
+    },
+    "options": {
+      "fr": [
+        "La stop-motion",
+        "La 3D temps réel",
+        "La rotoscopie",
+        "Le dessin numérique"
+      ],
+      "en": [
+        "Stop-motion",
+        "Real-time 3D",
+        "Rotoscoping",
+        "Digital drawing"
+      ],
+      "es": [
+        "El stop-motion",
+        "El 3D en tiempo real",
+        "La rotoscopia",
+        "El dibujo digital"
+      ],
+      "pt": [
+        "O stop-motion",
+        "O 3D em tempo real",
+        "A rotoscopia",
+        "O desenho digital"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Laika imprime en 3D des milliers de visages pour animer les expressions de ses marionnettes.",
+      "en": "Laika 3D-prints thousands of faces to animate its puppets' expressions.",
+      "es": "Laika imprime en 3D miles de rostros para animar las expresiones de sus marionetas.",
+      "pt": "A Laika imprime em 3D milhares de rostos para animar as expressões dos bonecos."
+    }
+  },
+  {
+    "id": "cinema_0320",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle chaîne diffuse la série « Better Call Saul » ?",
+      "en": "Which network aired \"Better Call Saul\"?",
+      "es": "¿Qué cadena emitió «Better Call Saul»?",
+      "pt": "Que canal transmitiu «Better Call Saul»?"
+    },
+    "options": {
+      "fr": [
+        "AMC",
+        "HBO",
+        "Netflix",
+        "FX"
+      ],
+      "en": [
+        "AMC",
+        "HBO",
+        "Netflix",
+        "FX"
+      ],
+      "es": [
+        "AMC",
+        "HBO",
+        "Netflix",
+        "FX"
+      ],
+      "pt": [
+        "AMC",
+        "HBO",
+        "Netflix",
+        "FX"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "AMC diffusait déjà « Breaking Bad », dont « Better Call Saul » est la préquelle.",
+      "en": "AMC already aired \"Breaking Bad\", to which \"Better Call Saul\" is the prequel.",
+      "es": "AMC ya emitía «Breaking Bad», de la que «Better Call Saul» es la precuela.",
+      "pt": "A AMC já transmitia «Breaking Bad», de que «Better Call Saul» é a prequela."
+    }
+  },
+  {
+    "id": "cinema_0321",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Pour quel film Marion Cotillard a-t-elle remporté l'Oscar de la meilleure actrice en 2008 ?",
+      "en": "For which film did Marion Cotillard win the Best Actress Oscar in 2008?",
+      "es": "¿Por qué película ganó Marion Cotillard el Óscar a la mejor actriz en 2008?",
+      "pt": "Por que filme ganhou Marion Cotillard o Óscar de melhor atriz em 2008?"
+    },
+    "options": {
+      "fr": [
+        "La Môme",
+        "Un long dimanche de fiançailles",
+        "De rouille et d'os",
+        "Deux jours, une nuit"
+      ],
+      "en": [
+        "La Vie en Rose",
+        "A Very Long Engagement",
+        "Rust and Bone",
+        "Two Days, One Night"
+      ],
+      "es": [
+        "La vida en rosa",
+        "Largo domingo de noviazgo",
+        "De óxido y hueso",
+        "Dos días, una noche"
+      ],
+      "pt": [
+        "A Miúda",
+        "Um Longo Domingo de Noivado",
+        "Ferrugem e Osso",
+        "Dois Dias, Uma Noite"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elle y incarne Édith Piaf : c'est le premier Oscar d'interprétation pour un rôle en français.",
+      "en": "She played Édith Piaf: the first acting Oscar for a French-language performance.",
+      "es": "Interpretó a Édith Piaf: primer Óscar de interpretación por un papel en francés.",
+      "pt": "Interpretou Édith Piaf: o primeiro Óscar de representação por um papel em francês."
+    }
+  },
+  {
+    "id": "cinema_0322",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur sud-coréen a signé « Oldboy » (2003) ?",
+      "en": "Which South Korean director made \"Oldboy\" (2003)?",
+      "es": "¿Qué director surcoreano firmó «Oldboy» (2003)?",
+      "pt": "Que realizador sul-coreano assinou «Oldboy» (2003)?"
+    },
+    "options": {
+      "fr": [
+        "Park Chan-wook",
+        "Bong Joon-ho",
+        "Kim Ki-duk",
+        "Lee Chang-dong"
+      ],
+      "en": [
+        "Park Chan-wook",
+        "Bong Joon-ho",
+        "Kim Ki-duk",
+        "Lee Chang-dong"
+      ],
+      "es": [
+        "Park Chan-wook",
+        "Bong Joon-ho",
+        "Kim Ki-duk",
+        "Lee Chang-dong"
+      ],
+      "pt": [
+        "Park Chan-wook",
+        "Bong Joon-ho",
+        "Kim Ki-duk",
+        "Lee Chang-dong"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film a reçu le Grand Prix à Cannes en 2004, d'un jury présidé par Quentin Tarantino.",
+      "en": "The film won the Grand Prix at Cannes in 2004, from a jury chaired by Quentin Tarantino.",
+      "es": "La película ganó el Gran Premio en Cannes 2004, con un jurado presidido por Tarantino.",
+      "pt": "O filme ganhou o Grande Prémio em Cannes 2004, com um júri presidido por Tarantino."
+    }
+  },
+  {
+    "id": "cinema_0323",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur hongkongais a signé « In the Mood for Love » (2000) ?",
+      "en": "Which Hong Kong director made \"In the Mood for Love\" (2000)?",
+      "es": "¿Qué director hongkonés firmó «Deseando amar» (2000)?",
+      "pt": "Que realizador de Hong Kong assinou «Disponível para Amar» (2000)?"
+    },
+    "options": {
+      "fr": [
+        "Wong Kar-wai",
+        "John Woo",
+        "Tsui Hark",
+        "Johnnie To"
+      ],
+      "en": [
+        "Wong Kar-wai",
+        "John Woo",
+        "Tsui Hark",
+        "Johnnie To"
+      ],
+      "es": [
+        "Wong Kar-wai",
+        "John Woo",
+        "Tsui Hark",
+        "Johnnie To"
+      ],
+      "pt": [
+        "Wong Kar-wai",
+        "John Woo",
+        "Tsui Hark",
+        "Johnnie To"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ses couleurs saturées et ses ralentis en ont fait l'un des films les plus imités des années 2000.",
+      "en": "Its saturated colours and slow motion made it one of the most imitated films of the 2000s.",
+      "es": "Sus colores saturados y sus ralentíes la hicieron una de las más imitadas de los 2000.",
+      "pt": "As cores saturadas e os ralentis tornaram-no um dos filmes mais imitados dos anos 2000."
+    }
+  },
+  {
+    "id": "cinema_0324",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel terme, popularisé par Hitchcock, désigne un objet qui lance l'intrigue sans avoir d'importance en soi ?",
+      "en": "Which term, popularised by Hitchcock, names a plot device that matters only as a trigger?",
+      "es": "¿Qué término, popularizado por Hitchcock, designa un objeto que impulsa la trama sin importar en sí?",
+      "pt": "Que termo, popularizado por Hitchcock, designa um objeto que lança a intriga sem importar em si?"
+    },
+    "options": {
+      "fr": [
+        "Le MacGuffin",
+        "Le deus ex machina",
+        "Le cliffhanger",
+        "Le flashback"
+      ],
+      "en": [
+        "The MacGuffin",
+        "The deus ex machina",
+        "The cliffhanger",
+        "The flashback"
+      ],
+      "es": [
+        "El MacGuffin",
+        "El deus ex machina",
+        "El cliffhanger",
+        "El flashback"
+      ],
+      "pt": [
+        "O MacGuffin",
+        "O deus ex machina",
+        "O cliffhanger",
+        "O flashback"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La valise de « Pulp Fiction », dont on ne voit jamais le contenu, en est un exemple célèbre.",
+      "en": "The briefcase in \"Pulp Fiction\", whose contents are never shown, is a famous example.",
+      "es": "El maletín de «Pulp Fiction», cuyo contenido nunca se ve, es un ejemplo célebre.",
+      "pt": "A mala de «Pulp Fiction», cujo conteúdo nunca se vê, é um exemplo célebre."
+    }
+  },
+  {
+    "id": "cinema_0325",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Combien de films détiennent le record de 11 Oscars remportés ?",
+      "en": "How many films share the record of 11 Oscars won?",
+      "es": "¿Cuántas películas comparten el récord de 11 Óscar ganados?",
+      "pt": "Quantos filmes partilham o recorde de 11 Óscares ganhos?"
+    },
+    "options": {
+      "fr": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "en": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "es": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ],
+      "pt": [
+        "3",
+        "1",
+        "2",
+        "5"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Ben-Hur » (1959), « Titanic » (1997) et « Le Retour du Roi » (2003) sont à égalité.",
+      "en": "\"Ben-Hur\" (1959), \"Titanic\" (1997) and \"The Return of the King\" (2003) are tied.",
+      "es": "«Ben-Hur» (1959), «Titanic» (1997) y «El retorno del rey» (2003) están empatadas.",
+      "pt": "«Ben-Hur» (1959), «Titanic» (1997) e «O Regresso do Rei» (2003) estão empatados."
+    }
+  },
+  {
+    "id": "cinema_0326",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle suite fut la première de l'histoire à remporter l'Oscar du meilleur film ?",
+      "en": "Which sequel was the first ever to win the Best Picture Oscar?",
+      "es": "¿Qué secuela fue la primera de la historia en ganar el Óscar a la mejor película?",
+      "pt": "Que sequela foi a primeira da história a ganhar o Óscar de melhor filme?"
+    },
+    "options": {
+      "fr": [
+        "Le Parrain, 2e partie",
+        "Le Retour du Roi",
+        "Terminator 2",
+        "Aliens"
+      ],
+      "en": [
+        "The Godfather Part II",
+        "The Return of the King",
+        "Terminator 2",
+        "Aliens"
+      ],
+      "es": [
+        "El Padrino Parte II",
+        "El retorno del rey",
+        "Terminator 2",
+        "Aliens"
+      ],
+      "pt": [
+        "O Padrinho Parte II",
+        "O Regresso do Rei",
+        "Terminator 2",
+        "Aliens"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "En 1975, le film de Coppola devient la première suite sacrée meilleur film.",
+      "en": "In 1975, Coppola's film became the first sequel crowned Best Picture.",
+      "es": "En 1975, la película de Coppola fue la primera secuela premiada como mejor película.",
+      "pt": "Em 1975, o filme de Coppola foi a primeira sequela premiada como melhor filme."
+    }
+  },
+  {
+    "id": "cinema_0327",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel prix récompense à Cannes le meilleur premier film, toutes sélections confondues ?",
+      "en": "Which Cannes award honours the best first film across all selections?",
+      "es": "¿Qué premio de Cannes reconoce la mejor ópera prima de todas las secciones?",
+      "pt": "Que prémio de Cannes distingue a melhor primeira obra de todas as seleções?"
+    },
+    "options": {
+      "fr": [
+        "La Caméra d'or",
+        "Le Prix du jury",
+        "La Queer Palm",
+        "Le Grand Prix"
+      ],
+      "en": [
+        "The Caméra d'Or",
+        "The Jury Prize",
+        "The Queer Palm",
+        "The Grand Prix"
+      ],
+      "es": [
+        "La Cámara de Oro",
+        "El Premio del Jurado",
+        "La Queer Palm",
+        "El Gran Premio"
+      ],
+      "pt": [
+        "A Câmara de Ouro",
+        "O Prémio do Júri",
+        "A Queer Palm",
+        "O Grande Prémio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Créée en 1978, la Caméra d'or distingue un premier long métrage, quelle que soit sa sélection.",
+      "en": "Created in 1978, the Caméra d'Or honours a debut feature from any of the festival's strands.",
+      "es": "Creada en 1978, la Cámara de Oro premia una ópera prima de cualquier sección.",
+      "pt": "Criada em 1978, a Câmara de Ouro premeia uma primeira longa-metragem de qualquer secção."
+    }
+  },
+  {
+    "id": "cinema_0328",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur japonais a signé « Voyage à Tokyo » (1953) ?",
+      "en": "Which Japanese director made \"Tokyo Story\" (1953)?",
+      "es": "¿Qué director japonés firmó «Cuentos de Tokio» (1953)?",
+      "pt": "Que realizador japonês assinou «Viagem a Tóquio» (1953)?"
+    },
+    "options": {
+      "fr": [
+        "Yasujirō Ozu",
+        "Akira Kurosawa",
+        "Kenji Mizoguchi",
+        "Takeshi Kitano"
+      ],
+      "en": [
+        "Yasujirō Ozu",
+        "Akira Kurosawa",
+        "Kenji Mizoguchi",
+        "Takeshi Kitano"
+      ],
+      "es": [
+        "Yasujirō Ozu",
+        "Akira Kurosawa",
+        "Kenji Mizoguchi",
+        "Takeshi Kitano"
+      ],
+      "pt": [
+        "Yasujirō Ozu",
+        "Akira Kurosawa",
+        "Kenji Mizoguchi",
+        "Takeshi Kitano"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ozu est célèbre pour ses plans fixes à hauteur de tatami, une caméra posée très bas.",
+      "en": "Ozu is famous for his static shots at tatami height, with the camera set very low.",
+      "es": "Ozu es célebre por sus planos fijos a la altura del tatami, con la cámara muy baja.",
+      "pt": "Ozu é célebre pelos planos fixos à altura do tatami, com a câmara muito baixa."
+    }
+  },
+  {
+    "id": "cinema_0329",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de Baz Luhrmann, sorti en 2001, se déroule dans un cabaret parisien ?",
+      "en": "Which 2001 Baz Luhrmann film is set in a Paris cabaret?",
+      "es": "¿Qué película de Baz Luhrmann, de 2001, transcurre en un cabaré parisino?",
+      "pt": "Que filme de Baz Luhrmann, de 2001, se passa num cabaré parisiense?"
+    },
+    "options": {
+      "fr": [
+        "Moulin Rouge !",
+        "Gatsby le Magnifique",
+        "Roméo + Juliette",
+        "Australia"
+      ],
+      "en": [
+        "Moulin Rouge!",
+        "The Great Gatsby",
+        "Romeo + Juliet",
+        "Australia"
+      ],
+      "es": [
+        "Moulin Rouge",
+        "El gran Gatsby",
+        "Romeo + Julieta",
+        "Australia"
+      ],
+      "pt": [
+        "Moulin Rouge!",
+        "O Grande Gatsby",
+        "Romeu + Julieta",
+        "Austrália"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film mélange chansons pop contemporaines et Paris de 1900, avec Nicole Kidman et Ewan McGregor.",
+      "en": "The film blends contemporary pop songs with 1900s Paris, starring Nicole Kidman and Ewan McGregor.",
+      "es": "La película mezcla pop contemporáneo y el París de 1900, con Nicole Kidman y Ewan McGregor.",
+      "pt": "O filme mistura pop contemporânea e a Paris de 1900, com Nicole Kidman e Ewan McGregor."
+    }
+  },
+  {
+    "id": "cinema_0330",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série HBO se déroule dans un parc d'attractions peuplé d'androïdes ?",
+      "en": "Which HBO series is set in a theme park populated by androids?",
+      "es": "¿Qué serie de HBO transcurre en un parque temático poblado de androides?",
+      "pt": "Que série da HBO decorre num parque temático povoado de androides?"
+    },
+    "options": {
+      "fr": [
+        "Westworld",
+        "Devs",
+        "Raised by Wolves",
+        "Counterpart"
+      ],
+      "en": [
+        "Westworld",
+        "Devs",
+        "Raised by Wolves",
+        "Counterpart"
+      ],
+      "es": [
+        "Westworld",
+        "Devs",
+        "Raised by Wolves",
+        "Counterpart"
+      ],
+      "pt": [
+        "Westworld",
+        "Devs",
+        "Raised by Wolves",
+        "Counterpart"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série reprend le film de 1973 écrit et réalisé par Michael Crichton.",
+      "en": "The series revisits the 1973 film written and directed by Michael Crichton.",
+      "es": "La serie retoma la película de 1973 escrita y dirigida por Michael Crichton.",
+      "pt": "A série retoma o filme de 1973 escrito e realizado por Michael Crichton."
+    }
+  },
+  {
+    "id": "cinema_0331",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film français a remporté la Palme d'or en 2021, réalisé par Julia Ducournau ?",
+      "en": "Which French film won the 2021 Palme d'Or, directed by Julia Ducournau?",
+      "es": "¿Qué película francesa ganó la Palma de Oro 2021, dirigida por Julia Ducournau?",
+      "pt": "Que filme francês ganhou a Palma de Ouro de 2021, realizado por Julia Ducournau?"
+    },
+    "options": {
+      "fr": [
+        "Titane",
+        "Grave",
+        "Anatomie d'une chute",
+        "Portrait de la jeune fille en feu"
+      ],
+      "en": [
+        "Titane",
+        "Raw",
+        "Anatomy of a Fall",
+        "Portrait of a Lady on Fire"
+      ],
+      "es": [
+        "Titane",
+        "Crudo",
+        "Anatomía de una caída",
+        "Retrato de una mujer en llamas"
+      ],
+      "pt": [
+        "Titane",
+        "Crua",
+        "Anatomia de uma Queda",
+        "Retrato de uma Rapariga em Chamas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Julia Ducournau est la deuxième femme à recevoir la Palme d'or, après Jane Campion.",
+      "en": "Julia Ducournau is the second woman to receive the Palme d'Or, after Jane Campion.",
+      "es": "Julia Ducournau es la segunda mujer en recibir la Palma de Oro, tras Jane Campion.",
+      "pt": "Julia Ducournau é a segunda mulher a receber a Palma de Ouro, depois de Jane Campion."
+    }
+  },
+  {
+    "id": "cinema_0332",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur japonais, également humoriste à la télévision, a reçu le Lion d'or en 1997 pour « Hana-bi » ?",
+      "en": "Which Japanese director, also a TV comedian, won the 1997 Golden Lion for \"Hana-bi\"?",
+      "es": "¿Qué director japonés, también humorista de televisión, ganó el León de Oro en 1997 por «Hana-bi»?",
+      "pt": "Que realizador japonês, também humorista de televisão, ganhou o Leão de Ouro em 1997 por «Hana-bi»?"
+    },
+    "options": {
+      "fr": [
+        "Takeshi Kitano",
+        "Hirokazu Kore-eda",
+        "Shinya Tsukamoto",
+        "Takashi Miike"
+      ],
+      "en": [
+        "Takeshi Kitano",
+        "Hirokazu Kore-eda",
+        "Shinya Tsukamoto",
+        "Takashi Miike"
+      ],
+      "es": [
+        "Takeshi Kitano",
+        "Hirokazu Kore-eda",
+        "Shinya Tsukamoto",
+        "Takashi Miike"
+      ],
+      "pt": [
+        "Takeshi Kitano",
+        "Hirokazu Kore-eda",
+        "Shinya Tsukamoto",
+        "Takashi Miike"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Star comique au Japon sous le nom de « Beat Takeshi », il est cinéaste austère à l'international.",
+      "en": "A comedy star in Japan as \"Beat Takeshi\", he is known abroad as an austere filmmaker.",
+      "es": "Estrella cómica en Japón como «Beat Takeshi», fuera es un cineasta austero.",
+      "pt": "Estrela cómica no Japão como «Beat Takeshi», lá fora é um cineasta austero."
+    }
+  },
+  {
+    "id": "cinema_0333",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 2002 adapté d'une comédie musicale a remporté l'Oscar du meilleur film ?",
+      "en": "Which 2002 film adapted from a stage musical won Best Picture?",
+      "es": "¿Qué película de 2002 adaptada de un musical ganó el Óscar a la mejor película?",
+      "pt": "Que filme de 2002 adaptado de um musical ganhou o Óscar de melhor filme?"
+    },
+    "options": {
+      "fr": [
+        "Chicago",
+        "Moulin Rouge !",
+        "Dreamgirls",
+        "Les Misérables"
+      ],
+      "en": [
+        "Chicago",
+        "Moulin Rouge!",
+        "Dreamgirls",
+        "Les Misérables"
+      ],
+      "es": [
+        "Chicago",
+        "Moulin Rouge",
+        "Dreamgirls",
+        "Los miserables"
+      ],
+      "pt": [
+        "Chicago",
+        "Moulin Rouge!",
+        "Dreamgirls",
+        "Os Miseráveis"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est la première comédie musicale sacrée meilleur film depuis « Oliver ! » en 1969.",
+      "en": "It was the first musical to win Best Picture since \"Oliver!\" in 1969.",
+      "es": "Fue el primer musical premiado como mejor película desde «Oliver!» en 1969.",
+      "pt": "Foi o primeiro musical premiado como melhor filme desde «Oliver!» em 1969."
+    }
+  },
+  {
+    "id": "cinema_0334",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur français a signé « Le Grand Bleu » (1988) ?",
+      "en": "Which French director made \"The Big Blue\" (1988)?",
+      "es": "¿Qué director francés firmó «El gran azul» (1988)?",
+      "pt": "Que realizador francês assinou «O Grande Azul» (1988)?"
+    },
+    "options": {
+      "fr": [
+        "Luc Besson",
+        "Jean-Jacques Beineix",
+        "Leos Carax",
+        "Claude Berri"
+      ],
+      "en": [
+        "Luc Besson",
+        "Jean-Jacques Beineix",
+        "Leos Carax",
+        "Claude Berri"
+      ],
+      "es": [
+        "Luc Besson",
+        "Jean-Jacques Beineix",
+        "Leos Carax",
+        "Claude Berri"
+      ],
+      "pt": [
+        "Luc Besson",
+        "Jean-Jacques Beineix",
+        "Leos Carax",
+        "Claude Berri"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film, inspiré de la rivalité entre deux apnéistes, est devenu un phénomène de génération en France.",
+      "en": "Inspired by the rivalry between two free divers, the film became a generational phenomenon in France.",
+      "es": "Inspirada en la rivalidad de dos apneístas, se convirtió en un fenómeno generacional en Francia.",
+      "pt": "Inspirado na rivalidade entre dois apneístas, tornou-se um fenómeno geracional em França."
+    }
+  },
+  {
+    "id": "cinema_0335",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série française suit des agents de la DGSE infiltrés à l'étranger ?",
+      "en": "Which French series follows DGSE agents working undercover abroad?",
+      "es": "¿Qué serie francesa sigue a agentes de la DGSE infiltrados en el extranjero?",
+      "pt": "Que série francesa segue agentes da DGSE infiltrados no estrangeiro?"
+    },
+    "options": {
+      "fr": [
+        "Le Bureau des Légendes",
+        "Engrenages",
+        "Braquo",
+        "Les Revenants"
+      ],
+      "en": [
+        "The Bureau",
+        "Spiral",
+        "Braquo",
+        "The Returned"
+      ],
+      "es": [
+        "El Bureau",
+        "Spiral",
+        "Braquo",
+        "Los resucitados"
+      ],
+      "pt": [
+        "O Bureau",
+        "Spiral",
+        "Braquo",
+        "Os Regressados"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Créée par Éric Rochant pour Canal+, la série est saluée pour son réalisme.",
+      "en": "Created by Éric Rochant for Canal+, the series is praised for its realism.",
+      "es": "Creada por Éric Rochant para Canal+, la serie destaca por su realismo.",
+      "pt": "Criada por Éric Rochant para o Canal+, a série destaca-se pelo realismo."
+    }
+  },
+  {
+    "id": "cinema_0336",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel acteur a incarné James Bond dans le plus grand nombre de films officiels ?",
+      "en": "Which actor played James Bond in the most official films?",
+      "es": "¿Qué actor interpretó a James Bond en más películas oficiales?",
+      "pt": "Que ator interpretou James Bond em mais filmes oficiais?"
+    },
+    "options": {
+      "fr": [
+        "Roger Moore",
+        "Sean Connery",
+        "Daniel Craig",
+        "Pierce Brosnan"
+      ],
+      "en": [
+        "Roger Moore",
+        "Sean Connery",
+        "Daniel Craig",
+        "Pierce Brosnan"
+      ],
+      "es": [
+        "Roger Moore",
+        "Sean Connery",
+        "Daniel Craig",
+        "Pierce Brosnan"
+      ],
+      "pt": [
+        "Roger Moore",
+        "Sean Connery",
+        "Daniel Craig",
+        "Pierce Brosnan"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Roger Moore a joué Bond sept fois, de « Vivre et laisser mourir » (1973) à « Dangereusement vôtre » (1985).",
+      "en": "Roger Moore played Bond seven times, from \"Live and Let Die\" (1973) to \"A View to a Kill\" (1985).",
+      "es": "Roger Moore fue Bond siete veces, de «Vive y deja morir» (1973) a «Panorama para matar» (1985).",
+      "pt": "Roger Moore foi Bond sete vezes, de «Vive e Deixa Morrer» (1973) a «017 — Alvo em Movimento» (1985)."
+    }
+  },
+  {
+    "id": "cinema_0337",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film muet de 1927 est considéré comme la première grande superproduction de science-fiction ?",
+      "en": "Which 1927 silent film is seen as the first great science-fiction blockbuster?",
+      "es": "¿Qué película muda de 1927 se considera la primera gran superproducción de ciencia ficción?",
+      "pt": "Que filme mudo de 1927 é considerado a primeira grande superprodução de ficção científica?"
+    },
+    "options": {
+      "fr": [
+        "Metropolis",
+        "Nosferatu",
+        "Le Cuirassé Potemkine",
+        "L'Aurore"
+      ],
+      "en": [
+        "Metropolis",
+        "Nosferatu",
+        "Battleship Potemkin",
+        "Sunrise"
+      ],
+      "es": [
+        "Metrópolis",
+        "Nosferatu",
+        "El acorazado Potemkin",
+        "Amanecer"
+      ],
+      "pt": [
+        "Metropolis",
+        "Nosferatu",
+        "O Couraçado Potemkine",
+        "Aurora"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Réalisé par Fritz Lang, « Metropolis » a inspiré des décennies de cinéma futuriste.",
+      "en": "Directed by Fritz Lang, \"Metropolis\" inspired decades of futuristic cinema.",
+      "es": "Dirigida por Fritz Lang, «Metrópolis» inspiró décadas de cine futurista.",
+      "pt": "Realizado por Fritz Lang, «Metropolis» inspirou décadas de cinema futurista."
+    }
+  },
+  {
+    "id": "cinema_0338",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur mexicain a remporté l'Oscar de la meilleure réalisation pour « Gravity » puis « Roma » ?",
+      "en": "Which Mexican director won Best Director for \"Gravity\" and then \"Roma\"?",
+      "es": "¿Qué director mexicano ganó el Óscar a la mejor dirección por «Gravity» y luego «Roma»?",
+      "pt": "Que realizador mexicano ganhou o Óscar de melhor realização por «Gravidade» e depois «Roma»?"
+    },
+    "options": {
+      "fr": [
+        "Alfonso Cuarón",
+        "Guillermo del Toro",
+        "Alejandro González Iñárritu",
+        "Carlos Reygadas"
+      ],
+      "en": [
+        "Alfonso Cuarón",
+        "Guillermo del Toro",
+        "Alejandro González Iñárritu",
+        "Carlos Reygadas"
+      ],
+      "es": [
+        "Alfonso Cuarón",
+        "Guillermo del Toro",
+        "Alejandro González Iñárritu",
+        "Carlos Reygadas"
+      ],
+      "pt": [
+        "Alfonso Cuarón",
+        "Guillermo del Toro",
+        "Alejandro González Iñárritu",
+        "Carlos Reygadas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Avec del Toro et Iñárritu, il forme le trio mexicain qui a dominé les Oscars des années 2010.",
+      "en": "With del Toro and Iñárritu, he formed the Mexican trio that dominated the 2010s Oscars.",
+      "es": "Con del Toro e Iñárritu forma el trío mexicano que dominó los Óscar de los 2010.",
+      "pt": "Com del Toro e Iñárritu forma o trio mexicano que dominou os Óscares dos anos 2010."
+    }
+  },
+  {
+    "id": "cinema_0339",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Le Seigneur des Anneaux », quel pays a servi de décor naturel au tournage ?",
+      "en": "In \"The Lord of the Rings\", which country provided the natural filming locations?",
+      "es": "En «El Señor de los Anillos», ¿qué país sirvió de escenario natural para el rodaje?",
+      "pt": "Em «O Senhor dos Anéis», que país serviu de cenário natural para a rodagem?"
+    },
+    "options": {
+      "fr": [
+        "La Nouvelle-Zélande",
+        "L'Irlande",
+        "L'Islande",
+        "L'Écosse"
+      ],
+      "en": [
+        "New Zealand",
+        "Ireland",
+        "Iceland",
+        "Scotland"
+      ],
+      "es": [
+        "Nueva Zelanda",
+        "Irlanda",
+        "Islandia",
+        "Escocia"
+      ],
+      "pt": [
+        "A Nova Zelândia",
+        "A Irlanda",
+        "A Islândia",
+        "A Escócia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le pays natal de Peter Jackson en a tiré un tourisme durable, dont le village de Hobbiton.",
+      "en": "Peter Jackson's home country gained lasting tourism from it, including the Hobbiton village set.",
+      "es": "El país natal de Peter Jackson obtuvo un turismo duradero, incluido el pueblo de Hobbiton.",
+      "pt": "O país natal de Peter Jackson ganhou um turismo duradouro, incluindo a aldeia de Hobbiton."
+    }
+  },
+  {
+    "id": "cinema_0340",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle actrice française a remporté l'Oscar d'honneur en 2017, saluant l'ensemble de sa carrière ?",
+      "en": "Which French actress received an Honorary Oscar in 2017 for her career?",
+      "es": "¿Qué actriz francesa recibió el Óscar honorífico en 2017 por su carrera?",
+      "pt": "Que atriz francesa recebeu o Óscar honorário em 2017 pela carreira?"
+    },
+    "options": {
+      "fr": [
+        "Agnès Varda",
+        "Catherine Deneuve",
+        "Isabelle Huppert",
+        "Juliette Binoche"
+      ],
+      "en": [
+        "Agnès Varda",
+        "Catherine Deneuve",
+        "Isabelle Huppert",
+        "Juliette Binoche"
+      ],
+      "es": [
+        "Agnès Varda",
+        "Catherine Deneuve",
+        "Isabelle Huppert",
+        "Juliette Binoche"
+      ],
+      "pt": [
+        "Agnès Varda",
+        "Catherine Deneuve",
+        "Isabelle Huppert",
+        "Juliette Binoche"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Réalisatrice majeure de la Nouvelle Vague, Agnès Varda est la première cinéaste femme à recevoir cet honneur.",
+      "en": "A major New Wave director, Agnès Varda was the first woman filmmaker to receive the honour.",
+      "es": "Directora clave de la Nouvelle Vague, Agnès Varda fue la primera cineasta mujer en recibirlo.",
+      "pt": "Realizadora maior da Nouvelle Vague, Agnès Varda foi a primeira cineasta mulher a recebê-lo."
+    }
+  },
+  {
+    "id": "cinema_0341",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série allemande, française et scandinave a lancé la mode du « polar nordique » à la télévision européenne ?",
+      "en": "Which Scandinavian series launched the European TV craze for \"Nordic noir\"?",
+      "es": "¿Qué serie escandinava lanzó la moda del «noir nórdico» en la televisión europea?",
+      "pt": "Que série escandinava lançou a moda do «noir nórdico» na televisão europeia?"
+    },
+    "options": {
+      "fr": [
+        "The Killing (Forbrydelsen)",
+        "Borgen",
+        "Occupied",
+        "Real Humans"
+      ],
+      "en": [
+        "The Killing (Forbrydelsen)",
+        "Borgen",
+        "Occupied",
+        "Real Humans"
+      ],
+      "es": [
+        "The Killing (Forbrydelsen)",
+        "Borgen",
+        "Occupied",
+        "Real Humans"
+      ],
+      "pt": [
+        "The Killing (Forbrydelsen)",
+        "Borgen",
+        "Occupied",
+        "Real Humans"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Diffusée à partir de 2007 au Danemark, elle a été adaptée aux États-Unis et copiée partout.",
+      "en": "Aired from 2007 in Denmark, it was remade in the United States and imitated everywhere.",
+      "es": "Emitida desde 2007 en Dinamarca, tuvo remake en Estados Unidos y copias por doquier.",
+      "pt": "Transmitida desde 2007 na Dinamarca, teve remake nos Estados Unidos e cópias por todo o lado."
+    }
+  },
+  {
+    "id": "cinema_0342",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel format d'image très large, popularisé dans les années 1950, était une réponse du cinéma à la télévision ?",
+      "en": "Which very wide picture format, popular in the 1950s, was cinema's answer to television?",
+      "es": "¿Qué formato de imagen muy ancho, popular en los años cincuenta, respondía a la televisión?",
+      "pt": "Que formato de imagem muito largo, popular nos anos 1950, respondia à televisão?"
+    },
+    "options": {
+      "fr": [
+        "Le CinemaScope",
+        "Le Technicolor",
+        "Le format carré",
+        "Le Dolby Vision"
+      ],
+      "en": [
+        "CinemaScope",
+        "Technicolor",
+        "The square format",
+        "Dolby Vision"
+      ],
+      "es": [
+        "El CinemaScope",
+        "El Technicolor",
+        "El formato cuadrado",
+        "El Dolby Vision"
+      ],
+      "pt": [
+        "O CinemaScope",
+        "O Technicolor",
+        "O formato quadrado",
+        "O Dolby Vision"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Technicolor concerne la couleur, pas le format : le CinemaScope, lui, élargit l'image.",
+      "en": "Technicolor is about colour, not shape: CinemaScope is what widened the image.",
+      "es": "El Technicolor es color, no formato: el CinemaScope es el que ensanchó la imagen.",
+      "pt": "O Technicolor é cor, não formato: o CinemaScope é que alargou a imagem."
+    }
   }
 ]

@@ -12706,5 +12706,1765 @@
       "es": "El agua se congela a 32 °F y hierve a 212 °F, es decir 0 °C y 100 °C.",
       "pt": "A água congela a 32 °F e ferve a 212 °F, ou seja 0 °C e 100 °C."
     }
+  },
+  {
+    "id": "culture_0297",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de touches blanches et noires compte une octave au piano ?",
+      "en": "How many white and black keys make up one octave on a piano?",
+      "es": "¿Cuántas teclas blancas y negras forman una octava en el piano?",
+      "pt": "Quantas teclas brancas e pretas formam uma oitava no piano?"
+    },
+    "options": {
+      "fr": [
+        "12",
+        "8",
+        "10",
+        "14"
+      ],
+      "en": [
+        "12",
+        "8",
+        "10",
+        "14"
+      ],
+      "es": [
+        "12",
+        "8",
+        "10",
+        "14"
+      ],
+      "pt": [
+        "12",
+        "8",
+        "10",
+        "14"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sept touches blanches et cinq noires : douze demi-tons par octave.",
+      "en": "Seven white keys and five black ones: twelve semitones per octave.",
+      "es": "Siete teclas blancas y cinco negras: doce semitonos por octava.",
+      "pt": "Sete teclas brancas e cinco pretas: doze semitons por oitava."
+    }
+  },
+  {
+    "id": "culture_0298",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel instrument à vent possède une anche double ?",
+      "en": "Which wind instrument has a double reed?",
+      "es": "¿Qué instrumento de viento tiene lengüeta doble?",
+      "pt": "Que instrumento de sopro tem palheta dupla?"
+    },
+    "options": {
+      "fr": [
+        "Le hautbois",
+        "La flûte traversière",
+        "La trompette",
+        "Le saxophone"
+      ],
+      "en": [
+        "The oboe",
+        "The flute",
+        "The trumpet",
+        "The saxophone"
+      ],
+      "es": [
+        "El oboe",
+        "La flauta travesera",
+        "La trompeta",
+        "El saxofón"
+      ],
+      "pt": [
+        "O oboé",
+        "A flauta transversal",
+        "O trompete",
+        "O saxofone"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le hautbois et le basson ont une anche double ; la clarinette et le saxophone, une anche simple.",
+      "en": "The oboe and bassoon use a double reed; the clarinet and saxophone use a single one.",
+      "es": "El oboe y el fagot tienen lengüeta doble; el clarinete y el saxofón, simple.",
+      "pt": "O oboé e o fagote têm palheta dupla; o clarinete e o saxofone, simples."
+    }
+  },
+  {
+    "id": "culture_0299",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le résultat de 15 % de 200 ?",
+      "en": "What is 15% of 200?",
+      "es": "¿Cuál es el 15 % de 200?",
+      "pt": "Quanto é 15 % de 200?"
+    },
+    "options": {
+      "fr": [
+        "30",
+        "15",
+        "25",
+        "35"
+      ],
+      "en": [
+        "30",
+        "15",
+        "25",
+        "35"
+      ],
+      "es": [
+        "30",
+        "15",
+        "25",
+        "35"
+      ],
+      "pt": [
+        "30",
+        "15",
+        "25",
+        "35"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "10 % de 200 font 20, 5 % font 10 : au total 30.",
+      "en": "10% of 200 is 20, 5% is 10: 30 in total.",
+      "es": "El 10 % de 200 son 20, el 5 % son 10: en total 30.",
+      "pt": "10 % de 200 são 20, 5 % são 10: no total 30."
+    }
+  },
+  {
+    "id": "culture_0300",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel organe du corps humain contient le plus d'eau en proportion ?",
+      "en": "Which human organ contains the highest proportion of water?",
+      "es": "¿Qué órgano del cuerpo humano contiene mayor proporción de agua?",
+      "pt": "Que órgão do corpo humano contém maior proporção de água?"
+    },
+    "options": {
+      "fr": [
+        "Le cerveau",
+        "Les os",
+        "La peau",
+        "Les dents"
+      ],
+      "en": [
+        "The brain",
+        "The bones",
+        "The skin",
+        "The teeth"
+      ],
+      "es": [
+        "El cerebro",
+        "Los huesos",
+        "La piel",
+        "Los dientes"
+      ],
+      "pt": [
+        "O cérebro",
+        "Os ossos",
+        "A pele",
+        "Os dentes"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le cerveau est composé d'environ 75 % d'eau, davantage que la peau ou les os.",
+      "en": "The brain is around 75% water, more than skin or bone.",
+      "es": "El cerebro está compuesto por un 75 % de agua, más que la piel o los huesos.",
+      "pt": "O cérebro é composto por cerca de 75 % de água, mais do que a pele ou os ossos."
+    }
+  },
+  {
+    "id": "culture_0301",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle plante donne le riz ?",
+      "en": "Which plant produces rice?",
+      "es": "¿Qué planta produce el arroz?",
+      "pt": "Que planta produz o arroz?"
+    },
+    "options": {
+      "fr": [
+        "Une graminée",
+        "Un arbre fruitier",
+        "Une légumineuse",
+        "Un cactus"
+      ],
+      "en": [
+        "A grass",
+        "A fruit tree",
+        "A legume",
+        "A cactus"
+      ],
+      "es": [
+        "Una gramínea",
+        "Un árbol frutal",
+        "Una legumbre",
+        "Un cactus"
+      ],
+      "pt": [
+        "Uma gramínea",
+        "Uma árvore de fruto",
+        "Uma leguminosa",
+        "Um cato"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le riz est une céréale, donc une graminée, cultivée le plus souvent en rizière inondée.",
+      "en": "Rice is a cereal, hence a grass, usually grown in flooded paddies.",
+      "es": "El arroz es un cereal, por tanto una gramínea, cultivada en arrozales inundados.",
+      "pt": "O arroz é um cereal, logo uma gramínea, cultivado em arrozais alagados."
+    }
+  },
+  {
+    "id": "culture_0302",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de degrés compte un angle droit ?",
+      "en": "How many degrees are there in a right angle?",
+      "es": "¿Cuántos grados tiene un ángulo recto?",
+      "pt": "Quantos graus tem um ângulo reto?"
+    },
+    "options": {
+      "fr": [
+        "90",
+        "45",
+        "180",
+        "360"
+      ],
+      "en": [
+        "90",
+        "45",
+        "180",
+        "360"
+      ],
+      "es": [
+        "90",
+        "45",
+        "180",
+        "360"
+      ],
+      "pt": [
+        "90",
+        "45",
+        "180",
+        "360"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Un angle droit fait 90°, un angle plat 180° et un tour complet 360°.",
+      "en": "A right angle is 90°, a straight angle 180° and a full turn 360°.",
+      "es": "Un ángulo recto mide 90°, uno llano 180° y una vuelta completa 360°.",
+      "pt": "Um ângulo reto mede 90°, um raso 180° e uma volta completa 360°."
+    }
+  },
+  {
+    "id": "culture_0303",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle est la monnaie de la Suisse ?",
+      "en": "What is the currency of Switzerland?",
+      "es": "¿Cuál es la moneda de Suiza?",
+      "pt": "Qual é a moeda da Suíça?"
+    },
+    "options": {
+      "fr": [
+        "Le franc suisse",
+        "L'euro",
+        "La couronne",
+        "Le florin"
+      ],
+      "en": [
+        "The Swiss franc",
+        "The euro",
+        "The krona",
+        "The florin"
+      ],
+      "es": [
+        "El franco suizo",
+        "El euro",
+        "La corona",
+        "El florín"
+      ],
+      "pt": [
+        "O franco suíço",
+        "O euro",
+        "A coroa",
+        "O florim"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La Suisse n'appartient pas à la zone euro et conserve son franc.",
+      "en": "Switzerland is not in the eurozone and keeps its franc.",
+      "es": "Suiza no pertenece a la zona euro y conserva su franco.",
+      "pt": "A Suíça não pertence à zona euro e mantém o seu franco."
+    }
+  },
+  {
+    "id": "culture_0304",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que mesure un baromètre ?",
+      "en": "What does a barometer measure?",
+      "es": "¿Qué mide un barómetro?",
+      "pt": "O que mede um barómetro?"
+    },
+    "options": {
+      "fr": [
+        "La pression atmosphérique",
+        "La température",
+        "L'humidité",
+        "La vitesse du vent"
+      ],
+      "en": [
+        "Atmospheric pressure",
+        "Temperature",
+        "Humidity",
+        "Wind speed"
+      ],
+      "es": [
+        "La presión atmosférica",
+        "La temperatura",
+        "La humedad",
+        "La velocidad del viento"
+      ],
+      "pt": [
+        "A pressão atmosférica",
+        "A temperatura",
+        "A humidade",
+        "A velocidade do vento"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Une pression qui chute annonce souvent l'arrivée d'une perturbation.",
+      "en": "Falling pressure often signals an approaching weather system.",
+      "es": "Una presión que cae suele anunciar la llegada de una perturbación.",
+      "pt": "Uma pressão que desce anuncia muitas vezes a chegada de uma perturbação."
+    }
+  },
+  {
+    "id": "culture_0306",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel animal change de couleur pour se camoufler ?",
+      "en": "Which animal changes colour to camouflage itself?",
+      "es": "¿Qué animal cambia de color para camuflarse?",
+      "pt": "Que animal muda de cor para se camuflar?"
+    },
+    "options": {
+      "fr": [
+        "Le caméléon",
+        "Le kangourou",
+        "Le castor",
+        "Le hérisson"
+      ],
+      "en": [
+        "The chameleon",
+        "The kangaroo",
+        "The beaver",
+        "The hedgehog"
+      ],
+      "es": [
+        "El camaleón",
+        "El canguro",
+        "El castor",
+        "El erizo"
+      ],
+      "pt": [
+        "O camaleão",
+        "O canguru",
+        "O castor",
+        "O ouriço"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le caméléon change surtout de teinte pour communiquer et réguler sa température, pas seulement pour se cacher.",
+      "en": "Chameleons change colour mainly to communicate and regulate temperature, not only to hide.",
+      "es": "El camaleón cambia de color sobre todo para comunicarse y regular su temperatura.",
+      "pt": "O camaleão muda de cor sobretudo para comunicar e regular a temperatura."
+    }
+  },
+  {
+    "id": "culture_0307",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le plus grand os du corps humain ?",
+      "en": "Which is the largest bone in the human body?",
+      "es": "¿Cuál es el hueso más grande del cuerpo humano?",
+      "pt": "Qual é o maior osso do corpo humano?"
+    },
+    "options": {
+      "fr": [
+        "Le fémur",
+        "Le tibia",
+        "L'humérus",
+        "Le bassin"
+      ],
+      "en": [
+        "The femur",
+        "The tibia",
+        "The humerus",
+        "The pelvis"
+      ],
+      "es": [
+        "El fémur",
+        "La tibia",
+        "El húmero",
+        "La pelvis"
+      ],
+      "pt": [
+        "O fémur",
+        "A tíbia",
+        "O úmero",
+        "A bacia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le fémur, os de la cuisse, mesure environ un quart de la taille d'un adulte.",
+      "en": "The femur, the thigh bone, is about a quarter of an adult's height.",
+      "es": "El fémur, hueso del muslo, mide cerca de un cuarto de la altura de un adulto.",
+      "pt": "O fémur, osso da coxa, mede cerca de um quarto da altura de um adulto."
+    }
+  },
+  {
+    "id": "culture_0308",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans quel pays se trouve le Taj Mahal ?",
+      "en": "In which country is the Taj Mahal?",
+      "es": "¿En qué país se encuentra el Taj Mahal?",
+      "pt": "Em que país fica o Taj Mahal?"
+    },
+    "options": {
+      "fr": [
+        "En Inde",
+        "Au Pakistan",
+        "En Iran",
+        "Au Bangladesh"
+      ],
+      "en": [
+        "India",
+        "Pakistan",
+        "Iran",
+        "Bangladesh"
+      ],
+      "es": [
+        "En la India",
+        "En Pakistán",
+        "En Irán",
+        "En Bangladés"
+      ],
+      "pt": [
+        "Na Índia",
+        "No Paquistão",
+        "No Irão",
+        "No Bangladesh"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ce mausolée de marbre blanc a été bâti à Agra au XVIIe siècle.",
+      "en": "This white marble mausoleum was built in Agra in the 17th century.",
+      "es": "Este mausoleo de mármol blanco se construyó en Agra en el siglo XVII.",
+      "pt": "Este mausoléu de mármore branco foi construído em Agra no século XVII."
+    }
+  },
+  {
+    "id": "culture_0309",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel gaz forme la couche qui protège la Terre des ultraviolets ?",
+      "en": "Which gas forms the layer protecting Earth from ultraviolet rays?",
+      "es": "¿Qué gas forma la capa que protege la Tierra de los ultravioleta?",
+      "pt": "Que gás forma a camada que protege a Terra dos ultravioletas?"
+    },
+    "options": {
+      "fr": [
+        "L'ozone",
+        "Le méthane",
+        "L'argon",
+        "L'hélium"
+      ],
+      "en": [
+        "Ozone",
+        "Methane",
+        "Argon",
+        "Helium"
+      ],
+      "es": [
+        "El ozono",
+        "El metano",
+        "El argón",
+        "El helio"
+      ],
+      "pt": [
+        "O ozono",
+        "O metano",
+        "O árgon",
+        "O hélio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La couche d'ozone, dans la stratosphère, absorbe l'essentiel des UV nocifs.",
+      "en": "The ozone layer, in the stratosphere, absorbs most harmful UV rays.",
+      "es": "La capa de ozono, en la estratosfera, absorbe la mayoría de los UV nocivos.",
+      "pt": "A camada de ozono, na estratosfera, absorve a maioria dos UV nocivos."
+    }
+  },
+  {
+    "id": "culture_0310",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de cordes possède une harpe de concert (environ) ?",
+      "en": "Roughly how many strings does a concert harp have?",
+      "es": "¿Cuántas cuerdas tiene aproximadamente un arpa de concierto?",
+      "pt": "Quantas cordas tem aproximadamente uma harpa de concerto?"
+    },
+    "options": {
+      "fr": [
+        "47",
+        "12",
+        "24",
+        "88"
+      ],
+      "en": [
+        "47",
+        "12",
+        "24",
+        "88"
+      ],
+      "es": [
+        "47",
+        "12",
+        "24",
+        "88"
+      ],
+      "pt": [
+        "47",
+        "12",
+        "24",
+        "88"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La harpe à pédales de concert compte 47 cordes et 7 pédales.",
+      "en": "The concert pedal harp has 47 strings and 7 pedals.",
+      "es": "El arpa de pedales de concierto tiene 47 cuerdas y 7 pedales.",
+      "pt": "A harpa de pedais de concerto tem 47 cordas e 7 pedais."
+    }
+  },
+  {
+    "id": "culture_0311",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel animal est le symbole du World Wide Fund for Nature (WWF) ?",
+      "en": "Which animal is the symbol of the World Wide Fund for Nature (WWF)?",
+      "es": "¿Qué animal es el símbolo del Fondo Mundial para la Naturaleza (WWF)?",
+      "pt": "Que animal é o símbolo do Fundo Mundial para a Natureza (WWF)?"
+    },
+    "options": {
+      "fr": [
+        "Le panda géant",
+        "Le tigre",
+        "L'ours polaire",
+        "L'éléphant"
+      ],
+      "en": [
+        "The giant panda",
+        "The tiger",
+        "The polar bear",
+        "The elephant"
+      ],
+      "es": [
+        "El panda gigante",
+        "El tigre",
+        "El oso polar",
+        "El elefante"
+      ],
+      "pt": [
+        "O panda-gigante",
+        "O tigre",
+        "O urso polar",
+        "O elefante"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le panda a été choisi en 1961 : son noir et blanc permettait une impression peu coûteuse.",
+      "en": "The panda was chosen in 1961: its black and white made printing cheap.",
+      "es": "El panda fue elegido en 1961: su blanco y negro abarataba la impresión.",
+      "pt": "O panda foi escolhido em 1961: o preto e branco baratava a impressão."
+    }
+  },
+  {
+    "id": "culture_0312",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le sens de rotation des aiguilles d'une montre vu de face ?",
+      "en": "Which way do clock hands turn when seen from the front?",
+      "es": "¿En qué sentido giran las agujas de un reloj visto de frente?",
+      "pt": "Em que sentido giram os ponteiros de um relógio visto de frente?"
+    },
+    "options": {
+      "fr": [
+        "De la gauche vers la droite en passant par le haut",
+        "De la droite vers la gauche",
+        "Elles alternent",
+        "Cela dépend du modèle"
+      ],
+      "en": [
+        "From left to right, passing through the top",
+        "From right to left",
+        "They alternate",
+        "It depends on the model"
+      ],
+      "es": [
+        "De izquierda a derecha, pasando por arriba",
+        "De derecha a izquierda",
+        "Alternan",
+        "Depende del modelo"
+      ],
+      "pt": [
+        "Da esquerda para a direita, passando por cima",
+        "Da direita para a esquerda",
+        "Alternam",
+        "Depende do modelo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ce sens reprend celui de l'ombre d'un cadran solaire dans l'hémisphère nord.",
+      "en": "This direction copies the shadow of a sundial in the northern hemisphere.",
+      "es": "Este sentido reproduce la sombra de un reloj de sol en el hemisferio norte.",
+      "pt": "Este sentido reproduz a sombra de um relógio de sol no hemisfério norte."
+    }
+  },
+  {
+    "id": "culture_0313",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle est la capitale de la Finlande ?",
+      "en": "What is the capital of Finland?",
+      "es": "¿Cuál es la capital de Finlandia?",
+      "pt": "Qual é a capital da Finlândia?"
+    },
+    "options": {
+      "fr": [
+        "Helsinki",
+        "Reykjavik",
+        "Tallinn",
+        "Riga"
+      ],
+      "en": [
+        "Helsinki",
+        "Reykjavik",
+        "Tallinn",
+        "Riga"
+      ],
+      "es": [
+        "Helsinki",
+        "Reikiavik",
+        "Tallin",
+        "Riga"
+      ],
+      "pt": [
+        "Helsínquia",
+        "Reiquiavique",
+        "Talin",
+        "Riga"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Helsinki borde le golfe de Finlande, face à Tallinn en Estonie.",
+      "en": "Helsinki sits on the Gulf of Finland, opposite Tallinn in Estonia.",
+      "es": "Helsinki está en el golfo de Finlandia, frente a Tallin, en Estonia.",
+      "pt": "Helsínquia fica no golfo da Finlândia, em frente a Talin, na Estónia."
+    }
+  },
+  {
+    "id": "culture_0314",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel liquide les abeilles récoltent-elles sur les fleurs ?",
+      "en": "Which liquid do bees collect from flowers?",
+      "es": "¿Qué líquido recogen las abejas de las flores?",
+      "pt": "Que líquido as abelhas recolhem das flores?"
+    },
+    "options": {
+      "fr": [
+        "Le nectar",
+        "La sève",
+        "La rosée",
+        "L'huile"
+      ],
+      "en": [
+        "Nectar",
+        "Sap",
+        "Dew",
+        "Oil"
+      ],
+      "es": [
+        "El néctar",
+        "La savia",
+        "El rocío",
+        "El aceite"
+      ],
+      "pt": [
+        "O néctar",
+        "A seiva",
+        "O orvalho",
+        "O óleo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le nectar est transformé en miel dans la ruche ; le pollen, lui, nourrit les larves.",
+      "en": "Nectar becomes honey in the hive; pollen feeds the larvae.",
+      "es": "El néctar se convierte en miel en la colmena; el polen alimenta a las larvas.",
+      "pt": "O néctar transforma-se em mel na colmeia; o pólen alimenta as larvas."
+    }
+  },
+  {
+    "id": "culture_0315",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de secondes y a-t-il dans une heure ?",
+      "en": "How many seconds are there in one hour?",
+      "es": "¿Cuántos segundos hay en una hora?",
+      "pt": "Quantos segundos há numa hora?"
+    },
+    "options": {
+      "fr": [
+        "3 600",
+        "1 000",
+        "600",
+        "6 000"
+      ],
+      "en": [
+        "3,600",
+        "1,000",
+        "600",
+        "6,000"
+      ],
+      "es": [
+        "3600",
+        "1000",
+        "600",
+        "6000"
+      ],
+      "pt": [
+        "3600",
+        "1000",
+        "600",
+        "6000"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "60 secondes × 60 minutes = 3 600 secondes.",
+      "en": "60 seconds × 60 minutes = 3,600 seconds.",
+      "es": "60 segundos × 60 minutos = 3600 segundos.",
+      "pt": "60 segundos × 60 minutos = 3600 segundos."
+    }
+  },
+  {
+    "id": "culture_0316",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel arbre produit les glands ?",
+      "en": "Which tree produces acorns?",
+      "es": "¿Qué árbol produce las bellotas?",
+      "pt": "Que árvore produz as bolotas?"
+    },
+    "options": {
+      "fr": [
+        "Le chêne",
+        "Le hêtre",
+        "Le bouleau",
+        "Le platane"
+      ],
+      "en": [
+        "The oak",
+        "The beech",
+        "The birch",
+        "The plane tree"
+      ],
+      "es": [
+        "El roble",
+        "El haya",
+        "El abedul",
+        "El plátano"
+      ],
+      "pt": [
+        "O carvalho",
+        "A faia",
+        "A bétula",
+        "O plátano"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le gland est le fruit du chêne ; la faîne est celui du hêtre.",
+      "en": "The acorn is the oak's fruit; the beechnut belongs to the beech.",
+      "es": "La bellota es el fruto del roble; el hayuco, el del haya.",
+      "pt": "A bolota é o fruto do carvalho; a faia dá a fáia."
+    }
+  },
+  {
+    "id": "culture_0317",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel compositeur allemand a écrit la « Neuvième Symphonie », dont est tiré l'hymne européen ?",
+      "en": "Which German composer wrote the Ninth Symphony, source of the European anthem?",
+      "es": "¿Qué compositor alemán escribió la Novena Sinfonía, de la que procede el himno europeo?",
+      "pt": "Que compositor alemão escreveu a Nona Sinfonia, de onde vem o hino europeu?"
+    },
+    "options": {
+      "fr": [
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Johannes Brahms",
+        "Richard Wagner"
+      ],
+      "en": [
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Johannes Brahms",
+        "Richard Wagner"
+      ],
+      "es": [
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Johannes Brahms",
+        "Richard Wagner"
+      ],
+      "pt": [
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Johannes Brahms",
+        "Richard Wagner"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'« Hymne à la joie » du 4e mouvement est devenu l'hymne de l'Union européenne en 1985.",
+      "en": "The \"Ode to Joy\" from the fourth movement became the EU anthem in 1985.",
+      "es": "El «Himno a la alegría» del cuarto movimiento es el himno de la UE desde 1985.",
+      "pt": "O «Hino à Alegria» do quarto andamento é o hino da UE desde 1985."
+    }
+  },
+  {
+    "id": "culture_0318",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel écrivain russe a écrit « Guerre et Paix » ?",
+      "en": "Which Russian writer wrote \"War and Peace\"?",
+      "es": "¿Qué escritor ruso escribió «Guerra y paz»?",
+      "pt": "Que escritor russo escreveu «Guerra e Paz»?"
+    },
+    "options": {
+      "fr": [
+        "Léon Tolstoï",
+        "Fiodor Dostoïevski",
+        "Anton Tchekhov",
+        "Nikolaï Gogol"
+      ],
+      "en": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Anton Chekhov",
+        "Nikolai Gogol"
+      ],
+      "es": [
+        "León Tolstói",
+        "Fiódor Dostoyevski",
+        "Antón Chéjov",
+        "Nikolái Gógol"
+      ],
+      "pt": [
+        "Lev Tolstói",
+        "Fiódor Dostoiévski",
+        "Anton Tchékhov",
+        "Nikolai Gogol"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Publié entre 1865 et 1869, le roman suit cinq familles pendant les guerres napoléoniennes.",
+      "en": "Published between 1865 and 1869, the novel follows five families during the Napoleonic wars.",
+      "es": "Publicada entre 1865 y 1869, la novela sigue a cinco familias durante las guerras napoleónicas.",
+      "pt": "Publicado entre 1865 e 1869, o romance segue cinco famílias durante as guerras napoleónicas."
+    }
+  },
+  {
+    "id": "culture_0319",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le seul nombre premier pair ?",
+      "en": "Which is the only even prime number?",
+      "es": "¿Cuál es el único número primo par?",
+      "pt": "Qual é o único número primo par?"
+    },
+    "options": {
+      "fr": [
+        "2",
+        "0",
+        "4",
+        "Il n'y en a aucun"
+      ],
+      "en": [
+        "2",
+        "0",
+        "4",
+        "There is none"
+      ],
+      "es": [
+        "2",
+        "0",
+        "4",
+        "No hay ninguno"
+      ],
+      "pt": [
+        "2",
+        "0",
+        "4",
+        "Não existe nenhum"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Tout autre nombre pair est divisible par 2, donc non premier.",
+      "en": "Every other even number is divisible by 2, so not prime.",
+      "es": "Cualquier otro número par es divisible entre 2, luego no es primo.",
+      "pt": "Qualquer outro número par é divisível por 2, logo não é primo."
+    }
+  },
+  {
+    "id": "culture_0320",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle unité mesure la quantité d'information numérique la plus petite ?",
+      "en": "Which unit measures the smallest amount of digital information?",
+      "es": "¿Qué unidad mide la menor cantidad de información digital?",
+      "pt": "Que unidade mede a menor quantidade de informação digital?"
+    },
+    "options": {
+      "fr": [
+        "Le bit",
+        "L'octet",
+        "Le hertz",
+        "Le pixel"
+      ],
+      "en": [
+        "The bit",
+        "The byte",
+        "The hertz",
+        "The pixel"
+      ],
+      "es": [
+        "El bit",
+        "El byte",
+        "El hercio",
+        "El píxel"
+      ],
+      "pt": [
+        "O bit",
+        "O byte",
+        "O hertz",
+        "O pixel"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Un bit vaut 0 ou 1 ; un octet en regroupe huit.",
+      "en": "A bit is 0 or 1; a byte groups eight of them.",
+      "es": "Un bit vale 0 o 1; un byte agrupa ocho.",
+      "pt": "Um bit vale 0 ou 1; um byte agrupa oito."
+    }
+  },
+  {
+    "id": "culture_0321",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel scientifique a énoncé les trois lois du mouvement et la loi de la gravitation universelle ?",
+      "en": "Which scientist stated the three laws of motion and universal gravitation?",
+      "es": "¿Qué científico enunció las tres leyes del movimiento y la gravitación universal?",
+      "pt": "Que cientista enunciou as três leis do movimento e a gravitação universal?"
+    },
+    "options": {
+      "fr": [
+        "Isaac Newton",
+        "Galilée",
+        "Johannes Kepler",
+        "Blaise Pascal"
+      ],
+      "en": [
+        "Isaac Newton",
+        "Galileo",
+        "Johannes Kepler",
+        "Blaise Pascal"
+      ],
+      "es": [
+        "Isaac Newton",
+        "Galileo",
+        "Johannes Kepler",
+        "Blaise Pascal"
+      ],
+      "pt": [
+        "Isaac Newton",
+        "Galileu",
+        "Johannes Kepler",
+        "Blaise Pascal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Newton les publie en 1687 dans les « Principia », fondation de la mécanique classique.",
+      "en": "Newton published them in 1687 in the \"Principia\", the foundation of classical mechanics.",
+      "es": "Newton las publicó en 1687 en los «Principia», base de la mecánica clásica.",
+      "pt": "Newton publicou-as em 1687 nos «Principia», base da mecânica clássica."
+    }
+  },
+  {
+    "id": "culture_0322",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle religion compte le plus de fidèles dans le monde ?",
+      "en": "Which religion has the most followers worldwide?",
+      "es": "¿Qué religión tiene más fieles en el mundo?",
+      "pt": "Que religião tem mais fiéis no mundo?"
+    },
+    "options": {
+      "fr": [
+        "Le christianisme",
+        "L'islam",
+        "L'hindouisme",
+        "Le bouddhisme"
+      ],
+      "en": [
+        "Christianity",
+        "Islam",
+        "Hinduism",
+        "Buddhism"
+      ],
+      "es": [
+        "El cristianismo",
+        "El islam",
+        "El hinduismo",
+        "El budismo"
+      ],
+      "pt": [
+        "O cristianismo",
+        "O islão",
+        "O hinduísmo",
+        "O budismo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le christianisme rassemble environ 2,4 milliards de fidèles, devant l'islam avec près de 2 milliards.",
+      "en": "Christianity has around 2.4 billion followers, ahead of Islam with close to 2 billion.",
+      "es": "El cristianismo reúne unos 2400 millones de fieles, por delante del islam con casi 2000 millones.",
+      "pt": "O cristianismo reúne cerca de 2,4 mil milhões de fiéis, à frente do islão com quase 2 mil milhões."
+    }
+  },
+  {
+    "id": "culture_0323",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel physicien a formulé le principe d'incertitude en mécanique quantique ?",
+      "en": "Which physicist formulated the uncertainty principle in quantum mechanics?",
+      "es": "¿Qué físico formuló el principio de incertidumbre en mecánica cuántica?",
+      "pt": "Que físico formulou o princípio da incerteza na mecânica quântica?"
+    },
+    "options": {
+      "fr": [
+        "Werner Heisenberg",
+        "Niels Bohr",
+        "Erwin Schrödinger",
+        "Max Planck"
+      ],
+      "en": [
+        "Werner Heisenberg",
+        "Niels Bohr",
+        "Erwin Schrödinger",
+        "Max Planck"
+      ],
+      "es": [
+        "Werner Heisenberg",
+        "Niels Bohr",
+        "Erwin Schrödinger",
+        "Max Planck"
+      ],
+      "pt": [
+        "Werner Heisenberg",
+        "Niels Bohr",
+        "Erwin Schrödinger",
+        "Max Planck"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Énoncé en 1927 : on ne peut connaître simultanément la position et la vitesse d'une particule avec une précision arbitraire.",
+      "en": "Stated in 1927: a particle's position and momentum cannot both be known with arbitrary precision.",
+      "es": "Enunciado en 1927: no se pueden conocer a la vez la posición y la velocidad con precisión arbitraria.",
+      "pt": "Enunciado em 1927: não se podem conhecer ao mesmo tempo a posição e a velocidade com precisão arbitrária."
+    }
+  },
+  {
+    "id": "culture_0324",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est la langue officielle la plus parlée en Afrique en nombre de pays ?",
+      "en": "Which official language is used in the most African countries?",
+      "es": "¿Qué lengua oficial se usa en más países africanos?",
+      "pt": "Que língua oficial é usada em mais países africanos?"
+    },
+    "options": {
+      "fr": [
+        "Le français",
+        "L'anglais",
+        "L'arabe",
+        "Le portugais"
+      ],
+      "en": [
+        "French",
+        "English",
+        "Arabic",
+        "Portuguese"
+      ],
+      "es": [
+        "El francés",
+        "El inglés",
+        "El árabe",
+        "El portugués"
+      ],
+      "pt": [
+        "O francês",
+        "O inglês",
+        "O árabe",
+        "O português"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le français est langue officielle dans une vingtaine de pays africains, héritage colonial.",
+      "en": "French is an official language in around twenty African countries, a colonial legacy.",
+      "es": "El francés es lengua oficial en una veintena de países africanos, herencia colonial.",
+      "pt": "O francês é língua oficial em cerca de vinte países africanos, herança colonial."
+    }
+  },
+  {
+    "id": "culture_0325",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Combien de temps dure une année sur Mars, en jours terrestres ?",
+      "en": "How long is a year on Mars, in Earth days?",
+      "es": "¿Cuánto dura un año en Marte, en días terrestres?",
+      "pt": "Quanto dura um ano em Marte, em dias terrestres?"
+    },
+    "options": {
+      "fr": [
+        "Environ 687 jours",
+        "Environ 365 jours",
+        "Environ 225 jours",
+        "Environ 1 200 jours"
+      ],
+      "en": [
+        "About 687 days",
+        "About 365 days",
+        "About 225 days",
+        "About 1,200 days"
+      ],
+      "es": [
+        "Unos 687 días",
+        "Unos 365 días",
+        "Unos 225 días",
+        "Unos 1200 días"
+      ],
+      "pt": [
+        "Cerca de 687 dias",
+        "Cerca de 365 dias",
+        "Cerca de 225 dias",
+        "Cerca de 1200 dias"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Plus éloignée du Soleil, Mars met presque deux fois plus de temps que la Terre à en faire le tour.",
+      "en": "Being farther from the Sun, Mars takes almost twice as long as Earth to orbit it.",
+      "es": "Al estar más lejos del Sol, Marte tarda casi el doble que la Tierra en orbitarlo.",
+      "pt": "Estando mais longe do Sol, Marte demora quase o dobro da Terra a orbitá-lo."
+    }
+  },
+  {
+    "id": "culture_0326",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est l'organe le plus lourd du corps humain (organe interne) ?",
+      "en": "Which is the heaviest internal organ in the human body?",
+      "es": "¿Cuál es el órgano interno más pesado del cuerpo humano?",
+      "pt": "Qual é o órgão interno mais pesado do corpo humano?"
+    },
+    "options": {
+      "fr": [
+        "Le foie",
+        "Le cerveau",
+        "Les poumons",
+        "Le cœur"
+      ],
+      "en": [
+        "The liver",
+        "The brain",
+        "The lungs",
+        "The heart"
+      ],
+      "es": [
+        "El hígado",
+        "El cerebro",
+        "Los pulmones",
+        "El corazón"
+      ],
+      "pt": [
+        "O fígado",
+        "O cérebro",
+        "Os pulmões",
+        "O coração"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le foie pèse environ 1,5 kg. La peau reste l'organe le plus lourd, mais elle est externe.",
+      "en": "The liver weighs about 1.5 kg. The skin is heavier, but it is an external organ.",
+      "es": "El hígado pesa unos 1,5 kg. La piel pesa más, pero es un órgano externo.",
+      "pt": "O fígado pesa cerca de 1,5 kg. A pele pesa mais, mas é um órgão externo."
+    }
+  },
+  {
+    "id": "culture_0327",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel traité de 1992 a créé l'Union européenne ?",
+      "en": "Which 1992 treaty created the European Union?",
+      "es": "¿Qué tratado de 1992 creó la Unión Europea?",
+      "pt": "Que tratado de 1992 criou a União Europeia?"
+    },
+    "options": {
+      "fr": [
+        "Le traité de Maastricht",
+        "Le traité de Lisbonne",
+        "Le traité de Nice",
+        "Le traité d'Amsterdam"
+      ],
+      "en": [
+        "The Maastricht Treaty",
+        "The Treaty of Lisbon",
+        "The Treaty of Nice",
+        "The Treaty of Amsterdam"
+      ],
+      "es": [
+        "El Tratado de Maastricht",
+        "El Tratado de Lisboa",
+        "El Tratado de Niza",
+        "El Tratado de Ámsterdam"
+      ],
+      "pt": [
+        "O Tratado de Maastricht",
+        "O Tratado de Lisboa",
+        "O Tratado de Nice",
+        "O Tratado de Amesterdão"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Signé aux Pays-Bas en 1992, il institue l'Union européenne et prépare la monnaie unique.",
+      "en": "Signed in the Netherlands in 1992, it established the EU and paved the way for the single currency.",
+      "es": "Firmado en los Países Bajos en 1992, instituye la UE y prepara la moneda única.",
+      "pt": "Assinado nos Países Baixos em 1992, institui a UE e prepara a moeda única."
+    }
+  },
+  {
+    "id": "culture_0328",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est la plus grande forêt tropicale du monde ?",
+      "en": "Which is the world's largest tropical rainforest?",
+      "es": "¿Cuál es la mayor selva tropical del mundo?",
+      "pt": "Qual é a maior floresta tropical do mundo?"
+    },
+    "options": {
+      "fr": [
+        "L'Amazonie",
+        "Le bassin du Congo",
+        "La forêt de Bornéo",
+        "La forêt de Sumatra"
+      ],
+      "en": [
+        "The Amazon",
+        "The Congo Basin",
+        "The Borneo rainforest",
+        "The Sumatra rainforest"
+      ],
+      "es": [
+        "La Amazonia",
+        "La cuenca del Congo",
+        "La selva de Borneo",
+        "La selva de Sumatra"
+      ],
+      "pt": [
+        "A Amazónia",
+        "A bacia do Congo",
+        "A floresta do Bornéu",
+        "A floresta de Samatra"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'Amazonie s'étend sur environ 5,5 millions de km², dont 60 % au Brésil.",
+      "en": "The Amazon covers about 5.5 million km², around 60% of it in Brazil.",
+      "es": "La Amazonia se extiende sobre unos 5,5 millones de km², el 60 % en Brasil.",
+      "pt": "A Amazónia estende-se por cerca de 5,5 milhões de km², 60 % no Brasil."
+    }
+  },
+  {
+    "id": "culture_0329",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel prix Nobel n'a PAS été créé par le testament d'Alfred Nobel ?",
+      "en": "Which Nobel Prize was NOT created by Alfred Nobel's will?",
+      "es": "¿Qué premio Nobel NO fue creado por el testamento de Alfred Nobel?",
+      "pt": "Que prémio Nobel NÃO foi criado pelo testamento de Alfred Nobel?"
+    },
+    "options": {
+      "fr": [
+        "Le prix d'économie",
+        "Le prix de physique",
+        "Le prix de la paix",
+        "Le prix de littérature"
+      ],
+      "en": [
+        "The economics prize",
+        "The physics prize",
+        "The peace prize",
+        "The literature prize"
+      ],
+      "es": [
+        "El premio de economía",
+        "El de física",
+        "El de la paz",
+        "El de literatura"
+      ],
+      "pt": [
+        "O prémio de economia",
+        "O de física",
+        "O da paz",
+        "O de literatura"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le prix d'économie a été créé en 1968 par la Banque de Suède « en mémoire d'Alfred Nobel ».",
+      "en": "The economics prize was created in 1968 by Sweden's central bank \"in memory of Alfred Nobel\".",
+      "es": "El de economía fue creado en 1968 por el Banco de Suecia «en memoria de Alfred Nobel».",
+      "pt": "O de economia foi criado em 1968 pelo Banco da Suécia «em memória de Alfred Nobel»."
+    }
+  },
+  {
+    "id": "culture_0330",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle mer, la plus salée au monde parmi les grandes étendues, empêche presque de couler ?",
+      "en": "Which sea, the saltiest large body of water, makes it almost impossible to sink?",
+      "es": "¿Qué mar, el más salado entre las grandes extensiones, impide casi hundirse?",
+      "pt": "Que mar, o mais salgado entre as grandes extensões, quase impede de afundar?"
+    },
+    "options": {
+      "fr": [
+        "La mer Morte",
+        "La mer Rouge",
+        "La mer Baltique",
+        "La mer Noire"
+      ],
+      "en": [
+        "The Dead Sea",
+        "The Red Sea",
+        "The Baltic Sea",
+        "The Black Sea"
+      ],
+      "es": [
+        "El mar Muerto",
+        "El mar Rojo",
+        "El mar Báltico",
+        "El mar Negro"
+      ],
+      "pt": [
+        "O mar Morto",
+        "O mar Vermelho",
+        "O mar Báltico",
+        "O mar Negro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sa salinité, près de dix fois celle des océans, rend l'eau si dense que le corps flotte.",
+      "en": "Its salinity, nearly ten times that of the oceans, makes the water dense enough to float on.",
+      "es": "Su salinidad, casi diez veces la de los océanos, hace el agua tan densa que el cuerpo flota.",
+      "pt": "A salinidade, quase dez vezes a dos oceanos, torna a água tão densa que o corpo flutua."
+    }
+  },
+  {
+    "id": "culture_0331",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel empire, dirigé par Gengis Khan puis ses héritiers, fut le plus vaste empire d'un seul tenant de l'histoire ?",
+      "en": "Which empire, led by Genghis Khan and his heirs, was history's largest contiguous empire?",
+      "es": "¿Qué imperio, dirigido por Gengis Kan y sus herederos, fue el mayor imperio contiguo de la historia?",
+      "pt": "Que império, liderado por Gengis Khan e herdeiros, foi o maior império contíguo da história?"
+    },
+    "options": {
+      "fr": [
+        "L'Empire mongol",
+        "L'Empire romain",
+        "L'Empire ottoman",
+        "L'Empire perse"
+      ],
+      "en": [
+        "The Mongol Empire",
+        "The Roman Empire",
+        "The Ottoman Empire",
+        "The Persian Empire"
+      ],
+      "es": [
+        "El Imperio mongol",
+        "El Imperio romano",
+        "El Imperio otomano",
+        "El Imperio persa"
+      ],
+      "pt": [
+        "O Império mongol",
+        "O Império romano",
+        "O Império otomano",
+        "O Império persa"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Au XIIIe siècle, il s'étendait de la Corée à l'Europe de l'Est, d'un seul tenant.",
+      "en": "In the 13th century it stretched unbroken from Korea to Eastern Europe.",
+      "es": "En el siglo XIII se extendía sin interrupción desde Corea hasta Europa del Este.",
+      "pt": "No século XIII estendia-se sem interrupção da Coreia à Europa de Leste."
+    }
+  },
+  {
+    "id": "culture_0332",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel élément chimique porte le symbole « Hg » ?",
+      "en": "Which chemical element has the symbol \"Hg\"?",
+      "es": "¿Qué elemento químico tiene el símbolo «Hg»?",
+      "pt": "Que elemento químico tem o símbolo «Hg»?"
+    },
+    "options": {
+      "fr": [
+        "Le mercure",
+        "L'hydrogène",
+        "L'hafnium",
+        "L'hélium"
+      ],
+      "en": [
+        "Mercury",
+        "Hydrogen",
+        "Hafnium",
+        "Helium"
+      ],
+      "es": [
+        "El mercurio",
+        "El hidrógeno",
+        "El hafnio",
+        "El helio"
+      ],
+      "pt": [
+        "O mercúrio",
+        "O hidrogénio",
+        "O háfnio",
+        "O hélio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Hg » vient du latin hydrargyrum, « argent liquide ».",
+      "en": "\"Hg\" comes from the Latin hydrargyrum, \"liquid silver\".",
+      "es": "«Hg» viene del latín hydrargyrum, «plata líquida».",
+      "pt": "«Hg» vem do latim hydrargyrum, «prata líquida»."
+    }
+  },
+  {
+    "id": "culture_0333",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle ville a accueilli les premiers Jeux olympiques modernes en 1896 ?",
+      "en": "Which city hosted the first modern Olympic Games in 1896?",
+      "es": "¿Qué ciudad acogió los primeros Juegos Olímpicos modernos en 1896?",
+      "pt": "Que cidade acolheu os primeiros Jogos Olímpicos modernos em 1896?"
+    },
+    "options": {
+      "fr": [
+        "Athènes",
+        "Paris",
+        "Londres",
+        "Rome"
+      ],
+      "en": [
+        "Athens",
+        "Paris",
+        "London",
+        "Rome"
+      ],
+      "es": [
+        "Atenas",
+        "París",
+        "Londres",
+        "Roma"
+      ],
+      "pt": [
+        "Atenas",
+        "Paris",
+        "Londres",
+        "Roma"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Athènes, berceau des Jeux antiques, fut choisie à l'initiative de Pierre de Coubertin.",
+      "en": "Athens, birthplace of the ancient Games, was chosen at Pierre de Coubertin's initiative.",
+      "es": "Atenas, cuna de los Juegos antiguos, fue elegida por iniciativa de Pierre de Coubertin.",
+      "pt": "Atenas, berço dos Jogos antigos, foi escolhida por iniciativa de Pierre de Coubertin."
+    }
+  },
+  {
+    "id": "culture_0334",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel phénomène explique que la Lune montre toujours la même face à la Terre ?",
+      "en": "Which phenomenon explains why the Moon always shows the same face to Earth?",
+      "es": "¿Qué fenómeno explica que la Luna muestre siempre la misma cara a la Tierra?",
+      "pt": "Que fenómeno explica que a Lua mostre sempre a mesma face à Terra?"
+    },
+    "options": {
+      "fr": [
+        "La rotation synchrone",
+        "L'absence de rotation",
+        "Le champ magnétique terrestre",
+        "La forme irrégulière de la Lune"
+      ],
+      "en": [
+        "Synchronous rotation",
+        "The absence of rotation",
+        "Earth's magnetic field",
+        "The Moon's irregular shape"
+      ],
+      "es": [
+        "La rotación síncrona",
+        "La ausencia de rotación",
+        "El campo magnético terrestre",
+        "La forma irregular de la Luna"
+      ],
+      "pt": [
+        "A rotação síncrona",
+        "A ausência de rotação",
+        "O campo magnético terrestre",
+        "A forma irregular da Lua"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La Lune tourne bien sur elle-même, mais exactement à la vitesse de sa révolution autour de la Terre.",
+      "en": "The Moon does rotate, but at exactly the rate of its orbit around Earth.",
+      "es": "La Luna sí rota, pero exactamente a la velocidad de su órbita alrededor de la Tierra.",
+      "pt": "A Lua roda, mas exatamente à velocidade da sua órbita à volta da Terra."
+    }
+  },
+  {
+    "id": "culture_0335",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle ville abrite le siège de la Commission européenne ?",
+      "en": "Which city hosts the headquarters of the European Commission?",
+      "es": "¿Qué ciudad alberga la sede de la Comisión Europea?",
+      "pt": "Que cidade acolhe a sede da Comissão Europeia?"
+    },
+    "options": {
+      "fr": [
+        "Bruxelles",
+        "Strasbourg",
+        "Luxembourg",
+        "Francfort"
+      ],
+      "en": [
+        "Brussels",
+        "Strasbourg",
+        "Luxembourg",
+        "Frankfurt"
+      ],
+      "es": [
+        "Bruselas",
+        "Estrasburgo",
+        "Luxemburgo",
+        "Fráncfort"
+      ],
+      "pt": [
+        "Bruxelas",
+        "Estrasburgo",
+        "Luxemburgo",
+        "Frankfurt"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Bruxelles accueille la Commission ; le Parlement siège à Strasbourg et la Banque centrale à Francfort.",
+      "en": "Brussels hosts the Commission; Parliament sits in Strasbourg and the central bank in Frankfurt.",
+      "es": "Bruselas acoge la Comisión; el Parlamento está en Estrasburgo y el banco central en Fráncfort.",
+      "pt": "Bruxelas acolhe a Comissão; o Parlamento fica em Estrasburgo e o banco central em Frankfurt."
+    }
+  },
+  {
+    "id": "culture_0336",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le plus ancien parlement encore en activité au monde ?",
+      "en": "Which is the world's oldest parliament still in operation?",
+      "es": "¿Cuál es el parlamento en activo más antiguo del mundo?",
+      "pt": "Qual é o parlamento mais antigo do mundo ainda em atividade?"
+    },
+    "options": {
+      "fr": [
+        "L'Althing islandais",
+        "Le Parlement britannique",
+        "Les Cortès espagnoles",
+        "Le Sénat romain"
+      ],
+      "en": [
+        "Iceland's Althing",
+        "The British Parliament",
+        "The Spanish Cortes",
+        "The Roman Senate"
+      ],
+      "es": [
+        "El Althing islandés",
+        "El Parlamento británico",
+        "Las Cortes españolas",
+        "El Senado romano"
+      ],
+      "pt": [
+        "O Althing islandês",
+        "O Parlamento britânico",
+        "As Cortes espanholas",
+        "O Senado romano"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'Althing a été fondé vers 930 en Islande, à Þingvellir.",
+      "en": "The Althing was founded around 930 in Iceland, at Þingvellir.",
+      "es": "El Althing se fundó hacia 930 en Islandia, en Þingvellir.",
+      "pt": "O Althing foi fundado por volta de 930 na Islândia, em Þingvellir."
+    }
+  },
+  {
+    "id": "culture_0337",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le point le plus profond des océans ?",
+      "en": "What is the deepest point in the oceans?",
+      "es": "¿Cuál es el punto más profundo de los océanos?",
+      "pt": "Qual é o ponto mais profundo dos oceanos?"
+    },
+    "options": {
+      "fr": [
+        "La fosse des Mariannes",
+        "La fosse de Porto Rico",
+        "La fosse du Japon",
+        "La fosse de Java"
+      ],
+      "en": [
+        "The Mariana Trench",
+        "The Puerto Rico Trench",
+        "The Japan Trench",
+        "The Java Trench"
+      ],
+      "es": [
+        "La fosa de las Marianas",
+        "La fosa de Puerto Rico",
+        "La fosa de Japón",
+        "La fosa de Java"
+      ],
+      "pt": [
+        "A fossa das Marianas",
+        "A fossa de Porto Rico",
+        "A fossa do Japão",
+        "A fossa de Java"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Son point le plus bas, l'abysse Challenger, descend à près de 11 000 mètres.",
+      "en": "Its lowest point, Challenger Deep, reaches nearly 11,000 metres.",
+      "es": "Su punto más bajo, el abismo Challenger, baja a casi 11 000 metros.",
+      "pt": "O ponto mais fundo, o abismo Challenger, desce a quase 11 000 metros."
+    }
   }
 ]

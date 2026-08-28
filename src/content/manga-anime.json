@@ -13102,5 +13102,1809 @@
       "es": "Momo cree en fantasmas, Okarun en extraterrestres: la apuesta inicial les da la razón a ambos.",
       "pt": "Momo acredita em fantasmas, Okarun em extraterrestres: a aposta inicial dá razão a ambos."
     }
+  },
+  {
+    "id": "manga_0299",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Goldorak », quel est le nom du pilote du robot géant ?",
+      "en": "In \"Grendizer\", what is the name of the giant robot's pilot?",
+      "es": "En «Mazinger Z: Grendizer», ¿cómo se llama el piloto del robot gigante?",
+      "pt": "Em «Grendizer», qual é o nome do piloto do robô gigante?"
+    },
+    "options": {
+      "fr": [
+        "Actarus",
+        "Alcor",
+        "Vénusia",
+        "Rigel"
+      ],
+      "en": [
+        "Duke Fleed (Actarus)",
+        "Koji Kabuto",
+        "Hikaru",
+        "Danbei"
+      ],
+      "es": [
+        "Actarus (Duke Fleed)",
+        "Koji Kabuto",
+        "Hikaru",
+        "Danbei"
+      ],
+      "pt": [
+        "Actarus (Duke Fleed)",
+        "Koji Kabuto",
+        "Hikaru",
+        "Danbei"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Actarus, prince de la planète Euphor, pilote Goldorak. La série a marqué toute une génération en France dès 1978.",
+      "en": "Duke Fleed, prince of planet Fleed, pilots Grendizer. The series was a landmark in France from 1978.",
+      "es": "Actarus, príncipe del planeta Fleed, pilota Grendizer. La serie marcó a una generación en Francia desde 1978.",
+      "pt": "Actarus, príncipe do planeta Fleed, pilota Grendizer. A série marcou uma geração em França desde 1978."
+    }
+  },
+  {
+    "id": "manga_0300",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Albator », quel est le métier du héros ?",
+      "en": "In \"Captain Harlock\", what is the hero's occupation?",
+      "es": "En «Capitán Harlock», ¿cuál es el oficio del héroe?",
+      "pt": "Em «Capitão Harlock», qual é a ocupação do herói?"
+    },
+    "options": {
+      "fr": [
+        "Pirate de l'espace",
+        "Détective",
+        "Chevalier",
+        "Samouraï"
+      ],
+      "en": [
+        "Space pirate",
+        "Detective",
+        "Knight",
+        "Samurai"
+      ],
+      "es": [
+        "Pirata espacial",
+        "Detective",
+        "Caballero",
+        "Samurái"
+      ],
+      "pt": [
+        "Pirata espacial",
+        "Detetive",
+        "Cavaleiro",
+        "Samurai"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Créé par Leiji Matsumeto, Albator écume l'espace à bord de l'Atlantis.",
+      "en": "Created by Leiji Matsumoto, Harlock roams space aboard the Arcadia.",
+      "es": "Creado por Leiji Matsumoto, Harlock recorre el espacio a bordo del Arcadia.",
+      "pt": "Criado por Leiji Matsumoto, Harlock percorre o espaço a bordo do Arcadia."
+    }
+  },
+  {
+    "id": "manga_0301",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « GTO », quelle était l'ancienne vie du professeur Onizuka ?",
+      "en": "In \"GTO\", what was teacher Onizuka's former life?",
+      "es": "En «GTO», ¿cuál era la vida anterior del profesor Onizuka?",
+      "pt": "Em «GTO», qual era a vida anterior do professor Onizuka?"
+    },
+    "options": {
+      "fr": [
+        "Chef de gang de motards",
+        "Médecin",
+        "Chanteur",
+        "Policier"
+      ],
+      "en": [
+        "Biker gang leader",
+        "Doctor",
+        "Singer",
+        "Police officer"
+      ],
+      "es": [
+        "Líder de una banda de moteros",
+        "Médico",
+        "Cantante",
+        "Policía"
+      ],
+      "pt": [
+        "Líder de um gangue de motards",
+        "Médico",
+        "Cantor",
+        "Polícia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ancien voyou, Onizuka devient le professeur le plus inattendu du Japon.",
+      "en": "A former delinquent, Onizuka becomes Japan's most unlikely teacher.",
+      "es": "Antiguo delincuente, Onizuka se convierte en el profesor más inesperado de Japón.",
+      "pt": "Antigo delinquente, Onizuka torna-se o professor mais inesperado do Japão."
+    }
+  },
+  {
+    "id": "manga_0302",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Assassination Classroom », que doivent faire les élèves à leur professeur ?",
+      "en": "In \"Assassination Classroom\", what must the students do to their teacher?",
+      "es": "En «Assassination Classroom», ¿qué deben hacerle los alumnos a su profesor?",
+      "pt": "Em «Assassination Classroom», o que devem os alunos fazer ao seu professor?"
+    },
+    "options": {
+      "fr": [
+        "L'assassiner",
+        "Le convaincre de démissionner",
+        "Le battre aux examens",
+        "Le suivre en voyage"
+      ],
+      "en": [
+        "Assassinate him",
+        "Make him resign",
+        "Beat him at exams",
+        "Follow him on a trip"
+      ],
+      "es": [
+        "Asesinarlo",
+        "Hacerle dimitir",
+        "Vencerle en los exámenes",
+        "Seguirle de viaje"
+      ],
+      "pt": [
+        "Assassiná-lo",
+        "Fazê-lo demitir-se",
+        "Vencê-lo nos exames",
+        "Segui-lo numa viagem"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Koro-sensei, une créature jaune capable de filer à Mach 20, menace de détruire la Terre dans un an.",
+      "en": "Koro-sensei, a yellow creature able to move at Mach 20, threatens to destroy Earth within a year.",
+      "es": "Koro-sensei, una criatura amarilla capaz de ir a Mach 20, amenaza con destruir la Tierra en un año.",
+      "pt": "Koro-sensei, uma criatura amarela capaz de ir a Mach 20, ameaça destruir a Terra num ano."
+    }
+  },
+  {
+    "id": "manga_0303",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « The Promised Neverland », que découvrent les enfants sur leur orphelinat ?",
+      "en": "In \"The Promised Neverland\", what do the children discover about their orphanage?",
+      "es": "En «The Promised Neverland», ¿qué descubren los niños sobre su orfanato?",
+      "pt": "Em «The Promised Neverland», o que descobrem as crianças sobre o seu orfanato?"
+    },
+    "options": {
+      "fr": [
+        "C'est un élevage pour nourrir des démons",
+        "C'est une école de magie",
+        "C'est un vaisseau spatial",
+        "C'est un rêve collectif"
+      ],
+      "en": [
+        "It is a farm raising them to feed demons",
+        "It is a magic school",
+        "It is a spaceship",
+        "It is a shared dream"
+      ],
+      "es": [
+        "Es una granja para alimentar a demonios",
+        "Es una escuela de magia",
+        "Es una nave espacial",
+        "Es un sueño colectivo"
+      ],
+      "pt": [
+        "É uma quinta para alimentar demónios",
+        "É uma escola de magia",
+        "É uma nave espacial",
+        "É um sonho coletivo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La révélation tombe dès le premier chapitre et lance une longue évasion.",
+      "en": "The reveal lands in the very first chapter and launches a long escape.",
+      "es": "La revelación llega en el primer capítulo y desencadena una larga fuga.",
+      "pt": "A revelação chega logo no primeiro capítulo e lança uma longa fuga."
+    }
+  },
+  {
+    "id": "manga_0304",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Dr. Stone », qu'est-il arrivé à l'humanité au début de l'histoire ?",
+      "en": "In \"Dr. Stone\", what happened to humanity at the start of the story?",
+      "es": "En «Dr. Stone», ¿qué le ocurrió a la humanidad al principio de la historia?",
+      "pt": "Em «Dr. Stone», o que aconteceu à humanidade no início da história?"
+    },
+    "options": {
+      "fr": [
+        "Elle a été pétrifiée",
+        "Elle a été téléportée",
+        "Elle a perdu la mémoire",
+        "Elle a rétréci"
+      ],
+      "en": [
+        "It was turned to stone",
+        "It was teleported",
+        "It lost its memory",
+        "It shrank"
+      ],
+      "es": [
+        "Fue petrificada",
+        "Fue teletransportada",
+        "Perdió la memoria",
+        "Se encogió"
+      ],
+      "pt": [
+        "Foi petrificada",
+        "Foi teletransportada",
+        "Perdeu a memória",
+        "Encolheu"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Senku se réveille 3 700 ans plus tard et entreprend de reconstruire la civilisation par la science.",
+      "en": "Senku wakes up 3,700 years later and sets out to rebuild civilisation through science.",
+      "es": "Senku despierta 3700 años después y se propone reconstruir la civilización con la ciencia.",
+      "pt": "Senku acorda 3700 anos depois e propõe-se reconstruir a civilização pela ciência."
+    }
+  },
+  {
+    "id": "manga_0305",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Fire Force », quel est le métier des héros ?",
+      "en": "In \"Fire Force\", what is the heroes' job?",
+      "es": "En «Fire Force», ¿cuál es el oficio de los héroes?",
+      "pt": "Em «Fire Force», qual é a profissão dos heróis?"
+    },
+    "options": {
+      "fr": [
+        "Pompiers",
+        "Policiers",
+        "Médecins",
+        "Journalistes"
+      ],
+      "en": [
+        "Firefighters",
+        "Police officers",
+        "Doctors",
+        "Journalists"
+      ],
+      "es": [
+        "Bomberos",
+        "Policías",
+        "Médicos",
+        "Periodistas"
+      ],
+      "pt": [
+        "Bombeiros",
+        "Polícias",
+        "Médicos",
+        "Jornalistas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Des brigades spéciales combattent les « Torches humaines », des personnes qui s'embrasent spontanément.",
+      "en": "Special brigades fight \"Infernals\", people who spontaneously burst into flame.",
+      "es": "Brigadas especiales combaten a los «Infernales», personas que arden espontáneamente.",
+      "pt": "Brigadas especiais combatem os «Infernais», pessoas que ardem espontaneamente."
+    }
+  },
+  {
+    "id": "manga_0306",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Sword Art Online », que risquent les joueurs piégés dans le jeu ?",
+      "en": "In \"Sword Art Online\", what do players trapped in the game risk?",
+      "es": "En «Sword Art Online», ¿qué arriesgan los jugadores atrapados en el juego?",
+      "pt": "Em «Sword Art Online», o que arriscam os jogadores presos no jogo?"
+    },
+    "options": {
+      "fr": [
+        "Mourir pour de vrai s'ils meurent en jeu",
+        "Perdre la mémoire",
+        "Payer une amende",
+        "Rester bloqués un an"
+      ],
+      "en": [
+        "Dying for real if they die in game",
+        "Losing their memory",
+        "Paying a fine",
+        "Being stuck for a year"
+      ],
+      "es": [
+        "Morir de verdad si mueren en el juego",
+        "Perder la memoria",
+        "Pagar una multa",
+        "Quedar atrapados un año"
+      ],
+      "pt": [
+        "Morrer a sério se morrerem no jogo",
+        "Perder a memória",
+        "Pagar uma multa",
+        "Ficar presos um ano"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le casque de réalité virtuelle grille le cerveau du joueur à la mort de son avatar.",
+      "en": "The virtual reality headset fries the player's brain when their avatar dies.",
+      "es": "El casco de realidad virtual fríe el cerebro del jugador al morir su avatar.",
+      "pt": "O capacete de realidade virtual queima o cérebro do jogador quando o avatar morre."
+    }
+  },
+  {
+    "id": "manga_0307",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Yu Yu Hakusho », que devient Yusuke au tout début de l'histoire ?",
+      "en": "In \"Yu Yu Hakusho\", what happens to Yusuke at the very start?",
+      "es": "En «Yu Yu Hakusho», ¿qué le ocurre a Yusuke al principio?",
+      "pt": "Em «Yu Yu Hakusho», o que acontece a Yusuke logo no início?"
+    },
+    "options": {
+      "fr": [
+        "Il meurt",
+        "Il déménage",
+        "Il perd la mémoire",
+        "Il gagne au loto"
+      ],
+      "en": [
+        "He dies",
+        "He moves house",
+        "He loses his memory",
+        "He wins the lottery"
+      ],
+      "es": [
+        "Muere",
+        "Se muda",
+        "Pierde la memoria",
+        "Gana la lotería"
+      ],
+      "pt": [
+        "Morre",
+        "Muda de casa",
+        "Perde a memória",
+        "Ganha a lotaria"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il meurt en sauvant un enfant, puis revient comme détective de l'au-delà.",
+      "en": "He dies saving a child, then returns as a detective of the spirit world.",
+      "es": "Muere salvando a un niño y vuelve como detective del más allá.",
+      "pt": "Morre a salvar uma criança e regressa como detetive do além."
+    }
+  },
+  {
+    "id": "manga_0308",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Parasite » (Kiseijuu), où se loge le parasite du héros Shinichi ?",
+      "en": "In \"Parasyte\", where does Shinichi's parasite settle?",
+      "es": "En «Parasyte», ¿dónde se aloja el parásito de Shinichi?",
+      "pt": "Em «Parasyte», onde se aloja o parasita de Shinichi?"
+    },
+    "options": {
+      "fr": [
+        "Dans sa main droite",
+        "Dans son cerveau",
+        "Dans son cœur",
+        "Dans son œil"
+      ],
+      "en": [
+        "In his right hand",
+        "In his brain",
+        "In his heart",
+        "In his eye"
+      ],
+      "es": [
+        "En su mano derecha",
+        "En su cerebro",
+        "En su corazón",
+        "En su ojo"
+      ],
+      "pt": [
+        "Na sua mão direita",
+        "No seu cérebro",
+        "No seu coração",
+        "No seu olho"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Migi rate le cerveau et colonise la main : le duo doit apprendre à cohabiter.",
+      "en": "Migi misses the brain and takes over the hand: the pair must learn to coexist.",
+      "es": "Migi falla el cerebro y coloniza la mano: la pareja debe aprender a convivir.",
+      "pt": "Migi falha o cérebro e coloniza a mão: a dupla tem de aprender a coexistir."
+    }
+  },
+  {
+    "id": "manga_0309",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Comment appelle-t-on l'épisode ou la séquence d'anime qui n'existe pas dans le manga ?",
+      "en": "What is an anime episode or scene that does not exist in the manga called?",
+      "es": "¿Cómo se llama el episodio o secuencia de anime que no existe en el manga?",
+      "pt": "Como se chama o episódio ou sequência de anime que não existe no manga?"
+    },
+    "options": {
+      "fr": [
+        "Un filler",
+        "Un spin-off",
+        "Un OAV",
+        "Un remake"
+      ],
+      "en": [
+        "A filler",
+        "A spin-off",
+        "An OVA",
+        "A remake"
+      ],
+      "es": [
+        "Un relleno (filler)",
+        "Un spin-off",
+        "Un OVA",
+        "Un remake"
+      ],
+      "pt": [
+        "Um filler",
+        "Um spin-off",
+        "Um OVA",
+        "Um remake"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les fillers laissent le manga prendre de l'avance quand l'anime le rattrape.",
+      "en": "Fillers let the manga get ahead again when the anime catches up.",
+      "es": "Los rellenos dejan que el manga tome ventaja cuando el anime lo alcanza.",
+      "pt": "Os fillers deixam o manga ganhar avanço quando o anime o alcança."
+    }
+  },
+  {
+    "id": "manga_0310",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Comment appelle-t-on la chanson qui ouvre chaque épisode d'un anime ?",
+      "en": "What is the song that opens each anime episode called?",
+      "es": "¿Cómo se llama la canción que abre cada episodio de un anime?",
+      "pt": "Como se chama a canção que abre cada episódio de um anime?"
+    },
+    "options": {
+      "fr": [
+        "L'opening",
+        "L'ending",
+        "L'insert song",
+        "Le générique de fin"
+      ],
+      "en": [
+        "The opening",
+        "The ending",
+        "The insert song",
+        "The closing credits"
+      ],
+      "es": [
+        "El opening",
+        "El ending",
+        "La insert song",
+        "Los créditos finales"
+      ],
+      "pt": [
+        "O opening",
+        "O ending",
+        "A insert song",
+        "Os créditos finais"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'opening ouvre l'épisode, l'ending le referme ; une insert song surgit pendant l'action.",
+      "en": "The opening starts the episode, the ending closes it; an insert song plays during the action.",
+      "es": "El opening abre el episodio, el ending lo cierra; la insert song suena durante la acción.",
+      "pt": "O opening abre o episódio, o ending fecha-o; a insert song toca durante a ação."
+    }
+  },
+  {
+    "id": "manga_0311",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Black Clover », quelle est la particularité d'Asta ?",
+      "en": "In \"Black Clover\", what is unusual about Asta?",
+      "es": "En «Black Clover», ¿cuál es la particularidad de Asta?",
+      "pt": "Em «Black Clover», qual é a particularidade do Asta?"
+    },
+    "options": {
+      "fr": [
+        "Il n'a aucune magie",
+        "Il est invisible",
+        "Il ne dort jamais",
+        "Il lit dans les pensées"
+      ],
+      "en": [
+        "He has no magic at all",
+        "He is invisible",
+        "He never sleeps",
+        "He reads minds"
+      ],
+      "es": [
+        "No tiene ninguna magia",
+        "Es invisible",
+        "Nunca duerme",
+        "Lee la mente"
+      ],
+      "pt": [
+        "Não tem magia nenhuma",
+        "É invisível",
+        "Nunca dorme",
+        "Lê pensamentos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Dans un monde où tout le monde est magicien, Asta compense par une force physique hors norme et des épées anti-magie.",
+      "en": "In a world where everyone has magic, Asta compensates with raw strength and anti-magic swords.",
+      "es": "En un mundo donde todos usan magia, Asta compensa con fuerza bruta y espadas antimagia.",
+      "pt": "Num mundo onde todos têm magia, Asta compensa com força bruta e espadas antimagia."
+    }
+  },
+  {
+    "id": "manga_0312",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Haikyū!! », quelle est la particularité physique du héros Hinata ?",
+      "en": "In \"Haikyū!!\", what is physically distinctive about the hero Hinata?",
+      "es": "En «Haikyū!!», ¿cuál es la particularidad física del héroe Hinata?",
+      "pt": "Em «Haikyū!!», qual é a particularidade física do herói Hinata?"
+    },
+    "options": {
+      "fr": [
+        "Il est très petit",
+        "Il est très grand",
+        "Il est gaucher",
+        "Il est daltonien"
+      ],
+      "en": [
+        "He is very short",
+        "He is very tall",
+        "He is left-handed",
+        "He is colour-blind"
+      ],
+      "es": [
+        "Es muy bajo",
+        "Es muy alto",
+        "Es zurdo",
+        "Es daltónico"
+      ],
+      "pt": [
+        "É muito baixo",
+        "É muito alto",
+        "É canhoto",
+        "É daltónico"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sa petite taille est un handicap au volley, compensé par une détente exceptionnelle.",
+      "en": "His short stature is a handicap in volleyball, offset by an exceptional vertical jump.",
+      "es": "Su baja estatura es un hándicap en el voleibol, compensado por un salto excepcional.",
+      "pt": "A baixa estatura é um handicap no voleibol, compensada por uma impulsão excecional."
+    }
+  },
+  {
+    "id": "manga_0313",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel salon consacré à la culture japonaise se tient chaque année en région parisienne ?",
+      "en": "Which convention devoted to Japanese culture is held each year near Paris?",
+      "es": "¿Qué salón dedicado a la cultura japonesa se celebra cada año cerca de París?",
+      "pt": "Que salão dedicado à cultura japonesa se realiza todos os anos perto de Paris?"
+    },
+    "options": {
+      "fr": [
+        "Japan Expo",
+        "Comiket",
+        "Anime Expo",
+        "Lucca Comics"
+      ],
+      "en": [
+        "Japan Expo",
+        "Comiket",
+        "Anime Expo",
+        "Lucca Comics"
+      ],
+      "es": [
+        "Japan Expo",
+        "Comiket",
+        "Anime Expo",
+        "Lucca Comics"
+      ],
+      "pt": [
+        "Japan Expo",
+        "Comiket",
+        "Anime Expo",
+        "Lucca Comics"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Japan Expo, créé en 1999, est l'un des plus grands rendez-vous du genre en Europe.",
+      "en": "Japan Expo, launched in 1999, is one of Europe's biggest events of its kind.",
+      "es": "Japan Expo, creado en 1999, es una de las mayores citas del género en Europa.",
+      "pt": "A Japan Expo, criada em 1999, é um dos maiores encontros do género na Europa."
+    }
+  },
+  {
+    "id": "manga_0314",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Mob Psycho 100 », que cherche Mob à éviter par-dessus tout ?",
+      "en": "In \"Mob Psycho 100\", what does Mob try hardest to avoid?",
+      "es": "En «Mob Psycho 100», ¿qué intenta evitar Mob por encima de todo?",
+      "pt": "Em «Mob Psycho 100», o que tenta Mob evitar acima de tudo?"
+    },
+    "options": {
+      "fr": [
+        "Perdre le contrôle de ses émotions",
+        "Aller à l'école",
+        "Manger des légumes",
+        "Parler à son frère"
+      ],
+      "en": [
+        "Losing control of his emotions",
+        "Going to school",
+        "Eating vegetables",
+        "Talking to his brother"
+      ],
+      "es": [
+        "Perder el control de sus emociones",
+        "Ir a clase",
+        "Comer verduras",
+        "Hablar con su hermano"
+      ],
+      "pt": [
+        "Perder o controlo das emoções",
+        "Ir à escola",
+        "Comer legumes",
+        "Falar com o irmão"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Quand son compteur d'émotions atteint 100 %, ses pouvoirs psychiques deviennent incontrôlables.",
+      "en": "When his emotion gauge hits 100%, his psychic powers become uncontrollable.",
+      "es": "Cuando su medidor de emociones llega al 100 %, sus poderes se descontrolan.",
+      "pt": "Quando o medidor de emoções chega a 100 %, os poderes ficam incontroláveis."
+    }
+  },
+  {
+    "id": "manga_0315",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Vinland Saga », quel est le but initial de Thorfinn ?",
+      "en": "In \"Vinland Saga\", what is Thorfinn's initial goal?",
+      "es": "En «Vinland Saga», ¿cuál es el objetivo inicial de Thorfinn?",
+      "pt": "Em «Vinland Saga», qual é o objetivo inicial de Thorfinn?"
+    },
+    "options": {
+      "fr": [
+        "Venger son père",
+        "Devenir roi",
+        "Trouver un trésor",
+        "Retrouver sa sœur"
+      ],
+      "en": [
+        "Avenging his father",
+        "Becoming king",
+        "Finding a treasure",
+        "Finding his sister"
+      ],
+      "es": [
+        "Vengar a su padre",
+        "Ser rey",
+        "Encontrar un tesoro",
+        "Encontrar a su hermana"
+      ],
+      "pt": [
+        "Vingar o pai",
+        "Tornar-se rei",
+        "Encontrar um tesouro",
+        "Encontrar a irmã"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Toute la première partie tourne autour de cette vengeance, avant un basculement vers la non-violence.",
+      "en": "The whole first arc revolves around that revenge, before a turn towards non-violence.",
+      "es": "Toda la primera parte gira en torno a esa venganza, antes de un giro hacia la no violencia.",
+      "pt": "Toda a primeira parte gira em torno dessa vingança, antes de uma viragem para a não-violência."
+    }
+  },
+  {
+    "id": "manga_0316",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Jojo's Bizarre Adventure », quel nom de famille traverse toutes les générations ?",
+      "en": "In \"JoJo's Bizarre Adventure\", which family name runs through every generation?",
+      "es": "En «JoJo's Bizarre Adventure», ¿qué apellido atraviesa todas las generaciones?",
+      "pt": "Em «JoJo's Bizarre Adventure», que apelido atravessa todas as gerações?"
+    },
+    "options": {
+      "fr": [
+        "Joestar",
+        "Kujo",
+        "Brando",
+        "Zeppeli"
+      ],
+      "en": [
+        "Joestar",
+        "Kujo",
+        "Brando",
+        "Zeppeli"
+      ],
+      "es": [
+        "Joestar",
+        "Kujo",
+        "Brando",
+        "Zeppeli"
+      ],
+      "pt": [
+        "Joestar",
+        "Kujo",
+        "Brando",
+        "Zeppeli"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Chaque partie suit un descendant Joestar, d'où le surnom « JoJo ».",
+      "en": "Each part follows a Joestar descendant, hence the nickname \"JoJo\".",
+      "es": "Cada parte sigue a un descendiente Joestar, de ahí el apodo «JoJo».",
+      "pt": "Cada parte segue um descendente Joestar, daí a alcunha «JoJo»."
+    }
+  },
+  {
+    "id": "manga_0317",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Death Note », quel objet Light utilise-t-il pour dissimuler le carnet chez lui ?",
+      "en": "In \"Death Note\", what does Light use to hide the notebook at home?",
+      "es": "En «Death Note», ¿qué usa Light para ocultar el cuaderno en su casa?",
+      "pt": "Em «Death Note», o que usa Light para esconder o caderno em casa?"
+    },
+    "options": {
+      "fr": [
+        "Un double-fond piégé dans son tiroir",
+        "Un coffre-fort mural",
+        "Un faux livre de classe",
+        "Une boîte enterrée au jardin"
+      ],
+      "en": [
+        "A booby-trapped false bottom in his drawer",
+        "A wall safe",
+        "A fake schoolbook",
+        "A box buried in the garden"
+      ],
+      "es": [
+        "Un doble fondo trampa en su cajón",
+        "Una caja fuerte en la pared",
+        "Un libro de clase falso",
+        "Una caja enterrada en el jardín"
+      ],
+      "pt": [
+        "Um fundo falso armadilhado na gaveta",
+        "Um cofre na parede",
+        "Um livro escolar falso",
+        "Uma caixa enterrada no jardim"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le tiroir est conçu pour brûler le carnet si quelqu'un l'ouvre mal : un des gadgets les plus commentés de la série.",
+      "en": "The drawer is rigged to burn the notebook if opened wrongly, one of the series' most discussed gadgets.",
+      "es": "El cajón está preparado para quemar el cuaderno si se abre mal, uno de los inventos más comentados.",
+      "pt": "A gaveta está preparada para queimar o caderno se for mal aberta, um dos truques mais comentados."
+    }
+  },
+  {
+    "id": "manga_0318",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Naruto », quel village est dirigé par le Raikage ?",
+      "en": "In \"Naruto\", which village is led by the Raikage?",
+      "es": "En «Naruto», ¿qué aldea dirige el Raikage?",
+      "pt": "Em «Naruto», que aldeia é dirigida pelo Raikage?"
+    },
+    "options": {
+      "fr": [
+        "Le village caché des Nuages",
+        "Le village caché de la Pierre",
+        "Le village caché de la Brume",
+        "Le village caché du Sable"
+      ],
+      "en": [
+        "The Hidden Cloud Village",
+        "The Hidden Stone Village",
+        "The Hidden Mist Village",
+        "The Hidden Sand Village"
+      ],
+      "es": [
+        "La Aldea Oculta de las Nubes",
+        "La Aldea Oculta de la Roca",
+        "La Aldea Oculta de la Niebla",
+        "La Aldea Oculta de la Arena"
+      ],
+      "pt": [
+        "A Aldeia Oculta das Nuvens",
+        "A Aldeia Oculta da Pedra",
+        "A Aldeia Oculta da Névoa",
+        "A Aldeia Oculta da Areia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Chaque grand village a son kage : Hokage (Feuille), Kazekage (Sable), Raikage (Nuage), Tsuchikage (Pierre), Mizukage (Brume).",
+      "en": "Each great village has its kage: Hokage (Leaf), Kazekage (Sand), Raikage (Cloud), Tsuchikage (Stone), Mizukage (Mist).",
+      "es": "Cada gran aldea tiene su kage: Hokage (Hoja), Kazekage (Arena), Raikage (Nube), Tsuchikage (Roca), Mizukage (Niebla).",
+      "pt": "Cada grande aldeia tem o seu kage: Hokage (Folha), Kazekage (Areia), Raikage (Nuvem), Tsuchikage (Pedra), Mizukage (Névoa)."
+    }
+  },
+  {
+    "id": "manga_0319",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel mangaka a créé « Goldorak », « Mazinger Z » et « Devilman » ?",
+      "en": "Which manga author created \"Grendizer\", \"Mazinger Z\" and \"Devilman\"?",
+      "es": "¿Qué mangaka creó «Grendizer», «Mazinger Z» y «Devilman»?",
+      "pt": "Que mangaka criou «Grendizer», «Mazinger Z» e «Devilman»?"
+    },
+    "options": {
+      "fr": [
+        "Gō Nagai",
+        "Leiji Matsumoto",
+        "Osamu Tezuka",
+        "Yoshiyuki Tomino"
+      ],
+      "en": [
+        "Gō Nagai",
+        "Leiji Matsumoto",
+        "Osamu Tezuka",
+        "Yoshiyuki Tomino"
+      ],
+      "es": [
+        "Gō Nagai",
+        "Leiji Matsumoto",
+        "Osamu Tezuka",
+        "Yoshiyuki Tomino"
+      ],
+      "pt": [
+        "Gō Nagai",
+        "Leiji Matsumoto",
+        "Osamu Tezuka",
+        "Yoshiyuki Tomino"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Gō Nagai a inventé le robot géant PILOTÉ de l'intérieur, matrice de tout le genre mecha.",
+      "en": "Gō Nagai invented the giant robot PILOTED from inside, the template for the whole mecha genre.",
+      "es": "Gō Nagai inventó el robot gigante PILOTADO desde dentro, matriz de todo el género mecha.",
+      "pt": "Gō Nagai inventou o robô gigante PILOTADO por dentro, matriz de todo o género mecha."
+    }
+  },
+  {
+    "id": "manga_0320",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Qui est l'auteur du manga « Yu Yu Hakusho », également créateur de « Hunter x Hunter » ?",
+      "en": "Who wrote \"Yu Yu Hakusho\", also the creator of \"Hunter x Hunter\"?",
+      "es": "¿Quién es el autor de «Yu Yu Hakusho», también creador de «Hunter x Hunter»?",
+      "pt": "Quem é o autor de «Yu Yu Hakusho», também criador de «Hunter x Hunter»?"
+    },
+    "options": {
+      "fr": [
+        "Yoshihiro Togashi",
+        "Tite Kubo",
+        "Masashi Kishimoto",
+        "Eiichirō Oda"
+      ],
+      "en": [
+        "Yoshihiro Togashi",
+        "Tite Kubo",
+        "Masashi Kishimoto",
+        "Eiichiro Oda"
+      ],
+      "es": [
+        "Yoshihiro Togashi",
+        "Tite Kubo",
+        "Masashi Kishimoto",
+        "Eiichiro Oda"
+      ],
+      "pt": [
+        "Yoshihiro Togashi",
+        "Tite Kubo",
+        "Masashi Kishimoto",
+        "Eiichiro Oda"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Togashi est aussi connu pour les longues pauses de « Hunter x Hunter », liées à sa santé.",
+      "en": "Togashi is also known for the long hiatuses of \"Hunter x Hunter\", due to his health.",
+      "es": "Togashi también es conocido por los largos parones de «Hunter x Hunter», por su salud.",
+      "pt": "Togashi é também conhecido pelas longas pausas de «Hunter x Hunter», devido à saúde."
+    }
+  },
+  {
+    "id": "manga_0321",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel mangaka a signé « 20th Century Boys », « Monster » et « Pluto » ?",
+      "en": "Which manga author created \"20th Century Boys\", \"Monster\" and \"Pluto\"?",
+      "es": "¿Qué mangaka firmó «20th Century Boys», «Monster» y «Pluto»?",
+      "pt": "Que mangaka assinou «20th Century Boys», «Monster» e «Pluto»?"
+    },
+    "options": {
+      "fr": [
+        "Naoki Urasawa",
+        "Takehiko Inoue",
+        "Kentaro Miura",
+        "Junji Itō"
+      ],
+      "en": [
+        "Naoki Urasawa",
+        "Takehiko Inoue",
+        "Kentaro Miura",
+        "Junji Ito"
+      ],
+      "es": [
+        "Naoki Urasawa",
+        "Takehiko Inoue",
+        "Kentaro Miura",
+        "Junji Ito"
+      ],
+      "pt": [
+        "Naoki Urasawa",
+        "Takehiko Inoue",
+        "Kentaro Miura",
+        "Junji Ito"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Pluto » est sa relecture d'un arc d'« Astro Boy » de Tezuka.",
+      "en": "\"Pluto\" is his reworking of an arc from Tezuka's \"Astro Boy\".",
+      "es": "«Pluto» es su relectura de un arco de «Astro Boy» de Tezuka.",
+      "pt": "«Pluto» é a sua releitura de um arco de «Astro Boy» de Tezuka."
+    }
+  },
+  {
+    "id": "manga_0322",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel mangaka est le maître du manga d'horreur, auteur de « Uzumaki » et « Tomie » ?",
+      "en": "Which manga author is the master of horror manga, behind \"Uzumaki\" and \"Tomie\"?",
+      "es": "¿Qué mangaka es el maestro del manga de terror, autor de «Uzumaki» y «Tomie»?",
+      "pt": "Que mangaka é o mestre do manga de terror, autor de «Uzumaki» e «Tomie»?"
+    },
+    "options": {
+      "fr": [
+        "Junji Itō",
+        "Naoki Urasawa",
+        "Kentaro Miura",
+        "Suehiro Maruo"
+      ],
+      "en": [
+        "Junji Ito",
+        "Naoki Urasawa",
+        "Kentaro Miura",
+        "Suehiro Maruo"
+      ],
+      "es": [
+        "Junji Ito",
+        "Naoki Urasawa",
+        "Kentaro Miura",
+        "Suehiro Maruo"
+      ],
+      "pt": [
+        "Junji Ito",
+        "Naoki Urasawa",
+        "Kentaro Miura",
+        "Suehiro Maruo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ancien prothésiste dentaire, Junji Itō est célèbre pour ses planches d'un détail obsessionnel.",
+      "en": "A former dental technician, Junji Ito is famous for his obsessively detailed pages.",
+      "es": "Antiguo protésico dental, Junji Ito es célebre por sus páginas de detalle obsesivo.",
+      "pt": "Antigo protésico dentário, Junji Ito é célebre pelas páginas de detalhe obsessivo."
+    }
+  },
+  {
+    "id": "manga_0323",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Cowboy Bebop », qui a composé la bande originale jazz ?",
+      "en": "In \"Cowboy Bebop\", who composed the jazz soundtrack?",
+      "es": "En «Cowboy Bebop», ¿quién compuso la banda sonora de jazz?",
+      "pt": "Em «Cowboy Bebop», quem compôs a banda sonora de jazz?"
+    },
+    "options": {
+      "fr": [
+        "Yoko Kanno",
+        "Joe Hisaishi",
+        "Hiroyuki Sawano",
+        "Yuki Kajiura"
+      ],
+      "en": [
+        "Yoko Kanno",
+        "Joe Hisaishi",
+        "Hiroyuki Sawano",
+        "Yuki Kajiura"
+      ],
+      "es": [
+        "Yoko Kanno",
+        "Joe Hisaishi",
+        "Hiroyuki Sawano",
+        "Yuki Kajiura"
+      ],
+      "pt": [
+        "Yoko Kanno",
+        "Joe Hisaishi",
+        "Hiroyuki Sawano",
+        "Yuki Kajiura"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Yoko Kanno et son groupe The Seatbelts signent l'un des scores les plus célèbres de l'animation.",
+      "en": "Yoko Kanno and her band The Seatbelts wrote one of animation's most celebrated scores.",
+      "es": "Yoko Kanno y su banda The Seatbelts firman una de las bandas sonoras más célebres.",
+      "pt": "Yoko Kanno e a sua banda The Seatbelts assinam uma das bandas sonoras mais célebres."
+    }
+  },
+  {
+    "id": "manga_0324",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio a produit « Neon Genesis Evangelion » et « Gurren Lagann » ?",
+      "en": "Which studio produced \"Neon Genesis Evangelion\" and \"Gurren Lagann\"?",
+      "es": "¿Qué estudio produjo «Neon Genesis Evangelion» y «Gurren Lagann»?",
+      "pt": "Que estúdio produziu «Neon Genesis Evangelion» e «Gurren Lagann»?"
+    },
+    "options": {
+      "fr": [
+        "Gainax",
+        "Madhouse",
+        "Sunrise",
+        "Toei Animation"
+      ],
+      "en": [
+        "Gainax",
+        "Madhouse",
+        "Sunrise",
+        "Toei Animation"
+      ],
+      "es": [
+        "Gainax",
+        "Madhouse",
+        "Sunrise",
+        "Toei Animation"
+      ],
+      "pt": [
+        "Gainax",
+        "Madhouse",
+        "Sunrise",
+        "Toei Animation"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "De Gainax sont ensuite issus Studio Khara (Hideaki Anno) et Studio Trigger.",
+      "en": "Studio Khara (Hideaki Anno) and Studio Trigger later spun out of Gainax.",
+      "es": "De Gainax salieron después Studio Khara (Hideaki Anno) y Studio Trigger.",
+      "pt": "Da Gainax saíram depois o Studio Khara (Hideaki Anno) e o Studio Trigger."
+    }
+  },
+  {
+    "id": "manga_0325",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel compositeur signe les musiques de la plupart des films de Hayao Miyazaki ?",
+      "en": "Which composer writes the music for most of Hayao Miyazaki's films?",
+      "es": "¿Qué compositor firma la música de la mayoría de las películas de Hayao Miyazaki?",
+      "pt": "Que compositor assina a música da maioria dos filmes de Hayao Miyazaki?"
+    },
+    "options": {
+      "fr": [
+        "Joe Hisaishi",
+        "Yoko Kanno",
+        "Ryuichi Sakamoto",
+        "Kenji Kawai"
+      ],
+      "en": [
+        "Joe Hisaishi",
+        "Yoko Kanno",
+        "Ryuichi Sakamoto",
+        "Kenji Kawai"
+      ],
+      "es": [
+        "Joe Hisaishi",
+        "Yoko Kanno",
+        "Ryuichi Sakamoto",
+        "Kenji Kawai"
+      ],
+      "pt": [
+        "Joe Hisaishi",
+        "Yoko Kanno",
+        "Ryuichi Sakamoto",
+        "Kenji Kawai"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Leur collaboration démarre avec « Nausicaä » en 1984 et ne s'est jamais interrompue.",
+      "en": "Their collaboration began with \"Nausicaä\" in 1984 and never stopped.",
+      "es": "Su colaboración empezó con «Nausicaä» en 1984 y no se ha interrumpido.",
+      "pt": "A colaboração começou com «Nausicaä» em 1984 e nunca parou."
+    }
+  },
+  {
+    "id": "manga_0326",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Comment appelle-t-on un anime diffusé directement en vidéo, sans passage télé ni cinéma ?",
+      "en": "What is an anime released straight to video, with no TV or cinema run, called?",
+      "es": "¿Cómo se llama un anime lanzado directamente en vídeo, sin televisión ni cine?",
+      "pt": "Como se chama um anime lançado diretamente em vídeo, sem televisão nem cinema?"
+    },
+    "options": {
+      "fr": [
+        "Un OAV (ou OVA)",
+        "Un ONA",
+        "Un filler",
+        "Un doujinshi"
+      ],
+      "en": [
+        "An OVA",
+        "An ONA",
+        "A filler",
+        "A doujinshi"
+      ],
+      "es": [
+        "Un OVA",
+        "Un ONA",
+        "Un relleno",
+        "Un doujinshi"
+      ],
+      "pt": [
+        "Um OVA",
+        "Um ONA",
+        "Um filler",
+        "Um doujinshi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "OAV = Original Animation Video. L'ONA, lui, sort directement en ligne.",
+      "en": "OVA = Original Video Animation. An ONA, by contrast, is released straight online.",
+      "es": "OVA = Original Video Animation. El ONA, en cambio, sale directamente en línea.",
+      "pt": "OVA = Original Video Animation. O ONA, por sua vez, sai diretamente online."
+    }
+  },
+  {
+    "id": "manga_0327",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Neon Genesis Evangelion », comment s'appelle l'organisation qui pilote les Eva ?",
+      "en": "In \"Neon Genesis Evangelion\", what is the organisation operating the Evas called?",
+      "es": "En «Neon Genesis Evangelion», ¿cómo se llama la organización que opera los Eva?",
+      "pt": "Em «Neon Genesis Evangelion», como se chama a organização que opera os Eva?"
+    },
+    "options": {
+      "fr": [
+        "NERV",
+        "SEELE",
+        "GEHIRN",
+        "WILLE"
+      ],
+      "en": [
+        "NERV",
+        "SEELE",
+        "GEHIRN",
+        "WILLE"
+      ],
+      "es": [
+        "NERV",
+        "SEELE",
+        "GEHIRN",
+        "WILLE"
+      ],
+      "pt": [
+        "NERV",
+        "SEELE",
+        "GEHIRN",
+        "WILLE"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "NERV opère sur le terrain ; SEELE est le conseil occulte qui tire les ficelles.",
+      "en": "NERV operates on the ground; SEELE is the shadowy council pulling the strings.",
+      "es": "NERV opera sobre el terreno; SEELE es el consejo oculto que mueve los hilos.",
+      "pt": "A NERV opera no terreno; a SEELE é o conselho oculto que puxa os cordelinhos."
+    }
+  },
+  {
+    "id": "manga_0329",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Fullmetal Alchemist », quel pays militariste sert de cadre à l'histoire ?",
+      "en": "In \"Fullmetal Alchemist\", which militaristic country is the setting?",
+      "es": "En «Fullmetal Alchemist», ¿qué país militarista sirve de escenario?",
+      "pt": "Em «Fullmetal Alchemist», que país militarista serve de cenário?"
+    },
+    "options": {
+      "fr": [
+        "Amestris",
+        "Xing",
+        "Ishval",
+        "Drachma"
+      ],
+      "en": [
+        "Amestris",
+        "Xing",
+        "Ishval",
+        "Drachma"
+      ],
+      "es": [
+        "Amestris",
+        "Xing",
+        "Ishval",
+        "Drachma"
+      ],
+      "pt": [
+        "Amestris",
+        "Xing",
+        "Ishval",
+        "Drachma"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Amestris s'inspire de l'Europe du début du XXe siècle ; Ishval en est une région ravagée par la guerre.",
+      "en": "Amestris draws on early 20th-century Europe; Ishval is one of its war-ravaged regions.",
+      "es": "Amestris se inspira en la Europa de principios del siglo XX; Ishval es una región devastada.",
+      "pt": "Amestris inspira-se na Europa do início do século XX; Ishval é uma região devastada."
+    }
+  },
+  {
+    "id": "manga_0330",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur a signé « Akira » (1988), également auteur du manga d'origine ?",
+      "en": "Which director made \"Akira\" (1988) and also wrote the original manga?",
+      "es": "¿Qué director firmó «Akira» (1988) y además es autor del manga original?",
+      "pt": "Que realizador assinou «Akira» (1988) e é também autor do manga original?"
+    },
+    "options": {
+      "fr": [
+        "Katsuhiro Ōtomo",
+        "Mamoru Oshii",
+        "Satoshi Kon",
+        "Rintarō"
+      ],
+      "en": [
+        "Katsuhiro Otomo",
+        "Mamoru Oshii",
+        "Satoshi Kon",
+        "Rintaro"
+      ],
+      "es": [
+        "Katsuhiro Otomo",
+        "Mamoru Oshii",
+        "Satoshi Kon",
+        "Rintaro"
+      ],
+      "pt": [
+        "Katsuhiro Otomo",
+        "Mamoru Oshii",
+        "Satoshi Kon",
+        "Rintaro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film a fait découvrir l'animation japonaise adulte à l'Occident.",
+      "en": "The film introduced adult Japanese animation to Western audiences.",
+      "es": "La película dio a conocer la animación japonesa adulta en Occidente.",
+      "pt": "O filme deu a conhecer a animação japonesa adulta no Ocidente."
+    }
+  },
+  {
+    "id": "manga_0331",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Attaque des Titans », comment s'appelle l'unité d'élite chargée des expéditions hors des murs ?",
+      "en": "In \"Attack on Titan\", what is the elite unit sent beyond the walls called?",
+      "es": "En «Ataque a los Titanes», ¿cómo se llama la unidad de élite que sale más allá de los muros?",
+      "pt": "Em «Ataque dos Titãs», como se chama a unidade de elite enviada para lá das muralhas?"
+    },
+    "options": {
+      "fr": [
+        "Le Bataillon d'exploration",
+        "La Garnison",
+        "La Brigade spéciale",
+        "La Police militaire"
+      ],
+      "en": [
+        "The Survey Corps",
+        "The Garrison",
+        "The Special Brigade",
+        "The Military Police"
+      ],
+      "es": [
+        "El Cuerpo de Exploración",
+        "La Guarnición",
+        "La Brigada Especial",
+        "La Policía Militar"
+      ],
+      "pt": [
+        "O Corpo de Exploração",
+        "A Guarnição",
+        "A Brigada Especial",
+        "A Polícia Militar"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Reconnaissable à ses ailes de la liberté, c'est le corps le plus meurtrier des trois.",
+      "en": "Recognisable by its Wings of Freedom, it is the deadliest of the three branches.",
+      "es": "Reconocible por sus alas de la libertad, es el cuerpo más mortífero de los tres.",
+      "pt": "Reconhecível pelas asas da liberdade, é o corpo mais mortífero dos três."
+    }
+  },
+  {
+    "id": "manga_0332",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Qui est l'auteur du manga « Kaiju No. 8 » ?",
+      "en": "Who is the author of the manga \"Kaiju No. 8\"?",
+      "es": "¿Quién es el autor del manga «Kaiju No. 8»?",
+      "pt": "Quem é o autor do manga «Kaiju No. 8»?"
+    },
+    "options": {
+      "fr": [
+        "Naoya Matsumoto",
+        "Yukinobu Tatsu",
+        "Tatsuki Fujimoto",
+        "Gege Akutami"
+      ],
+      "en": [
+        "Naoya Matsumoto",
+        "Yukinobu Tatsu",
+        "Tatsuki Fujimoto",
+        "Gege Akutami"
+      ],
+      "es": [
+        "Naoya Matsumoto",
+        "Yukinobu Tatsu",
+        "Tatsuki Fujimoto",
+        "Gege Akutami"
+      ],
+      "pt": [
+        "Naoya Matsumoto",
+        "Yukinobu Tatsu",
+        "Tatsuki Fujimoto",
+        "Gege Akutami"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Publié sur l'application Shōnen Jump+, le manga a connu un succès fulgurant dès 2020.",
+      "en": "Published on the Shōnen Jump+ app, the manga became a hit almost immediately in 2020.",
+      "es": "Publicado en la aplicación Shōnen Jump+, el manga triunfó rápidamente desde 2020.",
+      "pt": "Publicado na aplicação Shōnen Jump+, o manga foi um sucesso imediato desde 2020."
+    }
+  },
+  {
+    "id": "manga_0333",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel terme désigne un manga destiné à un lectorat de femmes adultes ?",
+      "en": "Which term refers to manga aimed at adult women?",
+      "es": "¿Qué término designa el manga dirigido a mujeres adultas?",
+      "pt": "Que termo designa o manga dirigido a mulheres adultas?"
+    },
+    "options": {
+      "fr": [
+        "Josei",
+        "Seinen",
+        "Shōjo",
+        "Kodomo"
+      ],
+      "en": [
+        "Josei",
+        "Seinen",
+        "Shōjo",
+        "Kodomo"
+      ],
+      "es": [
+        "Josei",
+        "Seinen",
+        "Shōjo",
+        "Kodomo"
+      ],
+      "pt": [
+        "Josei",
+        "Seinen",
+        "Shōjo",
+        "Kodomo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Josei pour les femmes adultes, seinen pour les hommes adultes, kodomo pour les enfants.",
+      "en": "Josei for adult women, seinen for adult men, kodomo for children.",
+      "es": "Josei para mujeres adultas, seinen para hombres adultos, kodomo para niños.",
+      "pt": "Josei para mulheres adultas, seinen para homens adultos, kodomo para crianças."
+    }
+  },
+  {
+    "id": "manga_0334",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Code Geass », quel empire domine le monde au début de la série ?",
+      "en": "In \"Code Geass\", which empire dominates the world at the start?",
+      "es": "En «Code Geass», ¿qué imperio domina el mundo al principio?",
+      "pt": "Em «Code Geass», que império domina o mundo no início?"
+    },
+    "options": {
+      "fr": [
+        "L'Empire de Britannia",
+        "L'Empire de Chine",
+        "La Fédération d'Europe",
+        "L'Empire du Japon"
+      ],
+      "en": [
+        "The Britannian Empire",
+        "The Chinese Empire",
+        "The European Federation",
+        "The Empire of Japan"
+      ],
+      "es": [
+        "El Imperio de Britannia",
+        "El Imperio Chino",
+        "La Federación Europea",
+        "El Imperio de Japón"
+      ],
+      "pt": [
+        "O Império de Britannia",
+        "O Império Chinês",
+        "A Federação Europeia",
+        "O Império do Japão"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Japon occupé est rebaptisé « Area 11 » : d'où le nom de code des résistants, les « Elevens ».",
+      "en": "Occupied Japan is renamed \"Area 11\", hence the resistance nickname \"Elevens\".",
+      "es": "El Japón ocupado pasa a llamarse «Area 11», de ahí el apodo «Elevens».",
+      "pt": "O Japão ocupado é rebatizado «Area 11», daí a alcunha «Elevens»."
+    }
+  },
+  {
+    "id": "manga_0335",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio a animé « Your Lie in April » et « Fruits Basket » (2019) ?",
+      "en": "Which studio animated \"Your Lie in April\" and \"Fruits Basket\" (2019)?",
+      "es": "¿Qué estudio animó «Your Lie in April» y «Fruits Basket» (2019)?",
+      "pt": "Que estúdio animou «Your Lie in April» e «Fruits Basket» (2019)?"
+    },
+    "options": {
+      "fr": [
+        "A-1 Pictures",
+        "Kyoto Animation",
+        "Ufotable",
+        "Wit Studio"
+      ],
+      "en": [
+        "A-1 Pictures",
+        "Kyoto Animation",
+        "Ufotable",
+        "Wit Studio"
+      ],
+      "es": [
+        "A-1 Pictures",
+        "Kyoto Animation",
+        "Ufotable",
+        "Wit Studio"
+      ],
+      "pt": [
+        "A-1 Pictures",
+        "Kyoto Animation",
+        "Ufotable",
+        "Wit Studio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "A-1 Pictures, filiale d'Aniplex, a également produit « Sword Art Online » et « Solo Leveling ».",
+      "en": "A-1 Pictures, an Aniplex subsidiary, also produced \"Sword Art Online\" and \"Solo Leveling\".",
+      "es": "A-1 Pictures, filial de Aniplex, también produjo «Sword Art Online» y «Solo Leveling».",
+      "pt": "A A-1 Pictures, filial da Aniplex, produziu também «Sword Art Online» e «Solo Leveling»."
+    }
+  },
+  {
+    "id": "manga_0336",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « One Piece », comment s'appelle le journal qui informe le monde entier ?",
+      "en": "In \"One Piece\", what is the newspaper that informs the whole world called?",
+      "es": "En «One Piece», ¿cómo se llama el periódico que informa al mundo entero?",
+      "pt": "Em «One Piece», como se chama o jornal que informa o mundo inteiro?"
+    },
+    "options": {
+      "fr": [
+        "Le journal livré par les mouettes du World Economic Journal",
+        "La Gazette de Marine Ford",
+        "Le Courrier de Grand Line",
+        "L'Écho des Pirates"
+      ],
+      "en": [
+        "The World Economic Journal, delivered by news gulls",
+        "The Marineford Gazette",
+        "The Grand Line Courier",
+        "The Pirates' Echo"
+      ],
+      "es": [
+        "El World Economic Journal, repartido por gaviotas",
+        "La Gaceta de Marineford",
+        "El Correo de Grand Line",
+        "El Eco de los Piratas"
+      ],
+      "pt": [
+        "O World Economic Journal, entregue por gaivotas",
+        "A Gazeta de Marineford",
+        "O Correio de Grand Line",
+        "O Eco dos Piratas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Des mouettes coiffées d'une casquette livrent le journal jusqu'en pleine mer, contre une pièce.",
+      "en": "Cap-wearing gulls deliver the paper even at sea, in exchange for a coin.",
+      "es": "Gaviotas con gorra reparten el periódico incluso en alta mar, a cambio de una moneda.",
+      "pt": "Gaivotas de boné entregam o jornal mesmo em alto-mar, a troco de uma moeda."
+    }
+  },
+  {
+    "id": "manga_0337",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel manga de sport, publié dès 1968, raconte l'ascension d'un boxeur nommé Joe Yabuki ?",
+      "en": "Which sports manga, launched in 1968, follows a boxer named Joe Yabuki?",
+      "es": "¿Qué manga deportivo, iniciado en 1968, narra el ascenso del boxeador Joe Yabuki?",
+      "pt": "Que manga desportivo, iniciado em 1968, narra a ascensão do pugilista Joe Yabuki?"
+    },
+    "options": {
+      "fr": [
+        "Ashita no Joe",
+        "Hajime no Ippo",
+        "Slam Dunk",
+        "Captain Tsubasa"
+      ],
+      "en": [
+        "Ashita no Joe",
+        "Hajime no Ippo",
+        "Slam Dunk",
+        "Captain Tsubasa"
+      ],
+      "es": [
+        "Ashita no Joe",
+        "Hajime no Ippo",
+        "Slam Dunk",
+        "Captain Tsubasa"
+      ],
+      "pt": [
+        "Ashita no Joe",
+        "Hajime no Ippo",
+        "Slam Dunk",
+        "Captain Tsubasa"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sa fin, restée célèbre, a marqué toute une génération de lecteurs japonais.",
+      "en": "Its famous ending left a mark on an entire generation of Japanese readers.",
+      "es": "Su célebre final marcó a toda una generación de lectores japoneses.",
+      "pt": "O seu célebre final marcou toda uma geração de leitores japoneses."
+    }
+  },
+  {
+    "id": "manga_0338",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel éditeur français publie « One Piece » en langue française ?",
+      "en": "Which French publisher releases \"One Piece\" in French?",
+      "es": "¿Qué editorial francesa publica «One Piece» en francés?",
+      "pt": "Que editora francesa publica «One Piece» em francês?"
+    },
+    "options": {
+      "fr": [
+        "Glénat",
+        "Kana",
+        "Ki-oon",
+        "Pika"
+      ],
+      "en": [
+        "Glénat",
+        "Kana",
+        "Ki-oon",
+        "Pika"
+      ],
+      "es": [
+        "Glénat",
+        "Kana",
+        "Ki-oon",
+        "Pika"
+      ],
+      "pt": [
+        "Glénat",
+        "Kana",
+        "Ki-oon",
+        "Pika"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Glénat publie « One Piece » en France depuis 2000 ; c'est le manga le plus vendu du pays.",
+      "en": "Glénat has published \"One Piece\" in France since 2000; it is the country's best-selling manga.",
+      "es": "Glénat publica «One Piece» en Francia desde 2000; es el manga más vendido del país.",
+      "pt": "A Glénat publica «One Piece» em França desde 2000; é o manga mais vendido do país."
+    }
+  },
+  {
+    "id": "manga_0339",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Demon Slayer », quel métal compose les lames capables de tuer les démons ?",
+      "en": "In \"Demon Slayer\", which metal makes up the blades able to kill demons?",
+      "es": "En «Demon Slayer», ¿qué metal compone las hojas capaces de matar demonios?",
+      "pt": "Em «Demon Slayer», que metal compõe as lâminas capazes de matar demónios?"
+    },
+    "options": {
+      "fr": [
+        "L'acier écarlate du soleil (Nichirin)",
+        "L'argent pur",
+        "Le fer météorique",
+        "Le bronze sacré"
+      ],
+      "en": [
+        "Scarlet crimson sun steel (Nichirin)",
+        "Pure silver",
+        "Meteoric iron",
+        "Sacred bronze"
+      ],
+      "es": [
+        "El acero escarlata del sol (Nichirin)",
+        "La plata pura",
+        "El hierro meteórico",
+        "El bronce sagrado"
+      ],
+      "pt": [
+        "O aço escarlate do sol (Nichirin)",
+        "A prata pura",
+        "O ferro meteórico",
+        "O bronze sagrado"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le minerai est extrait au plus près du soleil, en haute montagne : seul le soleil tue vraiment les démons.",
+      "en": "The ore is mined high in the mountains, closest to the sun: only sunlight truly kills demons.",
+      "es": "El mineral se extrae en alta montaña, lo más cerca del sol: solo el sol mata de verdad a los demonios.",
+      "pt": "O minério é extraído em alta montanha, o mais perto do sol: só o sol mata mesmo os demónios."
+    }
+  },
+  {
+    "id": "manga_0340",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Hunter x Hunter », combien de catégories principales compte le Nen ?",
+      "en": "In \"Hunter x Hunter\", how many main Nen categories are there?",
+      "es": "En «Hunter x Hunter», ¿cuántas categorías principales tiene el Nen?",
+      "pt": "Em «Hunter x Hunter», quantas categorias principais tem o Nen?"
+    },
+    "options": {
+      "fr": [
+        "6",
+        "4",
+        "5",
+        "8"
+      ],
+      "en": [
+        "6",
+        "4",
+        "5",
+        "8"
+      ],
+      "es": [
+        "6",
+        "4",
+        "5",
+        "8"
+      ],
+      "pt": [
+        "6",
+        "4",
+        "5",
+        "8"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Renforcement, Émission, Manipulation, Transformation, Matérialisation et Spécialisation.",
+      "en": "Enhancement, Emission, Manipulation, Transmutation, Conjuration and Specialisation.",
+      "es": "Potenciación, Emisión, Manipulación, Transmutación, Materialización y Especialización.",
+      "pt": "Reforço, Emissão, Manipulação, Transmutação, Materialização e Especialização."
+    }
   }
 ]
