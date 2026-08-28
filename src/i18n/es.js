@@ -4,8 +4,6 @@ export default {
   app_name: 'Quizz',
   app_subtitle: '¿Quién es el mejor?',
   app_title: 'Quizz - ¿Quién es el mejor?',
-  stats_lifetime: 'En total: {a} preguntas jugadas · {c} respuestas correctas',
-  footer_follow: 'Síguenos en Instagram',
   cookie_text:
     'Usamos cookies para que el sitio funcione y, con tu permiso, medir la audiencia. Tú decides.',
   cookie_detail:
@@ -35,7 +33,6 @@ export default {
   paywall_buy: 'Comprar de por vida',
   paywall_soon: 'Pago disponible muy pronto — ¡gracias por tu paciencia!',
   paywall_close: 'Cerrar',
-  paywall_preview: 'Activar vista previa sin anuncios',
   premium_active: 'Premium activo — ¡gracias! 💜',
   result_ad_label: 'Publicidad',
   promo_noads_text: '¿Cansado de los anuncios?',
@@ -47,8 +44,6 @@ export default {
   lang_switch: 'Cambiar de idioma',
 
   // Inicio
-  tagline:
-    'Repasa tu cultura general, el cine y el manga — desafiando a tus amigos.',
   mode_label: 'Modo de juego',
   mode_solo: 'Práctica en solitario',
   mode_challenge: 'Desafía a un amigo',
@@ -89,7 +84,6 @@ export default {
   // Quiz en solitario — desarrollo
   hint_next: 'Toca en cualquier lugar para pasar a la siguiente.',
   hint_choose: 'Toca una respuesta para elegirla.',
-  hint_validate: 'Toca de nuevo tu respuesta para confirmar.',
   feedback_correct: '✓ ¡Correcto!',
   feedback_wrong: '✗ ¡Fallaste!',
   next_question: 'Siguiente pregunta',
@@ -169,13 +163,11 @@ export default {
   share_downloaded: 'Imagen descargada ✓',
   share_image_error: 'No se pudo generar la imagen 😕',
   share_native_title: 'Quizz - ¿Quién es el mejor?',
-  share_native_text: 'Te desafío en Quizz — ¿puedes superarme? 🎯',
   share_native_image_text: 'Mi resultado en Quizz 🎯 ¡Te toca!',
 
   // Vista de resultado (página de conversión del enlace compartido)
   result_invalid: 'Enlace de resultado no válido 😕',
   result_solo_label: 'Práctica en solitario · {diff}',
-  result_solo_play: 'Jugar en Quizz',
   landing_intro: 'Esta puntuación se hizo en Quizz 👇',
   landing_challenge: '⚔️ Desafía a un amigo',
   landing_play: 'Jugar ahora',
@@ -184,16 +176,12 @@ export default {
     'Cuestionarios divertidos para poner a prueba tus conocimientos, solo o contra tus amigos. Gratis, sin cuenta.',
   result_duel_win: '🏆 ¡Gana {name}!',
   result_duel_tie: '🤝 ¡Empate perfecto!',
-  result_rounds_diff: '{rounds} · {diff}',
-  result_play_own: 'Empezar mi propio desafío',
-  round_word: 'Ronda',
   rounds_count: '{n} rondas',
   rounds_count_one: '{n} ronda',
 
   // Tarjeta de imagen
   card_solo_kicker: 'PRÁCTICA EN SOLITARIO',
   card_duel_kicker: '⚔️ DESAFÍO ENTRE AMIGOS',
-  card_my_score: 'Mi puntuación',
   card_points: 'puntos',
   card_success_rate: '{pct}% de aciertos',
   card_win: '🏆 ¡Gana {name}!',

@@ -4,8 +4,6 @@ export default {
   app_name: 'Quizz',
   app_subtitle: 'Who’s the best?',
   app_title: 'Quizz - Who’s the best?',
-  stats_lifetime: 'Overall: {a} questions played · {c} correct',
-  footer_follow: 'Follow us on Instagram',
   cookie_text:
     'We use cookies to run the site and, with your consent, to measure audience. Your choice.',
   cookie_detail:
@@ -35,7 +33,6 @@ export default {
   paywall_buy: 'Buy lifetime',
   paywall_soon: 'Payment coming very soon — thanks for your patience!',
   paywall_close: 'Close',
-  paywall_preview: 'Enable ad-free preview',
   premium_active: 'Premium active — thank you! 💜',
   result_ad_label: 'Advertisement',
   promo_noads_text: 'Tired of ads?',
@@ -47,8 +44,6 @@ export default {
   lang_switch: 'Change language',
 
   // Home
-  tagline:
-    'Brush up on general knowledge, movies and manga — all while challenging your friends.',
   mode_label: 'Game mode',
   mode_solo: 'Solo practice',
   mode_challenge: 'Challenge a friend',
@@ -89,7 +84,6 @@ export default {
   // Solo quiz — flow
   hint_next: 'Tap anywhere to go to the next one.',
   hint_choose: 'Tap an answer to select it.',
-  hint_validate: 'Tap your answer again to confirm.',
   feedback_correct: '✓ Correct!',
   feedback_wrong: '✗ Wrong!',
   next_question: 'Next question',
@@ -169,13 +163,11 @@ export default {
   share_downloaded: 'Image downloaded ✓',
   share_image_error: 'Couldn’t generate the image 😕',
   share_native_title: 'Quizz - Who’s the best?',
-  share_native_text: 'I challenge you on Quizz — can you beat me? 🎯',
   share_native_image_text: 'My Quizz result 🎯 Your turn!',
 
   // Result view (shared-link conversion page)
   result_invalid: 'Invalid result link 😕',
   result_solo_label: 'Solo practice · {diff}',
-  result_solo_play: 'Play on Quizz',
   landing_intro: 'This score was made on Quizz 👇',
   landing_challenge: '⚔️ Challenge a friend',
   landing_play: 'Play now',
@@ -184,16 +176,12 @@ export default {
     'Fun quizzes to test your knowledge — solo or against your friends. Free, no account.',
   result_duel_win: '🏆 {name} wins!',
   result_duel_tie: '🤝 Perfect tie!',
-  result_rounds_diff: '{rounds} · {diff}',
-  result_play_own: 'Start my own challenge',
-  round_word: 'Round',
   rounds_count: '{n} rounds',
   rounds_count_one: '{n} round',
 
   // Image card
   card_solo_kicker: 'SOLO PRACTICE',
   card_duel_kicker: '⚔️ FRIEND CHALLENGE',
-  card_my_score: 'My score',
   card_points: 'points',
   card_success_rate: '{pct}% correct',
   card_win: '🏆 {name} wins!',

@@ -4,8 +4,6 @@ export default {
   app_name: 'Quizz',
   app_subtitle: 'Qui est le meilleur ?',
   app_title: 'Quizz - Qui est le meilleur ?',
-  stats_lifetime: 'Au total : {a} questions jouées · {c} bonnes réponses',
-  footer_follow: 'Suivez-nous sur Instagram',
   cookie_text:
     'On utilise des cookies pour faire fonctionner le site et, avec ton accord, en mesurer l’audience. Tu choisis.',
   cookie_detail:
@@ -35,7 +33,6 @@ export default {
   paywall_buy: 'Acheter à vie',
   paywall_soon: 'Paiement bientôt disponible — merci de ta patience !',
   paywall_close: 'Fermer',
-  paywall_preview: 'Activer l’aperçu sans pub',
   premium_active: 'Premium actif — merci ! 💜',
   result_ad_label: 'Publicité',
   promo_noads_text: 'Marre des pubs ?',
@@ -47,8 +44,6 @@ export default {
   lang_switch: 'Changer de langue',
 
   // Accueil
-  tagline:
-    'Révise ton code de la route, ta culture G, le ciné et les mangas — tout en défiant tes amis.',
   mode_label: 'Mode de jeu',
   mode_solo: 'Réviser solo',
   mode_challenge: 'Défi entre potes',
@@ -89,7 +84,6 @@ export default {
   // Quiz solo — déroulé
   hint_next: 'Clique n’importe où pour passer à la suivante.',
   hint_choose: 'Clique sur une réponse pour la choisir.',
-  hint_validate: 'Clique à nouveau sur ta réponse pour valider.',
   feedback_correct: '✓ Bonne réponse !',
   feedback_wrong: '✗ Raté !',
   next_question: 'Question suivante',
@@ -169,13 +163,11 @@ export default {
   share_downloaded: 'Image téléchargée ✓',
   share_image_error: 'Impossible de générer l’image 😕',
   share_native_title: 'Quizz - Qui est le meilleur ?',
-  share_native_text: 'Je te défie sur Quizz — sauras-tu faire mieux ? 🎯',
   share_native_image_text: 'Mon résultat sur Quizz 🎯 À ton tour !',
 
   // Vue résultat (page de conversion du lien partagé)
   result_invalid: 'Lien de résultat invalide 😕',
   result_solo_label: 'Révision solo · {diff}',
-  result_solo_play: 'Jouer sur Quizz',
   landing_intro: 'Ce score a été réalisé sur Quizz 👇',
   landing_challenge: '⚔️ Défier un ami',
   landing_play: 'Jouer maintenant',
@@ -184,16 +176,12 @@ export default {
     'Des quiz fun pour tester tes connaissances — en solo ou en défi avec tes amis. Gratuit, sans compte.',
   result_duel_win: '🏆 {name} l’emporte !',
   result_duel_tie: '🤝 Égalité parfaite !',
-  result_rounds_diff: '{rounds} · {diff}',
-  result_play_own: 'Lancer mon propre défi',
-  round_word: 'Manche',
   rounds_count: '{n} manches',
   rounds_count_one: '{n} manche',
 
   // Carte image
   card_solo_kicker: 'RÉVISION SOLO',
   card_duel_kicker: '⚔️ DÉFI ENTRE POTES',
-  card_my_score: 'Mon score',
   card_points: 'points',
   card_success_rate: '{pct}% de réussite',
   card_win: '🏆 {name} gagne !',

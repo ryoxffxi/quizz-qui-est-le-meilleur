@@ -4,8 +4,6 @@ export default {
   app_name: 'Quizz',
   app_subtitle: 'Quem é o melhor?',
   app_title: 'Quizz - Quem é o melhor?',
-  stats_lifetime: 'No total: {a} perguntas jogadas · {c} respostas certas',
-  footer_follow: 'Siga-nos no Instagram',
   cookie_text:
     'Usamos cookies para o site funcionar e, com o seu consentimento, medir a audiência. Você decide.',
   cookie_detail:
@@ -35,7 +33,6 @@ export default {
   paywall_buy: 'Comprar vitalício',
   paywall_soon: 'Pagamento disponível em breve — obrigado pela paciência!',
   paywall_close: 'Fechar',
-  paywall_preview: 'Ativar prévia sem anúncios',
   premium_active: 'Premium ativo — obrigado! 💜',
   result_ad_label: 'Publicidade',
   promo_noads_text: 'Cansado dos anúncios?',
@@ -47,8 +44,6 @@ export default {
   lang_switch: 'Mudar de idioma',
 
   // Início
-  tagline:
-    'Revise sua cultura geral, cinema e mangá — desafiando seus amigos.',
   mode_label: 'Modo de jogo',
   mode_solo: 'Treino solo',
   mode_challenge: 'Desafie um amigo',
@@ -89,7 +84,6 @@ export default {
   // Quiz solo — fluxo
   hint_next: 'Toque em qualquer lugar para ir para a próxima.',
   hint_choose: 'Toque numa resposta para escolhê-la.',
-  hint_validate: 'Toque novamente na sua resposta para confirmar.',
   feedback_correct: '✓ Correto!',
   feedback_wrong: '✗ Errou!',
   next_question: 'Próxima pergunta',
@@ -169,13 +163,11 @@ export default {
   share_downloaded: 'Imagem baixada ✓',
   share_image_error: 'Não foi possível gerar a imagem 😕',
   share_native_title: 'Quizz - Quem é o melhor?',
-  share_native_text: 'Eu te desafio no Quizz — consegue me superar? 🎯',
   share_native_image_text: 'Meu resultado no Quizz 🎯 Sua vez!',
 
   // Vista de resultado (página de conversão do link compartilhado)
   result_invalid: 'Link de resultado inválido 😕',
   result_solo_label: 'Treino solo · {diff}',
-  result_solo_play: 'Jogar no Quizz',
   landing_intro: 'Esta pontuação foi feita no Quizz 👇',
   landing_challenge: '⚔️ Desafie um amigo',
   landing_play: 'Jogar agora',
@@ -184,16 +176,12 @@ export default {
     'Quizzes divertidos para testar seus conhecimentos — sozinho ou contra seus amigos. Grátis, sem conta.',
   result_duel_win: '🏆 {name} vence!',
   result_duel_tie: '🤝 Empate perfeito!',
-  result_rounds_diff: '{rounds} · {diff}',
-  result_play_own: 'Iniciar meu próprio desafio',
-  round_word: 'Rodada',
   rounds_count: '{n} rodadas',
   rounds_count_one: '{n} rodada',
 
   // Cartão de imagem
   card_solo_kicker: 'TREINO SOLO',
   card_duel_kicker: '⚔️ DESAFIO ENTRE AMIGOS',
-  card_my_score: 'Minha pontuação',
   card_points: 'pontos',
   card_success_rate: '{pct}% de acertos',
   card_win: '🏆 {name} vence!',

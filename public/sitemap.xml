@@ -6,7 +6,10 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ryo-offc.com/confidentialite.html</loc>
+    <!-- URL canonique : Cloudflare sert la page sans extension et renvoie un
+         307 sur /confidentialite.html. On déclare directement la cible, pour
+         ne pas faire suivre une redirection aux robots. -->
+    <loc>https://ryo-offc.com/confidentialite</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
