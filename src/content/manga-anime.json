@@ -18294,5 +18294,2117 @@
       "es": "Vinlandia es la región alcanzada por los vikingos hacia el año 1000, mucho antes de Colón.",
       "pt": "A Vinlândia é a região alcançada pelos viquingues por volta do ano 1000, muito antes de Colombo."
     }
+  },
+  {
+    "id": "manga_0421",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Demon Slayer », quel Hashira meurt à la fin du Train de l'Infini ?",
+      "en": "In \"Demon Slayer\", which Hashira dies at the end of the Mugen Train arc?",
+      "es": "En «Demon Slayer», ¿qué Hashira muere al final del Tren Infinito?",
+      "pt": "Em «Demon Slayer», que Hashira morre no final do Comboio Infinito?"
+    },
+    "options": {
+      "fr": [
+        "Rengoku",
+        "Tengen",
+        "Giyu",
+        "Shinobu"
+      ],
+      "en": [
+        "Rengoku",
+        "Tengen",
+        "Giyu",
+        "Shinobu"
+      ],
+      "es": [
+        "Rengoku",
+        "Tengen",
+        "Giyu",
+        "Shinobu"
+      ],
+      "pt": [
+        "Rengoku",
+        "Tengen",
+        "Giyu",
+        "Shinobu"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film tiré de cet arc est devenu le plus gros succès du box-office japonais.",
+      "en": "The film adapting this arc became Japan's biggest box-office hit.",
+      "es": "La película de este arco se convirtió en el mayor éxito de taquilla japonés.",
+      "pt": "O filme deste arco tornou-se no maior êxito de bilheteira japonês."
+    }
+  },
+  {
+    "id": "manga_0422",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Spy x Family », quel est le nom de code de la mission de Loid ?",
+      "en": "In \"Spy x Family\", what is the code name of Loid's mission?",
+      "es": "En «Spy x Family», ¿cuál es el nombre en clave de la misión de Loid?",
+      "pt": "Em «Spy x Family», qual é o nome de código da missão de Loid?"
+    },
+    "options": {
+      "fr": [
+        "Opération Strix",
+        "Opération Aurora",
+        "Opération Nightfall",
+        "Opération Garden"
+      ],
+      "en": [
+        "Operation Strix",
+        "Operation Aurora",
+        "Operation Nightfall",
+        "Operation Garden"
+      ],
+      "es": [
+        "Operación Strix",
+        "Operación Aurora",
+        "Operación Nightfall",
+        "Operación Garden"
+      ],
+      "pt": [
+        "Operação Strix",
+        "Operação Aurora",
+        "Operação Nightfall",
+        "Operação Garden"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Strix » désigne un genre de chouettes : l'espion doit approcher un homme politique via son école.",
+      "en": "\"Strix\" is a genus of owls: the spy must reach a politician through his school.",
+      "es": "«Strix» es un género de búhos: el espía debe acercarse a un político por su colegio.",
+      "pt": "«Strix» é um género de corujas: o espião deve aproximar-se de um político pela escola."
+    }
+  },
+  {
+    "id": "manga_0423",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Tokyo Revengers », quel pouvoir possède Takemichi ?",
+      "en": "In \"Tokyo Revengers\", what power does Takemichi have?",
+      "es": "En «Tokyo Revengers», ¿qué poder tiene Takemichi?",
+      "pt": "Em «Tokyo Revengers», que poder tem Takemichi?"
+    },
+    "options": {
+      "fr": [
+        "Voyager dans le passé",
+        "Voler",
+        "Lire les pensées",
+        "Devenir invisible"
+      ],
+      "en": [
+        "Travelling into the past",
+        "Flying",
+        "Reading minds",
+        "Turning invisible"
+      ],
+      "es": [
+        "Viajar al pasado",
+        "Volar",
+        "Leer la mente",
+        "Volverse invisible"
+      ],
+      "pt": [
+        "Viajar ao passado",
+        "Voar",
+        "Ler pensamentos",
+        "Tornar-se invisível"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il remonte douze ans en arrière pour empêcher la mort de son amie d'enfance.",
+      "en": "He goes back twelve years to prevent his childhood friend's death.",
+      "es": "Retrocede doce años para evitar la muerte de su amiga de infancia.",
+      "pt": "Recua doze anos para impedir a morte da amiga de infância."
+    }
+  },
+  {
+    "id": "manga_0424",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Beastars », quelle est la particularité de la société décrite ?",
+      "en": "In \"Beastars\", what is unusual about the society depicted?",
+      "es": "En «Beastars», ¿qué particularidad tiene la sociedad descrita?",
+      "pt": "Em «Beastars», que particularidade tem a sociedade descrita?"
+    },
+    "options": {
+      "fr": [
+        "Carnivores et herbivores cohabitent",
+        "Tout le monde est humain",
+        "Il n'y a que des robots",
+        "Les animaux ne parlent pas"
+      ],
+      "en": [
+        "Carnivores and herbivores live together",
+        "Everyone is human",
+        "There are only robots",
+        "The animals do not speak"
+      ],
+      "es": [
+        "Carnívoros y herbívoros conviven",
+        "Todos son humanos",
+        "Solo hay robots",
+        "Los animales no hablan"
+      ],
+      "pt": [
+        "Carnívoros e herbívoros convivem",
+        "Todos são humanos",
+        "Só há robôs",
+        "Os animais não falam"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série s'en sert pour parler de discrimination et de pulsions réprimées.",
+      "en": "The series uses it to explore discrimination and repressed impulses.",
+      "es": "La serie lo usa para hablar de discriminación e impulsos reprimidos.",
+      "pt": "A série usa isso para falar de discriminação e impulsos reprimidos."
+    }
+  },
+  {
+    "id": "manga_0425",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Gintama », quel ton domine malgré le décor de samouraïs ?",
+      "en": "In \"Gintama\", which tone dominates despite the samurai setting?",
+      "es": "En «Gintama», ¿qué tono domina pese al escenario de samuráis?",
+      "pt": "Em «Gintama», que tom domina apesar do cenário de samurais?"
+    },
+    "options": {
+      "fr": [
+        "La parodie et l'humour absurde",
+        "L'horreur",
+        "Le documentaire",
+        "Le romantisme pur"
+      ],
+      "en": [
+        "Parody and absurd humour",
+        "Horror",
+        "Documentary",
+        "Pure romance"
+      ],
+      "es": [
+        "La parodia y el humor absurdo",
+        "El terror",
+        "El documental",
+        "El romance puro"
+      ],
+      "pt": [
+        "A paródia e o humor absurdo",
+        "O terror",
+        "O documentário",
+        "O romance puro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série alterne gags méta et arcs dramatiques d'une intensité surprenante.",
+      "en": "The show alternates meta gags with surprisingly intense dramatic arcs.",
+      "es": "La serie alterna gags meta y arcos dramáticos de intensidad sorprendente.",
+      "pt": "A série alterna piadas meta e arcos dramáticos de intensidade surpreendente."
+    }
+  },
+  {
+    "id": "manga_0426",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Kingdom », à quelle époque se déroule l'histoire ?",
+      "en": "In \"Kingdom\", when is the story set?",
+      "es": "En «Kingdom», ¿en qué época transcurre la historia?",
+      "pt": "Em «Kingdom», em que época decorre a história?"
+    },
+    "options": {
+      "fr": [
+        "Dans la Chine antique",
+        "Au Japon féodal",
+        "En Corée moderne",
+        "Dans un futur lointain"
+      ],
+      "en": [
+        "Ancient China",
+        "Feudal Japan",
+        "Modern Korea",
+        "The far future"
+      ],
+      "es": [
+        "En la China antigua",
+        "En el Japón feudal",
+        "En la Corea moderna",
+        "En un futuro lejano"
+      ],
+      "pt": [
+        "Na China antiga",
+        "No Japão feudal",
+        "Na Coreia moderna",
+        "Num futuro distante"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série suit l'unification de la Chine par le futur premier empereur, Qin Shi Huang.",
+      "en": "The series follows China's unification by the future first emperor, Qin Shi Huang.",
+      "es": "La serie sigue la unificación de China por el futuro primer emperador, Qin Shi Huang.",
+      "pt": "A série segue a unificação da China pelo futuro primeiro imperador, Qin Shi Huang."
+    }
+  },
+  {
+    "id": "manga_0427",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Ranking of Kings », quelle est la particularité du prince Bojji ?",
+      "en": "In \"Ranking of Kings\", what is special about prince Bojji?",
+      "es": "En «Ranking of Kings», ¿qué particularidad tiene el príncipe Bojji?",
+      "pt": "Em «Ranking of Kings», que particularidade tem o príncipe Bojji?"
+    },
+    "options": {
+      "fr": [
+        "Il est sourd et muet",
+        "Il est aveugle",
+        "Il est immortel",
+        "Il ne vieillit pas"
+      ],
+      "en": [
+        "He is deaf and mute",
+        "He is blind",
+        "He is immortal",
+        "He does not age"
+      ],
+      "es": [
+        "Es sordo y mudo",
+        "Es ciego",
+        "Es inmortal",
+        "No envejece"
+      ],
+      "pt": [
+        "É surdo e mudo",
+        "É cego",
+        "É imortal",
+        "Não envelhece"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Son ami Kage, une ombre vivante, sert d'interprète et de compagnon.",
+      "en": "His friend Kage, a living shadow, acts as his interpreter and companion.",
+      "es": "Su amigo Kage, una sombra viviente, hace de intérprete y compañero.",
+      "pt": "O amigo Kage, uma sombra viva, serve de intérprete e companheiro."
+    }
+  },
+  {
+    "id": "manga_0428",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Hell's Paradise », que doivent rapporter les condamnés pour obtenir leur grâce ?",
+      "en": "In \"Hell's Paradise\", what must the convicts bring back to earn a pardon?",
+      "es": "En «Hell's Paradise», ¿qué deben traer los condenados para lograr el indulto?",
+      "pt": "Em «Hell's Paradise», o que devem os condenados trazer para obter o perdão?"
+    },
+    "options": {
+      "fr": [
+        "L'élixir d'immortalité",
+        "Une carte au trésor",
+        "Une arme légendaire",
+        "Un prisonnier évadé"
+      ],
+      "en": [
+        "The elixir of immortality",
+        "A treasure map",
+        "A legendary weapon",
+        "An escaped prisoner"
+      ],
+      "es": [
+        "El elixir de la inmortalidad",
+        "Un mapa del tesoro",
+        "Un arma legendaria",
+        "Un preso fugado"
+      ],
+      "pt": [
+        "O elixir da imortalidade",
+        "Um mapa do tesouro",
+        "Uma arma lendária",
+        "Um preso fugido"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'île paradisiaque où il se trouve se révèle vite mortelle.",
+      "en": "The paradise island where it is found quickly proves deadly.",
+      "es": "La isla paradisíaca donde se encuentra resulta pronto mortal.",
+      "pt": "A ilha paradisíaca onde se encontra revela-se depressa mortal."
+    }
+  },
+  {
+    "id": "manga_0429",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Mashle », comment le héros compense-t-il son absence de magie ?",
+      "en": "In \"Mashle\", how does the hero make up for having no magic?",
+      "es": "En «Mashle», ¿cómo compensa el héroe su falta de magia?",
+      "pt": "Em «Mashle», como compensa o herói a falta de magia?"
+    },
+    "options": {
+      "fr": [
+        "Par une force physique absurde",
+        "Par la ruse",
+        "Par la technologie",
+        "Par des alliés"
+      ],
+      "en": [
+        "With absurd physical strength",
+        "With cunning",
+        "With technology",
+        "With allies"
+      ],
+      "es": [
+        "Con una fuerza física absurda",
+        "Con astucia",
+        "Con tecnología",
+        "Con aliados"
+      ],
+      "pt": [
+        "Com uma força física absurda",
+        "Com astúcia",
+        "Com tecnologia",
+        "Com aliados"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série parodie ouvertement les écoles de magie, Harry Potter en tête.",
+      "en": "The series openly parodies magic schools, Harry Potter first among them.",
+      "es": "La serie parodia abiertamente las escuelas de magia, con Harry Potter a la cabeza.",
+      "pt": "A série parodia abertamente as escolas de magia, com Harry Potter à cabeça."
+    }
+  },
+  {
+    "id": "manga_0430",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Zom 100 », que décide de faire le héros après l'apocalypse zombie ?",
+      "en": "In \"Zom 100\", what does the hero decide to do after the zombie apocalypse?",
+      "es": "En «Zom 100», ¿qué decide hacer el héroe tras el apocalipsis zombi?",
+      "pt": "Em «Zom 100», o que decide o herói fazer após o apocalipse zombie?"
+    },
+    "options": {
+      "fr": [
+        "Une liste de 100 choses à faire",
+        "Fonder une ville",
+        "Trouver un vaccin",
+        "Fuir à l'étranger"
+      ],
+      "en": [
+        "A list of 100 things to do",
+        "Found a city",
+        "Find a vaccine",
+        "Flee abroad"
+      ],
+      "es": [
+        "Una lista de 100 cosas por hacer",
+        "Fundar una ciudad",
+        "Buscar una vacuna",
+        "Huir al extranjero"
+      ],
+      "pt": [
+        "Uma lista de 100 coisas a fazer",
+        "Fundar uma cidade",
+        "Encontrar uma vacina",
+        "Fugir para o estrangeiro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Épuisé par un travail toxique, il voit dans l'apocalypse une libération.",
+      "en": "Worn out by a toxic job, he sees the apocalypse as a liberation.",
+      "es": "Agotado por un trabajo tóxico, ve el apocalipsis como una liberación.",
+      "pt": "Esgotado por um trabalho tóxico, vê o apocalipse como uma libertação."
+    }
+  },
+  {
+    "id": "manga_0431",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Ao Ashi », quel sport le héros pratique-t-il ?",
+      "en": "In \"Ao Ashi\", which sport does the hero play?",
+      "es": "En «Ao Ashi», ¿qué deporte practica el héroe?",
+      "pt": "Em «Ao Ashi», que desporto pratica o herói?"
+    },
+    "options": {
+      "fr": [
+        "Le football",
+        "Le baseball",
+        "Le tennis",
+        "L'escrime"
+      ],
+      "en": [
+        "Football",
+        "Baseball",
+        "Tennis",
+        "Fencing"
+      ],
+      "es": [
+        "El fútbol",
+        "El béisbol",
+        "El tenis",
+        "La esgrima"
+      ],
+      "pt": [
+        "O futebol",
+        "O basebol",
+        "O ténis",
+        "A esgrima"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série est réputée pour son réalisme tactique, très éloigné des techniques spectaculaires.",
+      "en": "The series is known for tactical realism, far from spectacular special moves.",
+      "es": "La serie destaca por su realismo táctico, lejos de las técnicas espectaculares.",
+      "pt": "A série destaca-se pelo realismo tático, longe das técnicas espetaculares."
+    }
+  },
+  {
+    "id": "manga_0432",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Yuri on Ice », quelle discipline pratiquent les personnages ?",
+      "en": "In \"Yuri on Ice\", which discipline do the characters compete in?",
+      "es": "En «Yuri on Ice», ¿qué disciplina practican los personajes?",
+      "pt": "Em «Yuri on Ice», que disciplina praticam as personagens?"
+    },
+    "options": {
+      "fr": [
+        "Le patinage artistique",
+        "Le hockey",
+        "Le ski",
+        "Le curling"
+      ],
+      "en": [
+        "Figure skating",
+        "Ice hockey",
+        "Skiing",
+        "Curling"
+      ],
+      "es": [
+        "El patinaje artístico",
+        "El hockey",
+        "El esquí",
+        "El curling"
+      ],
+      "pt": [
+        "A patinagem artística",
+        "O hóquei no gelo",
+        "O esqui",
+        "O curling"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les chorégraphies ont été conçues avec l'aide de patineurs professionnels japonais.",
+      "en": "The routines were designed with the help of professional Japanese skaters.",
+      "es": "Las coreografías se diseñaron con ayuda de patinadores profesionales japoneses.",
+      "pt": "As coreografias foram concebidas com ajuda de patinadores profissionais japoneses."
+    }
+  },
+  {
+    "id": "manga_0433",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Dragon Ball Z », sur quelle planète Goku affronte Freezer pour la première fois ?",
+      "en": "In \"Dragon Ball Z\", on which planet does Goku first fight Frieza?",
+      "es": "En «Dragon Ball Z», ¿en qué planeta se enfrenta Goku a Freezer por primera vez?",
+      "pt": "Em «Dragon Ball Z», em que planeta Goku enfrenta Freeza pela primeira vez?"
+    },
+    "options": {
+      "fr": [
+        "Namek",
+        "Vegeta",
+        "La Terre",
+        "Yardrat"
+      ],
+      "en": [
+        "Namek",
+        "Vegeta",
+        "Earth",
+        "Yardrat"
+      ],
+      "es": [
+        "Namek",
+        "Vegeta",
+        "La Tierra",
+        "Yardrat"
+      ],
+      "pt": [
+        "Namek",
+        "Vegeta",
+        "A Terra",
+        "Yardrat"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est là que Goku se transforme en Super Saiyan pour la première fois.",
+      "en": "It is there that Goku first transforms into a Super Saiyan.",
+      "es": "Allí es donde Goku se transforma en Super Saiyan por primera vez.",
+      "pt": "É lá que Goku se transforma em Super Saiyajin pela primeira vez."
+    }
+  },
+  {
+    "id": "manga_0434",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « My Hero Academia », quel groupe s'oppose aux héros ?",
+      "en": "In \"My Hero Academia\", which group opposes the heroes?",
+      "es": "En «My Hero Academia», ¿qué grupo se opone a los héroes?",
+      "pt": "Em «My Hero Academia», que grupo se opõe aos heróis?"
+    },
+    "options": {
+      "fr": [
+        "L'Alliance des super-vilains",
+        "L'Akatsuki",
+        "La Brigade fantôme",
+        "Les Espada"
+      ],
+      "en": [
+        "The League of Villains",
+        "The Akatsuki",
+        "The Phantom Troupe",
+        "The Espada"
+      ],
+      "es": [
+        "La Liga de Villanos",
+        "Akatsuki",
+        "La Brigada Fantasma",
+        "Los Espada"
+      ],
+      "pt": [
+        "A Liga de Vilões",
+        "A Akatsuki",
+        "A Brigada Fantasma",
+        "Os Espada"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elle est dirigée par Tomura Shigaraki, héritier désigné d'All For One.",
+      "en": "It is led by Tomura Shigaraki, All For One's designated heir.",
+      "es": "La dirige Tomura Shigaraki, heredero designado de All For One.",
+      "pt": "É liderada por Tomura Shigaraki, herdeiro designado de All For One."
+    }
+  },
+  {
+    "id": "manga_0435",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Naruto », quel examen les jeunes ninjas doivent-ils passer pour monter en grade ?",
+      "en": "In \"Naruto\", which exam must young ninjas pass to be promoted?",
+      "es": "En «Naruto», ¿qué examen deben pasar los jóvenes ninjas para ascender?",
+      "pt": "Em «Naruto», que exame devem os jovens ninjas passar para subir de posto?"
+    },
+    "options": {
+      "fr": [
+        "L'examen chunin",
+        "L'examen Hunter",
+        "Le concours des kage",
+        "Le tournoi du Budokai"
+      ],
+      "en": [
+        "The chunin exam",
+        "The Hunter exam",
+        "The kage contest",
+        "The Budokai tournament"
+      ],
+      "es": [
+        "El examen chunin",
+        "El examen Hunter",
+        "El concurso kage",
+        "El torneo Budokai"
+      ],
+      "pt": [
+        "O exame chunin",
+        "O exame Hunter",
+        "O concurso kage",
+        "O torneio Budokai"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'arc de l'examen chunin est l'un des plus populaires de la première série.",
+      "en": "The chunin exam arc is one of the most popular of the first series.",
+      "es": "El arco del examen chunin es de los más populares de la primera serie.",
+      "pt": "O arco do exame chunin é dos mais populares da primeira série."
+    }
+  },
+  {
+    "id": "manga_0436",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Chainsaw Man », qui dirige la division de Denji au début ?",
+      "en": "In \"Chainsaw Man\", who leads Denji's division at the start?",
+      "es": "En «Chainsaw Man», ¿quién dirige la división de Denji al principio?",
+      "pt": "Em «Chainsaw Man», quem dirige a divisão de Denji no início?"
+    },
+    "options": {
+      "fr": [
+        "Makima",
+        "Power",
+        "Aki",
+        "Kishibe"
+      ],
+      "en": [
+        "Makima",
+        "Power",
+        "Aki",
+        "Kishibe"
+      ],
+      "es": [
+        "Makima",
+        "Power",
+        "Aki",
+        "Kishibe"
+      ],
+      "pt": [
+        "Makima",
+        "Power",
+        "Aki",
+        "Kishibe"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Makima recrute Denji en lui promettant une vie normale, tout en le tenant en laisse.",
+      "en": "Makima recruits Denji by promising him a normal life while keeping him on a leash.",
+      "es": "Makima recluta a Denji prometiéndole una vida normal mientras lo tiene atado.",
+      "pt": "Makima recruta Denji prometendo-lhe uma vida normal enquanto o mantém preso."
+    }
+  },
+  {
+    "id": "manga_0437",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Nichijou » et « Saiki Kusuo », quel registre domine ?",
+      "en": "In \"Nichijou\" and \"Saiki Kusuo\", which register dominates?",
+      "es": "En «Nichijou» y «Saiki Kusuo», ¿qué registro domina?",
+      "pt": "Em «Nichijou» e «Saiki Kusuo», que registo domina?"
+    },
+    "options": {
+      "fr": [
+        "La comédie du quotidien",
+        "Le drame historique",
+        "L'horreur",
+        "Le thriller policier"
+      ],
+      "en": [
+        "Everyday comedy",
+        "Historical drama",
+        "Horror",
+        "Crime thriller"
+      ],
+      "es": [
+        "La comedia cotidiana",
+        "El drama histórico",
+        "El terror",
+        "El thriller policíaco"
+      ],
+      "pt": [
+        "A comédia do quotidiano",
+        "O drama histórico",
+        "O terror",
+        "O thriller policial"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les deux séries poussent des situations banales jusqu'à l'absurde total.",
+      "en": "Both series push mundane situations to total absurdity.",
+      "es": "Ambas series llevan situaciones banales hasta el absurdo total.",
+      "pt": "Ambas as séries levam situações banais ao absurdo total."
+    }
+  },
+  {
+    "id": "manga_0438",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « L'Attaque des Titans », comment s'appelle la nation ennemie révélée dans la seconde partie ?",
+      "en": "In \"Attack on Titan\", what is the enemy nation revealed in the second half?",
+      "es": "En «Ataque a los Titanes», ¿cómo se llama la nación enemiga revelada en la segunda parte?",
+      "pt": "Em «Ataque dos Titãs», como se chama a nação inimiga revelada na segunda parte?"
+    },
+    "options": {
+      "fr": [
+        "Marley",
+        "Hizuru",
+        "Eldia",
+        "Paradis"
+      ],
+      "en": [
+        "Marley",
+        "Hizuru",
+        "Eldia",
+        "Paradis"
+      ],
+      "es": [
+        "Marley",
+        "Hizuru",
+        "Eldia",
+        "Paradis"
+      ],
+      "pt": [
+        "Marley",
+        "Hizuru",
+        "Eldia",
+        "Paradis"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Paradis est l'île des héros ; Eldia le peuple auquel ils appartiennent.",
+      "en": "Paradis is the heroes' island; Eldia is the people they belong to.",
+      "es": "Paradis es la isla de los héroes; Eldia el pueblo al que pertenecen.",
+      "pt": "Paradis é a ilha dos heróis; Eldia o povo a que pertencem."
+    }
+  },
+  {
+    "id": "manga_0439",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel pays est le deuxième marché mondial du manga après le Japon ?",
+      "en": "Which country is the world's second-biggest manga market after Japan?",
+      "es": "¿Qué país es el segundo mercado mundial del manga tras Japón?",
+      "pt": "Que país é o segundo maior mercado mundial do manga depois do Japão?"
+    },
+    "options": {
+      "fr": [
+        "La France",
+        "Les États-Unis",
+        "L'Allemagne",
+        "L'Italie"
+      ],
+      "en": [
+        "France",
+        "The United States",
+        "Germany",
+        "Italy"
+      ],
+      "es": [
+        "Francia",
+        "Estados Unidos",
+        "Alemania",
+        "Italia"
+      ],
+      "pt": [
+        "A França",
+        "Os Estados Unidos",
+        "A Alemanha",
+        "A Itália"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le manga représente désormais une large part des ventes de bande dessinée en France.",
+      "en": "Manga now accounts for a large share of comic book sales in France.",
+      "es": "El manga representa hoy gran parte de las ventas de cómic en Francia.",
+      "pt": "O manga representa hoje grande parte das vendas de banda desenhada em França."
+    }
+  },
+  {
+    "id": "manga_0440",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Given », autour de quoi se noue l'intrigue ?",
+      "en": "In \"Given\", what is the plot built around?",
+      "es": "En «Given», ¿en torno a qué gira la trama?",
+      "pt": "Em «Given», em torno de que gira a intriga?"
+    },
+    "options": {
+      "fr": [
+        "Un groupe de musique",
+        "Une équipe de sport",
+        "Un club de cuisine",
+        "Une agence de détectives"
+      ],
+      "en": [
+        "A band",
+        "A sports team",
+        "A cooking club",
+        "A detective agency"
+      ],
+      "es": [
+        "Un grupo de música",
+        "Un equipo deportivo",
+        "Un club de cocina",
+        "Una agencia de detectives"
+      ],
+      "pt": [
+        "Uma banda de música",
+        "Uma equipa desportiva",
+        "Um clube de cozinha",
+        "Uma agência de detetives"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La guitare héritée d'un ami disparu structure tout le récit.",
+      "en": "The guitar inherited from a lost friend structures the whole story.",
+      "es": "La guitarra heredada de un amigo desaparecido estructura todo el relato.",
+      "pt": "A guitarra herdada de um amigo desaparecido estrutura todo o relato."
+    }
+  },
+  {
+    "id": "manga_0441",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Sakamoto Days », quelle était l'ancienne profession du héros ?",
+      "en": "In \"Sakamoto Days\", what was the hero's former job?",
+      "es": "En «Sakamoto Days», ¿cuál era la antigua profesión del héroe?",
+      "pt": "Em «Sakamoto Days», qual era a antiga profissão do herói?"
+    },
+    "options": {
+      "fr": [
+        "Tueur à gages",
+        "Chef cuisinier",
+        "Policier",
+        "Médecin"
+      ],
+      "en": [
+        "Hitman",
+        "Head chef",
+        "Police officer",
+        "Doctor"
+      ],
+      "es": [
+        "Sicario",
+        "Chef",
+        "Policía",
+        "Médico"
+      ],
+      "pt": [
+        "Assassino a soldo",
+        "Chefe de cozinha",
+        "Polícia",
+        "Médico"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Rangé des affaires, il tient désormais une supérette de quartier avec sa famille.",
+      "en": "Now retired, he runs a neighbourhood convenience store with his family.",
+      "es": "Ya retirado, regenta una tienda de barrio con su familia.",
+      "pt": "Já reformado, gere uma loja de bairro com a família."
+    }
+  },
+  {
+    "id": "manga_0442",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « One Piece », dans quel pays inspiré du Japon féodal se déroule un très long arc récent ?",
+      "en": "In \"One Piece\", which country inspired by feudal Japan hosts a long recent arc?",
+      "es": "En «One Piece», ¿en qué país inspirado en el Japón feudal transcurre un largo arco reciente?",
+      "pt": "Em «One Piece», em que país inspirado no Japão feudal decorre um longo arco recente?"
+    },
+    "options": {
+      "fr": [
+        "Wano",
+        "Dressrosa",
+        "Alabasta",
+        "Skypiea"
+      ],
+      "en": [
+        "Wano",
+        "Dressrosa",
+        "Alabasta",
+        "Skypiea"
+      ],
+      "es": [
+        "Wano",
+        "Dressrosa",
+        "Alabasta",
+        "Skypiea"
+      ],
+      "pt": [
+        "Wano",
+        "Dressrosa",
+        "Alabasta",
+        "Skypiea"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Alabasta évoque plutôt l'Égypte, Dressrosa l'Espagne et Skypiea les Andes.",
+      "en": "Alabasta evokes Egypt, Dressrosa Spain and Skypiea the Andes.",
+      "es": "Alabasta evoca Egipto, Dressrosa España y Skypiea los Andes.",
+      "pt": "Alabasta evoca o Egito, Dressrosa a Espanha e Skypiea os Andes."
+    }
+  },
+  {
+    "id": "manga_0443",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Hunter x Hunter », quel arc met en scène des créatures hybrides dirigées par le roi Meruem ?",
+      "en": "In \"Hunter x Hunter\", which arc features hybrid creatures ruled by King Meruem?",
+      "es": "En «Hunter x Hunter», ¿qué arco presenta criaturas híbridas dirigidas por el rey Meruem?",
+      "pt": "Em «Hunter x Hunter», que arco apresenta criaturas híbridas lideradas pelo rei Meruem?"
+    },
+    "options": {
+      "fr": [
+        "L'arc des Fourmis-Chimères",
+        "L'arc de l'île Gluttonous",
+        "L'arc de la tour céleste",
+        "L'arc de York Shin"
+      ],
+      "en": [
+        "The Chimera Ant arc",
+        "The Greed Island arc",
+        "The Heavens Arena arc",
+        "The Yorknew City arc"
+      ],
+      "es": [
+        "El arco de las Hormigas Quimera",
+        "El de Greed Island",
+        "El del Coliseo Celeste",
+        "El de Ciudad York"
+      ],
+      "pt": [
+        "O arco das Formigas Quimera",
+        "O de Greed Island",
+        "O da Arena Celeste",
+        "O de Yorknew"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'arc est réputé pour son ton sombre et ses longues séquences de narration.",
+      "en": "The arc is known for its dark tone and long narrated sequences.",
+      "es": "El arco es célebre por su tono sombrío y sus largas secuencias narradas.",
+      "pt": "O arco é célebre pelo tom sombrio e pelas longas sequências narradas."
+    }
+  },
+  {
+    "id": "manga_0444",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Bleach », quel capitaine trahit la Soul Society en simulant sa propre mort ?",
+      "en": "In \"Bleach\", which captain betrays the Soul Society by faking his own death?",
+      "es": "En «Bleach», ¿qué capitán traiciona a la Soul Society fingiendo su muerte?",
+      "pt": "Em «Bleach», que capitão trai a Soul Society fingindo a própria morte?"
+    },
+    "options": {
+      "fr": [
+        "Sosuke Aizen",
+        "Byakuya Kuchiki",
+        "Kenpachi Zaraki",
+        "Toshiro Hitsugaya"
+      ],
+      "en": [
+        "Sosuke Aizen",
+        "Byakuya Kuchiki",
+        "Kenpachi Zaraki",
+        "Toshiro Hitsugaya"
+      ],
+      "es": [
+        "Sosuke Aizen",
+        "Byakuya Kuchiki",
+        "Kenpachi Zaraki",
+        "Toshiro Hitsugaya"
+      ],
+      "pt": [
+        "Sosuke Aizen",
+        "Byakuya Kuchiki",
+        "Kenpachi Zaraki",
+        "Toshiro Hitsugaya"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Son zanpakuto crée une hypnose totale : personne ne peut se fier à ce qu'il voit.",
+      "en": "His zanpakuto creates complete hypnosis: no one can trust what they see.",
+      "es": "Su zanpakuto crea una hipnosis total: nadie puede fiarse de lo que ve.",
+      "pt": "O seu zanpakuto cria uma hipnose total: ninguém pode confiar no que vê."
+    }
+  },
+  {
+    "id": "manga_0445",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Naruto », qui est le véritable corps derrière les six chemins de Pain ?",
+      "en": "In \"Naruto\", who is the real body behind the Six Paths of Pain?",
+      "es": "En «Naruto», ¿quién es el cuerpo real tras los Seis Caminos de Pain?",
+      "pt": "Em «Naruto», quem é o corpo real por trás dos Seis Caminhos de Pain?"
+    },
+    "options": {
+      "fr": [
+        "Nagato",
+        "Yahiko",
+        "Obito",
+        "Madara"
+      ],
+      "en": [
+        "Nagato",
+        "Yahiko",
+        "Obito",
+        "Madara"
+      ],
+      "es": [
+        "Nagato",
+        "Yahiko",
+        "Obito",
+        "Madara"
+      ],
+      "pt": [
+        "Nagato",
+        "Yahiko",
+        "Obito",
+        "Madara"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le corps du chemin principal est celui de Yahiko, son ami mort, manipulé à distance.",
+      "en": "The main path's body is that of Yahiko, his dead friend, controlled remotely.",
+      "es": "El cuerpo del camino principal es el de Yahiko, su amigo muerto, manipulado a distancia.",
+      "pt": "O corpo do caminho principal é o de Yahiko, o amigo morto, manipulado à distância."
+    }
+  },
+  {
+    "id": "manga_0446",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Jujutsu Kaisen », quel personnage est le père biologique de Megumi ?",
+      "en": "In \"Jujutsu Kaisen\", who is Megumi's biological father?",
+      "es": "En «Jujutsu Kaisen», ¿quién es el padre biológico de Megumi?",
+      "pt": "Em «Jujutsu Kaisen», quem é o pai biológico de Megumi?"
+    },
+    "options": {
+      "fr": [
+        "Toji Fushiguro",
+        "Satoru Gojo",
+        "Suguru Geto",
+        "Yuji Itadori"
+      ],
+      "en": [
+        "Toji Fushiguro",
+        "Satoru Gojo",
+        "Suguru Geto",
+        "Yuji Itadori"
+      ],
+      "es": [
+        "Toji Fushiguro",
+        "Satoru Gojo",
+        "Suguru Geto",
+        "Yuji Itadori"
+      ],
+      "pt": [
+        "Toji Fushiguro",
+        "Satoru Gojo",
+        "Suguru Geto",
+        "Yuji Itadori"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Toji est dépourvu d'énergie occulte, ce qui le rend invisible aux exorcistes.",
+      "en": "Toji has no cursed energy at all, which makes him invisible to sorcerers.",
+      "es": "Toji carece de energía maldita, lo que lo vuelve invisible para los hechiceros.",
+      "pt": "Toji não tem energia amaldiçoada, o que o torna invisível aos feiticeiros."
+    }
+  },
+  {
+    "id": "manga_0447",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « One Piece », quelle guerre oppose la Marine à l'équipage de Barbe Blanche ?",
+      "en": "In \"One Piece\", which war pits the Marines against Whitebeard's crew?",
+      "es": "En «One Piece», ¿qué guerra enfrenta a la Marina con la tripulación de Barbablanca?",
+      "pt": "Em «One Piece», que guerra opõe a Marinha à tripulação do Barba Branca?"
+    },
+    "options": {
+      "fr": [
+        "La bataille de Marineford",
+        "La bataille d'Onigashima",
+        "Le siège d'Enies Lobby",
+        "La guerre de Dressrosa"
+      ],
+      "en": [
+        "The Battle of Marineford",
+        "The Battle of Onigashima",
+        "The Enies Lobby siege",
+        "The Dressrosa war"
+      ],
+      "es": [
+        "La batalla de Marineford",
+        "La de Onigashima",
+        "El asedio de Enies Lobby",
+        "La guerra de Dressrosa"
+      ],
+      "pt": [
+        "A batalha de Marineford",
+        "A de Onigashima",
+        "O cerco de Enies Lobby",
+        "A guerra de Dressrosa"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Cet arc marque un tournant : l'équipage se sépare pour deux ans d'entraînement.",
+      "en": "The arc marks a turning point: the crew splits up for two years of training.",
+      "es": "Este arco marca un giro: la tripulación se separa dos años para entrenar.",
+      "pt": "Este arco marca uma viragem: a tripulação separa-se por dois anos de treino."
+    }
+  },
+  {
+    "id": "manga_0448",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Death Note », quelle règle limite l'usage du carnet aux noms écrits avec le visage en tête ?",
+      "en": "In \"Death Note\", which rule requires the writer to know the victim's face?",
+      "es": "En «Death Note», ¿qué regla exige conocer el rostro de la víctima?",
+      "pt": "Em «Death Note», que regra exige conhecer o rosto da vítima?"
+    },
+    "options": {
+      "fr": [
+        "Il faut connaître le visage ET le nom",
+        "Il faut seulement le nom",
+        "Il faut être à moins d'un kilomètre",
+        "Il faut le toucher"
+      ],
+      "en": [
+        "You must know both the face AND the name",
+        "Only the name is needed",
+        "You must be within a kilometre",
+        "You must touch them"
+      ],
+      "es": [
+        "Hay que conocer el rostro Y el nombre",
+        "Solo hace falta el nombre",
+        "Hay que estar a menos de un kilómetro",
+        "Hay que tocarlo"
+      ],
+      "pt": [
+        "É preciso conhecer o rosto E o nome",
+        "Basta o nome",
+        "É preciso estar a menos de um quilómetro",
+        "É preciso tocar-lhe"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Cette règle protège les homonymes et structure toute l'enquête de L.",
+      "en": "This rule protects namesakes and shapes L's entire investigation.",
+      "es": "Esta regla protege a los homónimos y estructura toda la investigación de L.",
+      "pt": "Esta regra protege os homónimos e estrutura toda a investigação de L."
+    }
+  },
+  {
+    "id": "manga_0449",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel manga de Kentaro Miura a été poursuivi après sa mort par son ami d'enfance ?",
+      "en": "Which Kentaro Miura manga was continued after his death by his childhood friend?",
+      "es": "¿Qué manga de Kentaro Miura continuó tras su muerte su amigo de infancia?",
+      "pt": "Que manga de Kentaro Miura foi continuado após a sua morte pelo amigo de infância?"
+    },
+    "options": {
+      "fr": [
+        "Berserk",
+        "Vagabond",
+        "Vinland Saga",
+        "Blame!"
+      ],
+      "en": [
+        "Berserk",
+        "Vagabond",
+        "Vinland Saga",
+        "Blame!"
+      ],
+      "es": [
+        "Berserk",
+        "Vagabond",
+        "Vinland Saga",
+        "Blame!"
+      ],
+      "pt": [
+        "Berserk",
+        "Vagabond",
+        "Vinland Saga",
+        "Blame!"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Kouji Mori, qui connaissait la fin voulue par Miura, supervise la suite depuis 2022.",
+      "en": "Kouji Mori, who knew Miura's intended ending, has overseen the continuation since 2022.",
+      "es": "Kouji Mori, que conocía el final previsto por Miura, supervisa la continuación desde 2022.",
+      "pt": "Kouji Mori, que conhecia o final previsto por Miura, supervisiona a continuação desde 2022."
+    }
+  },
+  {
+    "id": "manga_0450",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio a animé « Vinland Saga » pour sa première saison ?",
+      "en": "Which studio animated the first season of \"Vinland Saga\"?",
+      "es": "¿Qué estudio animó la primera temporada de «Vinland Saga»?",
+      "pt": "Que estúdio animou a primeira temporada de «Vinland Saga»?"
+    },
+    "options": {
+      "fr": [
+        "Wit Studio",
+        "MAPPA",
+        "Bones",
+        "Madhouse"
+      ],
+      "en": [
+        "Wit Studio",
+        "MAPPA",
+        "Bones",
+        "Madhouse"
+      ],
+      "es": [
+        "Wit Studio",
+        "MAPPA",
+        "Bones",
+        "Madhouse"
+      ],
+      "pt": [
+        "Wit Studio",
+        "MAPPA",
+        "Bones",
+        "Madhouse"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "MAPPA a repris la deuxième saison, comme pour « L'Attaque des Titans ».",
+      "en": "MAPPA took over for season two, as it did for \"Attack on Titan\".",
+      "es": "MAPPA tomó el relevo en la segunda temporada, como en «Ataque a los Titanes».",
+      "pt": "A MAPPA assumiu a segunda temporada, como em «Ataque dos Titãs»."
+    }
+  },
+  {
+    "id": "manga_0451",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Fullmetal Alchemist », quel est le prix à payer selon la loi de l'échange équivalent ?",
+      "en": "In \"Fullmetal Alchemist\", what does the law of equivalent exchange demand?",
+      "es": "En «Fullmetal Alchemist», ¿qué exige la ley del intercambio equivalente?",
+      "pt": "Em «Fullmetal Alchemist», o que exige a lei da troca equivalente?"
+    },
+    "options": {
+      "fr": [
+        "Donner autant que l'on reçoit",
+        "Sacrifier un ami",
+        "Payer en or",
+        "Attendre sept ans"
+      ],
+      "en": [
+        "Giving as much as you receive",
+        "Sacrificing a friend",
+        "Paying in gold",
+        "Waiting seven years"
+      ],
+      "es": [
+        "Dar tanto como se recibe",
+        "Sacrificar a un amigo",
+        "Pagar en oro",
+        "Esperar siete años"
+      ],
+      "pt": [
+        "Dar tanto quanto se recebe",
+        "Sacrificar um amigo",
+        "Pagar em ouro",
+        "Esperar sete anos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est cette loi qui rend la transmutation humaine impossible sans perte terrible.",
+      "en": "It is this law that makes human transmutation impossible without terrible loss.",
+      "es": "Es esta ley la que hace imposible la transmutación humana sin una pérdida terrible.",
+      "pt": "É esta lei que torna a transmutação humana impossível sem uma perda terrível."
+    }
+  },
+  {
+    "id": "manga_0452",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel manga de Yoshihiro Togashi met en scène un tournoi d'arts martiaux entre esprits ?",
+      "en": "Which Yoshihiro Togashi manga features a martial arts tournament among spirits?",
+      "es": "¿Qué manga de Yoshihiro Togashi presenta un torneo de artes marciales entre espíritus?",
+      "pt": "Que manga de Yoshihiro Togashi apresenta um torneio de artes marciais entre espíritos?"
+    },
+    "options": {
+      "fr": [
+        "Yu Yu Hakusho",
+        "Hunter x Hunter",
+        "Level E",
+        "Ten de Shōwaru Cupid"
+      ],
+      "en": [
+        "Yu Yu Hakusho",
+        "Hunter x Hunter",
+        "Level E",
+        "Ten de Shōwaru Cupid"
+      ],
+      "es": [
+        "Yu Yu Hakusho",
+        "Hunter x Hunter",
+        "Level E",
+        "Ten de Shōwaru Cupid"
+      ],
+      "pt": [
+        "Yu Yu Hakusho",
+        "Hunter x Hunter",
+        "Level E",
+        "Ten de Shōwaru Cupid"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le tournoi des Ténèbres est l'un des arcs les plus emblématiques des années 1990.",
+      "en": "The Dark Tournament is one of the most emblematic arcs of the 1990s.",
+      "es": "El Torneo Oscuro es uno de los arcos más emblemáticos de los años noventa.",
+      "pt": "O Torneio das Trevas é um dos arcos mais emblemáticos dos anos 90."
+    }
+  },
+  {
+    "id": "manga_0453",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Demon Slayer », quel objet Nezuko mord en permanence ?",
+      "en": "In \"Demon Slayer\", what does Nezuko constantly bite on?",
+      "es": "En «Demon Slayer», ¿qué muerde Nezuko constantemente?",
+      "pt": "Em «Demon Slayer», o que morde Nezuko constantemente?"
+    },
+    "options": {
+      "fr": [
+        "Un mors de bambou",
+        "Un ruban",
+        "Une lame",
+        "Un morceau de bois"
+      ],
+      "en": [
+        "A bamboo muzzle",
+        "A ribbon",
+        "A blade",
+        "A piece of wood"
+      ],
+      "es": [
+        "Una mordaza de bambú",
+        "Una cinta",
+        "Una hoja",
+        "Un trozo de madera"
+      ],
+      "pt": [
+        "Um freio de bambu",
+        "Uma fita",
+        "Uma lâmina",
+        "Um pedaço de madeira"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le bambou l'empêche de mordre les humains malgré sa condition de démone.",
+      "en": "The bamboo stops her biting humans despite being a demon.",
+      "es": "El bambú le impide morder humanos pese a ser una demonio.",
+      "pt": "O bambu impede-a de morder humanos apesar de ser demónio."
+    }
+  },
+  {
+    "id": "manga_0454",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Evangelion », quel est le nom de la fillette albinos aux cheveux bleus ?",
+      "en": "In \"Evangelion\", what is the name of the pale, blue-haired girl?",
+      "es": "En «Evangelion», ¿cómo se llama la chica pálida de pelo azul?",
+      "pt": "Em «Evangelion», como se chama a rapariga pálida de cabelo azul?"
+    },
+    "options": {
+      "fr": [
+        "Rei Ayanami",
+        "Asuka Langley",
+        "Misato Katsuragi",
+        "Ritsuko Akagi"
+      ],
+      "en": [
+        "Rei Ayanami",
+        "Asuka Langley",
+        "Misato Katsuragi",
+        "Ritsuko Akagi"
+      ],
+      "es": [
+        "Rei Ayanami",
+        "Asuka Langley",
+        "Misato Katsuragi",
+        "Ritsuko Akagi"
+      ],
+      "pt": [
+        "Rei Ayanami",
+        "Asuka Langley",
+        "Misato Katsuragi",
+        "Ritsuko Akagi"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sa nature exacte est l'un des grands mystères de la série.",
+      "en": "Her exact nature is one of the series' great mysteries.",
+      "es": "Su naturaleza exacta es uno de los grandes misterios de la serie.",
+      "pt": "A sua natureza exata é um dos grandes mistérios da série."
+    }
+  },
+  {
+    "id": "manga_0455",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel mangaka a créé « Tokyo Revengers » ?",
+      "en": "Which manga author created \"Tokyo Revengers\"?",
+      "es": "¿Qué mangaka creó «Tokyo Revengers»?",
+      "pt": "Que mangaka criou «Tokyo Revengers»?"
+    },
+    "options": {
+      "fr": [
+        "Ken Wakui",
+        "Yuto Suzuki",
+        "Kaiu Shirai",
+        "Yusei Matsui"
+      ],
+      "en": [
+        "Ken Wakui",
+        "Yuto Suzuki",
+        "Kaiu Shirai",
+        "Yusei Matsui"
+      ],
+      "es": [
+        "Ken Wakui",
+        "Yuto Suzuki",
+        "Kaiu Shirai",
+        "Yusei Matsui"
+      ],
+      "pt": [
+        "Ken Wakui",
+        "Yuto Suzuki",
+        "Kaiu Shirai",
+        "Yusei Matsui"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Yuto Suzuki signe « Sakamoto Days », Kaiu Shirai « The Promised Neverland ».",
+      "en": "Yuto Suzuki writes \"Sakamoto Days\", Kaiu Shirai \"The Promised Neverland\".",
+      "es": "Yuto Suzuki firma «Sakamoto Days», Kaiu Shirai «The Promised Neverland».",
+      "pt": "Yuto Suzuki assina «Sakamoto Days», Kaiu Shirai «The Promised Neverland»."
+    }
+  },
+  {
+    "id": "manga_0456",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Attaque des Titans », quel événement final Eren déclenche-t-il ?",
+      "en": "In \"Attack on Titan\", which final event does Eren unleash?",
+      "es": "En «Ataque a los Titanes», ¿qué acontecimiento final desata Eren?",
+      "pt": "Em «Ataque dos Titãs», que acontecimento final desencadeia Eren?"
+    },
+    "options": {
+      "fr": [
+        "Le Grand Terrassement",
+        "Le Sursaut",
+        "La Grande Marée",
+        "L'Ultime Mur"
+      ],
+      "en": [
+        "The Rumbling",
+        "The Surge",
+        "The Great Tide",
+        "The Final Wall"
+      ],
+      "es": [
+        "El Retumbar",
+        "El Estallido",
+        "La Gran Marea",
+        "El Muro Final"
+      ],
+      "pt": [
+        "O Estrondo",
+        "O Surto",
+        "A Grande Maré",
+        "O Muro Final"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Des millions de titans colossaux se mettent en marche pour écraser le monde extérieur.",
+      "en": "Millions of colossal titans march out to crush the outside world.",
+      "es": "Millones de titanes colosales avanzan para arrasar el mundo exterior.",
+      "pt": "Milhões de titãs colossais avançam para esmagar o mundo exterior."
+    }
+  },
+  {
+    "id": "manga_0457",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle œuvre de Naoki Urasawa reprend un arc d'« Astro Boy » sous forme de polar futuriste ?",
+      "en": "Which Naoki Urasawa work retells an \"Astro Boy\" arc as a futuristic crime story?",
+      "es": "¿Qué obra de Naoki Urasawa reinterpreta un arco de «Astro Boy» como un policíaco futurista?",
+      "pt": "Que obra de Naoki Urasawa reinterpreta um arco de «Astro Boy» como um policial futurista?"
+    },
+    "options": {
+      "fr": [
+        "Pluto",
+        "Monster",
+        "20th Century Boys",
+        "Master Keaton"
+      ],
+      "en": [
+        "Pluto",
+        "Monster",
+        "20th Century Boys",
+        "Master Keaton"
+      ],
+      "es": [
+        "Pluto",
+        "Monster",
+        "20th Century Boys",
+        "Master Keaton"
+      ],
+      "pt": [
+        "Pluto",
+        "Monster",
+        "20th Century Boys",
+        "Master Keaton"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'histoire est racontée du point de vue du robot enquêteur Gesicht.",
+      "en": "The story is told from the perspective of the robot detective Gesicht.",
+      "es": "La historia se cuenta desde el punto de vista del robot detective Gesicht.",
+      "pt": "A história é contada do ponto de vista do robô detetive Gesicht."
+    }
+  },
+  {
+    "id": "manga_0458",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « One Piece », comment appelle-t-on la volonté qui permet de percevoir et de durcir son corps ?",
+      "en": "In \"One Piece\", what is the will that allows perception and body hardening called?",
+      "es": "En «One Piece», ¿cómo se llama la voluntad que permite percibir y endurecer el cuerpo?",
+      "pt": "Em «One Piece», como se chama a vontade que permite percecionar e endurecer o corpo?"
+    },
+    "options": {
+      "fr": [
+        "Le fluide (haki)",
+        "Le nen",
+        "Le chakra",
+        "L'énergie occulte"
+      ],
+      "en": [
+        "Haki",
+        "Nen",
+        "Chakra",
+        "Cursed energy"
+      ],
+      "es": [
+        "El haki",
+        "El nen",
+        "El chakra",
+        "La energía maldita"
+      ],
+      "pt": [
+        "O haki",
+        "O nen",
+        "O chakra",
+        "A energia amaldiçoada"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il existe trois formes de haki, dont une que seuls quelques élus possèdent.",
+      "en": "There are three forms of haki, one of which only a chosen few possess.",
+      "es": "Hay tres formas de haki, una de ellas reservada a unos pocos elegidos.",
+      "pt": "Existem três formas de haki, uma delas reservada a poucos eleitos."
+    }
+  },
+  {
+    "id": "manga_0459",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio a animé « Chainsaw Man » en 2022 ?",
+      "en": "Which studio animated \"Chainsaw Man\" in 2022?",
+      "es": "¿Qué estudio animó «Chainsaw Man» en 2022?",
+      "pt": "Que estúdio animou «Chainsaw Man» em 2022?"
+    },
+    "options": {
+      "fr": [
+        "MAPPA",
+        "Ufotable",
+        "Bones",
+        "Wit Studio"
+      ],
+      "en": [
+        "MAPPA",
+        "Ufotable",
+        "Bones",
+        "Wit Studio"
+      ],
+      "es": [
+        "MAPPA",
+        "Ufotable",
+        "Bones",
+        "Wit Studio"
+      ],
+      "pt": [
+        "MAPPA",
+        "Ufotable",
+        "Bones",
+        "Wit Studio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "MAPPA a produit la série sans comité de production, un choix rare dans l'industrie.",
+      "en": "MAPPA produced the series without a production committee, a rare industry choice.",
+      "es": "MAPPA produjo la serie sin comité de producción, una elección rara en la industria.",
+      "pt": "A MAPPA produziu a série sem comité de produção, uma escolha rara na indústria."
+    }
+  },
+  {
+    "id": "manga_0460",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Dragon Ball », quel personnage vient du futur pour prévenir d'une menace ?",
+      "en": "In \"Dragon Ball\", which character comes from the future to warn of a threat?",
+      "es": "En «Dragon Ball», ¿qué personaje viene del futuro para advertir de una amenaza?",
+      "pt": "Em «Dragon Ball», que personagem vem do futuro para avisar de uma ameaça?"
+    },
+    "options": {
+      "fr": [
+        "Trunks",
+        "Gohan",
+        "Goten",
+        "Bra"
+      ],
+      "en": [
+        "Trunks",
+        "Gohan",
+        "Goten",
+        "Bra"
+      ],
+      "es": [
+        "Trunks",
+        "Gohan",
+        "Goten",
+        "Bra"
+      ],
+      "pt": [
+        "Trunks",
+        "Gohan",
+        "Goten",
+        "Bra"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il annonce l'arrivée des cyborgs et sauve Goku d'une maladie cardiaque.",
+      "en": "He announces the androids' arrival and saves Goku from a heart disease.",
+      "es": "Anuncia la llegada de los androides y salva a Goku de una enfermedad cardíaca.",
+      "pt": "Anuncia a chegada dos andróides e salva Goku de uma doença cardíaca."
+    }
+  },
+  {
+    "id": "manga_0461",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle plateforme de streaming s'est spécialisée mondialement dans la diffusion d'animes ?",
+      "en": "Which streaming platform specialised globally in anime?",
+      "es": "¿Qué plataforma de streaming se especializó mundialmente en anime?",
+      "pt": "Que plataforma de streaming se especializou mundialmente em anime?"
+    },
+    "options": {
+      "fr": [
+        "Crunchyroll",
+        "Hulu",
+        "Peacock",
+        "Paramount+"
+      ],
+      "en": [
+        "Crunchyroll",
+        "Hulu",
+        "Peacock",
+        "Paramount+"
+      ],
+      "es": [
+        "Crunchyroll",
+        "Hulu",
+        "Peacock",
+        "Paramount+"
+      ],
+      "pt": [
+        "Crunchyroll",
+        "Hulu",
+        "Peacock",
+        "Paramount+"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Née d'un site de fansub, la plateforme appartient aujourd'hui au groupe Sony.",
+      "en": "Born from a fansub site, the platform now belongs to Sony.",
+      "es": "Nacida de un sitio de fansub, la plataforma pertenece hoy a Sony.",
+      "pt": "Nascida de um site de fansub, a plataforma pertence hoje à Sony."
+    }
+  },
+  {
+    "id": "manga_0462",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Jujutsu Kaisen », quelle arme Nobara utilise-t-elle ?",
+      "en": "In \"Jujutsu Kaisen\", which weapon does Nobara use?",
+      "es": "En «Jujutsu Kaisen», ¿qué arma usa Nobara?",
+      "pt": "Em «Jujutsu Kaisen», que arma usa Nobara?"
+    },
+    "options": {
+      "fr": [
+        "Un marteau et des clous",
+        "Un katana",
+        "Un arc",
+        "Une chaîne"
+      ],
+      "en": [
+        "A hammer and nails",
+        "A katana",
+        "A bow",
+        "A chain"
+      ],
+      "es": [
+        "Un martillo y clavos",
+        "Una katana",
+        "Un arco",
+        "Una cadena"
+      ],
+      "pt": [
+        "Um martelo e pregos",
+        "Uma katana",
+        "Um arco",
+        "Uma corrente"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sa technique s'inspire de la poupée vaudou : le clou frappe à distance.",
+      "en": "Her technique draws on voodoo dolls: the nail strikes at a distance.",
+      "es": "Su técnica se inspira en el vudú: el clavo golpea a distancia.",
+      "pt": "A sua técnica inspira-se no vudu: o prego atinge à distância."
+    }
+  },
+  {
+    "id": "manga_0463",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel manga de Sui Ishida raconte la transformation d'un étudiant en créature mangeuse d'hommes ?",
+      "en": "Which Sui Ishida manga follows a student turning into a man-eating creature?",
+      "es": "¿Qué manga de Sui Ishida narra la transformación de un estudiante en criatura devoradora de hombres?",
+      "pt": "Que manga de Sui Ishida narra a transformação de um estudante numa criatura devoradora de homens?"
+    },
+    "options": {
+      "fr": [
+        "Tokyo Ghoul",
+        "Choujin X",
+        "Parasite",
+        "Ajin"
+      ],
+      "en": [
+        "Tokyo Ghoul",
+        "Choujin X",
+        "Parasyte",
+        "Ajin"
+      ],
+      "es": [
+        "Tokyo Ghoul",
+        "Choujin X",
+        "Parasyte",
+        "Ajin"
+      ],
+      "pt": [
+        "Tokyo Ghoul",
+        "Choujin X",
+        "Parasyte",
+        "Ajin"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sui Ishida poursuit depuis avec « Choujin X », dans un registre proche.",
+      "en": "Sui Ishida has since continued with \"Choujin X\", in a similar vein.",
+      "es": "Sui Ishida continúa desde entonces con «Choujin X», en un registro parecido.",
+      "pt": "Sui Ishida continua desde então com «Choujin X», num registo próximo."
+    }
+  },
+  {
+    "id": "manga_0464",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « My Hero Academia », quel héros devient le n°1 après le retrait d'All Might ?",
+      "en": "In \"My Hero Academia\", which hero becomes No. 1 after All Might retires?",
+      "es": "En «My Hero Academia», ¿qué héroe se vuelve el n.º 1 tras la retirada de All Might?",
+      "pt": "Em «My Hero Academia», que herói se torna o n.º 1 após a retirada de All Might?"
+    },
+    "options": {
+      "fr": [
+        "Endeavor",
+        "Hawks",
+        "Best Jeanist",
+        "Edgeshot"
+      ],
+      "en": [
+        "Endeavor",
+        "Hawks",
+        "Best Jeanist",
+        "Edgeshot"
+      ],
+      "es": [
+        "Endeavor",
+        "Hawks",
+        "Best Jeanist",
+        "Edgeshot"
+      ],
+      "pt": [
+        "Endeavor",
+        "Hawks",
+        "Best Jeanist",
+        "Edgeshot"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Père de Todoroki, il doit affronter le poids de sa propre violence familiale.",
+      "en": "Todoroki's father, he must confront the weight of his own family violence.",
+      "es": "Padre de Todoroki, debe enfrentarse al peso de su propia violencia familiar.",
+      "pt": "Pai de Todoroki, tem de enfrentar o peso da sua própria violência familiar."
+    }
+  },
+  {
+    "id": "manga_0465",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel terme désigne au Japon les fans passionnés au point d'en faire un mode de vie ?",
+      "en": "Which Japanese term describes fans so devoted that fandom becomes a lifestyle?",
+      "es": "¿Qué término japonés designa a los fans tan entregados que su afición es un modo de vida?",
+      "pt": "Que termo japonês designa fãs tão dedicados que o fascínio se torna modo de vida?"
+    },
+    "options": {
+      "fr": [
+        "Otaku",
+        "Seiyuu",
+        "Mangaka",
+        "Hikikomori"
+      ],
+      "en": [
+        "Otaku",
+        "Seiyuu",
+        "Mangaka",
+        "Hikikomori"
+      ],
+      "es": [
+        "Otaku",
+        "Seiyuu",
+        "Mangaka",
+        "Hikikomori"
+      ],
+      "pt": [
+        "Otaku",
+        "Seiyuu",
+        "Mangaka",
+        "Hikikomori"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Seiyuu désigne les comédiens de doublage, hikikomori les personnes en retrait social total.",
+      "en": "Seiyuu means voice actors, hikikomori people in total social withdrawal.",
+      "es": "Seiyuu son los actores de doblaje; hikikomori, personas en aislamiento social total.",
+      "pt": "Seiyuu são os atores de dobragem; hikikomori, pessoas em isolamento social total."
+    }
+  },
+  {
+    "id": "manga_0466",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Spy x Family », dans quel contexte politique se déroule l'histoire ?",
+      "en": "In \"Spy x Family\", what political backdrop frames the story?",
+      "es": "En «Spy x Family», ¿en qué contexto político transcurre la historia?",
+      "pt": "Em «Spy x Family», em que contexto político decorre a história?"
+    },
+    "options": {
+      "fr": [
+        "Une guerre froide entre deux pays",
+        "Une invasion extraterrestre",
+        "Une guerre civile",
+        "Une monarchie absolue"
+      ],
+      "en": [
+        "A cold war between two countries",
+        "An alien invasion",
+        "A civil war",
+        "An absolute monarchy"
+      ],
+      "es": [
+        "Una guerra fría entre dos países",
+        "Una invasión alienígena",
+        "Una guerra civil",
+        "Una monarquía absoluta"
+      ],
+      "pt": [
+        "Uma guerra fria entre dois países",
+        "Uma invasão alienígena",
+        "Uma guerra civil",
+        "Uma monarquia absoluta"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Westalis et Ostania évoquent clairement l'Allemagne divisée de l'après-guerre.",
+      "en": "Westalis and Ostania clearly evoke post-war divided Germany.",
+      "es": "Westalis y Ostania evocan claramente la Alemania dividida de posguerra.",
+      "pt": "Westalis e Ostania evocam claramente a Alemanha dividida do pós-guerra."
+    }
+  },
+  {
+    "id": "manga_0467",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel manga de Makoto Yukimura précède « Vinland Saga » et se déroule dans l'espace ?",
+      "en": "Which Makoto Yukimura manga precedes \"Vinland Saga\" and is set in space?",
+      "es": "¿Qué manga de Makoto Yukimura precede a «Vinland Saga» y transcurre en el espacio?",
+      "pt": "Que manga de Makoto Yukimura precede «Vinland Saga» e decorre no espaço?"
+    },
+    "options": {
+      "fr": [
+        "Planetes",
+        "Blame!",
+        "Knights of Sidonia",
+        "Space Brothers"
+      ],
+      "en": [
+        "Planetes",
+        "Blame!",
+        "Knights of Sidonia",
+        "Space Brothers"
+      ],
+      "es": [
+        "Planetes",
+        "Blame!",
+        "Knights of Sidonia",
+        "Space Brothers"
+      ],
+      "pt": [
+        "Planetes",
+        "Blame!",
+        "Knights of Sidonia",
+        "Space Brothers"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Planetes » suit des éboueurs de l'espace chargés de ramasser les débris en orbite.",
+      "en": "\"Planetes\" follows space garbage collectors clearing orbital debris.",
+      "es": "«Planetes» sigue a basureros espaciales que recogen desechos en órbita.",
+      "pt": "«Planetes» segue lixeiros espaciais que recolhem detritos em órbita."
+    }
+  },
+  {
+    "id": "manga_0468",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Death Note », comment L découvre-t-il que Kira se trouve au Japon ?",
+      "en": "In \"Death Note\", how does L work out that Kira is in Japan?",
+      "es": "En «Death Note», ¿cómo descubre L que Kira está en Japón?",
+      "pt": "Em «Death Note», como descobre L que Kira está no Japão?"
+    },
+    "options": {
+      "fr": [
+        "Par une émission diffusée dans une seule région",
+        "Par une empreinte digitale",
+        "Par un témoin",
+        "Par une caméra"
+      ],
+      "en": [
+        "Through a broadcast aired in one region only",
+        "Through a fingerprint",
+        "Through a witness",
+        "Through a camera"
+      ],
+      "es": [
+        "Por una emisión difundida en una sola región",
+        "Por una huella dactilar",
+        "Por un testigo",
+        "Por una cámara"
+      ],
+      "pt": [
+        "Por uma emissão transmitida numa só região",
+        "Por uma impressão digital",
+        "Por uma testemunha",
+        "Por uma câmara"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le piège du faux Lind L. Tailor, diffusé seulement au Kantō, ouvre toute l'enquête.",
+      "en": "The fake Lind L. Tailor trap, aired only in Kantō, opens the whole investigation.",
+      "es": "La trampa del falso Lind L. Tailor, emitida solo en Kantō, abre toda la investigación.",
+      "pt": "A armadilha do falso Lind L. Tailor, emitida só em Kantō, abre toda a investigação."
+    }
   }
 ]

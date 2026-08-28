@@ -18382,5 +18382,2117 @@
       "es": "La serie nació de una parodia de «Regreso al futuro» emitida en Adult Swim.",
       "pt": "A série nasceu de uma paródia de «Regresso ao Futuro» emitida no Adult Swim."
     }
+  },
+  {
+    "id": "cinema_0423",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « X-Files », quelle phrase sert de devise à la série ?",
+      "en": "In \"The X-Files\", which phrase is the series' motto?",
+      "es": "En «Expediente X», ¿qué frase es el lema de la serie?",
+      "pt": "Em «Ficheiros Secretos», que frase é o lema da série?"
+    },
+    "options": {
+      "fr": [
+        "« La vérité est ailleurs »",
+        "« Rien n'est vrai »",
+        "« Croyez-moi »",
+        "« Le doute est permis »"
+      ],
+      "en": [
+        "\"The truth is out there\"",
+        "\"Nothing is true\"",
+        "\"Believe me\"",
+        "\"Doubt is allowed\""
+      ],
+      "es": [
+        "«La verdad está ahí fuera»",
+        "«Nada es verdad»",
+        "«Créeme»",
+        "«La duda es lícita»"
+      ],
+      "pt": [
+        "«A verdade está algures»",
+        "«Nada é verdade»",
+        "«Acredita em mim»",
+        "«A dúvida é permitida»"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Mulder croit, Scully doute : tout le moteur de la série tient dans ce duo.",
+      "en": "Mulder believes, Scully doubts: the whole series runs on that pairing.",
+      "es": "Mulder cree, Scully duda: todo el motor de la serie está en ese dúo.",
+      "pt": "Mulder acredita, Scully duvida: todo o motor da série está nessa dupla."
+    }
+  },
+  {
+    "id": "cinema_0424",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Columbo », quel vêtement est la marque de fabrique de l'inspecteur ?",
+      "en": "In \"Columbo\", which garment is the detective's trademark?",
+      "es": "En «Colombo», ¿qué prenda es la marca del inspector?",
+      "pt": "Em «Colombo», que peça de roupa é a marca do inspetor?"
+    },
+    "options": {
+      "fr": [
+        "Un imperméable beige",
+        "Un chapeau melon",
+        "Une écharpe rouge",
+        "Des gants noirs"
+      ],
+      "en": [
+        "A beige raincoat",
+        "A bowler hat",
+        "A red scarf",
+        "Black gloves"
+      ],
+      "es": [
+        "Una gabardina beige",
+        "Un bombín",
+        "Una bufanda roja",
+        "Guantes negros"
+      ],
+      "pt": [
+        "Uma gabardina bege",
+        "Um chapéu de coco",
+        "Um cachecol vermelho",
+        "Luvas pretas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série inverse les codes du polar : on voit le meurtre dès le début.",
+      "en": "The show inverts crime drama codes: the murder is shown from the start.",
+      "es": "La serie invierte los códigos del policíaco: el crimen se ve desde el principio.",
+      "pt": "A série inverte os códigos do policial: o crime é mostrado desde o início."
+    }
+  },
+  {
+    "id": "cinema_0425",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Buffy contre les vampires », dans quelle ville se déroule la série ?",
+      "en": "In \"Buffy the Vampire Slayer\", in which town is the series set?",
+      "es": "En «Buffy, cazavampiros», ¿en qué ciudad transcurre la serie?",
+      "pt": "Em «Buffy, a Caçadora de Vampiros», em que cidade decorre a série?"
+    },
+    "options": {
+      "fr": [
+        "Sunnydale",
+        "Smallville",
+        "Hawkins",
+        "Riverdale"
+      ],
+      "en": [
+        "Sunnydale",
+        "Smallville",
+        "Hawkins",
+        "Riverdale"
+      ],
+      "es": [
+        "Sunnydale",
+        "Smallville",
+        "Hawkins",
+        "Riverdale"
+      ],
+      "pt": [
+        "Sunnydale",
+        "Smallville",
+        "Hawkins",
+        "Riverdale"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La ville est bâtie sur une « bouche de l'enfer », ce qui explique l'affluence de démons.",
+      "en": "The town sits on a \"Hellmouth\", which explains the steady flow of demons.",
+      "es": "La ciudad está sobre una «boca del infierno», de ahí la afluencia de demonios.",
+      "pt": "A cidade está sobre uma «boca do inferno», daí a afluência de demónios."
+    }
+  },
+  {
+    "id": "cinema_0426",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série de David Lynch s'ouvre sur la découverte du corps de Laura Palmer ?",
+      "en": "Which David Lynch series opens with the discovery of Laura Palmer's body?",
+      "es": "¿Qué serie de David Lynch se abre con el hallazgo del cuerpo de Laura Palmer?",
+      "pt": "Que série de David Lynch abre com a descoberta do corpo de Laura Palmer?"
+    },
+    "options": {
+      "fr": [
+        "Twin Peaks",
+        "Fargo",
+        "True Detective",
+        "Broadchurch"
+      ],
+      "en": [
+        "Twin Peaks",
+        "Fargo",
+        "True Detective",
+        "Broadchurch"
+      ],
+      "es": [
+        "Twin Peaks",
+        "Fargo",
+        "True Detective",
+        "Broadchurch"
+      ],
+      "pt": [
+        "Twin Peaks",
+        "Fargo",
+        "True Detective",
+        "Broadchurch"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Diffusée en 1990, la série a durablement changé ce qu'on attendait d'une fiction télé.",
+      "en": "Aired in 1990, it permanently changed what audiences expected from TV fiction.",
+      "es": "Emitida en 1990, cambió para siempre lo que se esperaba de la ficción televisiva.",
+      "pt": "Transmitida em 1990, mudou para sempre o que se esperava da ficção televisiva."
+    }
+  },
+  {
+    "id": "cinema_0427",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « La Servante écarlate », comment s'appelle le régime totalitaire ?",
+      "en": "In \"The Handmaid's Tale\", what is the totalitarian regime called?",
+      "es": "En «El cuento de la criada», ¿cómo se llama el régimen totalitario?",
+      "pt": "Em «O Conto da Aia», como se chama o regime totalitário?"
+    },
+    "options": {
+      "fr": [
+        "Gilead",
+        "Panem",
+        "Océania",
+        "Sion"
+      ],
+      "en": [
+        "Gilead",
+        "Panem",
+        "Oceania",
+        "Zion"
+      ],
+      "es": [
+        "Gilead",
+        "Panem",
+        "Oceanía",
+        "Sion"
+      ],
+      "pt": [
+        "Gilead",
+        "Panem",
+        "Oceânia",
+        "Sião"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série adapte le roman de Margaret Atwood publié en 1985.",
+      "en": "The series adapts Margaret Atwood's 1985 novel.",
+      "es": "La serie adapta la novela de Margaret Atwood de 1985.",
+      "pt": "A série adapta o romance de Margaret Atwood de 1985."
+    }
+  },
+  {
+    "id": "cinema_0428",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Jason Bourne », de quoi souffre le héros au début de la saga ?",
+      "en": "In the Bourne films, what does the hero suffer from at the start?",
+      "es": "En «Bourne», ¿de qué sufre el héroe al principio de la saga?",
+      "pt": "Em «Bourne», de que sofre o herói no início da saga?"
+    },
+    "options": {
+      "fr": [
+        "D'amnésie",
+        "De cécité",
+        "De surdité",
+        "D'insomnie"
+      ],
+      "en": [
+        "Amnesia",
+        "Blindness",
+        "Deafness",
+        "Insomnia"
+      ],
+      "es": [
+        "Amnesia",
+        "Ceguera",
+        "Sordera",
+        "Insomnio"
+      ],
+      "pt": [
+        "Amnésia",
+        "Cegueira",
+        "Surdez",
+        "Insónia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Repêché en mer, il découvre peu à peu qu'il a été formé comme agent d'élite.",
+      "en": "Fished out of the sea, he gradually discovers he was trained as an elite agent.",
+      "es": "Rescatado del mar, descubre poco a poco que fue formado como agente de élite.",
+      "pt": "Resgatado do mar, descobre aos poucos que foi treinado como agente de elite."
+    }
+  },
+  {
+    "id": "cinema_0429",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « La Cité de Dieu », dans quel pays se déroule le film ?",
+      "en": "In \"City of God\", in which country is the film set?",
+      "es": "En «Ciudad de Dios», ¿en qué país transcurre la película?",
+      "pt": "Em «Cidade de Deus», em que país se passa o filme?"
+    },
+    "options": {
+      "fr": [
+        "Le Brésil",
+        "Le Mexique",
+        "La Colombie",
+        "L'Argentine"
+      ],
+      "en": [
+        "Brazil",
+        "Mexico",
+        "Colombia",
+        "Argentina"
+      ],
+      "es": [
+        "Brasil",
+        "México",
+        "Colombia",
+        "Argentina"
+      ],
+      "pt": [
+        "O Brasil",
+        "O México",
+        "A Colômbia",
+        "A Argentina"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de 2002 suit trois décennies dans une favela de Rio de Janeiro.",
+      "en": "The 2002 film follows three decades in a Rio de Janeiro favela.",
+      "es": "La película de 2002 sigue tres décadas en una favela de Río de Janeiro.",
+      "pt": "O filme de 2002 acompanha três décadas numa favela do Rio de Janeiro."
+    }
+  },
+  {
+    "id": "cinema_0430",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel festival français est le grand rendez-vous mondial du film d'animation ?",
+      "en": "Which French festival is the world's main animation film event?",
+      "es": "¿Qué festival francés es la gran cita mundial del cine de animación?",
+      "pt": "Que festival francês é o grande encontro mundial do cinema de animação?"
+    },
+    "options": {
+      "fr": [
+        "Annecy",
+        "Deauville",
+        "La Rochelle",
+        "Gérardmer"
+      ],
+      "en": [
+        "Annecy",
+        "Deauville",
+        "La Rochelle",
+        "Gérardmer"
+      ],
+      "es": [
+        "Annecy",
+        "Deauville",
+        "La Rochelle",
+        "Gérardmer"
+      ],
+      "pt": [
+        "Annecy",
+        "Deauville",
+        "La Rochelle",
+        "Gérardmer"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Deauville est consacré au cinéma américain, Gérardmer au fantastique.",
+      "en": "Deauville focuses on American cinema, Gérardmer on fantasy and horror.",
+      "es": "Deauville se dedica al cine estadounidense y Gérardmer al fantástico.",
+      "pt": "Deauville dedica-se ao cinema americano e Gérardmer ao fantástico."
+    }
+  },
+  {
+    "id": "cinema_0431",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel réalisateur a signé « Saw », « Conjuring » et « Insidious » ?",
+      "en": "Which director made \"Saw\", \"The Conjuring\" and \"Insidious\"?",
+      "es": "¿Qué director firmó «Saw», «Expediente Warren» e «Insidious»?",
+      "pt": "Que realizador assinou «Saw», «A Conjuração» e «Insidious»?"
+    },
+    "options": {
+      "fr": [
+        "James Wan",
+        "Eli Roth",
+        "Rob Zombie",
+        "Wes Craven"
+      ],
+      "en": [
+        "James Wan",
+        "Eli Roth",
+        "Rob Zombie",
+        "Wes Craven"
+      ],
+      "es": [
+        "James Wan",
+        "Eli Roth",
+        "Rob Zombie",
+        "Wes Craven"
+      ],
+      "pt": [
+        "James Wan",
+        "Eli Roth",
+        "Rob Zombie",
+        "Wes Craven"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il a aussi réalisé « Aquaman » et un épisode de « Fast and Furious ».",
+      "en": "He also directed \"Aquaman\" and an instalment of \"Fast & Furious\".",
+      "es": "También dirigió «Aquaman» y una entrega de «Fast and Furious».",
+      "pt": "Realizou também «Aquaman» e um episódio de «Velocidade Furiosa»."
+    }
+  },
+  {
+    "id": "cinema_0432",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film d'animation de Guillermo del Toro, en volume image par image, adapte Pinocchio ?",
+      "en": "Which Guillermo del Toro stop-motion film adapts Pinocchio?",
+      "es": "¿Qué película de animación en volumen de Guillermo del Toro adapta Pinocho?",
+      "pt": "Que filme de animação em volume de Guillermo del Toro adapta o Pinóquio?"
+    },
+    "options": {
+      "fr": [
+        "Pinocchio par Guillermo del Toro",
+        "Coraline",
+        "L'Étrange Noël de monsieur Jack",
+        "Kubo"
+      ],
+      "en": [
+        "Guillermo del Toro's Pinocchio",
+        "Coraline",
+        "The Nightmare Before Christmas",
+        "Kubo"
+      ],
+      "es": [
+        "Pinocho de Guillermo del Toro",
+        "Coraline",
+        "Pesadilla antes de Navidad",
+        "Kubo"
+      ],
+      "pt": [
+        "Pinóquio de Guillermo del Toro",
+        "Coraline",
+        "Estranho Mundo de Jack",
+        "Kubo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film a remporté l'Oscar du meilleur film d'animation en 2023.",
+      "en": "The film won the Best Animated Feature Oscar in 2023.",
+      "es": "La película ganó el Óscar a la mejor película de animación en 2023.",
+      "pt": "O filme ganhou o Óscar de melhor filme de animação em 2023."
+    }
+  },
+  {
+    "id": "cinema_0433",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Euphoria », quelle actrice a remporté deux Emmy pour le rôle principal ?",
+      "en": "In \"Euphoria\", which actress won two Emmys for the lead role?",
+      "es": "En «Euphoria», ¿qué actriz ganó dos Emmy por el papel principal?",
+      "pt": "Em «Euphoria», que atriz ganhou dois Emmys pelo papel principal?"
+    },
+    "options": {
+      "fr": [
+        "Zendaya",
+        "Sydney Sweeney",
+        "Hunter Schafer",
+        "Maude Apatow"
+      ],
+      "en": [
+        "Zendaya",
+        "Sydney Sweeney",
+        "Hunter Schafer",
+        "Maude Apatow"
+      ],
+      "es": [
+        "Zendaya",
+        "Sydney Sweeney",
+        "Hunter Schafer",
+        "Maude Apatow"
+      ],
+      "pt": [
+        "Zendaya",
+        "Sydney Sweeney",
+        "Hunter Schafer",
+        "Maude Apatow"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elle est devenue la plus jeune lauréate de l'Emmy de la meilleure actrice dramatique.",
+      "en": "She became the youngest winner of the Emmy for Lead Actress in a Drama.",
+      "es": "Se convirtió en la ganadora más joven del Emmy a mejor actriz dramática.",
+      "pt": "Tornou-se a mais jovem vencedora do Emmy de melhor atriz dramática."
+    }
+  },
+  {
+    "id": "cinema_0434",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « The White Lotus », dans quel type de lieu se déroule chaque saison ?",
+      "en": "In \"The White Lotus\", what kind of setting hosts each season?",
+      "es": "En «The White Lotus», ¿en qué tipo de lugar transcurre cada temporada?",
+      "pt": "Em «The White Lotus», em que tipo de lugar decorre cada temporada?"
+    },
+    "options": {
+      "fr": [
+        "Un hôtel de luxe",
+        "Un hôpital",
+        "Un paquebot",
+        "Un lycée"
+      ],
+      "en": [
+        "A luxury resort",
+        "A hospital",
+        "A cruise ship",
+        "A high school"
+      ],
+      "es": [
+        "Un hotel de lujo",
+        "Un hospital",
+        "Un crucero",
+        "Un instituto"
+      ],
+      "pt": [
+        "Um hotel de luxo",
+        "Um hospital",
+        "Um cruzeiro",
+        "Uma escola"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Chaque saison change de pays et de clients, mais garde la même satire sociale.",
+      "en": "Each season changes country and guests but keeps the same social satire.",
+      "es": "Cada temporada cambia de país y de clientes, pero mantiene la sátira social.",
+      "pt": "Cada temporada muda de país e de clientes, mas mantém a sátira social."
+    }
+  },
+  {
+    "id": "cinema_0435",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film allemand de 2003 met en scène un fils cachant la chute du Mur à sa mère malade ?",
+      "en": "Which 2003 German film shows a son hiding the Wall's fall from his ill mother?",
+      "es": "¿Qué película alemana de 2003 muestra a un hijo ocultando la caída del Muro a su madre enferma?",
+      "pt": "Que filme alemão de 2003 mostra um filho a esconder a queda do Muro à mãe doente?"
+    },
+    "options": {
+      "fr": [
+        "Good Bye Lenin!",
+        "La Vie des autres",
+        "Le Ruban blanc",
+        "Cours, Lola, cours"
+      ],
+      "en": [
+        "Good Bye Lenin!",
+        "The Lives of Others",
+        "The White Ribbon",
+        "Run Lola Run"
+      ],
+      "es": [
+        "Good Bye Lenin!",
+        "La vida de los otros",
+        "La cinta blanca",
+        "Corre, Lola, corre"
+      ],
+      "pt": [
+        "Good Bye Lenin!",
+        "As Vidas dos Outros",
+        "A Fita Branca",
+        "Corre, Lola, Corre"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film reconstitue la RDA dans un appartement pour épargner un choc à la mère.",
+      "en": "The film recreates East Germany inside a flat to spare the mother a shock.",
+      "es": "La película recrea la RDA en un piso para evitarle un susto a la madre.",
+      "pt": "O filme recria a RDA num apartamento para poupar um choque à mãe."
+    }
+  },
+  {
+    "id": "cinema_0436",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Harry Potter », quel objet permet de voyager instantanément entre deux lieux via une cheminée ?",
+      "en": "In \"Harry Potter\", what allows instant travel between places through a fireplace?",
+      "es": "En «Harry Potter», ¿qué permite viajar al instante entre lugares por una chimenea?",
+      "pt": "Em «Harry Potter», o que permite viajar instantaneamente entre lugares por uma lareira?"
+    },
+    "options": {
+      "fr": [
+        "La poudre de cheminette",
+        "Un Portoloin",
+        "Un Retourneur de temps",
+        "Le Magicobus"
+      ],
+      "en": [
+        "Floo powder",
+        "A Portkey",
+        "A Time-Turner",
+        "The Knight Bus"
+      ],
+      "es": [
+        "Los polvos flu",
+        "Un traslador",
+        "Un giratiempo",
+        "El autobús noctámbulo"
+      ],
+      "pt": [
+        "Pó de flu",
+        "Uma chave de portal",
+        "Um vira-tempo",
+        "O autocarro Cavaleiro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Portoloin est un objet ordinaire enchanté, le Magicobus un bus violet à trois étages.",
+      "en": "A Portkey is an enchanted ordinary object; the Knight Bus is a triple-decker purple bus.",
+      "es": "El traslador es un objeto corriente encantado; el autobús noctámbulo es morado y de tres pisos.",
+      "pt": "A chave de portal é um objeto vulgar encantado; o autocarro Cavaleiro é roxo e de três andares."
+    }
+  },
+  {
+    "id": "cinema_0437",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de films composent la saga cinématographique « Harry Potter » ?",
+      "en": "How many films make up the \"Harry Potter\" film saga?",
+      "es": "¿Cuántas películas componen la saga cinematográfica de «Harry Potter»?",
+      "pt": "Quantos filmes compõem a saga cinematográfica de «Harry Potter»?"
+    },
+    "options": {
+      "fr": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "en": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "es": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "pt": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sept romans, mais le dernier a été découpé en deux films.",
+      "en": "Seven novels, but the last was split into two films.",
+      "es": "Siete novelas, pero la última se dividió en dos películas.",
+      "pt": "Sete romances, mas o último foi dividido em dois filmes."
+    }
+  },
+  {
+    "id": "cinema_0438",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Star Wars », comment s'appelle la planète désertique d'où vient Luke Skywalker ?",
+      "en": "In \"Star Wars\", what is the desert planet Luke Skywalker comes from?",
+      "es": "En «Star Wars», ¿cómo se llama el planeta desértico del que viene Luke Skywalker?",
+      "pt": "Em «Star Wars», como se chama o planeta desértico de onde vem Luke Skywalker?"
+    },
+    "options": {
+      "fr": [
+        "Tatooine",
+        "Hoth",
+        "Endor",
+        "Naboo"
+      ],
+      "en": [
+        "Tatooine",
+        "Hoth",
+        "Endor",
+        "Naboo"
+      ],
+      "es": [
+        "Tatooine",
+        "Hoth",
+        "Endor",
+        "Naboo"
+      ],
+      "pt": [
+        "Tatooine",
+        "Hoth",
+        "Endor",
+        "Naboo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Hoth est glacée, Endor couverte de forêts et Naboo verdoyante.",
+      "en": "Hoth is frozen, Endor forested and Naboo lush and green.",
+      "es": "Hoth es helado, Endor boscoso y Naboo verde y frondoso.",
+      "pt": "Hoth é gelado, Endor florestal e Naboo verdejante."
+    }
+  },
+  {
+    "id": "cinema_0439",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Le Seigneur des Anneaux », quelle créature ailée les Nazgûl chevauchent-ils ?",
+      "en": "In \"The Lord of the Rings\", which winged creature do the Nazgûl ride?",
+      "es": "En «El Señor de los Anillos», ¿qué criatura alada montan los Nazgûl?",
+      "pt": "Em «O Senhor dos Anéis», que criatura alada montam os Nazgûl?"
+    },
+    "options": {
+      "fr": [
+        "Une bête ailée reptilienne",
+        "Un dragon",
+        "Un aigle géant",
+        "Un griffon"
+      ],
+      "en": [
+        "A winged reptilian beast",
+        "A dragon",
+        "A giant eagle",
+        "A griffin"
+      ],
+      "es": [
+        "Una bestia alada reptiliana",
+        "Un dragón",
+        "Un águila gigante",
+        "Un grifo"
+      ],
+      "pt": [
+        "Uma besta alada reptiliana",
+        "Um dragão",
+        "Uma águia gigante",
+        "Um grifo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les aigles géants sont, eux, des alliés qui sauvent Frodon à la fin.",
+      "en": "The giant eagles are allies, and rescue Frodo at the end.",
+      "es": "Las águilas gigantes son aliadas y rescatan a Frodo al final.",
+      "pt": "As águias gigantes são aliadas e resgatam Frodo no final."
+    }
+  },
+  {
+    "id": "cinema_0440",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Toy Story », quelle est la phrase fétiche de Buzz l'Éclair ?",
+      "en": "In \"Toy Story\", what is Buzz Lightyear's catchphrase?",
+      "es": "En «Toy Story», ¿cuál es la frase de Buzz Lightyear?",
+      "pt": "Em «Toy Story», qual é a frase de Buzz Lightyear?"
+    },
+    "options": {
+      "fr": [
+        "« Vers l'infini et au-delà ! »",
+        "« En avant toute ! »",
+        "« Je suis le meilleur ! »",
+        "« Rien ne m'arrête ! »"
+      ],
+      "en": [
+        "\"To infinity and beyond!\"",
+        "\"Full speed ahead!\"",
+        "\"I'm the best!\"",
+        "\"Nothing stops me!\""
+      ],
+      "es": [
+        "«¡Hasta el infinito y más allá!»",
+        "«¡A toda máquina!»",
+        "«¡Soy el mejor!»",
+        "«¡Nada me detiene!»"
+      ],
+      "pt": [
+        "«Até ao infinito e mais além!»",
+        "«A toda a velocidade!»",
+        "«Sou o melhor!»",
+        "«Nada me para!»"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Buzz se croit un vrai ranger de l'espace, ce qui est le ressort comique du premier film.",
+      "en": "Buzz believes he is a real space ranger, the comic engine of the first film.",
+      "es": "Buzz se cree un guardián espacial de verdad: ese es el motor cómico del primer filme.",
+      "pt": "Buzz julga-se um verdadeiro patrulheiro espacial: é esse o motor cómico do primeiro filme."
+    }
+  },
+  {
+    "id": "cinema_0441",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film d'animation Disney de 1942 a fait pleurer des générations avec la mort d'une mère ?",
+      "en": "Which 1942 Disney film made generations cry with a mother's death?",
+      "es": "¿Qué película de Disney de 1942 hizo llorar a generaciones con la muerte de una madre?",
+      "pt": "Que filme da Disney de 1942 fez chorar gerações com a morte de uma mãe?"
+    },
+    "options": {
+      "fr": [
+        "Bambi",
+        "Dumbo",
+        "Pinocchio",
+        "Blanche-Neige"
+      ],
+      "en": [
+        "Bambi",
+        "Dumbo",
+        "Pinocchio",
+        "Snow White"
+      ],
+      "es": [
+        "Bambi",
+        "Dumbo",
+        "Pinocho",
+        "Blancanieves"
+      ],
+      "pt": [
+        "Bambi",
+        "Dumbo",
+        "Pinóquio",
+        "Branca de Neve"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La scène est restée l'une des plus marquantes de l'histoire de l'animation.",
+      "en": "The scene remains one of the most striking in animation history.",
+      "es": "La escena sigue siendo de las más impactantes de la historia de la animación.",
+      "pt": "A cena continua uma das mais marcantes da história da animação."
+    }
+  },
+  {
+    "id": "cinema_0442",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Le Cinquième Élément », quel est le nom du personnage joué par Milla Jovovich ?",
+      "en": "In \"The Fifth Element\", what is Milla Jovovich's character called?",
+      "es": "En «El quinto elemento», ¿cómo se llama el personaje de Milla Jovovich?",
+      "pt": "Em «O Quinto Elemento», como se chama a personagem de Milla Jovovich?"
+    },
+    "options": {
+      "fr": [
+        "Leeloo",
+        "Ruby",
+        "Diva",
+        "Korben"
+      ],
+      "en": [
+        "Leeloo",
+        "Ruby",
+        "Diva",
+        "Korben"
+      ],
+      "es": [
+        "Leeloo",
+        "Ruby",
+        "Diva",
+        "Korben"
+      ],
+      "pt": [
+        "Leeloo",
+        "Ruby",
+        "Diva",
+        "Korben"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Korben Dallas est le personnage de Bruce Willis, chauffeur de taxi malgré lui.",
+      "en": "Korben Dallas is Bruce Willis's character, a reluctant taxi driver.",
+      "es": "Korben Dallas es el personaje de Bruce Willis, taxista a su pesar.",
+      "pt": "Korben Dallas é a personagem de Bruce Willis, taxista contrariado."
+    }
+  },
+  {
+    "id": "cinema_0443",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série suit des détenus organisant une évasion d'une prison américaine ?",
+      "en": "Which series follows inmates planning an escape from an American prison?",
+      "es": "¿Qué serie sigue a presos planeando una fuga de una cárcel estadounidense?",
+      "pt": "Que série segue reclusos a planear uma fuga de uma prisão americana?"
+    },
+    "options": {
+      "fr": [
+        "Prison Break",
+        "Oz",
+        "Orange Is the New Black",
+        "Wentworth"
+      ],
+      "en": [
+        "Prison Break",
+        "Oz",
+        "Orange Is the New Black",
+        "Wentworth"
+      ],
+      "es": [
+        "Prison Break",
+        "Oz",
+        "Orange Is the New Black",
+        "Wentworth"
+      ],
+      "pt": [
+        "Prison Break",
+        "Oz",
+        "Orange Is the New Black",
+        "Wentworth"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le héros se fait tatouer les plans de la prison sur tout le torse.",
+      "en": "The hero has the prison blueprints tattooed across his torso.",
+      "es": "El protagonista se tatúa los planos de la cárcel en todo el torso.",
+      "pt": "O protagonista tatua as plantas da prisão em todo o torso."
+    }
+  },
+  {
+    "id": "cinema_0444",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Le Roi Lion », quelle est la phrase en swahili qui signifie « pas de souci » ?",
+      "en": "In \"The Lion King\", which Swahili phrase means \"no worries\"?",
+      "es": "En «El Rey León», ¿qué frase en suajili significa «sin preocupaciones»?",
+      "pt": "Em «O Rei Leão», que frase em suaíli significa «sem preocupações»?"
+    },
+    "options": {
+      "fr": [
+        "Hakuna matata",
+        "Simba rafiki",
+        "Nala mzuri",
+        "Asante sana"
+      ],
+      "en": [
+        "Hakuna matata",
+        "Simba rafiki",
+        "Nala mzuri",
+        "Asante sana"
+      ],
+      "es": [
+        "Hakuna matata",
+        "Simba rafiki",
+        "Nala mzuri",
+        "Asante sana"
+      ],
+      "pt": [
+        "Hakuna matata",
+        "Simba rafiki",
+        "Nala mzuri",
+        "Asante sana"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Rafiki » signifie d'ailleurs « ami » : c'est le nom du vieux mandrill.",
+      "en": "\"Rafiki\" actually means \"friend\": it is the old mandrill's name.",
+      "es": "«Rafiki» significa además «amigo»: es el nombre del viejo mandril.",
+      "pt": "«Rafiki» significa aliás «amigo»: é o nome do velho mandril."
+    }
+  },
+  {
+    "id": "cinema_0445",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film iranien d'Asghar Farhadi a remporté l'Oscar du meilleur film étranger en 2012 ?",
+      "en": "Which Asghar Farhadi film won the 2012 Best Foreign Language Film Oscar?",
+      "es": "¿Qué película de Asghar Farhadi ganó el Óscar a la mejor película extranjera en 2012?",
+      "pt": "Que filme de Asghar Farhadi ganhou o Óscar de melhor filme estrangeiro em 2012?"
+    },
+    "options": {
+      "fr": [
+        "Une séparation",
+        "Le Client",
+        "Le Passé",
+        "À propos d'Elly"
+      ],
+      "en": [
+        "A Separation",
+        "The Salesman",
+        "The Past",
+        "About Elly"
+      ],
+      "es": [
+        "Nader y Simin, una separación",
+        "El viajante",
+        "El pasado",
+        "A propósito de Elly"
+      ],
+      "pt": [
+        "Uma Separação",
+        "O Caixeiro-Viajante",
+        "O Passado",
+        "Sobre Elly"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film avait déjà remporté l'Ours d'or à Berlin l'année précédente.",
+      "en": "The film had already won the Golden Bear in Berlin the year before.",
+      "es": "La película ya había ganado el Oso de Oro en Berlín el año anterior.",
+      "pt": "O filme já tinha ganho o Urso de Ouro em Berlim no ano anterior."
+    }
+  },
+  {
+    "id": "cinema_0446",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film allemand de 2006 sur la Stasi a remporté l'Oscar du meilleur film étranger ?",
+      "en": "Which 2006 German film about the Stasi won the Best Foreign Language Film Oscar?",
+      "es": "¿Qué película alemana de 2006 sobre la Stasi ganó el Óscar a la mejor extranjera?",
+      "pt": "Que filme alemão de 2006 sobre a Stasi ganhou o Óscar de melhor filme estrangeiro?"
+    },
+    "options": {
+      "fr": [
+        "La Vie des autres",
+        "Good Bye Lenin!",
+        "Le Ruban blanc",
+        "Le Tambour"
+      ],
+      "en": [
+        "The Lives of Others",
+        "Good Bye Lenin!",
+        "The White Ribbon",
+        "The Tin Drum"
+      ],
+      "es": [
+        "La vida de los otros",
+        "Good Bye Lenin!",
+        "La cinta blanca",
+        "El tambor de hojalata"
+      ],
+      "pt": [
+        "As Vidas dos Outros",
+        "Good Bye Lenin!",
+        "A Fita Branca",
+        "O Tambor"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film suit un agent chargé d'espionner un dramaturge, et peu à peu bouleversé par sa vie.",
+      "en": "The film follows an agent tasked with spying on a playwright, slowly moved by his life.",
+      "es": "La película sigue a un agente que espía a un dramaturgo y se conmueve poco a poco.",
+      "pt": "O filme segue um agente encarregado de espiar um dramaturgo, aos poucos comovido."
+    }
+  },
+  {
+    "id": "cinema_0447",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur soviétique a signé « Solaris » et « Stalker » ?",
+      "en": "Which Soviet director made \"Solaris\" and \"Stalker\"?",
+      "es": "¿Qué director soviético firmó «Solaris» y «Stalker»?",
+      "pt": "Que realizador soviético assinou «Solaris» e «Stalker»?"
+    },
+    "options": {
+      "fr": [
+        "Andreï Tarkovski",
+        "Sergueï Eisenstein",
+        "Dziga Vertov",
+        "Nikita Mikhalkov"
+      ],
+      "en": [
+        "Andrei Tarkovsky",
+        "Sergei Eisenstein",
+        "Dziga Vertov",
+        "Nikita Mikhalkov"
+      ],
+      "es": [
+        "Andréi Tarkovski",
+        "Serguéi Eisenstein",
+        "Dziga Vertov",
+        "Nikita Mijalkov"
+      ],
+      "pt": [
+        "Andrei Tarkovski",
+        "Sergei Eisenstein",
+        "Dziga Vertov",
+        "Nikita Mikhalkov"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ses plans très longs et contemplatifs ont influencé Villeneuve et Nolan.",
+      "en": "His very long, contemplative shots influenced Villeneuve and Nolan.",
+      "es": "Sus planos larguísimos y contemplativos influyeron en Villeneuve y Nolan.",
+      "pt": "Os seus planos longuíssimos e contemplativos influenciaram Villeneuve e Nolan."
+    }
+  },
+  {
+    "id": "cinema_0448",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film italien de Paolo Sorrentino a remporté l'Oscar du meilleur film étranger en 2014 ?",
+      "en": "Which Paolo Sorrentino film won the 2014 Best Foreign Language Film Oscar?",
+      "es": "¿Qué película de Paolo Sorrentino ganó el Óscar a la mejor extranjera en 2014?",
+      "pt": "Que filme de Paolo Sorrentino ganhou o Óscar de melhor filme estrangeiro em 2014?"
+    },
+    "options": {
+      "fr": [
+        "La Grande Bellezza",
+        "Il Divo",
+        "Youth",
+        "La Main de Dieu"
+      ],
+      "en": [
+        "The Great Beauty",
+        "Il Divo",
+        "Youth",
+        "The Hand of God"
+      ],
+      "es": [
+        "La gran belleza",
+        "Il Divo",
+        "La juventud",
+        "Fue la mano de Dios"
+      ],
+      "pt": [
+        "A Grande Beleza",
+        "Il Divo",
+        "Juventude",
+        "A Mão de Deus"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film revendique l'héritage de « La Dolce Vita » de Fellini.",
+      "en": "The film openly claims the legacy of Fellini's \"La Dolce Vita\".",
+      "es": "La película reivindica la herencia de «La Dolce Vita» de Fellini.",
+      "pt": "O filme reivindica a herança de «La Dolce Vita» de Fellini."
+    }
+  },
+  {
+    "id": "cinema_0449",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle technique visuelle, poussée à l'extrême dans « Citizen Kane », garde net à la fois le premier plan et l'arrière-plan ?",
+      "en": "Which visual technique, pushed to extremes in \"Citizen Kane\", keeps both foreground and background sharp?",
+      "es": "¿Qué técnica visual, llevada al extremo en «Ciudadano Kane», mantiene nítidos primer plano y fondo?",
+      "pt": "Que técnica visual, levada ao extremo em «O Mundo a Seus Pés», mantém nítidos o primeiro plano e o fundo?"
+    },
+    "options": {
+      "fr": [
+        "La profondeur de champ",
+        "Le travelling",
+        "Le fondu enchaîné",
+        "La contre-plongée"
+      ],
+      "en": [
+        "Deep focus",
+        "The tracking shot",
+        "The cross-fade",
+        "The low-angle shot"
+      ],
+      "es": [
+        "La profundidad de campo",
+        "El travelling",
+        "El fundido encadenado",
+        "El contrapicado"
+      ],
+      "pt": [
+        "A profundidade de campo",
+        "O travelling",
+        "O fundido encadeado",
+        "O contrapicado"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le chef opérateur Gregg Toland en a fait la signature visuelle du film.",
+      "en": "Cinematographer Gregg Toland made it the film's visual signature.",
+      "es": "El director de fotografía Gregg Toland la convirtió en la firma visual del filme.",
+      "pt": "O diretor de fotografia Gregg Toland fez dela a assinatura visual do filme."
+    }
+  },
+  {
+    "id": "cinema_0450",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur a tourné « Alien », « Blade Runner », « Gladiator » et « Le Dernier Duel » ?",
+      "en": "Which director made \"Alien\", \"Blade Runner\", \"Gladiator\" and \"The Last Duel\"?",
+      "es": "¿Qué director rodó «Alien», «Blade Runner», «Gladiator» y «El último duelo»?",
+      "pt": "Que realizador fez «Alien», «Blade Runner», «Gladiador» e «O Último Duelo»?"
+    },
+    "options": {
+      "fr": [
+        "Ridley Scott",
+        "James Cameron",
+        "Tony Scott",
+        "Michael Mann"
+      ],
+      "en": [
+        "Ridley Scott",
+        "James Cameron",
+        "Tony Scott",
+        "Michael Mann"
+      ],
+      "es": [
+        "Ridley Scott",
+        "James Cameron",
+        "Tony Scott",
+        "Michael Mann"
+      ],
+      "pt": [
+        "Ridley Scott",
+        "James Cameron",
+        "Tony Scott",
+        "Michael Mann"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Son frère Tony a réalisé « Top Gun » et « USS Alabama ».",
+      "en": "His brother Tony directed \"Top Gun\" and \"Crimson Tide\".",
+      "es": "Su hermano Tony dirigió «Top Gun» y «Marea roja».",
+      "pt": "O irmão Tony realizou «Top Gun» e «Maré Vermelha»."
+    }
+  },
+  {
+    "id": "cinema_0451",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel acteur français est la voix française historique de Bruce Willis et Sylvester Stallone ?",
+      "en": "Which French actor is the long-time French dubbing voice of Bruce Willis and Sylvester Stallone?",
+      "es": "¿Qué actor francés es la voz francesa histórica de Bruce Willis y Sylvester Stallone?",
+      "pt": "Que ator francês é a voz francesa histórica de Bruce Willis e Sylvester Stallone?"
+    },
+    "options": {
+      "fr": [
+        "Alain Dorval pour Stallone et Patrick Poivey pour Willis",
+        "Le même comédien pour les deux",
+        "Aucun comédien attitré",
+        "Jean Reno"
+      ],
+      "en": [
+        "Alain Dorval for Stallone and Patrick Poivey for Willis",
+        "The same actor for both",
+        "No regular actor",
+        "Jean Reno"
+      ],
+      "es": [
+        "Alain Dorval para Stallone y Patrick Poivey para Willis",
+        "El mismo actor para ambos",
+        "Ningún actor fijo",
+        "Jean Reno"
+      ],
+      "pt": [
+        "Alain Dorval para Stallone e Patrick Poivey para Willis",
+        "O mesmo ator para ambos",
+        "Nenhum ator fixo",
+        "Jean Reno"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le doublage français attribue une voix stable à chaque acteur, sur des décennies.",
+      "en": "French dubbing assigns each actor a stable voice, often for decades.",
+      "es": "El doblaje francés asigna a cada actor una voz estable, durante décadas.",
+      "pt": "A dobragem francesa atribui a cada ator uma voz estável, durante décadas."
+    }
+  },
+  {
+    "id": "cinema_0452",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 1995 de Michael Mann réunit De Niro et Pacino dans une scène de café restée célèbre ?",
+      "en": "Which 1995 Michael Mann film pairs De Niro and Pacino in a famous diner scene?",
+      "es": "¿Qué película de 1995 de Michael Mann reúne a De Niro y Pacino en una célebre escena de cafetería?",
+      "pt": "Que filme de 1995 de Michael Mann junta De Niro e Pacino numa célebre cena de café?"
+    },
+    "options": {
+      "fr": [
+        "Heat",
+        "Casino",
+        "Donnie Brasco",
+        "Les Incorruptibles"
+      ],
+      "en": [
+        "Heat",
+        "Casino",
+        "Donnie Brasco",
+        "The Untouchables"
+      ],
+      "es": [
+        "Heat",
+        "Casino",
+        "Donnie Brasco",
+        "Los intocables"
+      ],
+      "pt": [
+        "Heat",
+        "Casino",
+        "Donnie Brasco",
+        "Os Intocáveis"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'était la première fois que les deux acteurs partageaient une scène à l'écran.",
+      "en": "It was the first time the two actors shared a scene on screen.",
+      "es": "Era la primera vez que los dos actores compartían una escena en pantalla.",
+      "pt": "Foi a primeira vez que os dois atores partilharam uma cena no ecrã."
+    }
+  },
+  {
+    "id": "cinema_0453",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série de HBO suit un tueur à gages devenu apprenti comédien ?",
+      "en": "Which HBO series follows a hitman turning into an acting student?",
+      "es": "¿Qué serie de HBO sigue a un sicario convertido en aprendiz de actor?",
+      "pt": "Que série da HBO segue um assassino a soldo tornado aprendiz de ator?"
+    },
+    "options": {
+      "fr": [
+        "Barry",
+        "Fargo",
+        "Ozark",
+        "Killing Eve"
+      ],
+      "en": [
+        "Barry",
+        "Fargo",
+        "Ozark",
+        "Killing Eve"
+      ],
+      "es": [
+        "Barry",
+        "Fargo",
+        "Ozark",
+        "Killing Eve"
+      ],
+      "pt": [
+        "Barry",
+        "Fargo",
+        "Ozark",
+        "Killing Eve"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Bill Hader y est à la fois acteur principal, coauteur et réalisateur.",
+      "en": "Bill Hader is its lead actor, co-writer and director.",
+      "es": "Bill Hader es su actor principal, coguionista y director.",
+      "pt": "Bill Hader é o ator principal, coargumentista e realizador."
+    }
+  },
+  {
+    "id": "cinema_0454",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans quel film Robin Williams prête-t-il sa voix à un génie bleu ?",
+      "en": "In which film does Robin Williams voice a blue genie?",
+      "es": "¿En qué película pone Robin Williams voz a un genio azul?",
+      "pt": "Em que filme Robin Williams dá voz a um génio azul?"
+    },
+    "options": {
+      "fr": [
+        "Aladdin",
+        "Hercule",
+        "Fantasia 2000",
+        "Robots"
+      ],
+      "en": [
+        "Aladdin",
+        "Hercules",
+        "Fantasia 2000",
+        "Robots"
+      ],
+      "es": [
+        "Aladdín",
+        "Hércules",
+        "Fantasía 2000",
+        "Robots"
+      ],
+      "pt": [
+        "Aladino",
+        "Hércules",
+        "Fantasia 2000",
+        "Robots"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il a largement improvisé son texte, obligeant les animateurs à s'adapter après coup.",
+      "en": "He heavily improvised his lines, forcing the animators to adapt afterwards.",
+      "es": "Improvisó gran parte de su texto, obligando a los animadores a adaptarse después.",
+      "pt": "Improvisou grande parte do texto, obrigando os animadores a adaptar-se depois."
+    }
+  },
+  {
+    "id": "cinema_0456",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série américaine des années 1990 suit des médecins dans un hôpital de Chicago ?",
+      "en": "Which 1990s American series follows doctors in a Chicago hospital?",
+      "es": "¿Qué serie estadounidense de los noventa sigue a médicos de un hospital de Chicago?",
+      "pt": "Que série americana dos anos 90 segue médicos num hospital de Chicago?"
+    },
+    "options": {
+      "fr": [
+        "Urgences",
+        "Grey's Anatomy",
+        "Chicago Hope",
+        "Scrubs"
+      ],
+      "en": [
+        "ER",
+        "Grey's Anatomy",
+        "Chicago Hope",
+        "Scrubs"
+      ],
+      "es": [
+        "Urgencias",
+        "Anatomía de Grey",
+        "Chicago Hope",
+        "Scrubs"
+      ],
+      "pt": [
+        "Serviço de Urgência",
+        "Anatomia de Grey",
+        "Chicago Hope",
+        "Scrubs"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série a révélé George Clooney au grand public.",
+      "en": "The series brought George Clooney to a wide audience.",
+      "es": "La serie dio a conocer a George Clooney al gran público.",
+      "pt": "A série deu a conhecer George Clooney ao grande público."
+    }
+  },
+  {
+    "id": "cinema_0457",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 1994 de Frank Darabont, longtemps en tête des classements de spectateurs, se déroule en prison ?",
+      "en": "Which 1994 Frank Darabont prison film long topped audience rankings?",
+      "es": "¿Qué película carcelaria de 1994 de Frank Darabont encabezó mucho tiempo los rankings del público?",
+      "pt": "Que filme prisional de 1994 de Frank Darabont liderou muito tempo os rankings do público?"
+    },
+    "options": {
+      "fr": [
+        "Les Évadés",
+        "La Ligne verte",
+        "Les Vestiges du jour",
+        "Le Prisonnier d'Alcatraz"
+      ],
+      "en": [
+        "The Shawshank Redemption",
+        "The Green Mile",
+        "The Remains of the Day",
+        "Birdman of Alcatraz"
+      ],
+      "es": [
+        "Cadena perpetua",
+        "La milla verde",
+        "Lo que queda del día",
+        "El hombre de Alcatraz"
+      ],
+      "pt": [
+        "Os Condenados de Shawshank",
+        "A Barreira Invisível",
+        "Os Despojos do Dia",
+        "O Prisioneiro de Alcatraz"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Échec commercial à sa sortie, le film a trouvé son public en vidéo et à la télévision.",
+      "en": "A box-office failure on release, the film found its audience on video and TV.",
+      "es": "Fracaso comercial en su estreno, encontró su público en vídeo y televisión.",
+      "pt": "Fracasso comercial na estreia, encontrou o seu público em vídeo e televisão."
+    }
+  },
+  {
+    "id": "cinema_0458",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur français a signé « Un prophète » et « De rouille et d'os » ?",
+      "en": "Which French director made \"A Prophet\" and \"Rust and Bone\"?",
+      "es": "¿Qué director francés firmó «Un profeta» y «De óxido y hueso»?",
+      "pt": "Que realizador francês assinou «Um Profeta» e «Ferrugem e Osso»?"
+    },
+    "options": {
+      "fr": [
+        "Jacques Audiard",
+        "Cédric Klapisch",
+        "Xavier Dolan",
+        "Olivier Assayas"
+      ],
+      "en": [
+        "Jacques Audiard",
+        "Cédric Klapisch",
+        "Xavier Dolan",
+        "Olivier Assayas"
+      ],
+      "es": [
+        "Jacques Audiard",
+        "Cédric Klapisch",
+        "Xavier Dolan",
+        "Olivier Assayas"
+      ],
+      "pt": [
+        "Jacques Audiard",
+        "Cédric Klapisch",
+        "Xavier Dolan",
+        "Olivier Assayas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il a remporté la Palme d'or en 2015 pour « Dheepan ».",
+      "en": "He won the Palme d'Or in 2015 for \"Dheepan\".",
+      "es": "Ganó la Palma de Oro en 2015 por «Dheepan».",
+      "pt": "Ganhou a Palma de Ouro em 2015 por «Dheepan»."
+    }
+  },
+  {
+    "id": "cinema_0459",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série met en scène un professeur de littérature devenu tueur en série qui ne s'attaque qu'aux criminels ?",
+      "en": "Which series features a forensic analyst who is a serial killer targeting only criminals?",
+      "es": "¿Qué serie presenta a un analista forense que es un asesino en serie que solo mata criminales?",
+      "pt": "Que série apresenta um analista forense que é um assassino em série que só mata criminosos?"
+    },
+    "options": {
+      "fr": [
+        "Dexter",
+        "Hannibal",
+        "Bates Motel",
+        "You"
+      ],
+      "en": [
+        "Dexter",
+        "Hannibal",
+        "Bates Motel",
+        "You"
+      ],
+      "es": [
+        "Dexter",
+        "Hannibal",
+        "Bates Motel",
+        "You"
+      ],
+      "pt": [
+        "Dexter",
+        "Hannibal",
+        "Bates Motel",
+        "You"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Dexter Morgan travaille pour la police de Miami comme spécialiste des traces de sang.",
+      "en": "Dexter Morgan works for the Miami police as a blood spatter analyst.",
+      "es": "Dexter Morgan trabaja para la policía de Miami como analista de salpicaduras de sangre.",
+      "pt": "Dexter Morgan trabalha para a polícia de Miami como analista de manchas de sangue."
+    }
+  },
+  {
+    "id": "cinema_0460",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 2006 d'Alejandro González Iñárritu suit quatre histoires sur trois continents ?",
+      "en": "Which 2006 Iñárritu film follows four stories across three continents?",
+      "es": "¿Qué película de 2006 de Iñárritu sigue cuatro historias en tres continentes?",
+      "pt": "Que filme de 2006 de Iñárritu segue quatro histórias em três continentes?"
+    },
+    "options": {
+      "fr": [
+        "Babel",
+        "Amours chiennes",
+        "21 Grammes",
+        "Biutiful"
+      ],
+      "en": [
+        "Babel",
+        "Amores Perros",
+        "21 Grams",
+        "Biutiful"
+      ],
+      "es": [
+        "Babel",
+        "Amores perros",
+        "21 gramos",
+        "Biutiful"
+      ],
+      "pt": [
+        "Babel",
+        "Amores Perros",
+        "21 Gramas",
+        "Biutiful"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film clôt sa « trilogie de la mort », entamée avec « Amours chiennes ».",
+      "en": "The film closes his \"death trilogy\", begun with \"Amores Perros\".",
+      "es": "La película cierra su «trilogía de la muerte», iniciada con «Amores perros».",
+      "pt": "O filme fecha a sua «trilogia da morte», iniciada com «Amores Perros»."
+    }
+  },
+  {
+    "id": "cinema_0461",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel long métrage d'animation japonais a remporté l'Ours d'or à Berlin en 2002 ?",
+      "en": "Which Japanese animated feature won the Golden Bear in Berlin in 2002?",
+      "es": "¿Qué largometraje de animación japonés ganó el Oso de Oro en Berlín en 2002?",
+      "pt": "Que longa-metragem de animação japonesa ganhou o Urso de Ouro em Berlim em 2002?"
+    },
+    "options": {
+      "fr": [
+        "Le Voyage de Chihiro",
+        "Princesse Mononoké",
+        "Akira",
+        "Perfect Blue"
+      ],
+      "en": [
+        "Spirited Away",
+        "Princess Mononoke",
+        "Akira",
+        "Perfect Blue"
+      ],
+      "es": [
+        "El viaje de Chihiro",
+        "La princesa Mononoke",
+        "Akira",
+        "Perfect Blue"
+      ],
+      "pt": [
+        "A Viagem de Chihiro",
+        "A Princesa Mononoke",
+        "Akira",
+        "Perfect Blue"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est à ce jour le seul film d'animation à avoir remporté l'Ours d'or.",
+      "en": "To date it is the only animated film to have won the Golden Bear.",
+      "es": "Hasta hoy es la única película de animación que ha ganado el Oso de Oro.",
+      "pt": "Até hoje é o único filme de animação a ganhar o Urso de Ouro."
+    }
+  },
+  {
+    "id": "cinema_0462",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série britannique met en scène une tueuse à gages et l'agente qui la traque, dans un jeu de fascination réciproque ?",
+      "en": "Which British series pits an assassin against the agent hunting her, in mutual fascination?",
+      "es": "¿Qué serie británica enfrenta a una asesina y a la agente que la persigue, en fascinación mutua?",
+      "pt": "Que série britânica opõe uma assassina à agente que a persegue, em fascínio mútuo?"
+    },
+    "options": {
+      "fr": [
+        "Killing Eve",
+        "Bodyguard",
+        "Line of Duty",
+        "The Fall"
+      ],
+      "en": [
+        "Killing Eve",
+        "Bodyguard",
+        "Line of Duty",
+        "The Fall"
+      ],
+      "es": [
+        "Killing Eve",
+        "Bodyguard",
+        "Line of Duty",
+        "The Fall"
+      ],
+      "pt": [
+        "Killing Eve",
+        "Bodyguard",
+        "Line of Duty",
+        "The Fall"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Phoebe Waller-Bridge, autrice de « Fleabag », a écrit la première saison.",
+      "en": "Phoebe Waller-Bridge, author of \"Fleabag\", wrote the first season.",
+      "es": "Phoebe Waller-Bridge, autora de «Fleabag», escribió la primera temporada.",
+      "pt": "Phoebe Waller-Bridge, autora de «Fleabag», escreveu a primeira temporada."
+    }
+  },
+  {
+    "id": "cinema_0463",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur américain a filmé « Nomadland », « The Rider » et « Les Éternels » ?",
+      "en": "Which director made \"Nomadland\", \"The Rider\" and \"Eternals\"?",
+      "es": "¿Qué directora rodó «Nomadland», «The Rider» y «Eternals»?",
+      "pt": "Que realizadora filmou «Nomadland», «The Rider» e «Eternals»?"
+    },
+    "options": {
+      "fr": [
+        "Chloé Zhao",
+        "Kathryn Bigelow",
+        "Ava DuVernay",
+        "Patty Jenkins"
+      ],
+      "en": [
+        "Chloé Zhao",
+        "Kathryn Bigelow",
+        "Ava DuVernay",
+        "Patty Jenkins"
+      ],
+      "es": [
+        "Chloé Zhao",
+        "Kathryn Bigelow",
+        "Ava DuVernay",
+        "Patty Jenkins"
+      ],
+      "pt": [
+        "Chloé Zhao",
+        "Kathryn Bigelow",
+        "Ava DuVernay",
+        "Patty Jenkins"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elle est la deuxième femme à recevoir l'Oscar de la meilleure réalisation, après Kathryn Bigelow.",
+      "en": "She is the second woman to win the Best Director Oscar, after Kathryn Bigelow.",
+      "es": "Es la segunda mujer en ganar el Óscar a la mejor dirección, tras Kathryn Bigelow.",
+      "pt": "É a segunda mulher a ganhar o Óscar de melhor realização, depois de Kathryn Bigelow."
+    }
+  },
+  {
+    "id": "cinema_0464",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 1999 des studios Pixar met en scène des jouets partant sauver l'un des leurs d'un collectionneur ?",
+      "en": "Which 1999 Pixar film has toys rescuing one of their own from a collector?",
+      "es": "¿Qué película de Pixar de 1999 muestra juguetes rescatando a uno de los suyos de un coleccionista?",
+      "pt": "Que filme da Pixar de 1999 mostra brinquedos a resgatar um dos seus de um colecionador?"
+    },
+    "options": {
+      "fr": [
+        "Toy Story 2",
+        "1001 Pattes",
+        "Monstres & Cie",
+        "Toy Story"
+      ],
+      "en": [
+        "Toy Story 2",
+        "A Bug's Life",
+        "Monsters, Inc.",
+        "Toy Story"
+      ],
+      "es": [
+        "Toy Story 2",
+        "Bichos",
+        "Monstruos S.A.",
+        "Toy Story"
+      ],
+      "pt": [
+        "Toy Story 2",
+        "Uma Vida de Insecto",
+        "Monstros e Companhia",
+        "Toy Story"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film a failli être perdu : une fausse manipulation a effacé les fichiers du serveur.",
+      "en": "The film was nearly lost: a mistaken command wiped the files from the server.",
+      "es": "La película casi se pierde: un error borró los archivos del servidor.",
+      "pt": "O filme quase se perdeu: um erro apagou os ficheiros do servidor."
+    }
+  },
+  {
+    "id": "cinema_0465",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle actrice a remporté l'Oscar pour son rôle dans « Everything Everywhere All at Once » ?",
+      "en": "Which actress won an Oscar for \"Everything Everywhere All at Once\"?",
+      "es": "¿Qué actriz ganó el Óscar por «Todo a la vez en todas partes»?",
+      "pt": "Que atriz ganhou o Óscar por «Tudo em Todo o Lado ao Mesmo Tempo»?"
+    },
+    "options": {
+      "fr": [
+        "Michelle Yeoh",
+        "Cate Blanchett",
+        "Ana de Armas",
+        "Andrea Riseborough"
+      ],
+      "en": [
+        "Michelle Yeoh",
+        "Cate Blanchett",
+        "Ana de Armas",
+        "Andrea Riseborough"
+      ],
+      "es": [
+        "Michelle Yeoh",
+        "Cate Blanchett",
+        "Ana de Armas",
+        "Andrea Riseborough"
+      ],
+      "pt": [
+        "Michelle Yeoh",
+        "Cate Blanchett",
+        "Ana de Armas",
+        "Andrea Riseborough"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Elle est la première actrice d'origine asiatique à recevoir l'Oscar de la meilleure actrice.",
+      "en": "She is the first actress of Asian descent to win the Best Actress Oscar.",
+      "es": "Es la primera actriz de origen asiático en ganar el Óscar a la mejor actriz.",
+      "pt": "É a primeira atriz de origem asiática a ganhar o Óscar de melhor atriz."
+    }
+  },
+  {
+    "id": "cinema_0466",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série retrace l'ascension d'un groupe de rap californien dans les années 1980 ?",
+      "en": "Which series charts a Californian crack epidemic and drug empire in the 1980s?",
+      "es": "¿Qué serie narra la epidemia de crack y un imperio de la droga en la California de los ochenta?",
+      "pt": "Que série narra a epidemia de crack e um império da droga na Califórnia dos anos 80?"
+    },
+    "options": {
+      "fr": [
+        "Snowfall",
+        "The Wire",
+        "Power",
+        "Narcos"
+      ],
+      "en": [
+        "Snowfall",
+        "The Wire",
+        "Power",
+        "Narcos"
+      ],
+      "es": [
+        "Snowfall",
+        "The Wire",
+        "Power",
+        "Narcos"
+      ],
+      "pt": [
+        "Snowfall",
+        "The Wire",
+        "Power",
+        "Narcos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série a été cocréée par John Singleton, réalisateur de « Boyz n the Hood ».",
+      "en": "The series was co-created by John Singleton, director of \"Boyz n the Hood\".",
+      "es": "La serie fue cocreada por John Singleton, director de «Los chicos del barrio».",
+      "pt": "A série foi cocriada por John Singleton, realizador de «Os Donos da Rua»."
+    }
+  },
+  {
+    "id": "cinema_0467",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur grec est connu pour ses films au ton froid et absurde, dont « La Favorite » et « Pauvres Créatures » ?",
+      "en": "Which Greek director is known for cold, absurd films like \"The Favourite\" and \"Poor Things\"?",
+      "es": "¿Qué director griego es conocido por su tono frío y absurdo en «La favorita» y «Pobres criaturas»?",
+      "pt": "Que realizador grego é conhecido pelo tom frio e absurdo em «A Favorita» e «Pobres Criaturas»?"
+    },
+    "options": {
+      "fr": [
+        "Yorgos Lanthimos",
+        "Costa-Gavras",
+        "Theo Angelopoulos",
+        "Panos Cosmatos"
+      ],
+      "en": [
+        "Yorgos Lanthimos",
+        "Costa-Gavras",
+        "Theo Angelopoulos",
+        "Panos Cosmatos"
+      ],
+      "es": [
+        "Yorgos Lanthimos",
+        "Costa-Gavras",
+        "Theo Angelopoulos",
+        "Panos Cosmatos"
+      ],
+      "pt": [
+        "Yorgos Lanthimos",
+        "Costa-Gavras",
+        "Theo Angelopoulos",
+        "Panos Cosmatos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ses films utilisent souvent des objectifs très grand-angle qui déforment les décors.",
+      "en": "His films often use very wide lenses that distort the sets.",
+      "es": "Sus películas usan a menudo objetivos muy angulares que deforman los decorados.",
+      "pt": "Os seus filmes usam muitas vezes objetivas muito grande-angulares que deformam os cenários."
+    }
+  },
+  {
+    "id": "cinema_0468",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 1997 de Roberto Benigni a remporté le Grand Prix à Cannes avant ses Oscars ?",
+      "en": "Which 1997 Roberto Benigni film won the Grand Prix at Cannes before its Oscars?",
+      "es": "¿Qué película de 1997 de Roberto Benigni ganó el Gran Premio en Cannes antes de sus Óscar?",
+      "pt": "Que filme de 1997 de Roberto Benigni ganhou o Grande Prémio em Cannes antes dos Óscares?"
+    },
+    "options": {
+      "fr": [
+        "La vie est belle",
+        "Le Monstre",
+        "Pinocchio",
+        "Le Tigre et la Neige"
+      ],
+      "en": [
+        "Life Is Beautiful",
+        "The Monster",
+        "Pinocchio",
+        "The Tiger and the Snow"
+      ],
+      "es": [
+        "La vida es bella",
+        "El monstruo",
+        "Pinocho",
+        "El tigre y la nieve"
+      ],
+      "pt": [
+        "A Vida é Bela",
+        "O Monstro",
+        "Pinóquio",
+        "O Tigre e a Neve"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Benigni a grimpé sur les fauteuils de la salle en recevant son Oscar.",
+      "en": "Benigni climbed over the seats in the auditorium when receiving his Oscar.",
+      "es": "Benigni se subió a las butacas de la sala al recibir su Óscar.",
+      "pt": "Benigni subiu para as cadeiras da sala ao receber o Óscar."
+    }
+  },
+  {
+    "id": "cinema_0469",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série suit un professeur de chimie de lycée devenu baron de la drogue au Nouveau-Mexique ?",
+      "en": "Which series follows a high-school chemistry teacher turned drug lord in New Mexico?",
+      "es": "¿Qué serie sigue a un profesor de química convertido en capo de la droga en Nuevo México?",
+      "pt": "Que série segue um professor de química tornado barão da droga no Novo México?"
+    },
+    "options": {
+      "fr": [
+        "Breaking Bad",
+        "Ozark",
+        "Weeds",
+        "Snowfall"
+      ],
+      "en": [
+        "Breaking Bad",
+        "Ozark",
+        "Weeds",
+        "Snowfall"
+      ],
+      "es": [
+        "Breaking Bad",
+        "Ozark",
+        "Weeds",
+        "Snowfall"
+      ],
+      "pt": [
+        "Breaking Bad",
+        "Ozark",
+        "Weeds",
+        "Snowfall"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Bryan Cranston a remporté quatre Emmy pour le rôle de Walter White.",
+      "en": "Bryan Cranston won four Emmys for the role of Walter White.",
+      "es": "Bryan Cranston ganó cuatro Emmy por el papel de Walter White.",
+      "pt": "Bryan Cranston ganhou quatro Emmys pelo papel de Walter White."
+    }
+  },
+  {
+    "id": "cinema_0470",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 1962 est considéré comme le premier de la saga James Bond ?",
+      "en": "Which 1962 film is considered the first in the James Bond saga?",
+      "es": "¿Qué película de 1962 se considera la primera de la saga James Bond?",
+      "pt": "Que filme de 1962 é considerado o primeiro da saga James Bond?"
+    },
+    "options": {
+      "fr": [
+        "James Bond 007 contre Dr No",
+        "Bons baisers de Russie",
+        "Goldfinger",
+        "Opération Tonnerre"
+      ],
+      "en": [
+        "Dr. No",
+        "From Russia with Love",
+        "Goldfinger",
+        "Thunderball"
+      ],
+      "es": [
+        "Agente 007 contra el Dr. No",
+        "Desde Rusia con amor",
+        "Goldfinger",
+        "Operación Trueno"
+      ],
+      "pt": [
+        "007 Contra o Dr. No",
+        "Do Rússia com Amor",
+        "Goldfinger",
+        "Operação Relâmpago"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série a depuis dépassé les vingt-cinq films officiels.",
+      "en": "The series has since passed twenty-five official films.",
+      "es": "La saga ha superado desde entonces las veinticinco películas oficiales.",
+      "pt": "A saga ultrapassou desde então os vinte e cinco filmes oficiais."
+    }
+  },
+  {
+    "id": "cinema_0471",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel type de plan consiste à filmer en continu, sans coupe, une action complexe ?",
+      "en": "Which type of shot films a complex action continuously, without a cut?",
+      "es": "¿Qué tipo de plano filma en continuo, sin corte, una acción compleja?",
+      "pt": "Que tipo de plano filma continuamente, sem corte, uma ação complexa?"
+    },
+    "options": {
+      "fr": [
+        "Le plan-séquence",
+        "Le champ-contrechamp",
+        "Le plan de coupe",
+        "Le raccord dans l'axe"
+      ],
+      "en": [
+        "The long take",
+        "The shot-reverse-shot",
+        "The cutaway",
+        "The axial cut"
+      ],
+      "es": [
+        "El plano secuencia",
+        "El plano-contraplano",
+        "El plano de corte",
+        "El corte en el eje"
+      ],
+      "pt": [
+        "O plano-sequência",
+        "O plano-contraplano",
+        "O plano de corte",
+        "O corte no eixo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le champ-contrechamp alterne au contraire deux points de vue en dialogue.",
+      "en": "Shot-reverse-shot instead alternates two viewpoints in a dialogue.",
+      "es": "El plano-contraplano alterna en cambio dos puntos de vista en diálogo.",
+      "pt": "O plano-contraplano alterna, pelo contrário, dois pontos de vista em diálogo."
+    }
   }
 ]
