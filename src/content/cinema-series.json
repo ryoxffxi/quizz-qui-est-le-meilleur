@@ -14862,5 +14862,1765 @@
       "es": "El Technicolor es color, no formato: el CinemaScope es el que ensanchó la imagen.",
       "pt": "O Technicolor é cor, não formato: o CinemaScope é que alargou a imagem."
     }
+  },
+  {
+    "id": "cinema_0343",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « SOS Fantômes », quel est le métier des héros ?",
+      "en": "In \"Ghostbusters\", what do the heroes do for a living?",
+      "es": "En «Los cazafantasmas», ¿cuál es el oficio de los héroes?",
+      "pt": "Em «Os Caça-Fantasmas», qual é a profissão dos heróis?"
+    },
+    "options": {
+      "fr": [
+        "Chasseurs de fantômes",
+        "Détectives privés",
+        "Scientifiques du gouvernement",
+        "Pompiers"
+      ],
+      "en": [
+        "Ghost hunters",
+        "Private detectives",
+        "Government scientists",
+        "Firefighters"
+      ],
+      "es": [
+        "Cazafantasmas",
+        "Detectives privados",
+        "Científicos del gobierno",
+        "Bomberos"
+      ],
+      "pt": [
+        "Caçadores de fantasmas",
+        "Detetives privados",
+        "Cientistas do governo",
+        "Bombeiros"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de 1984 a rendu culte la Cadillac Ecto-1 et le Bibendum Chamallow.",
+      "en": "The 1984 film made the Ecto-1 Cadillac and the Stay Puft Marshmallow Man iconic.",
+      "es": "La película de 1984 hizo icónicos el Cadillac Ecto-1 y el hombre de malvavisco.",
+      "pt": "O filme de 1984 tornou icónicos o Cadillac Ecto-1 e o homem de marshmallow."
+    }
+  },
+  {
+    "id": "cinema_0344",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel acteur incarne Edward aux mains d'argent chez Tim Burton ?",
+      "en": "Which actor plays Edward Scissorhands for Tim Burton?",
+      "es": "¿Qué actor interpreta a Eduardo Manostijeras para Tim Burton?",
+      "pt": "Que ator interpreta Eduardo Mãos de Tesoura para Tim Burton?"
+    },
+    "options": {
+      "fr": [
+        "Johnny Depp",
+        "Christian Bale",
+        "Ethan Hawke",
+        "Brad Pitt"
+      ],
+      "en": [
+        "Johnny Depp",
+        "Christian Bale",
+        "Ethan Hawke",
+        "Brad Pitt"
+      ],
+      "es": [
+        "Johnny Depp",
+        "Christian Bale",
+        "Ethan Hawke",
+        "Brad Pitt"
+      ],
+      "pt": [
+        "Johnny Depp",
+        "Christian Bale",
+        "Ethan Hawke",
+        "Brad Pitt"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sorti en 1990, le film ouvre une longue collaboration entre Depp et Burton.",
+      "en": "Released in 1990, the film began a long collaboration between Depp and Burton.",
+      "es": "Estrenada en 1990, inició una larga colaboración entre Depp y Burton.",
+      "pt": "Lançado em 1990, iniciou uma longa colaboração entre Depp e Burton."
+    }
+  },
+  {
+    "id": "cinema_0345",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel animal géant menace les baigneurs dans « Les Dents de la mer » ?",
+      "en": "Which giant animal threatens swimmers in \"Jaws\"?",
+      "es": "¿Qué animal gigante amenaza a los bañistas en «Tiburón»?",
+      "pt": "Que animal gigante ameaça os banhistas em «Tubarão»?"
+    },
+    "options": {
+      "fr": [
+        "Un requin blanc",
+        "Une baleine",
+        "Un calmar géant",
+        "Un crocodile"
+      ],
+      "en": [
+        "A great white shark",
+        "A whale",
+        "A giant squid",
+        "A crocodile"
+      ],
+      "es": [
+        "Un tiburón blanco",
+        "Una ballena",
+        "Un calamar gigante",
+        "Un cocodrilo"
+      ],
+      "pt": [
+        "Um tubarão-branco",
+        "Uma baleia",
+        "Uma lula gigante",
+        "Um crocodilo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le requin mécanique tombant sans cesse en panne, Spielberg a dû le montrer très peu — ce qui a fait la tension du film.",
+      "en": "The mechanical shark kept breaking down, so Spielberg barely showed it — which created the tension.",
+      "es": "El tiburón mecánico fallaba sin parar, así que Spielberg apenas lo mostró: de ahí la tensión.",
+      "pt": "O tubarão mecânico avariava sem parar, por isso Spielberg quase não o mostrou: daí a tensão."
+    }
+  },
+  {
+    "id": "cinema_0346",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel animal est le logo du studio Metro-Goldwyn-Mayer ?",
+      "en": "Which animal is the Metro-Goldwyn-Mayer logo?",
+      "es": "¿Qué animal es el logo del estudio Metro-Goldwyn-Mayer?",
+      "pt": "Que animal é o logótipo do estúdio Metro-Goldwyn-Mayer?"
+    },
+    "options": {
+      "fr": [
+        "Un lion",
+        "Un aigle",
+        "Un ours",
+        "Un cheval"
+      ],
+      "en": [
+        "A lion",
+        "An eagle",
+        "A bear",
+        "A horse"
+      ],
+      "es": [
+        "Un león",
+        "Un águila",
+        "Un oso",
+        "Un caballo"
+      ],
+      "pt": [
+        "Um leão",
+        "Uma águia",
+        "Um urso",
+        "Um cavalo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le lion rugissant ouvre les films MGM depuis 1924, avec la devise « Ars gratia artis ».",
+      "en": "The roaring lion has opened MGM films since 1924, with the motto \"Ars gratia artis\".",
+      "es": "El león rugiente abre las películas de MGM desde 1924, con el lema «Ars gratia artis».",
+      "pt": "O leão rugidor abre os filmes da MGM desde 1924, com o lema «Ars gratia artis»."
+    }
+  },
+  {
+    "id": "cinema_0347",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel acteur a donné vie à Gollum par capture de mouvement ?",
+      "en": "Which actor brought Gollum to life through motion capture?",
+      "es": "¿Qué actor dio vida a Gollum mediante captura de movimiento?",
+      "pt": "Que ator deu vida ao Gollum através de captura de movimento?"
+    },
+    "options": {
+      "fr": [
+        "Andy Serkis",
+        "Ian McKellen",
+        "Elijah Wood",
+        "Sean Astin"
+      ],
+      "en": [
+        "Andy Serkis",
+        "Ian McKellen",
+        "Elijah Wood",
+        "Sean Astin"
+      ],
+      "es": [
+        "Andy Serkis",
+        "Ian McKellen",
+        "Elijah Wood",
+        "Sean Astin"
+      ],
+      "pt": [
+        "Andy Serkis",
+        "Ian McKellen",
+        "Elijah Wood",
+        "Sean Astin"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Serkis a ensuite incarné King Kong et César dans « La Planète des singes ».",
+      "en": "Serkis went on to play King Kong and Caesar in \"Planet of the Apes\".",
+      "es": "Serkis interpretó después a King Kong y a César en «El planeta de los simios».",
+      "pt": "Serkis interpretou depois King Kong e César em «O Planeta dos Macacos»."
+    }
+  },
+  {
+    "id": "cinema_0348",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle sitcom suit une bande d'amis dont Ted raconte à ses enfants comment il a rencontré leur mère ?",
+      "en": "Which sitcom has Ted telling his children how he met their mother?",
+      "es": "¿Qué sitcom sigue a Ted contando a sus hijos cómo conoció a su madre?",
+      "pt": "Que sitcom segue Ted a contar aos filhos como conheceu a mãe deles?"
+    },
+    "options": {
+      "fr": [
+        "How I Met Your Mother",
+        "Friends",
+        "The Big Bang Theory",
+        "Modern Family"
+      ],
+      "en": [
+        "How I Met Your Mother",
+        "Friends",
+        "The Big Bang Theory",
+        "Modern Family"
+      ],
+      "es": [
+        "Cómo conocí a vuestra madre",
+        "Friends",
+        "The Big Bang Theory",
+        "Modern Family"
+      ],
+      "pt": [
+        "Como Conheci a Vossa Mãe",
+        "Friends",
+        "The Big Bang Theory",
+        "Modern Family"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série repose sur une narration en flashback étalée sur neuf saisons.",
+      "en": "The series is built on a flashback narration stretched across nine seasons.",
+      "es": "La serie se basa en una narración en flashback a lo largo de nueve temporadas.",
+      "pt": "A série assenta numa narração em flashback ao longo de nove temporadas."
+    }
+  },
+  {
+    "id": "cinema_0349",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série Netflix suit une adolescente de la famille Addams dans un pensionnat ?",
+      "en": "Which Netflix series follows an Addams Family teenager at a boarding school?",
+      "es": "¿Qué serie de Netflix sigue a una adolescente de la Familia Addams en un internado?",
+      "pt": "Que série da Netflix segue uma adolescente da Família Addams num internato?"
+    },
+    "options": {
+      "fr": [
+        "Mercredi",
+        "Stranger Things",
+        "Sex Education",
+        "The Umbrella Academy"
+      ],
+      "en": [
+        "Wednesday",
+        "Stranger Things",
+        "Sex Education",
+        "The Umbrella Academy"
+      ],
+      "es": [
+        "Miércoles",
+        "Stranger Things",
+        "Sex Education",
+        "The Umbrella Academy"
+      ],
+      "pt": [
+        "Wednesday",
+        "Stranger Things",
+        "Sex Education",
+        "The Umbrella Academy"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Produite par Tim Burton, la série a battu des records d'audience sur Netflix en 2022.",
+      "en": "Produced by Tim Burton, the series broke Netflix viewing records in 2022.",
+      "es": "Producida por Tim Burton, batió récords de audiencia en Netflix en 2022.",
+      "pt": "Produzida por Tim Burton, bateu recordes de audiência na Netflix em 2022."
+    }
+  },
+  {
+    "id": "cinema_0350",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel acteur français a marqué la comédie avec « Le Corniaud » et « La Folie des grandeurs » ?",
+      "en": "Which French actor defined comedy with \"Le Corniaud\" and \"La Folie des grandeurs\"?",
+      "es": "¿Qué actor francés marcó la comedia con «El corsario» y «La locura de grandeza»?",
+      "pt": "Que ator francês marcou a comédia com «Le Corniaud» e «La Folie des grandeurs»?"
+    },
+    "options": {
+      "fr": [
+        "Louis de Funès",
+        "Jean Gabin",
+        "Bourvil",
+        "Fernandel"
+      ],
+      "en": [
+        "Louis de Funès",
+        "Jean Gabin",
+        "Bourvil",
+        "Fernandel"
+      ],
+      "es": [
+        "Louis de Funès",
+        "Jean Gabin",
+        "Bourvil",
+        "Fernandel"
+      ],
+      "pt": [
+        "Louis de Funès",
+        "Jean Gabin",
+        "Bourvil",
+        "Fernandel"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Son jeu très physique, tout en grimaces et colères, reste une signature du cinéma français.",
+      "en": "His hugely physical style, all grimaces and rage, remains a signature of French cinema.",
+      "es": "Su interpretación física, de muecas y enfados, sigue siendo una firma del cine francés.",
+      "pt": "A sua interpretação física, de caretas e fúrias, continua uma assinatura do cinema francês."
+    }
+  },
+  {
+    "id": "cinema_0351",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Le Voyage de Chihiro », quel métier Chihiro doit-elle exercer pour sauver ses parents ?",
+      "en": "In \"Spirited Away\", what work must Chihiro take on to save her parents?",
+      "es": "En «El viaje de Chihiro», ¿qué trabajo debe hacer Chihiro para salvar a sus padres?",
+      "pt": "Em «A Viagem de Chihiro», que trabalho deve Chihiro fazer para salvar os pais?"
+    },
+    "options": {
+      "fr": [
+        "Employée dans des bains publics",
+        "Cuisinière",
+        "Jardinière",
+        "Bibliothécaire"
+      ],
+      "en": [
+        "Worker at a bathhouse",
+        "Cook",
+        "Gardener",
+        "Librarian"
+      ],
+      "es": [
+        "Empleada en unos baños públicos",
+        "Cocinera",
+        "Jardinera",
+        "Bibliotecaria"
+      ],
+      "pt": [
+        "Empregada numas termas",
+        "Cozinheira",
+        "Jardineira",
+        "Bibliotecária"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La sorcière Yubaba lui vole son nom : elle devient « Sen » le temps de son contrat.",
+      "en": "The witch Yubaba steals her name: she becomes \"Sen\" for the length of her contract.",
+      "es": "La bruja Yubaba le roba el nombre: pasa a llamarse «Sen» durante su contrato.",
+      "pt": "A bruxa Yubaba rouba-lhe o nome: passa a chamar-se «Sen» durante o contrato."
+    }
+  },
+  {
+    "id": "cinema_0352",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Seven », combien de meurtres le tueur met-il en scène ?",
+      "en": "In \"Se7en\", how many murders does the killer stage?",
+      "es": "En «Seven», ¿cuántos asesinatos escenifica el asesino?",
+      "pt": "Em «Seven», quantos homicídios encena o assassino?"
+    },
+    "options": {
+      "fr": [
+        "Sept, un par péché capital",
+        "Trois",
+        "Cinq",
+        "Douze"
+      ],
+      "en": [
+        "Seven, one per deadly sin",
+        "Three",
+        "Five",
+        "Twelve"
+      ],
+      "es": [
+        "Siete, uno por pecado capital",
+        "Tres",
+        "Cinco",
+        "Doce"
+      ],
+      "pt": [
+        "Sete, um por pecado capital",
+        "Três",
+        "Cinco",
+        "Doze"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de David Fincher (1995) réunit Brad Pitt et Morgan Freeman.",
+      "en": "David Fincher's 1995 film pairs Brad Pitt and Morgan Freeman.",
+      "es": "La película de David Fincher (1995) reúne a Brad Pitt y Morgan Freeman.",
+      "pt": "O filme de David Fincher (1995) junta Brad Pitt e Morgan Freeman."
+    }
+  },
+  {
+    "id": "cinema_0353",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film de 2008 raconte l'histoire d'un jeune Indien candidat à un jeu télévisé ?",
+      "en": "Which 2008 film follows a young Indian man on a TV quiz show?",
+      "es": "¿Qué película de 2008 narra la historia de un joven indio en un concurso de televisión?",
+      "pt": "Que filme de 2008 conta a história de um jovem indiano num concurso de televisão?"
+    },
+    "options": {
+      "fr": [
+        "Slumdog Millionaire",
+        "Lion",
+        "Gandhi",
+        "The Millionaire Quiz"
+      ],
+      "en": [
+        "Slumdog Millionaire",
+        "Lion",
+        "Gandhi",
+        "The Millionaire Quiz"
+      ],
+      "es": [
+        "Slumdog Millionaire",
+        "Lion",
+        "Gandhi",
+        "The Millionaire Quiz"
+      ],
+      "pt": [
+        "Quem Quer Ser Bilionário?",
+        "Lion",
+        "Gandhi",
+        "The Millionaire Quiz"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de Danny Boyle a remporté huit Oscars, dont celui du meilleur film.",
+      "en": "Danny Boyle's film won eight Oscars, including Best Picture.",
+      "es": "La película de Danny Boyle ganó ocho Óscar, incluido el de mejor película.",
+      "pt": "O filme de Danny Boyle ganhou oito Óscares, incluindo o de melhor filme."
+    }
+  },
+  {
+    "id": "cinema_0354",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Les Affranchis » et « Casino », quel réalisateur filme la mafia américaine ?",
+      "en": "Which director filmed the American mafia in \"Goodfellas\" and \"Casino\"?",
+      "es": "¿Qué director filmó la mafia estadounidense en «Uno de los nuestros» y «Casino»?",
+      "pt": "Que realizador filmou a máfia americana em «Tudo Bons Rapazes» e «Casino»?"
+    },
+    "options": {
+      "fr": [
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Brian De Palma",
+        "Michael Mann"
+      ],
+      "en": [
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Brian De Palma",
+        "Michael Mann"
+      ],
+      "es": [
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Brian De Palma",
+        "Michael Mann"
+      ],
+      "pt": [
+        "Martin Scorsese",
+        "Francis Ford Coppola",
+        "Brian De Palma",
+        "Michael Mann"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Scorsese a tourné une dizaine de films avec Robert De Niro, dont « Taxi Driver ».",
+      "en": "Scorsese made around ten films with Robert De Niro, including \"Taxi Driver\".",
+      "es": "Scorsese rodó una decena de películas con Robert De Niro, entre ellas «Taxi Driver».",
+      "pt": "Scorsese filmou cerca de dez filmes com Robert De Niro, entre eles «Taxi Driver»."
+    }
+  },
+  {
+    "id": "cinema_0355",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film d'animation français en noir et blanc raconte l'enfance de son autrice à Téhéran ?",
+      "en": "Which black-and-white French animated film recounts its author's childhood in Tehran?",
+      "es": "¿Qué película de animación francesa en blanco y negro narra la infancia de su autora en Teherán?",
+      "pt": "Que filme de animação francês a preto e branco conta a infância da autora em Teerão?"
+    },
+    "options": {
+      "fr": [
+        "Persepolis",
+        "Les Triplettes de Belleville",
+        "Le Chat du rabbin",
+        "Couleur de peau : miel"
+      ],
+      "en": [
+        "Persepolis",
+        "The Triplets of Belleville",
+        "The Rabbi's Cat",
+        "Approved for Adoption"
+      ],
+      "es": [
+        "Persépolis",
+        "Bienvenidos a Belleville",
+        "El gato del rabino",
+        "Aprobado para adopción"
+      ],
+      "pt": [
+        "Persépolis",
+        "As Bicicletas de Belleville",
+        "O Gato do Rabino",
+        "Aprovado para Adoção"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Marjane Satrapi adapte sa propre bande dessinée autobiographique.",
+      "en": "Marjane Satrapi adapted her own autobiographical graphic novel.",
+      "es": "Marjane Satrapi adapta su propia novela gráfica autobiográfica.",
+      "pt": "Marjane Satrapi adapta a sua própria banda desenhada autobiográfica."
+    }
+  },
+  {
+    "id": "cinema_0356",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle série suit une famille milliardaire se disputant un empire médiatique ?",
+      "en": "Which series follows a billionaire family fighting over a media empire?",
+      "es": "¿Qué serie sigue a una familia multimillonaria disputándose un imperio mediático?",
+      "pt": "Que série segue uma família bilionária a disputar um império mediático?"
+    },
+    "options": {
+      "fr": [
+        "Succession",
+        "Billions",
+        "Yellowstone",
+        "Empire"
+      ],
+      "en": [
+        "Succession",
+        "Billions",
+        "Yellowstone",
+        "Empire"
+      ],
+      "es": [
+        "Succession",
+        "Billions",
+        "Yellowstone",
+        "Empire"
+      ],
+      "pt": [
+        "Succession",
+        "Billions",
+        "Yellowstone",
+        "Empire"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La série HBO a raflé de nombreux Emmy entre 2018 et 2023.",
+      "en": "The HBO series swept many Emmys between 2018 and 2023.",
+      "es": "La serie de HBO acumuló numerosos Emmy entre 2018 y 2023.",
+      "pt": "A série da HBO acumulou muitos Emmys entre 2018 e 2023."
+    }
+  },
+  {
+    "id": "cinema_0357",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel réalisateur est connu pour ses cadres parfaitement symétriques et ses couleurs pastel ?",
+      "en": "Which director is known for perfectly symmetrical framing and pastel colours?",
+      "es": "¿Qué director es conocido por sus encuadres simétricos y colores pastel?",
+      "pt": "Que realizador é conhecido pelos enquadramentos simétricos e cores pastel?"
+    },
+    "options": {
+      "fr": [
+        "Wes Anderson",
+        "Quentin Tarantino",
+        "Paul Thomas Anderson",
+        "David Fincher"
+      ],
+      "en": [
+        "Wes Anderson",
+        "Quentin Tarantino",
+        "Paul Thomas Anderson",
+        "David Fincher"
+      ],
+      "es": [
+        "Wes Anderson",
+        "Quentin Tarantino",
+        "Paul Thomas Anderson",
+        "David Fincher"
+      ],
+      "pt": [
+        "Wes Anderson",
+        "Quentin Tarantino",
+        "Paul Thomas Anderson",
+        "David Fincher"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« The Grand Budapest Hotel » est l'exemple le plus cité de son style.",
+      "en": "\"The Grand Budapest Hotel\" is the most cited example of his style.",
+      "es": "«El gran hotel Budapest» es el ejemplo más citado de su estilo.",
+      "pt": "«O Grande Hotel Budapeste» é o exemplo mais citado do seu estilo."
+    }
+  },
+  {
+    "id": "cinema_0358",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel studio a racheté Lucasfilm, et donc Star Wars, en 2012 ?",
+      "en": "Which studio bought Lucasfilm, and thus Star Wars, in 2012?",
+      "es": "¿Qué estudio compró Lucasfilm, y con ella Star Wars, en 2012?",
+      "pt": "Que estúdio comprou a Lucasfilm, e com ela Star Wars, em 2012?"
+    },
+    "options": {
+      "fr": [
+        "Disney",
+        "Warner Bros.",
+        "Universal",
+        "Paramount"
+      ],
+      "en": [
+        "Disney",
+        "Warner Bros.",
+        "Universal",
+        "Paramount"
+      ],
+      "es": [
+        "Disney",
+        "Warner Bros.",
+        "Universal",
+        "Paramount"
+      ],
+      "pt": [
+        "Disney",
+        "Warner Bros.",
+        "Universal",
+        "Paramount"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Disney a payé environ 4 milliards de dollars, après avoir racheté Marvel en 2009.",
+      "en": "Disney paid about $4 billion, having bought Marvel in 2009.",
+      "es": "Disney pagó unos 4000 millones de dólares, tras comprar Marvel en 2009.",
+      "pt": "A Disney pagou cerca de 4 mil milhões de dólares, após comprar a Marvel em 2009."
+    }
+  },
+  {
+    "id": "cinema_0359",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Le Discours d'un roi », quel trouble le roi George VI doit-il surmonter ?",
+      "en": "In \"The King's Speech\", which difficulty must King George VI overcome?",
+      "es": "En «El discurso del rey», ¿qué dificultad debe superar el rey Jorge VI?",
+      "pt": "Em «O Discurso do Rei», que dificuldade deve o rei Jorge VI superar?"
+    },
+    "options": {
+      "fr": [
+        "Le bégaiement",
+        "La surdité",
+        "La cécité",
+        "L'amnésie"
+      ],
+      "en": [
+        "A stammer",
+        "Deafness",
+        "Blindness",
+        "Amnesia"
+      ],
+      "es": [
+        "La tartamudez",
+        "La sordera",
+        "La ceguera",
+        "La amnesia"
+      ],
+      "pt": [
+        "A gaguez",
+        "A surdez",
+        "A cegueira",
+        "A amnésia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film a valu l'Oscar du meilleur acteur à Colin Firth en 2011.",
+      "en": "The film earned Colin Firth the Best Actor Oscar in 2011.",
+      "es": "La película le dio a Colin Firth el Óscar al mejor actor en 2011.",
+      "pt": "O filme deu a Colin Firth o Óscar de melhor ator em 2011."
+    }
+  },
+  {
+    "id": "cinema_0360",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel format de projection propose un écran géant et une image très haute définition ?",
+      "en": "Which projection format offers a giant screen and very high-definition image?",
+      "es": "¿Qué formato de proyección ofrece pantalla gigante e imagen de altísima definición?",
+      "pt": "Que formato de projeção oferece ecrã gigante e imagem de altíssima definição?"
+    },
+    "options": {
+      "fr": [
+        "L'IMAX",
+        "Le VHS",
+        "Le Super 8",
+        "Le Betamax"
+      ],
+      "en": [
+        "IMAX",
+        "VHS",
+        "Super 8",
+        "Betamax"
+      ],
+      "es": [
+        "El IMAX",
+        "El VHS",
+        "El Super 8",
+        "El Betamax"
+      ],
+      "pt": [
+        "O IMAX",
+        "O VHS",
+        "O Super 8",
+        "O Betamax"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Christopher Nolan tourne une partie de ses films directement en pellicule IMAX 70 mm.",
+      "en": "Christopher Nolan shoots parts of his films directly on 70 mm IMAX film.",
+      "es": "Christopher Nolan rueda parte de sus películas en película IMAX de 70 mm.",
+      "pt": "Christopher Nolan filma parte dos seus filmes em película IMAX de 70 mm."
+    }
+  },
+  {
+    "id": "cinema_0361",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel film français de 2008 raconte l'arrivée d'un employé de la Poste dans le Nord ?",
+      "en": "Which 2008 French film follows a postal worker sent to the North?",
+      "es": "¿Qué película francesa de 2008 narra la llegada de un empleado de correos al Norte?",
+      "pt": "Que filme francês de 2008 conta a chegada de um funcionário dos correios ao Norte?"
+    },
+    "options": {
+      "fr": [
+        "Bienvenue chez les Ch'tis",
+        "Intouchables",
+        "Le Petit Nicolas",
+        "Les Choristes"
+      ],
+      "en": [
+        "Welcome to the Sticks",
+        "The Intouchables",
+        "Little Nicholas",
+        "The Chorus"
+      ],
+      "es": [
+        "Bienvenidos al Norte",
+        "Intocable",
+        "El pequeño Nicolás",
+        "Los chicos del coro"
+      ],
+      "pt": [
+        "Bem-vindo ao Norte",
+        "Intocáveis",
+        "O Pequeno Nicolau",
+        "Os Music Boys"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de Dany Boon a réuni plus de 20 millions de spectateurs en France.",
+      "en": "Dany Boon's film drew over 20 million admissions in France.",
+      "es": "La película de Dany Boon superó los 20 millones de espectadores en Francia.",
+      "pt": "O filme de Dany Boon ultrapassou os 20 milhões de espectadores em França."
+    }
+  },
+  {
+    "id": "cinema_0362",
+    "category": "cinema-series",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel personnage de Disney est un lion devenu roi après la mort de son père ?",
+      "en": "Which Disney character is a lion who becomes king after his father's death?",
+      "es": "¿Qué personaje de Disney es un león que se convierte en rey tras morir su padre?",
+      "pt": "Que personagem da Disney é um leão que se torna rei após a morte do pai?"
+    },
+    "options": {
+      "fr": [
+        "Simba",
+        "Mufasa",
+        "Scar",
+        "Kovu"
+      ],
+      "en": [
+        "Simba",
+        "Mufasa",
+        "Scar",
+        "Kovu"
+      ],
+      "es": [
+        "Simba",
+        "Mufasa",
+        "Scar",
+        "Kovu"
+      ],
+      "pt": [
+        "Simba",
+        "Mufasa",
+        "Scar",
+        "Kovu"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le récit emprunte beaucoup à « Hamlet » de Shakespeare.",
+      "en": "The story borrows heavily from Shakespeare's \"Hamlet\".",
+      "es": "La historia toma mucho del «Hamlet» de Shakespeare.",
+      "pt": "A história vai buscar muito ao «Hamlet» de Shakespeare."
+    }
+  },
+  {
+    "id": "cinema_0363",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur britannique a remporté deux fois la Palme d'or, en 2006 et 2016 ?",
+      "en": "Which British director won the Palme d'Or twice, in 2006 and 2016?",
+      "es": "¿Qué director británico ganó dos veces la Palma de Oro, en 2006 y 2016?",
+      "pt": "Que realizador britânico ganhou duas vezes a Palma de Ouro, em 2006 e 2016?"
+    },
+    "options": {
+      "fr": [
+        "Ken Loach",
+        "Mike Leigh",
+        "Danny Boyle",
+        "Steve McQueen"
+      ],
+      "en": [
+        "Ken Loach",
+        "Mike Leigh",
+        "Danny Boyle",
+        "Steve McQueen"
+      ],
+      "es": [
+        "Ken Loach",
+        "Mike Leigh",
+        "Danny Boyle",
+        "Steve McQueen"
+      ],
+      "pt": [
+        "Ken Loach",
+        "Mike Leigh",
+        "Danny Boyle",
+        "Steve McQueen"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Pour « Le vent se lève » puis « Moi, Daniel Blake », deux films sociaux et politiques.",
+      "en": "For \"The Wind That Shakes the Barley\" then \"I, Daniel Blake\", two social and political films.",
+      "es": "Por «El viento que agita la cebada» y luego «Yo, Daniel Blake», dos filmes sociales.",
+      "pt": "Por «O Vento que Agita a Cevada» e depois «Eu, Daniel Blake», dois filmes sociais."
+    }
+  },
+  {
+    "id": "cinema_0364",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur espagnol est célèbre pour « Volver », « Parle avec elle » et « Tout sur ma mère » ?",
+      "en": "Which Spanish director is famed for \"Volver\", \"Talk to Her\" and \"All About My Mother\"?",
+      "es": "¿Qué director español es célebre por «Volver», «Hable con ella» y «Todo sobre mi madre»?",
+      "pt": "Que realizador espanhol é célebre por «Volver», «Fala com Ela» e «Tudo sobre a Minha Mãe»?"
+    },
+    "options": {
+      "fr": [
+        "Pedro Almodóvar",
+        "Alejandro Amenábar",
+        "Luis Buñuel",
+        "Carlos Saura"
+      ],
+      "en": [
+        "Pedro Almodóvar",
+        "Alejandro Amenábar",
+        "Luis Buñuel",
+        "Carlos Saura"
+      ],
+      "es": [
+        "Pedro Almodóvar",
+        "Alejandro Amenábar",
+        "Luis Buñuel",
+        "Carlos Saura"
+      ],
+      "pt": [
+        "Pedro Almodóvar",
+        "Alejandro Amenábar",
+        "Luis Buñuel",
+        "Carlos Saura"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ses couleurs saturées et ses personnages féminins sont sa signature depuis les années 1980.",
+      "en": "His saturated colours and female characters have been his signature since the 1980s.",
+      "es": "Sus colores saturados y sus personajes femeninos son su sello desde los años ochenta.",
+      "pt": "As cores saturadas e as personagens femininas são a sua marca desde os anos 80."
+    }
+  },
+  {
+    "id": "cinema_0365",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film des frères Coen suit un homme en peignoir surnommé « le Duc » ?",
+      "en": "Which Coen brothers film follows a man in a dressing gown known as \"the Dude\"?",
+      "es": "¿Qué película de los hermanos Coen sigue a un hombre en albornoz llamado «el Nota»?",
+      "pt": "Que filme dos irmãos Coen segue um homem de roupão chamado «o Dude»?"
+    },
+    "options": {
+      "fr": [
+        "The Big Lebowski",
+        "Fargo",
+        "No Country for Old Men",
+        "O'Brother"
+      ],
+      "en": [
+        "The Big Lebowski",
+        "Fargo",
+        "No Country for Old Men",
+        "O Brother, Where Art Thou?"
+      ],
+      "es": [
+        "El gran Lebowski",
+        "Fargo",
+        "No es país para viejos",
+        "O Brother"
+      ],
+      "pt": [
+        "O Grande Lebowski",
+        "Fargo",
+        "Este País Não É para Velhos",
+        "O Brother"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Échec commercial en 1998, le film est devenu culte au point d'inspirer un festival annuel.",
+      "en": "A commercial flop in 1998, it became so cult it inspired an annual festival.",
+      "es": "Fracaso comercial en 1998, se volvió tan de culto que inspiró un festival anual.",
+      "pt": "Fracasso comercial em 1998, tornou-se tão de culto que inspirou um festival anual."
+    }
+  },
+  {
+    "id": "cinema_0366",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur autrichien a remporté deux Palmes d'or, pour « Le Ruban blanc » et « Amour » ?",
+      "en": "Which Austrian director won two Palmes d'Or, for \"The White Ribbon\" and \"Amour\"?",
+      "es": "¿Qué director austriaco ganó dos Palmas de Oro, por «La cinta blanca» y «Amor»?",
+      "pt": "Que realizador austríaco ganhou duas Palmas de Ouro, por «A Fita Branca» e «Amor»?"
+    },
+    "options": {
+      "fr": [
+        "Michael Haneke",
+        "Ulrich Seidl",
+        "Ruben Östlund",
+        "Lars von Trier"
+      ],
+      "en": [
+        "Michael Haneke",
+        "Ulrich Seidl",
+        "Ruben Östlund",
+        "Lars von Trier"
+      ],
+      "es": [
+        "Michael Haneke",
+        "Ulrich Seidl",
+        "Ruben Östlund",
+        "Lars von Trier"
+      ],
+      "pt": [
+        "Michael Haneke",
+        "Ulrich Seidl",
+        "Ruben Östlund",
+        "Lars von Trier"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Amour » a aussi reçu l'Oscar du meilleur film en langue étrangère en 2013.",
+      "en": "\"Amour\" also won the Best Foreign Language Film Oscar in 2013.",
+      "es": "«Amor» también ganó el Óscar a la mejor película extranjera en 2013.",
+      "pt": "«Amor» ganhou também o Óscar de melhor filme estrangeiro em 2013."
+    }
+  },
+  {
+    "id": "cinema_0367",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel documentaire français de 2005 suit la reproduction des manchots empereurs ?",
+      "en": "Which 2005 French documentary follows emperor penguins breeding?",
+      "es": "¿Qué documental francés de 2005 sigue la reproducción de los pingüinos emperador?",
+      "pt": "Que documentário francês de 2005 segue a reprodução dos pinguins-imperadores?"
+    },
+    "options": {
+      "fr": [
+        "La Marche de l'empereur",
+        "Océans",
+        "Home",
+        "Microcosmos"
+      ],
+      "en": [
+        "March of the Penguins",
+        "Oceans",
+        "Home",
+        "Microcosmos"
+      ],
+      "es": [
+        "El viaje del emperador",
+        "Océanos",
+        "Home",
+        "Microcosmos"
+      ],
+      "pt": [
+        "A Marcha dos Pinguins",
+        "Oceanos",
+        "Home",
+        "Microcosmos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film de Luc Jacquet a remporté l'Oscar du meilleur documentaire en 2006.",
+      "en": "Luc Jacquet's film won the Best Documentary Oscar in 2006.",
+      "es": "La película de Luc Jacquet ganó el Óscar al mejor documental en 2006.",
+      "pt": "O filme de Luc Jacquet ganhou o Óscar de melhor documentário em 2006."
+    }
+  },
+  {
+    "id": "cinema_0368",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel acteur a incarné Batman dans la trilogie de Christopher Nolan ?",
+      "en": "Which actor played Batman in Christopher Nolan's trilogy?",
+      "es": "¿Qué actor interpretó a Batman en la trilogía de Christopher Nolan?",
+      "pt": "Que ator interpretou Batman na trilogia de Christopher Nolan?"
+    },
+    "options": {
+      "fr": [
+        "Christian Bale",
+        "Ben Affleck",
+        "Robert Pattinson",
+        "Michael Keaton"
+      ],
+      "en": [
+        "Christian Bale",
+        "Ben Affleck",
+        "Robert Pattinson",
+        "Michael Keaton"
+      ],
+      "es": [
+        "Christian Bale",
+        "Ben Affleck",
+        "Robert Pattinson",
+        "Michael Keaton"
+      ],
+      "pt": [
+        "Christian Bale",
+        "Ben Affleck",
+        "Robert Pattinson",
+        "Michael Keaton"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Michael Keaton avait tenu le rôle chez Tim Burton, Pattinson chez Matt Reeves.",
+      "en": "Michael Keaton held the role for Tim Burton, Pattinson for Matt Reeves.",
+      "es": "Michael Keaton lo interpretó con Tim Burton, y Pattinson con Matt Reeves.",
+      "pt": "Michael Keaton interpretou-o com Tim Burton, e Pattinson com Matt Reeves."
+    }
+  },
+  {
+    "id": "cinema_0369",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Combien d'acteurs différents ont incarné Spider-Man dans les films en prises de vues réelles depuis 2002 ?",
+      "en": "How many different actors have played Spider-Man in live-action films since 2002?",
+      "es": "¿Cuántos actores distintos han interpretado a Spider-Man en imagen real desde 2002?",
+      "pt": "Quantos atores diferentes interpretaram o Spider-Man em imagem real desde 2002?"
+    },
+    "options": {
+      "fr": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "en": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "es": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "pt": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Tobey Maguire, Andrew Garfield puis Tom Holland, réunis dans « No Way Home ».",
+      "en": "Tobey Maguire, Andrew Garfield and Tom Holland, brought together in \"No Way Home\".",
+      "es": "Tobey Maguire, Andrew Garfield y Tom Holland, reunidos en «No Way Home».",
+      "pt": "Tobey Maguire, Andrew Garfield e Tom Holland, reunidos em «No Way Home»."
+    }
+  },
+  {
+    "id": "cinema_0370",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de John Carpenter, sorti en 1978, a lancé la mode du slasher ?",
+      "en": "Which 1978 John Carpenter film launched the slasher craze?",
+      "es": "¿Qué película de John Carpenter, de 1978, lanzó la moda del slasher?",
+      "pt": "Que filme de John Carpenter, de 1978, lançou a moda do slasher?"
+    },
+    "options": {
+      "fr": [
+        "Halloween",
+        "The Thing",
+        "Fog",
+        "New York 1997"
+      ],
+      "en": [
+        "Halloween",
+        "The Thing",
+        "The Fog",
+        "Escape from New York"
+      ],
+      "es": [
+        "La noche de Halloween",
+        "La cosa",
+        "La niebla",
+        "1997: Rescate en Nueva York"
+      ],
+      "pt": [
+        "Halloween",
+        "The Thing",
+        "O Nevoeiro",
+        "Fuga de Nova Iorque"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Tourné pour environ 300 000 dollars, le film en a rapporté plus de 70 millions.",
+      "en": "Shot for around $300,000, the film grossed over $70 million.",
+      "es": "Rodada por unos 300 000 dólares, recaudó más de 70 millones.",
+      "pt": "Filmado por cerca de 300 000 dólares, rendeu mais de 70 milhões."
+    }
+  },
+  {
+    "id": "cinema_0371",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel cinéaste a réalisé « Hérédité » et « Midsommar » ?",
+      "en": "Which filmmaker directed \"Hereditary\" and \"Midsommar\"?",
+      "es": "¿Qué cineasta dirigió «Hereditary» y «Midsommar»?",
+      "pt": "Que cineasta realizou «Hereditário» e «Midsommar»?"
+    },
+    "options": {
+      "fr": [
+        "Ari Aster",
+        "Robert Eggers",
+        "Jordan Peele",
+        "Ti West"
+      ],
+      "en": [
+        "Ari Aster",
+        "Robert Eggers",
+        "Jordan Peele",
+        "Ti West"
+      ],
+      "es": [
+        "Ari Aster",
+        "Robert Eggers",
+        "Jordan Peele",
+        "Ti West"
+      ],
+      "pt": [
+        "Ari Aster",
+        "Robert Eggers",
+        "Jordan Peele",
+        "Ti West"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les deux films sont produits par A24, studio devenu une marque à part entière.",
+      "en": "Both films were produced by A24, a studio that has become a brand in itself.",
+      "es": "Ambas fueron producidas por A24, estudio convertido en marca por sí mismo.",
+      "pt": "Ambos foram produzidos pela A24, estúdio tornado marca por si só."
+    }
+  },
+  {
+    "id": "cinema_0372",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle série britannique en costumes suit une famille aristocratique et ses domestiques au début du XXe siècle ?",
+      "en": "Which British period drama follows an aristocratic family and its servants in the early 20th century?",
+      "es": "¿Qué serie británica de época sigue a una familia aristócrata y su servicio a principios del siglo XX?",
+      "pt": "Que série britânica de época segue uma família aristocrata e os seus criados no início do século XX?"
+    },
+    "options": {
+      "fr": [
+        "Downton Abbey",
+        "The Crown",
+        "Bridgerton",
+        "Peaky Blinders"
+      ],
+      "en": [
+        "Downton Abbey",
+        "The Crown",
+        "Bridgerton",
+        "Peaky Blinders"
+      ],
+      "es": [
+        "Downton Abbey",
+        "The Crown",
+        "Los Bridgerton",
+        "Peaky Blinders"
+      ],
+      "pt": [
+        "Downton Abbey",
+        "The Crown",
+        "Bridgerton",
+        "Peaky Blinders"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Diffusée à partir de 2010, la série a connu deux prolongements au cinéma.",
+      "en": "Airing from 2010, the series later spawned two feature films.",
+      "es": "Emitida desde 2010, la serie tuvo después dos películas.",
+      "pt": "Transmitida desde 2010, a série teve depois dois filmes."
+    }
+  },
+  {
+    "id": "cinema_0373",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel compositeur a signé les musiques des films de Tim Burton, dont « Batman » et « Beetlejuice » ?",
+      "en": "Which composer wrote the music for Tim Burton's films, including \"Batman\" and \"Beetlejuice\"?",
+      "es": "¿Qué compositor firmó la música de las películas de Tim Burton, como «Batman» y «Beetlejuice»?",
+      "pt": "Que compositor assinou a música dos filmes de Tim Burton, como «Batman» e «Beetlejuice»?"
+    },
+    "options": {
+      "fr": [
+        "Danny Elfman",
+        "Hans Zimmer",
+        "John Williams",
+        "Howard Shore"
+      ],
+      "en": [
+        "Danny Elfman",
+        "Hans Zimmer",
+        "John Williams",
+        "Howard Shore"
+      ],
+      "es": [
+        "Danny Elfman",
+        "Hans Zimmer",
+        "John Williams",
+        "Howard Shore"
+      ],
+      "pt": [
+        "Danny Elfman",
+        "Hans Zimmer",
+        "John Williams",
+        "Howard Shore"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ancien chanteur du groupe Oingo Boingo, Elfman collabore avec Burton depuis 1985.",
+      "en": "A former Oingo Boingo singer, Elfman has worked with Burton since 1985.",
+      "es": "Antiguo cantante de Oingo Boingo, Elfman colabora con Burton desde 1985.",
+      "pt": "Antigo vocalista dos Oingo Boingo, Elfman colabora com Burton desde 1985."
+    }
+  },
+  {
+    "id": "cinema_0374",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de 1995 des studios Pixar est le premier long métrage entièrement en images de synthèse ?",
+      "en": "Which 1995 Pixar film was the first fully computer-animated feature?",
+      "es": "¿Qué película de Pixar de 1995 fue el primer largometraje totalmente por ordenador?",
+      "pt": "Que filme da Pixar de 1995 foi a primeira longa-metragem totalmente por computador?"
+    },
+    "options": {
+      "fr": [
+        "Toy Story",
+        "1001 Pattes",
+        "Monstres & Cie",
+        "Le Monde de Nemo"
+      ],
+      "en": [
+        "Toy Story",
+        "A Bug's Life",
+        "Monsters, Inc.",
+        "Finding Nemo"
+      ],
+      "es": [
+        "Toy Story",
+        "Bichos",
+        "Monstruos S.A.",
+        "Buscando a Nemo"
+      ],
+      "pt": [
+        "Toy Story",
+        "Uma Vida de Insecto",
+        "Monstros e Companhia",
+        "À Procura de Nemo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film a nécessité environ 800 000 heures de calcul, réparties sur des centaines de machines.",
+      "en": "The film required around 800,000 machine hours of rendering across hundreds of computers.",
+      "es": "La película requirió unas 800 000 horas de cálculo en cientos de máquinas.",
+      "pt": "O filme exigiu cerca de 800 000 horas de cálculo em centenas de máquinas."
+    }
+  },
+  {
+    "id": "cinema_0375",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur a signé « Taxi Driver » et « Raging Bull » avec Robert De Niro ?",
+      "en": "Which director made \"Taxi Driver\" and \"Raging Bull\" with Robert De Niro?",
+      "es": "¿Qué director firmó «Taxi Driver» y «Toro salvaje» con Robert De Niro?",
+      "pt": "Que realizador assinou «Taxi Driver» e «Touro Enraivecido» com Robert De Niro?"
+    },
+    "options": {
+      "fr": [
+        "Martin Scorsese",
+        "Sidney Lumet",
+        "William Friedkin",
+        "Hal Ashby"
+      ],
+      "en": [
+        "Martin Scorsese",
+        "Sidney Lumet",
+        "William Friedkin",
+        "Hal Ashby"
+      ],
+      "es": [
+        "Martin Scorsese",
+        "Sidney Lumet",
+        "William Friedkin",
+        "Hal Ashby"
+      ],
+      "pt": [
+        "Martin Scorsese",
+        "Sidney Lumet",
+        "William Friedkin",
+        "Hal Ashby"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Taxi Driver » a remporté la Palme d'or à Cannes en 1976.",
+      "en": "\"Taxi Driver\" won the Palme d'Or at Cannes in 1976.",
+      "es": "«Taxi Driver» ganó la Palma de Oro en Cannes en 1976.",
+      "pt": "«Taxi Driver» ganhou a Palma de Ouro em Cannes em 1976."
+    }
+  },
+  {
+    "id": "cinema_0376",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle actrice française a reçu la Palme d'or comme réalisatrice en 1993 pour « La Leçon de piano » ?",
+      "en": "Which director won the 1993 Palme d'Or for \"The Piano\"?",
+      "es": "¿Qué directora ganó la Palma de Oro de 1993 por «El piano»?",
+      "pt": "Que realizadora ganhou a Palma de Ouro de 1993 por «O Piano»?"
+    },
+    "options": {
+      "fr": [
+        "Jane Campion",
+        "Agnès Varda",
+        "Claire Denis",
+        "Sofia Coppola"
+      ],
+      "en": [
+        "Jane Campion",
+        "Agnès Varda",
+        "Claire Denis",
+        "Sofia Coppola"
+      ],
+      "es": [
+        "Jane Campion",
+        "Agnès Varda",
+        "Claire Denis",
+        "Sofia Coppola"
+      ],
+      "pt": [
+        "Jane Campion",
+        "Agnès Varda",
+        "Claire Denis",
+        "Sofia Coppola"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La Néo-Zélandaise Jane Campion est la première femme à recevoir la Palme d'or.",
+      "en": "New Zealander Jane Campion was the first woman to receive the Palme d'Or.",
+      "es": "La neozelandesa Jane Campion fue la primera mujer en recibir la Palma de Oro.",
+      "pt": "A neozelandesa Jane Campion foi a primeira mulher a receber a Palma de Ouro."
+    }
+  },
+  {
+    "id": "cinema_0377",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle technique permet d'incruster un décor derrière un acteur filmé devant un fond uni ?",
+      "en": "Which technique inserts a background behind an actor filmed against a plain screen?",
+      "es": "¿Qué técnica permite incrustar un decorado detrás de un actor filmado ante un fondo liso?",
+      "pt": "Que técnica permite inserir um cenário atrás de um ator filmado sobre um fundo liso?"
+    },
+    "options": {
+      "fr": [
+        "L'incrustation sur fond vert",
+        "Le morphing",
+        "Le matte painting",
+        "Le time-lapse"
+      ],
+      "en": [
+        "Green-screen keying",
+        "Morphing",
+        "Matte painting",
+        "Time-lapse"
+      ],
+      "es": [
+        "El croma (fondo verde)",
+        "El morphing",
+        "El matte painting",
+        "El time-lapse"
+      ],
+      "pt": [
+        "O croma (fundo verde)",
+        "O morphing",
+        "O matte painting",
+        "O time-lapse"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le vert est choisi car il est rare sur la peau humaine, ce qui facilite la découpe.",
+      "en": "Green is chosen because it is rare on human skin, which makes cutting out easier.",
+      "es": "Se elige el verde porque es raro en la piel humana, lo que facilita el recorte.",
+      "pt": "Escolhe-se o verde por ser raro na pele humana, o que facilita o recorte."
+    }
+  },
+  {
+    "id": "cinema_0378",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film de Sidney Lumet, sorti en 1957, se déroule presque entièrement dans une salle de délibération ?",
+      "en": "Which 1957 Sidney Lumet film takes place almost entirely in a jury room?",
+      "es": "¿Qué película de Sidney Lumet, de 1957, transcurre casi toda en una sala de deliberación?",
+      "pt": "Que filme de Sidney Lumet, de 1957, decorre quase todo numa sala de deliberação?"
+    },
+    "options": {
+      "fr": [
+        "12 hommes en colère",
+        "Un après-midi de chien",
+        "Network",
+        "Serpico"
+      ],
+      "en": [
+        "12 Angry Men",
+        "Dog Day Afternoon",
+        "Network",
+        "Serpico"
+      ],
+      "es": [
+        "12 hombres sin piedad",
+        "Tarde de perros",
+        "Network",
+        "Serpico"
+      ],
+      "pt": [
+        "Doze Homens em Fúria",
+        "Um Dia de Cão",
+        "Network",
+        "Serpico"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le film est un cas d'école de mise en scène en huis clos, sur un seul décor.",
+      "en": "The film is a textbook case of single-set, closed-room staging.",
+      "es": "La película es un caso de manual de puesta en escena en un solo decorado.",
+      "pt": "O filme é um caso de manual de encenação num só cenário."
+    }
+  },
+  {
+    "id": "cinema_0379",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel réalisateur suédois a remporté deux Palmes d'or, pour « The Square » et « Sans filtre » ?",
+      "en": "Which Swedish director won two Palmes d'Or, for \"The Square\" and \"Triangle of Sadness\"?",
+      "es": "¿Qué director sueco ganó dos Palmas de Oro, por «The Square» y «El triángulo de la tristeza»?",
+      "pt": "Que realizador sueco ganhou duas Palmas de Ouro, por «The Square» e «Triângulo da Tristeza»?"
+    },
+    "options": {
+      "fr": [
+        "Ruben Östlund",
+        "Roy Andersson",
+        "Lukas Moodysson",
+        "Tomas Alfredson"
+      ],
+      "en": [
+        "Ruben Östlund",
+        "Roy Andersson",
+        "Lukas Moodysson",
+        "Tomas Alfredson"
+      ],
+      "es": [
+        "Ruben Östlund",
+        "Roy Andersson",
+        "Lukas Moodysson",
+        "Tomas Alfredson"
+      ],
+      "pt": [
+        "Ruben Östlund",
+        "Roy Andersson",
+        "Lukas Moodysson",
+        "Tomas Alfredson"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ses satires sociales lui ont valu la Palme en 2017 puis en 2022.",
+      "en": "His social satires won him the Palme in 2017 and again in 2022.",
+      "es": "Sus sátiras sociales le dieron la Palma en 2017 y de nuevo en 2022.",
+      "pt": "As suas sátiras sociais deram-lhe a Palma em 2017 e de novo em 2022."
+    }
+  },
+  {
+    "id": "cinema_0380",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle actrice incarne Éowyn dans « Le Seigneur des Anneaux » ?",
+      "en": "Which actress plays Éowyn in \"The Lord of the Rings\"?",
+      "es": "¿Qué actriz interpreta a Éowyn en «El Señor de los Anillos»?",
+      "pt": "Que atriz interpreta Éowyn em «O Senhor dos Anéis»?"
+    },
+    "options": {
+      "fr": [
+        "Miranda Otto",
+        "Liv Tyler",
+        "Cate Blanchett",
+        "Kate Winslet"
+      ],
+      "en": [
+        "Miranda Otto",
+        "Liv Tyler",
+        "Cate Blanchett",
+        "Kate Winslet"
+      ],
+      "es": [
+        "Miranda Otto",
+        "Liv Tyler",
+        "Cate Blanchett",
+        "Kate Winslet"
+      ],
+      "pt": [
+        "Miranda Otto",
+        "Liv Tyler",
+        "Cate Blanchett",
+        "Kate Winslet"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Liv Tyler joue Arwen et Cate Blanchett, Galadriel.",
+      "en": "Liv Tyler plays Arwen and Cate Blanchett plays Galadriel.",
+      "es": "Liv Tyler interpreta a Arwen y Cate Blanchett a Galadriel.",
+      "pt": "Liv Tyler interpreta Arwen e Cate Blanchett, Galadriel."
+    }
+  },
+  {
+    "id": "cinema_0381",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel film indien de 2022 a remporté l'Oscar de la meilleure chanson originale pour « Naatu Naatu » ?",
+      "en": "Which 2022 Indian film won the Best Original Song Oscar for \"Naatu Naatu\"?",
+      "es": "¿Qué película india de 2022 ganó el Óscar a la mejor canción por «Naatu Naatu»?",
+      "pt": "Que filme indiano de 2022 ganhou o Óscar de melhor canção por «Naatu Naatu»?"
+    },
+    "options": {
+      "fr": [
+        "RRR",
+        "Baahubali",
+        "Lagaan",
+        "Dangal"
+      ],
+      "en": [
+        "RRR",
+        "Baahubali",
+        "Lagaan",
+        "Dangal"
+      ],
+      "es": [
+        "RRR",
+        "Baahubali",
+        "Lagaan",
+        "Dangal"
+      ],
+      "pt": [
+        "RRR",
+        "Baahubali",
+        "Lagaan",
+        "Dangal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est la première chanson d'un film indien à recevoir cet Oscar.",
+      "en": "It is the first song from an Indian film to win that Oscar.",
+      "es": "Es la primera canción de una película india en ganar ese Óscar.",
+      "pt": "É a primeira canção de um filme indiano a ganhar esse Óscar."
+    }
+  },
+  {
+    "id": "cinema_0382",
+    "category": "cinema-series",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel duo de réalisateurs belges a remporté deux Palmes d'or, pour « Rosetta » et « L'Enfant » ?",
+      "en": "Which Belgian directing duo won two Palmes d'Or, for \"Rosetta\" and \"L'Enfant\"?",
+      "es": "¿Qué dúo de directores belgas ganó dos Palmas de Oro, por «Rosetta» y «El niño»?",
+      "pt": "Que dupla de realizadores belgas ganhou duas Palmas de Ouro, por «Rosetta» e «A Criança»?"
+    },
+    "options": {
+      "fr": [
+        "Les frères Dardenne",
+        "Les frères Coen",
+        "Les frères Wachowski",
+        "Les frères Safdie"
+      ],
+      "en": [
+        "The Dardenne brothers",
+        "The Coen brothers",
+        "The Wachowskis",
+        "The Safdie brothers"
+      ],
+      "es": [
+        "Los hermanos Dardenne",
+        "Los hermanos Coen",
+        "Las hermanas Wachowski",
+        "Los hermanos Safdie"
+      ],
+      "pt": [
+        "Os irmãos Dardenne",
+        "Os irmãos Coen",
+        "As irmãs Wachowski",
+        "Os irmãos Safdie"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Jean-Pierre et Luc Dardenne filment le monde ouvrier avec une caméra à l'épaule.",
+      "en": "Jean-Pierre and Luc Dardenne film working-class life with a handheld camera.",
+      "es": "Jean-Pierre y Luc Dardenne filman el mundo obrero con cámara al hombro.",
+      "pt": "Jean-Pierre e Luc Dardenne filmam o mundo operário com câmara ao ombro."
+    }
   }
 ]

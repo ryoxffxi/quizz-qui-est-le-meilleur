@@ -14906,5 +14906,1677 @@
       "es": "Potenciación, Emisión, Manipulación, Transmutación, Materialización y Especialización.",
       "pt": "Reforço, Emissão, Manipulação, Transmutação, Materialização e Especialização."
     }
+  },
+  {
+    "id": "manga_0341",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Pokémon », combien de types existait-il à la première génération ?",
+      "en": "In \"Pokémon\", how many types existed in the first generation?",
+      "es": "En «Pokémon», ¿cuántos tipos había en la primera generación?",
+      "pt": "Em «Pokémon», quantos tipos existiam na primeira geração?"
+    },
+    "options": {
+      "fr": [
+        "15",
+        "18",
+        "12",
+        "20"
+      ],
+      "en": [
+        "15",
+        "18",
+        "12",
+        "20"
+      ],
+      "es": [
+        "15",
+        "18",
+        "12",
+        "20"
+      ],
+      "pt": [
+        "15",
+        "18",
+        "12",
+        "20"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les types Acier et Ténèbres arrivent en 2e génération, la Fée en 6e : on passe alors à 18.",
+      "en": "Steel and Dark arrived in generation 2, Fairy in generation 6, bringing the total to 18.",
+      "es": "Acero y Siniestro llegan en la 2ª generación y Hada en la 6ª: en total 18.",
+      "pt": "Aço e Sombrio chegam na 2.ª geração e Fada na 6.ª: no total 18."
+    }
+  },
+  {
+    "id": "manga_0342",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Pokémon », quelle est la région de la première génération de jeux ?",
+      "en": "In \"Pokémon\", which region features in the first generation of games?",
+      "es": "En «Pokémon», ¿cuál es la región de la primera generación de juegos?",
+      "pt": "Em «Pokémon», qual é a região da primeira geração de jogos?"
+    },
+    "options": {
+      "fr": [
+        "Kanto",
+        "Johto",
+        "Hoenn",
+        "Sinnoh"
+      ],
+      "en": [
+        "Kanto",
+        "Johto",
+        "Hoenn",
+        "Sinnoh"
+      ],
+      "es": [
+        "Kanto",
+        "Johto",
+        "Hoenn",
+        "Sinnoh"
+      ],
+      "pt": [
+        "Kanto",
+        "Johto",
+        "Hoenn",
+        "Sinnoh"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Kanto s'inspire d'une véritable région du Japon, autour de Tokyo.",
+      "en": "Kanto is based on a real Japanese region, around Tokyo.",
+      "es": "Kanto se inspira en una región real de Japón, en torno a Tokio.",
+      "pt": "Kanto inspira-se numa região real do Japão, em torno de Tóquio."
+    }
+  },
+  {
+    "id": "manga_0343",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Yu-Gi-Oh! », comment s'appelle le monstre emblématique de Yugi ?",
+      "en": "In \"Yu-Gi-Oh!\", what is Yugi's signature monster called?",
+      "es": "En «Yu-Gi-Oh!», ¿cómo se llama el monstruo emblemático de Yugi?",
+      "pt": "Em «Yu-Gi-Oh!», como se chama o monstro emblemático de Yugi?"
+    },
+    "options": {
+      "fr": [
+        "Le Magicien Sombre",
+        "Le Dragon Blanc aux Yeux Bleus",
+        "Exodia le Damné",
+        "Kuriboh"
+      ],
+      "en": [
+        "Dark Magician",
+        "Blue-Eyes White Dragon",
+        "Exodia the Forbidden One",
+        "Kuriboh"
+      ],
+      "es": [
+        "El Mago Oscuro",
+        "El Dragón Blanco de Ojos Azules",
+        "Exodia el Prohibido",
+        "Kuriboh"
+      ],
+      "pt": [
+        "O Mago Negro",
+        "O Dragão Branco de Olhos Azuis",
+        "Exodia o Proibido",
+        "Kuriboh"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Dragon Blanc aux Yeux Bleus est, lui, la carte fétiche de son rival Kaiba.",
+      "en": "The Blue-Eyes White Dragon is instead his rival Kaiba's signature card.",
+      "es": "El Dragón Blanco de Ojos Azules es la carta fetiche de su rival Kaiba.",
+      "pt": "O Dragão Branco de Olhos Azuis é a carta de eleição do rival Kaiba."
+    }
+  },
+  {
+    "id": "manga_0344",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « One Piece », quel membre de l'équipage est un squelette musicien ?",
+      "en": "In \"One Piece\", which crew member is a musician skeleton?",
+      "es": "En «One Piece», ¿qué miembro de la tripulación es un esqueleto músico?",
+      "pt": "Em «One Piece», que membro da tripulação é um esqueleto músico?"
+    },
+    "options": {
+      "fr": [
+        "Brook",
+        "Franky",
+        "Jinbe",
+        "Usopp"
+      ],
+      "en": [
+        "Brook",
+        "Franky",
+        "Jinbe",
+        "Usopp"
+      ],
+      "es": [
+        "Brook",
+        "Franky",
+        "Jinbe",
+        "Usopp"
+      ],
+      "pt": [
+        "Brook",
+        "Franky",
+        "Jinbe",
+        "Usopp"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ressuscité par le fruit Yomi Yomi, Brook joue du violon et chante « Binks' Sake ».",
+      "en": "Revived by the Revive-Revive Fruit, Brook plays violin and sings \"Binks' Sake\".",
+      "es": "Revivido por la fruta Yomi Yomi, Brook toca el violín y canta «Binks' Sake».",
+      "pt": "Ressuscitado pela fruta Yomi Yomi, Brook toca violino e canta «Binks' Sake»."
+    }
+  },
+  {
+    "id": "manga_0345",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Dragon Ball Z », quel monstre rose absorbe ses adversaires ?",
+      "en": "In \"Dragon Ball Z\", which pink monster absorbs his opponents?",
+      "es": "En «Dragon Ball Z», ¿qué monstruo rosa absorbe a sus rivales?",
+      "pt": "Em «Dragon Ball Z», que monstro cor-de-rosa absorve os adversários?"
+    },
+    "options": {
+      "fr": [
+        "Majin Buu",
+        "Cell",
+        "Freezer",
+        "Broly"
+      ],
+      "en": [
+        "Majin Buu",
+        "Cell",
+        "Frieza",
+        "Broly"
+      ],
+      "es": [
+        "Majin Buu",
+        "Cell",
+        "Freezer",
+        "Broly"
+      ],
+      "pt": [
+        "Majin Buu",
+        "Cell",
+        "Freeza",
+        "Broly"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Cell absorbe aussi, mais il est vert : c'est Buu qui est rose.",
+      "en": "Cell absorbs too, but he is green: Buu is the pink one.",
+      "es": "Cell también absorbe, pero es verde: Buu es el rosa.",
+      "pt": "Cell também absorve, mas é verde: Buu é o cor-de-rosa."
+    }
+  },
+  {
+    "id": "manga_0346",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Jujutsu Kaisen », quel professeur porte un bandeau sur les yeux ?",
+      "en": "In \"Jujutsu Kaisen\", which teacher wears a blindfold?",
+      "es": "En «Jujutsu Kaisen», ¿qué profesor lleva una venda en los ojos?",
+      "pt": "Em «Jujutsu Kaisen», que professor usa uma venda nos olhos?"
+    },
+    "options": {
+      "fr": [
+        "Satoru Gojo",
+        "Kento Nanami",
+        "Masamichi Yaga",
+        "Suguru Geto"
+      ],
+      "en": [
+        "Satoru Gojo",
+        "Kento Nanami",
+        "Masamichi Yaga",
+        "Suguru Geto"
+      ],
+      "es": [
+        "Satoru Gojo",
+        "Kento Nanami",
+        "Masamichi Yaga",
+        "Suguru Geto"
+      ],
+      "pt": [
+        "Satoru Gojo",
+        "Kento Nanami",
+        "Masamichi Yaga",
+        "Suguru Geto"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le bandeau limite le flux d'informations de ses Six Yeux, épuisants à utiliser en permanence.",
+      "en": "The blindfold limits the flood of information from his Six Eyes, exhausting to use constantly.",
+      "es": "La venda limita el flujo de información de sus Seis Ojos, agotadores de usar sin pausa.",
+      "pt": "A venda limita o fluxo de informação dos seus Seis Olhos, exaustivos de usar sem pausa."
+    }
+  },
+  {
+    "id": "manga_0348",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « My Hero Academia », quel est l'alter de Todoroki ?",
+      "en": "In \"My Hero Academia\", what is Todoroki's quirk?",
+      "es": "En «My Hero Academia», ¿cuál es el don de Todoroki?",
+      "pt": "Em «My Hero Academia», qual é a peculiaridade de Todoroki?"
+    },
+    "options": {
+      "fr": [
+        "Mi-glace mi-feu",
+        "L'explosion",
+        "L'électricité",
+        "L'invisibilité"
+      ],
+      "en": [
+        "Half-Cold Half-Hot",
+        "Explosion",
+        "Electricity",
+        "Invisibility"
+      ],
+      "es": [
+        "Mitad frío mitad calor",
+        "Explosión",
+        "Electricidad",
+        "Invisibilidad"
+      ],
+      "pt": [
+        "Metade gelo metade fogo",
+        "Explosão",
+        "Eletricidade",
+        "Invisibilidade"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il hérite du feu de son père Endeavor et de la glace de sa mère.",
+      "en": "He inherits fire from his father Endeavor and ice from his mother.",
+      "es": "Hereda el fuego de su padre Endeavor y el hielo de su madre.",
+      "pt": "Herda o fogo do pai Endeavor e o gelo da mãe."
+    }
+  },
+  {
+    "id": "manga_0349",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Sailor Moon », combien de guerrières composent le groupe originel du système solaire intérieur ?",
+      "en": "In \"Sailor Moon\", how many guardians form the original inner-system team?",
+      "es": "En «Sailor Moon», ¿cuántas guerreras forman el grupo original del sistema solar interior?",
+      "pt": "Em «Sailor Moon», quantas guerreiras formam o grupo original do sistema solar interior?"
+    },
+    "options": {
+      "fr": [
+        "5",
+        "3",
+        "7",
+        "9"
+      ],
+      "en": [
+        "5",
+        "3",
+        "7",
+        "9"
+      ],
+      "es": [
+        "5",
+        "3",
+        "7",
+        "9"
+      ],
+      "pt": [
+        "5",
+        "3",
+        "7",
+        "9"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sailor Moon, Mercure, Mars, Jupiter et Vénus ; les guerrières extérieures arrivent ensuite.",
+      "en": "Sailor Moon, Mercury, Mars, Jupiter and Venus; the outer guardians come later.",
+      "es": "Sailor Moon, Mercurio, Marte, Júpiter y Venus; las exteriores llegan después.",
+      "pt": "Sailor Moon, Mercúrio, Marte, Júpiter e Vénus; as exteriores chegam depois."
+    }
+  },
+  {
+    "id": "manga_0350",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Bleach », comment s'appelle le monde des âmes ?",
+      "en": "In \"Bleach\", what is the world of souls called?",
+      "es": "En «Bleach», ¿cómo se llama el mundo de las almas?",
+      "pt": "Em «Bleach», como se chama o mundo das almas?"
+    },
+    "options": {
+      "fr": [
+        "La Soul Society",
+        "Le Hueco Mundo",
+        "Le Karakura",
+        "Le Seireitei"
+      ],
+      "en": [
+        "The Soul Society",
+        "Hueco Mundo",
+        "Karakura",
+        "Seireitei"
+      ],
+      "es": [
+        "La Soul Society",
+        "Hueco Mundo",
+        "Karakura",
+        "Seireitei"
+      ],
+      "pt": [
+        "A Soul Society",
+        "Hueco Mundo",
+        "Karakura",
+        "Seireitei"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Seireitei en est le quartier central ; le Hueco Mundo est le domaine des Hollows.",
+      "en": "The Seireitei is its central district; Hueco Mundo is the Hollows' realm.",
+      "es": "El Seireitei es su distrito central; Hueco Mundo es el reino de los Hollows.",
+      "pt": "O Seireitei é o distrito central; Hueco Mundo é o reino dos Hollows."
+    }
+  },
+  {
+    "id": "manga_0351",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Naruto », quelle organisation porte des manteaux noirs à nuages rouges ?",
+      "en": "In \"Naruto\", which organisation wears black cloaks with red clouds?",
+      "es": "En «Naruto», ¿qué organización lleva capas negras con nubes rojas?",
+      "pt": "Em «Naruto», que organização usa mantos negros com nuvens vermelhas?"
+    },
+    "options": {
+      "fr": [
+        "L'Akatsuki",
+        "L'Anbu",
+        "Le clan Uchiha",
+        "Les Sept Épéistes"
+      ],
+      "en": [
+        "The Akatsuki",
+        "The Anbu",
+        "The Uchiha clan",
+        "The Seven Swordsmen"
+      ],
+      "es": [
+        "Akatsuki",
+        "Anbu",
+        "El clan Uchiha",
+        "Los Siete Espadachines"
+      ],
+      "pt": [
+        "A Akatsuki",
+        "A Anbu",
+        "O clã Uchiha",
+        "Os Sete Espadachins"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'Akatsuki traque les démons à queues pour les sceller dans une statue géante.",
+      "en": "The Akatsuki hunt the tailed beasts to seal them into a giant statue.",
+      "es": "Akatsuki persigue a las bestias con cola para sellarlas en una estatua gigante.",
+      "pt": "A Akatsuki caça as bestas com cauda para as selar numa estátua gigante."
+    }
+  },
+  {
+    "id": "manga_0352",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel manga de sport suit une équipe de football de collège avec des techniques spectaculaires et un ballon animé ?",
+      "en": "Which sports manga follows a middle-school football team with spectacular special moves?",
+      "es": "¿Qué manga deportivo sigue a un equipo de fútbol escolar con técnicas espectaculares?",
+      "pt": "Que manga desportivo segue uma equipa de futebol escolar com técnicas espetaculares?"
+    },
+    "options": {
+      "fr": [
+        "Inazuma Eleven",
+        "Blue Lock",
+        "Haikyū!!",
+        "Ace of Diamond"
+      ],
+      "en": [
+        "Inazuma Eleven",
+        "Blue Lock",
+        "Haikyū!!",
+        "Ace of Diamond"
+      ],
+      "es": [
+        "Inazuma Eleven",
+        "Blue Lock",
+        "Haikyū!!",
+        "Ace of Diamond"
+      ],
+      "pt": [
+        "Inazuma Eleven",
+        "Blue Lock",
+        "Haikyū!!",
+        "Ace of Diamond"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Né d'un jeu vidéo Level-5, « Inazuma Eleven » a connu un très gros succès en France.",
+      "en": "Born from a Level-5 video game, \"Inazuma Eleven\" was a big hit in France.",
+      "es": "Nacido de un videojuego de Level-5, «Inazuma Eleven» triunfó mucho en Francia.",
+      "pt": "Nascido de um videojogo da Level-5, «Inazuma Eleven» foi um grande sucesso em França."
+    }
+  },
+  {
+    "id": "manga_0353",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Digimon », d'où viennent les créatures ?",
+      "en": "In \"Digimon\", where do the creatures come from?",
+      "es": "En «Digimon», ¿de dónde vienen las criaturas?",
+      "pt": "Em «Digimon», de onde vêm as criaturas?"
+    },
+    "options": {
+      "fr": [
+        "D'un monde numérique",
+        "De l'espace",
+        "Du fond des océans",
+        "Du passé"
+      ],
+      "en": [
+        "A digital world",
+        "Outer space",
+        "The deep ocean",
+        "The past"
+      ],
+      "es": [
+        "De un mundo digital",
+        "Del espacio",
+        "De los océanos",
+        "Del pasado"
+      ],
+      "pt": [
+        "De um mundo digital",
+        "Do espaço",
+        "Dos oceanos",
+        "Do passado"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le nom vient de « Digital Monster » : les Digimon naissent de données informatiques.",
+      "en": "The name comes from \"Digital Monster\": Digimon are born from computer data.",
+      "es": "El nombre viene de «Digital Monster»: los Digimon nacen de datos informáticos.",
+      "pt": "O nome vem de «Digital Monster»: os Digimon nascem de dados informáticos."
+    }
+  },
+  {
+    "id": "manga_0354",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « L'Attaque des Titans », quelle arme permet aux soldats de se déplacer dans les airs ?",
+      "en": "In \"Attack on Titan\", which gear lets soldiers move through the air?",
+      "es": "En «Ataque a los Titanes», ¿qué equipo permite a los soldados moverse por el aire?",
+      "pt": "Em «Ataque dos Titãs», que equipamento permite aos soldados mover-se pelo ar?"
+    },
+    "options": {
+      "fr": [
+        "L'équipement tridimensionnel",
+        "Un jetpack",
+        "Des ailes mécaniques",
+        "Un parapente"
+      ],
+      "en": [
+        "The omni-directional mobility gear",
+        "A jetpack",
+        "Mechanical wings",
+        "A paraglider"
+      ],
+      "es": [
+        "El equipo de maniobras tridimensionales",
+        "Un jetpack",
+        "Alas mecánicas",
+        "Un parapente"
+      ],
+      "pt": [
+        "O equipamento de manobra tridimensional",
+        "Um jetpack",
+        "Asas mecânicas",
+        "Um parapente"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Grappins et gaz comprimé permettent de viser la nuque des titans, leur unique point faible.",
+      "en": "Grapples and compressed gas let soldiers strike the titans' nape, their only weak point.",
+      "es": "Ganchos y gas comprimido permiten atacar la nuca de los titanes, su único punto débil.",
+      "pt": "Ganchos e gás comprimido permitem atingir a nuca dos titãs, o único ponto fraco."
+    }
+  },
+  {
+    "id": "manga_0355",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Fullmetal Alchemist », que doit sacrifier Edward pour ramener sa mère ?",
+      "en": "In \"Fullmetal Alchemist\", what does Edward lose trying to bring his mother back?",
+      "es": "En «Fullmetal Alchemist», ¿qué pierde Edward al intentar revivir a su madre?",
+      "pt": "Em «Fullmetal Alchemist», o que perde Edward ao tentar reviver a mãe?"
+    },
+    "options": {
+      "fr": [
+        "Un bras et une jambe",
+        "Sa vue",
+        "Sa voix",
+        "Ses souvenirs"
+      ],
+      "en": [
+        "An arm and a leg",
+        "His sight",
+        "His voice",
+        "His memories"
+      ],
+      "es": [
+        "Un brazo y una pierna",
+        "La vista",
+        "La voz",
+        "Sus recuerdos"
+      ],
+      "pt": [
+        "Um braço e uma perna",
+        "A visão",
+        "A voz",
+        "As memórias"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Son frère Alphonse y perd tout son corps : c'est le prix de l'échange équivalent.",
+      "en": "His brother Alphonse loses his whole body: the price of equivalent exchange.",
+      "es": "Su hermano Alphonse pierde todo el cuerpo: el precio del intercambio equivalente.",
+      "pt": "O irmão Alphonse perde o corpo inteiro: o preço da troca equivalente."
+    }
+  },
+  {
+    "id": "manga_0356",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Hunter x Hunter », que doit passer Gon pour devenir Hunter ?",
+      "en": "In \"Hunter x Hunter\", what must Gon pass to become a Hunter?",
+      "es": "En «Hunter x Hunter», ¿qué debe superar Gon para ser Hunter?",
+      "pt": "Em «Hunter x Hunter», o que deve Gon passar para ser Hunter?"
+    },
+    "options": {
+      "fr": [
+        "L'examen Hunter",
+        "Un tournoi",
+        "Une course",
+        "Un vote"
+      ],
+      "en": [
+        "The Hunter Exam",
+        "A tournament",
+        "A race",
+        "A vote"
+      ],
+      "es": [
+        "El Examen Hunter",
+        "Un torneo",
+        "Una carrera",
+        "Una votación"
+      ],
+      "pt": [
+        "O Exame Hunter",
+        "Um torneio",
+        "Uma corrida",
+        "Uma votação"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'examen change chaque année et son taux de réussite est presque nul.",
+      "en": "The exam changes every year and its pass rate is close to zero.",
+      "es": "El examen cambia cada año y su tasa de aprobados es casi nula.",
+      "pt": "O exame muda todos os anos e a taxa de aprovação é quase nula."
+    }
+  },
+  {
+    "id": "manga_0357",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Death Note », combien de temps le Death Note met-il à provoquer une crise cardiaque par défaut ?",
+      "en": "In \"Death Note\", how long does the notebook take to cause a heart attack by default?",
+      "es": "En «Death Note», ¿cuánto tarda por defecto el cuaderno en provocar un infarto?",
+      "pt": "Em «Death Note», quanto tempo demora por omissão o caderno a provocar um enfarte?"
+    },
+    "options": {
+      "fr": [
+        "40 secondes",
+        "10 secondes",
+        "2 minutes",
+        "6 minutes 40"
+      ],
+      "en": [
+        "40 seconds",
+        "10 seconds",
+        "2 minutes",
+        "6 minutes 40"
+      ],
+      "es": [
+        "40 segundos",
+        "10 segundos",
+        "2 minutos",
+        "6 minutos 40"
+      ],
+      "pt": [
+        "40 segundos",
+        "10 segundos",
+        "2 minutos",
+        "6 minutos 40"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Sans cause précisée, la mort survient 40 secondes après l'écriture du nom.",
+      "en": "With no cause specified, death occurs 40 seconds after the name is written.",
+      "es": "Sin causa especificada, la muerte llega 40 segundos después de escribir el nombre.",
+      "pt": "Sem causa especificada, a morte ocorre 40 segundos após escrever o nome."
+    }
+  },
+  {
+    "id": "manga_0358",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Doraemon », d'où vient le chat-robot ?",
+      "en": "In \"Doraemon\", where does the robot cat come from?",
+      "es": "En «Doraemon», ¿de dónde viene el gato robot?",
+      "pt": "Em «Doraemon», de onde vem o gato robô?"
+    },
+    "options": {
+      "fr": [
+        "Du XXIIe siècle",
+        "De la Lune",
+        "D'un laboratoire secret",
+        "D'une autre dimension"
+      ],
+      "en": [
+        "The 22nd century",
+        "The Moon",
+        "A secret lab",
+        "Another dimension"
+      ],
+      "es": [
+        "Del siglo XXII",
+        "De la Luna",
+        "De un laboratorio secreto",
+        "De otra dimensión"
+      ],
+      "pt": [
+        "Do século XXII",
+        "Da Lua",
+        "De um laboratório secreto",
+        "De outra dimensão"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il est envoyé dans le passé pour aider Nobita, l'arrière-grand-père de son propriétaire.",
+      "en": "He is sent back in time to help Nobita, his owner's great-great-grandfather.",
+      "es": "Es enviado al pasado para ayudar a Nobita, tatarabuelo de su dueño.",
+      "pt": "É enviado ao passado para ajudar Nobita, trisavô do seu dono."
+    }
+  },
+  {
+    "id": "manga_0359",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Mushoku Tensei » et « Re:Zero », quel genre de récit le héros vit-il ?",
+      "en": "In \"Mushoku Tensei\" and \"Re:Zero\", which genre does the hero experience?",
+      "es": "En «Mushoku Tensei» y «Re:Zero», ¿qué género vive el héroe?",
+      "pt": "Em «Mushoku Tensei» e «Re:Zero», que género vive o herói?"
+    },
+    "options": {
+      "fr": [
+        "L'isekai (transporté dans un autre monde)",
+        "Le slice of life",
+        "Le polar",
+        "Le sport"
+      ],
+      "en": [
+        "Isekai (transported to another world)",
+        "Slice of life",
+        "Crime",
+        "Sports"
+      ],
+      "es": [
+        "El isekai (transportado a otro mundo)",
+        "El slice of life",
+        "El policíaco",
+        "El deporte"
+      ],
+      "pt": [
+        "O isekai (transportado para outro mundo)",
+        "O slice of life",
+        "O policial",
+        "O desporto"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Isekai signifie littéralement « autre monde » : un genre devenu dominant dans les années 2010.",
+      "en": "Isekai literally means \"other world\", a genre that came to dominate in the 2010s.",
+      "es": "Isekai significa literalmente «otro mundo», un género dominante en los años 2010.",
+      "pt": "Isekai significa literalmente «outro mundo», um género dominante nos anos 2010."
+    }
+  },
+  {
+    "id": "manga_0360",
+    "category": "manga-anime",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Dans « Spy x Family », quel animal rejoint la famille Forger ?",
+      "en": "In \"Spy x Family\", which animal joins the Forger family?",
+      "es": "En «Spy x Family», ¿qué animal se une a la familia Forger?",
+      "pt": "Em «Spy x Family», que animal se junta à família Forger?"
+    },
+    "options": {
+      "fr": [
+        "Un grand chien blanc",
+        "Un chat noir",
+        "Un perroquet",
+        "Un lapin"
+      ],
+      "en": [
+        "A big white dog",
+        "A black cat",
+        "A parrot",
+        "A rabbit"
+      ],
+      "es": [
+        "Un gran perro blanco",
+        "Un gato negro",
+        "Un loro",
+        "Un conejo"
+      ],
+      "pt": [
+        "Um grande cão branco",
+        "Um gato preto",
+        "Um papagaio",
+        "Um coelho"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Bond voit l'avenir : ses visions permettent à Anya de déjouer des attentats.",
+      "en": "Bond can see the future: his visions let Anya foil attacks.",
+      "es": "Bond ve el futuro: sus visiones permiten a Anya frustrar atentados.",
+      "pt": "Bond vê o futuro: as visões permitem a Anya frustrar atentados."
+    }
+  },
+  {
+    "id": "manga_0361",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « One Piece », comment appelle-t-on les blocs de pierre gravés qui racontent le siècle oublié ?",
+      "en": "In \"One Piece\", what are the engraved stone blocks recording the void century called?",
+      "es": "En «One Piece», ¿cómo se llaman los bloques de piedra grabados del siglo perdido?",
+      "pt": "Em «One Piece», como se chamam os blocos de pedra gravados do século perdido?"
+    },
+    "options": {
+      "fr": [
+        "Les Poneglyphes",
+        "Les Log Poses",
+        "Les Vivre Cards",
+        "Les Ohara"
+      ],
+      "en": [
+        "The Poneglyphs",
+        "The Log Poses",
+        "The Vivre Cards",
+        "The Ohara"
+      ],
+      "es": [
+        "Los Poneglifos",
+        "Los Log Pose",
+        "Las Vivre Card",
+        "Los Ohara"
+      ],
+      "pt": [
+        "Os Poneglifos",
+        "As Log Pose",
+        "As Vivre Card",
+        "Os Ohara"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Seule Nico Robin sait encore les lire, ce qui explique la prime sur sa tête depuis l'enfance.",
+      "en": "Only Nico Robin can still read them, which explains the bounty on her since childhood.",
+      "es": "Solo Nico Robin sabe leerlos, lo que explica la recompensa sobre ella desde niña.",
+      "pt": "Só Nico Robin os sabe ler, o que explica a recompensa sobre ela desde criança."
+    }
+  },
+  {
+    "id": "manga_0362",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « One Piece », combien de types de fruits du démon existe-t-il ?",
+      "en": "In \"One Piece\", how many types of Devil Fruit are there?",
+      "es": "En «One Piece», ¿cuántos tipos de frutas del diablo existen?",
+      "pt": "Em «One Piece», quantos tipos de frutas do diabo existem?"
+    },
+    "options": {
+      "fr": [
+        "3 : Paramecia, Zoan, Logia",
+        "2 : Zoan et Logia",
+        "4",
+        "5"
+      ],
+      "en": [
+        "3: Paramecia, Zoan, Logia",
+        "2: Zoan and Logia",
+        "4",
+        "5"
+      ],
+      "es": [
+        "3: Paramecia, Zoan, Logia",
+        "2: Zoan y Logia",
+        "4",
+        "5"
+      ],
+      "pt": [
+        "3: Paramecia, Zoan, Logia",
+        "2: Zoan e Logia",
+        "4",
+        "5"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les Logia permettent de devenir un élément, les Zoan de se transformer en animal.",
+      "en": "Logia turn the user into an element, Zoan into an animal.",
+      "es": "Las Logia permiten volverse un elemento; las Zoan, un animal.",
+      "pt": "As Logia permitem tornar-se um elemento; as Zoan, um animal."
+    }
+  },
+  {
+    "id": "manga_0363",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Naruto », combien de démons à queues existe-t-il ?",
+      "en": "In \"Naruto\", how many tailed beasts are there?",
+      "es": "En «Naruto», ¿cuántas bestias con cola existen?",
+      "pt": "Em «Naruto», quantas bestas com cauda existem?"
+    },
+    "options": {
+      "fr": [
+        "9",
+        "7",
+        "10",
+        "12"
+      ],
+      "en": [
+        "9",
+        "7",
+        "10",
+        "12"
+      ],
+      "es": [
+        "9",
+        "7",
+        "10",
+        "12"
+      ],
+      "pt": [
+        "9",
+        "7",
+        "10",
+        "12"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "De Shukaku (une queue) à Kurama (neuf queues), tous issus du Jūbi, le Dix-Queues.",
+      "en": "From Shukaku (one tail) to Kurama (nine tails), all born from the Ten-Tails.",
+      "es": "De Shukaku (una cola) a Kurama (nueve colas), todas nacidas del Diez Colas.",
+      "pt": "De Shukaku (uma cauda) a Kurama (nove caudas), todas nascidas do Dez Caudas."
+    }
+  },
+  {
+    "id": "manga_0364",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Jujutsu Kaisen », comment appelle-t-on la technique ultime qui crée un espace clos où l'attaque ne peut pas manquer ?",
+      "en": "In \"Jujutsu Kaisen\", what is the ultimate technique creating a sealed space where attacks cannot miss?",
+      "es": "En «Jujutsu Kaisen», ¿cómo se llama la técnica suprema que crea un espacio cerrado donde el ataque no falla?",
+      "pt": "Em «Jujutsu Kaisen», como se chama a técnica suprema que cria um espaço fechado onde o ataque não falha?"
+    },
+    "options": {
+      "fr": [
+        "L'extension du territoire",
+        "Le bankai",
+        "Le mode ermite",
+        "Le kaioken"
+      ],
+      "en": [
+        "Domain expansion",
+        "Bankai",
+        "Sage mode",
+        "Kaioken"
+      ],
+      "es": [
+        "La expansión de dominio",
+        "El bankai",
+        "El modo ermitaño",
+        "El kaioken"
+      ],
+      "pt": [
+        "A expansão de domínio",
+        "O bankai",
+        "O modo eremita",
+        "O kaioken"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Très coûteuse en énergie, elle enferme l'adversaire dans le monde intérieur de l'exorciste.",
+      "en": "Hugely draining, it traps the opponent inside the sorcerer's inner world.",
+      "es": "Muy costosa en energía, encierra al rival en el mundo interior del hechicero.",
+      "pt": "Muito dispendiosa em energia, encerra o adversário no mundo interior do feiticeiro."
+    }
+  },
+  {
+    "id": "manga_0366",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio est réputé pour la qualité de ses effets numériques dans « Demon Slayer » et « Fate/Zero » ?",
+      "en": "Which studio is renowned for its digital effects in \"Demon Slayer\" and \"Fate/Zero\"?",
+      "es": "¿Qué estudio destaca por sus efectos digitales en «Demon Slayer» y «Fate/Zero»?",
+      "pt": "Que estúdio se destaca pelos efeitos digitais em «Demon Slayer» e «Fate/Zero»?"
+    },
+    "options": {
+      "fr": [
+        "Ufotable",
+        "MAPPA",
+        "A-1 Pictures",
+        "Studio Pierrot"
+      ],
+      "en": [
+        "Ufotable",
+        "MAPPA",
+        "A-1 Pictures",
+        "Studio Pierrot"
+      ],
+      "es": [
+        "Ufotable",
+        "MAPPA",
+        "A-1 Pictures",
+        "Studio Pierrot"
+      ],
+      "pt": [
+        "Ufotable",
+        "MAPPA",
+        "A-1 Pictures",
+        "Studio Pierrot"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ufotable mêle dessin traditionnel et compositing numérique très travaillé.",
+      "en": "Ufotable blends traditional drawing with heavily worked digital compositing.",
+      "es": "Ufotable mezcla dibujo tradicional y un compositing digital muy trabajado.",
+      "pt": "A Ufotable mistura desenho tradicional e um compositing digital muito trabalhado."
+    }
+  },
+  {
+    "id": "manga_0367",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio a animé « Naruto », « Bleach » et « Black Clover » ?",
+      "en": "Which studio animated \"Naruto\", \"Bleach\" and \"Black Clover\"?",
+      "es": "¿Qué estudio animó «Naruto», «Bleach» y «Black Clover»?",
+      "pt": "Que estúdio animou «Naruto», «Bleach» e «Black Clover»?"
+    },
+    "options": {
+      "fr": [
+        "Studio Pierrot",
+        "Toei Animation",
+        "Madhouse",
+        "Sunrise"
+      ],
+      "en": [
+        "Studio Pierrot",
+        "Toei Animation",
+        "Madhouse",
+        "Sunrise"
+      ],
+      "es": [
+        "Studio Pierrot",
+        "Toei Animation",
+        "Madhouse",
+        "Sunrise"
+      ],
+      "pt": [
+        "Studio Pierrot",
+        "Toei Animation",
+        "Madhouse",
+        "Sunrise"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Toei, lui, est le studio historique de « Dragon Ball », « One Piece » et « Sailor Moon ».",
+      "en": "Toei is instead the long-time studio of \"Dragon Ball\", \"One Piece\" and \"Sailor Moon\".",
+      "es": "Toei es, en cambio, el estudio histórico de «Dragon Ball», «One Piece» y «Sailor Moon».",
+      "pt": "A Toei é, por sua vez, o estúdio histórico de «Dragon Ball», «One Piece» e «Sailor Moon»."
+    }
+  },
+  {
+    "id": "manga_0368",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel studio a animé « JoJo's Bizarre Adventure » à partir de 2012 ?",
+      "en": "Which studio animated \"JoJo's Bizarre Adventure\" from 2012?",
+      "es": "¿Qué estudio animó «JoJo's Bizarre Adventure» desde 2012?",
+      "pt": "Que estúdio animou «JoJo's Bizarre Adventure» a partir de 2012?"
+    },
+    "options": {
+      "fr": [
+        "David Production",
+        "Bones",
+        "Wit Studio",
+        "CloverWorks"
+      ],
+      "en": [
+        "David Production",
+        "Bones",
+        "Wit Studio",
+        "CloverWorks"
+      ],
+      "es": [
+        "David Production",
+        "Bones",
+        "Wit Studio",
+        "CloverWorks"
+      ],
+      "pt": [
+        "David Production",
+        "Bones",
+        "Wit Studio",
+        "CloverWorks"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le studio a rendu célèbres les changements de palette de couleurs propres à la série.",
+      "en": "The studio made the series' signature colour-palette shifts famous.",
+      "es": "El estudio popularizó los cambios de paleta de color característicos de la serie.",
+      "pt": "O estúdio popularizou as mudanças de paleta de cor típicas da série."
+    }
+  },
+  {
+    "id": "manga_0369",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Bleach », comment appelle-t-on les dix arrancars d'élite d'Aizen ?",
+      "en": "In \"Bleach\", what are Aizen's ten elite arrancars called?",
+      "es": "En «Bleach», ¿cómo se llaman los diez arrancar de élite de Aizen?",
+      "pt": "Em «Bleach», como se chamam os dez arrancars de elite de Aizen?"
+    },
+    "options": {
+      "fr": [
+        "Les Espada",
+        "Les Vizards",
+        "Les Quincy",
+        "Les Fullbringers"
+      ],
+      "en": [
+        "The Espada",
+        "The Vizards",
+        "The Quincy",
+        "The Fullbringers"
+      ],
+      "es": [
+        "Los Espada",
+        "Los Vizard",
+        "Los Quincy",
+        "Los Fullbringer"
+      ],
+      "pt": [
+        "Os Espada",
+        "Os Vizards",
+        "Os Quincy",
+        "Os Fullbringers"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« Espada » signifie « épée » en espagnol : la série puise beaucoup dans cette langue.",
+      "en": "\"Espada\" means \"sword\" in Spanish: the series borrows heavily from that language.",
+      "es": "«Espada» es una palabra española: la serie toma mucho de este idioma.",
+      "pt": "«Espada» é uma palavra espanhola: a série vai buscar muito a essa língua."
+    }
+  },
+  {
+    "id": "manga_0370",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Hunter x Hunter », comment s'appelle le groupe de voleurs auquel appartient Kuroro ?",
+      "en": "In \"Hunter x Hunter\", what is the thieves' group Chrollo belongs to called?",
+      "es": "En «Hunter x Hunter», ¿cómo se llama el grupo de ladrones de Chrollo?",
+      "pt": "Em «Hunter x Hunter», como se chama o grupo de ladrões de Chrollo?"
+    },
+    "options": {
+      "fr": [
+        "La Brigade fantôme",
+        "Les Zoldyck",
+        "Les Chimères",
+        "Les Nen-Users"
+      ],
+      "en": [
+        "The Phantom Troupe",
+        "The Zoldycks",
+        "The Chimera Ants",
+        "The Nen Users"
+      ],
+      "es": [
+        "La Brigada Fantasma",
+        "Los Zoldyck",
+        "Las Hormigas Quimera",
+        "Los usuarios de Nen"
+      ],
+      "pt": [
+        "A Brigada Fantasma",
+        "Os Zoldyck",
+        "As Formigas Quimera",
+        "Os utilizadores de Nen"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ses membres portent un tatouage d'araignée à douze pattes, chacun numéroté.",
+      "en": "Its members bear a twelve-legged spider tattoo, each one numbered.",
+      "es": "Sus miembros llevan un tatuaje de araña de doce patas, cada uno numerado.",
+      "pt": "Os membros usam uma tatuagem de aranha de doze patas, cada uma numerada."
+    }
+  },
+  {
+    "id": "manga_0371",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel manga détient le record du plus grand nombre d'exemplaires vendus au monde ?",
+      "en": "Which manga holds the record for most copies sold worldwide?",
+      "es": "¿Qué manga tiene el récord de más ejemplares vendidos en el mundo?",
+      "pt": "Que manga detém o recorde de mais exemplares vendidos no mundo?"
+    },
+    "options": {
+      "fr": [
+        "One Piece",
+        "Dragon Ball",
+        "Naruto",
+        "Détective Conan"
+      ],
+      "en": [
+        "One Piece",
+        "Dragon Ball",
+        "Naruto",
+        "Detective Conan"
+      ],
+      "es": [
+        "One Piece",
+        "Dragon Ball",
+        "Naruto",
+        "Detective Conan"
+      ],
+      "pt": [
+        "One Piece",
+        "Dragon Ball",
+        "Naruto",
+        "Detetive Conan"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "« One Piece » dépasse les 500 millions d'exemplaires, un record homologué par le Guinness.",
+      "en": "\"One Piece\" has passed 500 million copies, a Guinness-certified record.",
+      "es": "«One Piece» supera los 500 millones de ejemplares, récord homologado por Guinness.",
+      "pt": "«One Piece» ultrapassa os 500 milhões de exemplares, recorde homologado pelo Guinness."
+    }
+  },
+  {
+    "id": "manga_0372",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Dragon Ball », quel personnage fusionne avec Piccolo pour devenir plus puissant ?",
+      "en": "In \"Dragon Ball\", who merges with Piccolo to grow stronger?",
+      "es": "En «Dragon Ball», ¿quién se fusiona con Piccolo para hacerse más fuerte?",
+      "pt": "Em «Dragon Ball», quem se funde com Piccolo para ficar mais forte?"
+    },
+    "options": {
+      "fr": [
+        "Kami (le dieu de la Terre)",
+        "Krilin",
+        "Ten Shin Han",
+        "Yamcha"
+      ],
+      "en": [
+        "Kami (Earth's guardian)",
+        "Krillin",
+        "Tien",
+        "Yamcha"
+      ],
+      "es": [
+        "Kami (el dios de la Tierra)",
+        "Krilin",
+        "Ten Shin Han",
+        "Yamcha"
+      ],
+      "pt": [
+        "Kami (o deus da Terra)",
+        "Kuririn",
+        "Ten Shin Han",
+        "Yamcha"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Piccolo et Kami sont deux moitiés d'un même être namek, séparées depuis des siècles.",
+      "en": "Piccolo and Kami are two halves of the same Namekian, split for centuries.",
+      "es": "Piccolo y Kami son dos mitades del mismo namekiano, separadas durante siglos.",
+      "pt": "Piccolo e Kami são duas metades do mesmo namekiano, separadas há séculos."
+    }
+  },
+  {
+    "id": "manga_0373",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle œuvre de Rumiko Takahashi met en scène un lycéen traversant le temps vers l'époque Sengoku ?",
+      "en": "Which Rumiko Takahashi work follows a schoolgirl travelling back to the Sengoku era?",
+      "es": "¿Qué obra de Rumiko Takahashi sigue a una estudiante que viaja a la era Sengoku?",
+      "pt": "Que obra de Rumiko Takahashi segue uma estudante que viaja para a era Sengoku?"
+    },
+    "options": {
+      "fr": [
+        "Inu-Yasha",
+        "Ranma ½",
+        "Urusei Yatsura",
+        "Maison Ikkoku"
+      ],
+      "en": [
+        "Inuyasha",
+        "Ranma ½",
+        "Urusei Yatsura",
+        "Maison Ikkoku"
+      ],
+      "es": [
+        "Inuyasha",
+        "Ranma ½",
+        "Urusei Yatsura",
+        "Maison Ikkoku"
+      ],
+      "pt": [
+        "Inuyasha",
+        "Ranma ½",
+        "Urusei Yatsura",
+        "Maison Ikkoku"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Kagome bascule dans le passé par le puits de son sanctuaire familial.",
+      "en": "Kagome falls into the past through the well at her family shrine.",
+      "es": "Kagome cae al pasado por el pozo del santuario familiar.",
+      "pt": "Kagome cai no passado pelo poço do santuário da família."
+    }
+  },
+  {
+    "id": "manga_0374",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel collectif de mangakas, entièrement féminin, a créé « Card Captor Sakura » et « xxxHOLiC » ?",
+      "en": "Which all-female manga collective created \"Cardcaptor Sakura\" and \"xxxHOLiC\"?",
+      "es": "¿Qué colectivo de mangakas, íntegramente femenino, creó «Cardcaptor Sakura» y «xxxHOLiC»?",
+      "pt": "Que coletivo de mangakas, inteiramente feminino, criou «Cardcaptor Sakura» e «xxxHOLiC»?"
+    },
+    "options": {
+      "fr": [
+        "CLAMP",
+        "Peach-Pit",
+        "Studio DEEN",
+        "Gainax"
+      ],
+      "en": [
+        "CLAMP",
+        "Peach-Pit",
+        "Studio DEEN",
+        "Gainax"
+      ],
+      "es": [
+        "CLAMP",
+        "Peach-Pit",
+        "Studio DEEN",
+        "Gainax"
+      ],
+      "pt": [
+        "CLAMP",
+        "Peach-Pit",
+        "Studio DEEN",
+        "Gainax"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "CLAMP a débuté dans le fanzine avant de devenir l'un des noms majeurs du shōjo.",
+      "en": "CLAMP started in fanzines before becoming one of shōjo's biggest names.",
+      "es": "CLAMP empezó en el fanzine antes de ser uno de los grandes nombres del shōjo.",
+      "pt": "As CLAMP começaram no fanzine antes de se tornarem um grande nome do shōjo."
+    }
+  },
+  {
+    "id": "manga_0375",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Demon Slayer », qui est le premier démon, à l'origine de tous les autres ?",
+      "en": "In \"Demon Slayer\", who is the first demon, origin of all the others?",
+      "es": "En «Demon Slayer», ¿quién es el primer demonio, origen de todos los demás?",
+      "pt": "Em «Demon Slayer», quem é o primeiro demónio, origem de todos os outros?"
+    },
+    "options": {
+      "fr": [
+        "Muzan Kibutsuji",
+        "Kokushibo",
+        "Akaza",
+        "Douma"
+      ],
+      "en": [
+        "Muzan Kibutsuji",
+        "Kokushibo",
+        "Akaza",
+        "Douma"
+      ],
+      "es": [
+        "Muzan Kibutsuji",
+        "Kokushibo",
+        "Akaza",
+        "Douma"
+      ],
+      "pt": [
+        "Muzan Kibutsuji",
+        "Kokushibo",
+        "Akaza",
+        "Douma"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Tous les démons portent son sang : le tuer libérerait l'humanité d'un coup.",
+      "en": "Every demon carries his blood: killing him would free humanity in one stroke.",
+      "es": "Todos los demonios llevan su sangre: matarlo liberaría a la humanidad de golpe.",
+      "pt": "Todos os demónios têm o seu sangue: matá-lo libertaria a humanidade de uma vez."
+    }
+  },
+  {
+    "id": "manga_0376",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « My Hero Academia », quel est le pouvoir du grand ennemi All For One ?",
+      "en": "In \"My Hero Academia\", what is the villain All For One's power?",
+      "es": "En «My Hero Academia», ¿cuál es el poder del villano All For One?",
+      "pt": "Em «My Hero Academia», qual é o poder do vilão All For One?"
+    },
+    "options": {
+      "fr": [
+        "Voler et donner des alters",
+        "Contrôler le temps",
+        "Se dupliquer",
+        "Effacer les alters"
+      ],
+      "en": [
+        "Stealing and granting quirks",
+        "Controlling time",
+        "Duplicating himself",
+        "Erasing quirks"
+      ],
+      "es": [
+        "Robar y otorgar dones",
+        "Controlar el tiempo",
+        "Duplicarse",
+        "Borrar dones"
+      ],
+      "pt": [
+        "Roubar e conceder peculiaridades",
+        "Controlar o tempo",
+        "Duplicar-se",
+        "Apagar peculiaridades"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le One For All d'Izuku est né en réaction : c'est le seul alter transmissible volontairement.",
+      "en": "Izuku's One For All was born in response: the only quirk passed on willingly.",
+      "es": "El One For All de Izuku nació como respuesta: el único don que se transmite voluntariamente.",
+      "pt": "O One For All de Izuku nasceu em resposta: a única peculiaridade transmitida voluntariamente."
+    }
+  },
+  {
+    "id": "manga_0377",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel manga de Naoki Urasawa suit une bande d'amis d'enfance face à une secte planétaire ?",
+      "en": "Which Naoki Urasawa manga follows childhood friends facing a global cult?",
+      "es": "¿Qué manga de Naoki Urasawa sigue a amigos de infancia frente a una secta mundial?",
+      "pt": "Que manga de Naoki Urasawa segue amigos de infância perante uma seita mundial?"
+    },
+    "options": {
+      "fr": [
+        "20th Century Boys",
+        "Monster",
+        "Pluto",
+        "Billy Bat"
+      ],
+      "en": [
+        "20th Century Boys",
+        "Monster",
+        "Pluto",
+        "Billy Bat"
+      ],
+      "es": [
+        "20th Century Boys",
+        "Monster",
+        "Pluto",
+        "Billy Bat"
+      ],
+      "pt": [
+        "20th Century Boys",
+        "Monster",
+        "Pluto",
+        "Billy Bat"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le récit part d'un jeu d'enfants dont le scénario apocalyptique se réalise vraiment.",
+      "en": "The story starts from a childhood game whose apocalyptic script actually comes true.",
+      "es": "La historia parte de un juego infantil cuyo guion apocalíptico se cumple de verdad.",
+      "pt": "A história parte de um jogo de infância cujo guião apocalíptico se concretiza mesmo."
+    }
+  },
+  {
+    "id": "manga_0378",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Comment appelle-t-on les mangas amateurs auto-édités, vendus notamment au Comiket ?",
+      "en": "What are self-published amateur manga, sold notably at Comiket, called?",
+      "es": "¿Cómo se llaman los mangas amateur autoeditados, vendidos sobre todo en el Comiket?",
+      "pt": "Como se chamam os mangas amadores autoeditados, vendidos sobretudo no Comiket?"
+    },
+    "options": {
+      "fr": [
+        "Doujinshi",
+        "Tankōbon",
+        "Webtoon",
+        "Light novel"
+      ],
+      "en": [
+        "Doujinshi",
+        "Tankōbon",
+        "Webtoon",
+        "Light novel"
+      ],
+      "es": [
+        "Doujinshi",
+        "Tankōbon",
+        "Webtoon",
+        "Light novel"
+      ],
+      "pt": [
+        "Doujinshi",
+        "Tankōbon",
+        "Webtoon",
+        "Light novel"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Comiket réunit deux fois par an des centaines de milliers de visiteurs à Tokyo.",
+      "en": "Comiket draws hundreds of thousands of visitors to Tokyo twice a year.",
+      "es": "El Comiket reúne dos veces al año a cientos de miles de visitantes en Tokio.",
+      "pt": "O Comiket reúne duas vezes por ano centenas de milhares de visitantes em Tóquio."
+    }
+  },
+  {
+    "id": "manga_0379",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Dans « Attaque des Titans », combien de titans primordiaux existe-t-il ?",
+      "en": "In \"Attack on Titan\", how many of the Nine Titans are there?",
+      "es": "En «Ataque a los Titanes», ¿cuántos titanes primordiales existen?",
+      "pt": "Em «Ataque dos Titãs», quantos titãs primordiais existem?"
+    },
+    "options": {
+      "fr": [
+        "9",
+        "7",
+        "5",
+        "13"
+      ],
+      "en": [
+        "9",
+        "7",
+        "5",
+        "13"
+      ],
+      "es": [
+        "9",
+        "7",
+        "5",
+        "13"
+      ],
+      "pt": [
+        "9",
+        "7",
+        "5",
+        "13"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Neuf pouvoirs hérités, dont le Titan Originel ; leur porteur meurt au bout de treize ans.",
+      "en": "Nine inherited powers, including the Founding Titan; each holder dies after thirteen years.",
+      "es": "Nueve poderes heredados, incluido el Titán Fundador; su portador muere a los trece años.",
+      "pt": "Nove poderes herdados, incluindo o Titã Fundador; o portador morre ao fim de treze anos."
+    }
+  },
+  {
+    "id": "manga_0380",
+    "category": "manga-anime",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel manga de Tsugumi Ohba et Takeshi Obata raconte le parcours de deux lycéens voulant devenir mangakas ?",
+      "en": "Which Ohba and Obata manga follows two schoolboys aiming to become manga artists?",
+      "es": "¿Qué manga de Ohba y Obata sigue a dos estudiantes que quieren ser mangakas?",
+      "pt": "Que manga de Ohba e Obata segue dois estudantes que querem ser mangakas?"
+    },
+    "options": {
+      "fr": [
+        "Bakuman",
+        "Death Note",
+        "Platinum End",
+        "Hikaru no Go"
+      ],
+      "en": [
+        "Bakuman",
+        "Death Note",
+        "Platinum End",
+        "Hikaru no Go"
+      ],
+      "es": [
+        "Bakuman",
+        "Death Note",
+        "Platinum End",
+        "Hikaru no Go"
+      ],
+      "pt": [
+        "Bakuman",
+        "Death Note",
+        "Platinum End",
+        "Hikaru no Go"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le duo y raconte de l'intérieur le fonctionnement du Weekly Shōnen Jump.",
+      "en": "The pair depict the inner workings of Weekly Shōnen Jump from the inside.",
+      "es": "El dúo retrata desde dentro el funcionamiento de la Weekly Shōnen Jump.",
+      "pt": "A dupla retrata por dentro o funcionamento da Weekly Shōnen Jump."
+    }
   }
 ]

@@ -14466,5 +14466,1721 @@
       "es": "Su punto más bajo, el abismo Challenger, baja a casi 11 000 metros.",
       "pt": "O ponto mais fundo, o abismo Challenger, desce a quase 11 000 metros."
     }
+  },
+  {
+    "id": "culture_0338",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel fleuve traverse Bordeaux ?",
+      "en": "Which river runs through Bordeaux?",
+      "es": "¿Qué río atraviesa Burdeos?",
+      "pt": "Que rio atravessa Bordéus?"
+    },
+    "options": {
+      "fr": [
+        "La Garonne",
+        "La Loire",
+        "Le Rhône",
+        "La Seine"
+      ],
+      "en": [
+        "The Garonne",
+        "The Loire",
+        "The Rhône",
+        "The Seine"
+      ],
+      "es": [
+        "El Garona",
+        "El Loira",
+        "El Ródano",
+        "El Sena"
+      ],
+      "pt": [
+        "O Garona",
+        "O Loire",
+        "O Ródano",
+        "O Sena"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La Garonne forme un large croissant à Bordeaux, d'où le surnom de « port de la Lune ».",
+      "en": "The Garonne curves widely through Bordeaux, hence its nickname \"Port of the Moon\".",
+      "es": "El Garona forma una amplia curva en Burdeos, de ahí el apodo «puerto de la Luna».",
+      "pt": "O Garona forma uma ampla curva em Bordéus, daí a alcunha «porto da Lua»."
+    }
+  },
+  {
+    "id": "culture_0339",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle chaîne de montagnes sépare la France de l'Espagne ?",
+      "en": "Which mountain range separates France from Spain?",
+      "es": "¿Qué cordillera separa Francia de España?",
+      "pt": "Que cordilheira separa a França da Espanha?"
+    },
+    "options": {
+      "fr": [
+        "Les Pyrénées",
+        "Les Alpes",
+        "Le Jura",
+        "Les Vosges"
+      ],
+      "en": [
+        "The Pyrenees",
+        "The Alps",
+        "The Jura",
+        "The Vosges"
+      ],
+      "es": [
+        "Los Pirineos",
+        "Los Alpes",
+        "El Jura",
+        "Los Vosgos"
+      ],
+      "pt": [
+        "Os Pirenéus",
+        "Os Alpes",
+        "O Jura",
+        "Os Vosges"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les Pyrénées s'étirent sur environ 430 km, de l'Atlantique à la Méditerranée.",
+      "en": "The Pyrenees stretch about 430 km, from the Atlantic to the Mediterranean.",
+      "es": "Los Pirineos se extienden unos 430 km, del Atlántico al Mediterráneo.",
+      "pt": "Os Pirenéus estendem-se por cerca de 430 km, do Atlântico ao Mediterrâneo."
+    }
+  },
+  {
+    "id": "culture_0340",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel roi de France est surnommé le « Roi-Soleil » ?",
+      "en": "Which king of France is nicknamed the \"Sun King\"?",
+      "es": "¿Qué rey de Francia es apodado el «Rey Sol»?",
+      "pt": "Que rei de França é apelidado o «Rei Sol»?"
+    },
+    "options": {
+      "fr": [
+        "Louis XIV",
+        "Louis XVI",
+        "François Ier",
+        "Henri IV"
+      ],
+      "en": [
+        "Louis XIV",
+        "Louis XVI",
+        "Francis I",
+        "Henry IV"
+      ],
+      "es": [
+        "Luis XIV",
+        "Luis XVI",
+        "Francisco I",
+        "Enrique IV"
+      ],
+      "pt": [
+        "Luís XIV",
+        "Luís XVI",
+        "Francisco I",
+        "Henrique IV"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il régna 72 ans et fit de Versailles le centre du pouvoir.",
+      "en": "He reigned for 72 years and made Versailles the centre of power.",
+      "es": "Reinó 72 años e hizo de Versalles el centro del poder.",
+      "pt": "Reinou 72 anos e fez de Versalhes o centro do poder."
+    }
+  },
+  {
+    "id": "culture_0341",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle course cycliste traverse la France chaque été ?",
+      "en": "Which cycling race crosses France every summer?",
+      "es": "¿Qué carrera ciclista atraviesa Francia cada verano?",
+      "pt": "Que corrida de ciclismo atravessa a França todos os verões?"
+    },
+    "options": {
+      "fr": [
+        "Le Tour de France",
+        "Le Giro",
+        "La Vuelta",
+        "Paris-Roubaix"
+      ],
+      "en": [
+        "The Tour de France",
+        "The Giro",
+        "La Vuelta",
+        "Paris-Roubaix"
+      ],
+      "es": [
+        "El Tour de Francia",
+        "El Giro",
+        "La Vuelta",
+        "París-Roubaix"
+      ],
+      "pt": [
+        "A Volta à França",
+        "O Giro",
+        "A Vuelta",
+        "Paris-Roubaix"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Créé en 1903, le Tour se termine traditionnellement sur les Champs-Élysées.",
+      "en": "Created in 1903, the Tour traditionally finishes on the Champs-Élysées.",
+      "es": "Creado en 1903, el Tour termina tradicionalmente en los Campos Elíseos.",
+      "pt": "Criado em 1903, a Volta termina tradicionalmente nos Campos Elísios."
+    }
+  },
+  {
+    "id": "culture_0342",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "De quelle couleur est le maillot du leader du Tour de France ?",
+      "en": "What colour is the Tour de France leader's jersey?",
+      "es": "¿De qué color es el maillot del líder del Tour de Francia?",
+      "pt": "De que cor é a camisola do líder da Volta à França?"
+    },
+    "options": {
+      "fr": [
+        "Jaune",
+        "Vert",
+        "Blanc",
+        "Rose"
+      ],
+      "en": [
+        "Yellow",
+        "Green",
+        "White",
+        "Pink"
+      ],
+      "es": [
+        "Amarillo",
+        "Verde",
+        "Blanco",
+        "Rosa"
+      ],
+      "pt": [
+        "Amarela",
+        "Verde",
+        "Branca",
+        "Rosa"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le jaune rappelle la couleur du papier de « L'Auto », le journal fondateur de la course.",
+      "en": "The yellow recalls the paper of \"L'Auto\", the newspaper that founded the race.",
+      "es": "El amarillo recuerda el papel de «L'Auto», el diario que fundó la carrera.",
+      "pt": "O amarelo lembra o papel de «L'Auto», o jornal que fundou a corrida."
+    }
+  },
+  {
+    "id": "culture_0343",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de joueurs compte une équipe de rugby à XV sur le terrain ?",
+      "en": "How many players are on the pitch in a rugby union team?",
+      "es": "¿Cuántos jugadores tiene un equipo de rugby XV en el campo?",
+      "pt": "Quantos jogadores tem uma equipa de râguebi de XV em campo?"
+    },
+    "options": {
+      "fr": [
+        "15",
+        "13",
+        "11",
+        "18"
+      ],
+      "en": [
+        "15",
+        "13",
+        "11",
+        "18"
+      ],
+      "es": [
+        "15",
+        "13",
+        "11",
+        "18"
+      ],
+      "pt": [
+        "15",
+        "13",
+        "11",
+        "18"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Quinze joueurs, contre treize au rugby à XIII et sept au rugby à sept.",
+      "en": "Fifteen players, against thirteen in rugby league and seven in sevens.",
+      "es": "Quince jugadores, frente a trece en rugby XIII y siete en el rugby a siete.",
+      "pt": "Quinze jogadores, contra treze no râguebi XIII e sete no râguebi de sete."
+    }
+  },
+  {
+    "id": "culture_0344",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel animal préhistorique était le plus grand carnivore terrestre connu du Crétacé ?",
+      "en": "Which prehistoric animal was among the largest known land carnivores of the Cretaceous?",
+      "es": "¿Qué animal prehistórico fue uno de los mayores carnívoros terrestres del Cretácico?",
+      "pt": "Que animal pré-histórico foi um dos maiores carnívoros terrestres do Cretácico?"
+    },
+    "options": {
+      "fr": [
+        "Le tyrannosaure",
+        "Le diplodocus",
+        "Le tricératops",
+        "Le stégosaure"
+      ],
+      "en": [
+        "Tyrannosaurus",
+        "Diplodocus",
+        "Triceratops",
+        "Stegosaurus"
+      ],
+      "es": [
+        "El tiranosaurio",
+        "El diplodocus",
+        "El triceratops",
+        "El estegosaurio"
+      ],
+      "pt": [
+        "O tiranossauro",
+        "O diplodocus",
+        "O tricerátops",
+        "O estegossauro"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les trois autres étaient herbivores ; le stégosaure vivait d'ailleurs au Jurassique.",
+      "en": "The other three were herbivores; Stegosaurus in fact lived in the Jurassic.",
+      "es": "Los otros tres eran herbívoros; el estegosaurio vivió además en el Jurásico.",
+      "pt": "Os outros três eram herbívoros; o estegossauro viveu aliás no Jurássico."
+    }
+  },
+  {
+    "id": "culture_0345",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel appareil a été inventé par Alexander Graham Bell ?",
+      "en": "Which device was invented by Alexander Graham Bell?",
+      "es": "¿Qué aparato inventó Alexander Graham Bell?",
+      "pt": "Que aparelho foi inventado por Alexander Graham Bell?"
+    },
+    "options": {
+      "fr": [
+        "Le téléphone",
+        "La radio",
+        "L'ampoule",
+        "Le télégraphe"
+      ],
+      "en": [
+        "The telephone",
+        "The radio",
+        "The light bulb",
+        "The telegraph"
+      ],
+      "es": [
+        "El teléfono",
+        "La radio",
+        "La bombilla",
+        "El telégrafo"
+      ],
+      "pt": [
+        "O telefone",
+        "O rádio",
+        "A lâmpada",
+        "O telégrafo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Bell dépose son brevet en 1876, au terme d'une course serrée avec Elisha Gray.",
+      "en": "Bell filed his patent in 1876, after a close race with Elisha Gray.",
+      "es": "Bell registró su patente en 1876, tras una carrera reñida con Elisha Gray.",
+      "pt": "Bell registou a patente em 1876, após uma corrida renhida com Elisha Gray."
+    }
+  },
+  {
+    "id": "culture_0346",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Que signifie le sigle « www » ?",
+      "en": "What does the abbreviation \"www\" stand for?",
+      "es": "¿Qué significa la sigla «www»?",
+      "pt": "O que significa a sigla «www»?"
+    },
+    "options": {
+      "fr": [
+        "World Wide Web",
+        "World Web Work",
+        "Wide World Wire",
+        "Web World Wide"
+      ],
+      "en": [
+        "World Wide Web",
+        "World Web Work",
+        "Wide World Wire",
+        "Web World Wide"
+      ],
+      "es": [
+        "World Wide Web",
+        "World Web Work",
+        "Wide World Wire",
+        "Web World Wide"
+      ],
+      "pt": [
+        "World Wide Web",
+        "World Web Work",
+        "Wide World Wire",
+        "Web World Wide"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Web a été inventé au CERN par Tim Berners-Lee en 1989.",
+      "en": "The Web was invented at CERN by Tim Berners-Lee in 1989.",
+      "es": "La Web fue inventada en el CERN por Tim Berners-Lee en 1989.",
+      "pt": "A Web foi inventada no CERN por Tim Berners-Lee em 1989."
+    }
+  },
+  {
+    "id": "culture_0347",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le plus haut sommet des Alpes ?",
+      "en": "Which is the highest peak in the Alps?",
+      "es": "¿Cuál es la cima más alta de los Alpes?",
+      "pt": "Qual é o pico mais alto dos Alpes?"
+    },
+    "options": {
+      "fr": [
+        "Le mont Blanc",
+        "Le Cervin",
+        "Le mont Rose",
+        "La Jungfrau"
+      ],
+      "en": [
+        "Mont Blanc",
+        "The Matterhorn",
+        "Monte Rosa",
+        "The Jungfrau"
+      ],
+      "es": [
+        "El Mont Blanc",
+        "El Cervino",
+        "El Monte Rosa",
+        "El Jungfrau"
+      ],
+      "pt": [
+        "O Monte Branco",
+        "O Cervino",
+        "O Monte Rosa",
+        "O Jungfrau"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il culmine à un peu plus de 4 800 mètres, à la frontière franco-italienne.",
+      "en": "It rises slightly above 4,800 metres, on the French-Italian border.",
+      "es": "Supera ligeramente los 4800 metros, en la frontera franco-italiana.",
+      "pt": "Ultrapassa ligeiramente os 4800 metros, na fronteira franco-italiana."
+    }
+  },
+  {
+    "id": "culture_0348",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Combien de temps dure un mandat présidentiel en France depuis 2002 ?",
+      "en": "How long has a French presidential term lasted since 2002?",
+      "es": "¿Cuánto dura un mandato presidencial en Francia desde 2002?",
+      "pt": "Quanto dura um mandato presidencial em França desde 2002?"
+    },
+    "options": {
+      "fr": [
+        "5 ans",
+        "7 ans",
+        "4 ans",
+        "6 ans"
+      ],
+      "en": [
+        "5 years",
+        "7 years",
+        "4 years",
+        "6 years"
+      ],
+      "es": [
+        "5 años",
+        "7 años",
+        "4 años",
+        "6 años"
+      ],
+      "pt": [
+        "5 anos",
+        "7 anos",
+        "4 anos",
+        "6 anos"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le quinquennat a remplacé le septennat après le référendum de 2000.",
+      "en": "The five-year term replaced the seven-year one after the 2000 referendum.",
+      "es": "El quinquenio sustituyó al septenio tras el referéndum de 2000.",
+      "pt": "O quinquénio substituiu o setenato após o referendo de 2000."
+    }
+  },
+  {
+    "id": "culture_0349",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le plat traditionnel à base de pommes de terre et de reblochon en Savoie ?",
+      "en": "Which traditional Savoyard dish is made with potatoes and Reblochon cheese?",
+      "es": "¿Qué plato saboyano tradicional lleva patatas y queso Reblochon?",
+      "pt": "Que prato tradicional da Saboia leva batatas e queijo Reblochon?"
+    },
+    "options": {
+      "fr": [
+        "La tartiflette",
+        "La raclette",
+        "La fondue",
+        "Le gratin dauphinois"
+      ],
+      "en": [
+        "Tartiflette",
+        "Raclette",
+        "Fondue",
+        "Gratin dauphinois"
+      ],
+      "es": [
+        "La tartiflette",
+        "La raclette",
+        "La fondue",
+        "El gratén delfinés"
+      ],
+      "pt": [
+        "A tartiflette",
+        "A raclette",
+        "O fondue",
+        "O gratinado delfinês"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La recette moderne a été popularisée dans les années 1980 pour vendre du reblochon.",
+      "en": "The modern recipe was popularised in the 1980s to help sell Reblochon.",
+      "es": "La receta moderna se popularizó en los años ochenta para vender Reblochon.",
+      "pt": "A receita moderna foi popularizada nos anos 80 para vender Reblochon."
+    }
+  },
+  {
+    "id": "culture_0350",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel oiseau est le symbole de la paix ?",
+      "en": "Which bird is the symbol of peace?",
+      "es": "¿Qué ave es el símbolo de la paz?",
+      "pt": "Que ave é o símbolo da paz?"
+    },
+    "options": {
+      "fr": [
+        "La colombe",
+        "L'aigle",
+        "Le corbeau",
+        "Le paon"
+      ],
+      "en": [
+        "The dove",
+        "The eagle",
+        "The crow",
+        "The peacock"
+      ],
+      "es": [
+        "La paloma",
+        "El águila",
+        "El cuervo",
+        "El pavo real"
+      ],
+      "pt": [
+        "A pomba",
+        "A águia",
+        "O corvo",
+        "O pavão"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'image vient du récit du Déluge, où la colombe rapporte un rameau d'olivier.",
+      "en": "The image comes from the Flood story, where the dove brings back an olive branch.",
+      "es": "La imagen viene del relato del Diluvio, donde la paloma trae una rama de olivo.",
+      "pt": "A imagem vem do relato do Dilúvio, onde a pomba traz um ramo de oliveira."
+    }
+  },
+  {
+    "id": "culture_0351",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel appareil permet de voir des objets très petits ?",
+      "en": "Which instrument lets you see very small objects?",
+      "es": "¿Qué aparato permite ver objetos muy pequeños?",
+      "pt": "Que aparelho permite ver objetos muito pequenos?"
+    },
+    "options": {
+      "fr": [
+        "Le microscope",
+        "Le télescope",
+        "Le périscope",
+        "Le stéthoscope"
+      ],
+      "en": [
+        "The microscope",
+        "The telescope",
+        "The periscope",
+        "The stethoscope"
+      ],
+      "es": [
+        "El microscopio",
+        "El telescopio",
+        "El periscopio",
+        "El estetoscopio"
+      ],
+      "pt": [
+        "O microscópio",
+        "O telescópio",
+        "O periscópio",
+        "O estetoscópio"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le télescope, lui, sert à observer ce qui est très loin.",
+      "en": "The telescope, by contrast, is for observing what is very far away.",
+      "es": "El telescopio, en cambio, sirve para observar lo muy lejano.",
+      "pt": "O telescópio, por sua vez, serve para observar o que está muito longe."
+    }
+  },
+  {
+    "id": "culture_0352",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel pays a remporté la Coupe du monde de football en 2018 ?",
+      "en": "Which country won the 2018 FIFA World Cup?",
+      "es": "¿Qué país ganó el Mundial de fútbol de 2018?",
+      "pt": "Que país ganhou o Mundial de futebol de 2018?"
+    },
+    "options": {
+      "fr": [
+        "La France",
+        "Le Brésil",
+        "L'Allemagne",
+        "La Croatie"
+      ],
+      "en": [
+        "France",
+        "Brazil",
+        "Germany",
+        "Croatia"
+      ],
+      "es": [
+        "Francia",
+        "Brasil",
+        "Alemania",
+        "Croacia"
+      ],
+      "pt": [
+        "A França",
+        "O Brasil",
+        "A Alemanha",
+        "A Croácia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La France bat la Croatie 4-2 en finale, vingt ans après son premier titre.",
+      "en": "France beat Croatia 4-2 in the final, twenty years after its first title.",
+      "es": "Francia venció a Croacia 4-2 en la final, veinte años después de su primer título.",
+      "pt": "A França venceu a Croácia por 4-2 na final, vinte anos após o primeiro título."
+    }
+  },
+  {
+    "id": "culture_0353",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle est la plus grande ville de France par sa population ?",
+      "en": "Which is France's largest city by population?",
+      "es": "¿Cuál es la ciudad más poblada de Francia?",
+      "pt": "Qual é a cidade mais populosa de França?"
+    },
+    "options": {
+      "fr": [
+        "Paris",
+        "Marseille",
+        "Lyon",
+        "Toulouse"
+      ],
+      "en": [
+        "Paris",
+        "Marseille",
+        "Lyon",
+        "Toulouse"
+      ],
+      "es": [
+        "París",
+        "Marsella",
+        "Lyon",
+        "Toulouse"
+      ],
+      "pt": [
+        "Paris",
+        "Marselha",
+        "Lyon",
+        "Toulouse"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Paris compte environ 2,1 millions d'habitants intra-muros, loin devant Marseille.",
+      "en": "Paris has about 2.1 million inhabitants within the city limits, far ahead of Marseille.",
+      "es": "París tiene unos 2,1 millones de habitantes intramuros, muy por delante de Marsella.",
+      "pt": "Paris tem cerca de 2,1 milhões de habitantes dentro dos limites, à frente de Marselha."
+    }
+  },
+  {
+    "id": "culture_0355",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel animal marin est un mammifère et non un poisson ?",
+      "en": "Which sea animal is a mammal, not a fish?",
+      "es": "¿Qué animal marino es un mamífero y no un pez?",
+      "pt": "Que animal marinho é um mamífero e não um peixe?"
+    },
+    "options": {
+      "fr": [
+        "Le dauphin",
+        "Le requin",
+        "La raie",
+        "Le thon"
+      ],
+      "en": [
+        "The dolphin",
+        "The shark",
+        "The ray",
+        "The tuna"
+      ],
+      "es": [
+        "El delfín",
+        "El tiburón",
+        "La raya",
+        "El atún"
+      ],
+      "pt": [
+        "O golfinho",
+        "O tubarão",
+        "A raia",
+        "O atum"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le dauphin respire de l'air, allaite ses petits et a le sang chaud.",
+      "en": "Dolphins breathe air, nurse their young and are warm-blooded.",
+      "es": "El delfín respira aire, amamanta a sus crías y es de sangre caliente.",
+      "pt": "O golfinho respira ar, amamenta as crias e é de sangue quente."
+    }
+  },
+  {
+    "id": "culture_0356",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quelle est la couleur obtenue en mélangeant les trois couleurs primaires en peinture ?",
+      "en": "Which colour do you get by mixing all three primary colours in paint?",
+      "es": "¿Qué color se obtiene mezclando los tres colores primarios en pintura?",
+      "pt": "Que cor se obtém misturando as três cores primárias em pintura?"
+    },
+    "options": {
+      "fr": [
+        "Un brun foncé",
+        "Le blanc",
+        "Le vert",
+        "Le doré"
+      ],
+      "en": [
+        "A dark brown",
+        "White",
+        "Green",
+        "Gold"
+      ],
+      "es": [
+        "Un marrón oscuro",
+        "El blanco",
+        "El verde",
+        "El dorado"
+      ],
+      "pt": [
+        "Um castanho escuro",
+        "O branco",
+        "O verde",
+        "O dourado"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "En peinture (synthèse soustractive), tout mélangé donne un brun sombre, pas du noir pur.",
+      "en": "In paint (subtractive mixing), everything combined gives a dark brown, not pure black.",
+      "es": "En pintura (síntesis sustractiva), todo mezclado da un marrón oscuro, no negro puro.",
+      "pt": "Em pintura (síntese subtrativa), tudo misturado dá um castanho escuro, não preto puro."
+    }
+  },
+  {
+    "id": "culture_0357",
+    "category": "culture-generale",
+    "difficulty": "facile",
+    "question": {
+      "fr": "Quel est le nom du parlement français qui vote les lois avec le Sénat ?",
+      "en": "What is the French parliamentary chamber that votes laws alongside the Senate?",
+      "es": "¿Cómo se llama la cámara francesa que vota las leyes junto al Senado?",
+      "pt": "Como se chama a câmara francesa que vota as leis com o Senado?"
+    },
+    "options": {
+      "fr": [
+        "L'Assemblée nationale",
+        "Le Conseil d'État",
+        "Le Conseil constitutionnel",
+        "La Cour des comptes"
+      ],
+      "en": [
+        "The National Assembly",
+        "The Council of State",
+        "The Constitutional Council",
+        "The Court of Auditors"
+      ],
+      "es": [
+        "La Asamblea Nacional",
+        "El Consejo de Estado",
+        "El Consejo Constitucional",
+        "El Tribunal de Cuentas"
+      ],
+      "pt": [
+        "A Assembleia Nacional",
+        "O Conselho de Estado",
+        "O Conselho Constitucional",
+        "O Tribunal de Contas"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "577 députés y siègent au Palais Bourbon ; en cas de désaccord, elle a le dernier mot.",
+      "en": "577 deputies sit at the Palais Bourbon; in case of deadlock, it has the final say.",
+      "es": "577 diputados se sientan en el Palacio Borbón; en caso de desacuerdo tiene la última palabra.",
+      "pt": "577 deputados sentam-se no Palácio Bourbon; em caso de desacordo, tem a última palavra."
+    }
+  },
+  {
+    "id": "culture_0358",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "En quelle année Napoléon Bonaparte a-t-il été défait à Waterloo ?",
+      "en": "In which year was Napoleon Bonaparte defeated at Waterloo?",
+      "es": "¿En qué año fue derrotado Napoleón Bonaparte en Waterloo?",
+      "pt": "Em que ano foi Napoleão Bonaparte derrotado em Waterloo?"
+    },
+    "options": {
+      "fr": [
+        "1815",
+        "1805",
+        "1821",
+        "1799"
+      ],
+      "en": [
+        "1815",
+        "1805",
+        "1821",
+        "1799"
+      ],
+      "es": [
+        "1815",
+        "1805",
+        "1821",
+        "1799"
+      ],
+      "pt": [
+        "1815",
+        "1805",
+        "1821",
+        "1799"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La défaite met fin aux Cent-Jours ; Napoléon est exilé à Sainte-Hélène, où il meurt en 1821.",
+      "en": "The defeat ended the Hundred Days; Napoleon was exiled to Saint Helena, where he died in 1821.",
+      "es": "La derrota puso fin a los Cien Días; Napoleón fue desterrado a Santa Elena, donde murió en 1821.",
+      "pt": "A derrota pôs fim aos Cem Dias; Napoleão foi exilado em Santa Helena, onde morreu em 1821."
+    }
+  },
+  {
+    "id": "culture_0359",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel événement du 6 juin 1944 marque le début de la libération de l'Europe de l'Ouest ?",
+      "en": "Which event on 6 June 1944 began the liberation of Western Europe?",
+      "es": "¿Qué acontecimiento del 6 de junio de 1944 inició la liberación de Europa occidental?",
+      "pt": "Que acontecimento de 6 de junho de 1944 iniciou a libertação da Europa Ocidental?"
+    },
+    "options": {
+      "fr": [
+        "Le débarquement de Normandie",
+        "La libération de Paris",
+        "La bataille de Stalingrad",
+        "L'armistice"
+      ],
+      "en": [
+        "The Normandy landings",
+        "The liberation of Paris",
+        "The battle of Stalingrad",
+        "The armistice"
+      ],
+      "es": [
+        "El desembarco de Normandía",
+        "La liberación de París",
+        "La batalla de Stalingrado",
+        "El armisticio"
+      ],
+      "pt": [
+        "O desembarque na Normandia",
+        "A libertação de Paris",
+        "A batalha de Estalinegrado",
+        "O armistício"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Environ 156 000 soldats alliés débarquent sur cinq plages normandes.",
+      "en": "Around 156,000 Allied troops landed on five Normandy beaches.",
+      "es": "Unos 156 000 soldados aliados desembarcaron en cinco playas normandas.",
+      "pt": "Cerca de 156 000 soldados aliados desembarcaram em cinco praias da Normandia."
+    }
+  },
+  {
+    "id": "culture_0360",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel général a lancé l'Appel du 18 juin 1940 depuis Londres ?",
+      "en": "Which general made the Appeal of 18 June 1940 from London?",
+      "es": "¿Qué general lanzó el Llamamiento del 18 de junio de 1940 desde Londres?",
+      "pt": "Que general lançou o Apelo de 18 de junho de 1940 de Londres?"
+    },
+    "options": {
+      "fr": [
+        "Charles de Gaulle",
+        "Philippe Pétain",
+        "Leclerc",
+        "Maxime Weygand"
+      ],
+      "en": [
+        "Charles de Gaulle",
+        "Philippe Pétain",
+        "Leclerc",
+        "Maxime Weygand"
+      ],
+      "es": [
+        "Charles de Gaulle",
+        "Philippe Pétain",
+        "Leclerc",
+        "Maxime Weygand"
+      ],
+      "pt": [
+        "Charles de Gaulle",
+        "Philippe Pétain",
+        "Leclerc",
+        "Maxime Weygand"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Diffusé par la BBC, l'appel refuse l'armistice et fonde la France libre.",
+      "en": "Broadcast by the BBC, the appeal rejected the armistice and founded Free France.",
+      "es": "Emitido por la BBC, el llamamiento rechaza el armisticio y funda la Francia Libre.",
+      "pt": "Transmitido pela BBC, o apelo rejeita o armistício e funda a França Livre."
+    }
+  },
+  {
+    "id": "culture_0361",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est la devise de la République française ?",
+      "en": "What is the motto of the French Republic?",
+      "es": "¿Cuál es el lema de la República Francesa?",
+      "pt": "Qual é o lema da República Francesa?"
+    },
+    "options": {
+      "fr": [
+        "Liberté, Égalité, Fraternité",
+        "Dieu et mon droit",
+        "Un pour tous, tous pour un",
+        "In varietate concordia"
+      ],
+      "en": [
+        "Liberty, Equality, Fraternity",
+        "Dieu et mon droit",
+        "One for all, all for one",
+        "In varietate concordia"
+      ],
+      "es": [
+        "Libertad, Igualdad, Fraternidad",
+        "Dieu et mon droit",
+        "Uno para todos, todos para uno",
+        "In varietate concordia"
+      ],
+      "pt": [
+        "Liberdade, Igualdade, Fraternidade",
+        "Dieu et mon droit",
+        "Um por todos, todos por um",
+        "In varietate concordia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Héritée de la Révolution, elle est inscrite dans la Constitution de 1958.",
+      "en": "Inherited from the Revolution, it is written into the 1958 Constitution.",
+      "es": "Heredado de la Revolución, figura en la Constitución de 1958.",
+      "pt": "Herdado da Revolução, consta da Constituição de 1958."
+    }
+  },
+  {
+    "id": "culture_0362",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel économiste écossais a écrit « La Richesse des nations » (1776) ?",
+      "en": "Which Scottish economist wrote \"The Wealth of Nations\" (1776)?",
+      "es": "¿Qué economista escocés escribió «La riqueza de las naciones» (1776)?",
+      "pt": "Que economista escocês escreveu «A Riqueza das Nações» (1776)?"
+    },
+    "options": {
+      "fr": [
+        "Adam Smith",
+        "David Ricardo",
+        "John Maynard Keynes",
+        "Karl Marx"
+      ],
+      "en": [
+        "Adam Smith",
+        "David Ricardo",
+        "John Maynard Keynes",
+        "Karl Marx"
+      ],
+      "es": [
+        "Adam Smith",
+        "David Ricardo",
+        "John Maynard Keynes",
+        "Karl Marx"
+      ],
+      "pt": [
+        "Adam Smith",
+        "David Ricardo",
+        "John Maynard Keynes",
+        "Karl Marx"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "On lui doit l'image de la « main invisible » du marché.",
+      "en": "He gave us the image of the market's \"invisible hand\".",
+      "es": "A él debemos la imagen de la «mano invisible» del mercado.",
+      "pt": "A ele se deve a imagem da «mão invisível» do mercado."
+    }
+  },
+  {
+    "id": "culture_0363",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Que mesure le PIB d'un pays ?",
+      "en": "What does a country's GDP measure?",
+      "es": "¿Qué mide el PIB de un país?",
+      "pt": "O que mede o PIB de um país?"
+    },
+    "options": {
+      "fr": [
+        "La valeur de sa production annuelle",
+        "Sa population",
+        "Sa dette",
+        "Sa surface"
+      ],
+      "en": [
+        "The value of its annual output",
+        "Its population",
+        "Its debt",
+        "Its area"
+      ],
+      "es": [
+        "El valor de su producción anual",
+        "Su población",
+        "Su deuda",
+        "Su superficie"
+      ],
+      "pt": [
+        "O valor da sua produção anual",
+        "A sua população",
+        "A sua dívida",
+        "A sua superfície"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le produit intérieur brut additionne la valeur des biens et services produits sur un territoire.",
+      "en": "Gross domestic product sums the value of goods and services produced in a territory.",
+      "es": "El producto interior bruto suma el valor de bienes y servicios producidos en un territorio.",
+      "pt": "O produto interno bruto soma o valor dos bens e serviços produzidos num território."
+    }
+  },
+  {
+    "id": "culture_0364",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est la capitale de l'Islande ?",
+      "en": "What is the capital of Iceland?",
+      "es": "¿Cuál es la capital de Islandia?",
+      "pt": "Qual é a capital da Islândia?"
+    },
+    "options": {
+      "fr": [
+        "Reykjavik",
+        "Nuuk",
+        "Tórshavn",
+        "Oslo"
+      ],
+      "en": [
+        "Reykjavik",
+        "Nuuk",
+        "Tórshavn",
+        "Oslo"
+      ],
+      "es": [
+        "Reikiavik",
+        "Nuuk",
+        "Tórshavn",
+        "Oslo"
+      ],
+      "pt": [
+        "Reiquiavique",
+        "Nuuk",
+        "Tórshavn",
+        "Oslo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est la capitale d'État la plus septentrionale du monde.",
+      "en": "It is the world's northernmost capital of a sovereign state.",
+      "es": "Es la capital de Estado más septentrional del mundo.",
+      "pt": "É a capital de Estado mais setentrional do mundo."
+    }
+  },
+  {
+    "id": "culture_0365",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le plus long tunnel ferroviaire du monde ?",
+      "en": "Which is the world's longest railway tunnel?",
+      "es": "¿Cuál es el túnel ferroviario más largo del mundo?",
+      "pt": "Qual é o túnel ferroviário mais longo do mundo?"
+    },
+    "options": {
+      "fr": [
+        "Le tunnel de base du Saint-Gothard",
+        "Le tunnel sous la Manche",
+        "Le tunnel du Seikan",
+        "Le tunnel du Mont-Blanc"
+      ],
+      "en": [
+        "The Gotthard Base Tunnel",
+        "The Channel Tunnel",
+        "The Seikan Tunnel",
+        "The Mont Blanc Tunnel"
+      ],
+      "es": [
+        "El túnel de base de San Gotardo",
+        "El túnel del Canal",
+        "El túnel Seikan",
+        "El túnel del Mont Blanc"
+      ],
+      "pt": [
+        "O túnel de base do São Gotardo",
+        "O túnel do Canal",
+        "O túnel Seikan",
+        "O túnel do Monte Branco"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ouvert en 2016 sous les Alpes suisses, il mesure environ 57 km.",
+      "en": "Opened in 2016 beneath the Swiss Alps, it runs about 57 km.",
+      "es": "Inaugurado en 2016 bajo los Alpes suizos, mide unos 57 km.",
+      "pt": "Inaugurado em 2016 sob os Alpes suíços, mede cerca de 57 km."
+    }
+  },
+  {
+    "id": "culture_0366",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel scientifique français a mis au point le vaccin contre la rage ?",
+      "en": "Which French scientist developed the rabies vaccine?",
+      "es": "¿Qué científico francés desarrolló la vacuna contra la rabia?",
+      "pt": "Que cientista francês desenvolveu a vacina contra a raiva?"
+    },
+    "options": {
+      "fr": [
+        "Louis Pasteur",
+        "Claude Bernard",
+        "Antoine Lavoisier",
+        "Marie Curie"
+      ],
+      "en": [
+        "Louis Pasteur",
+        "Claude Bernard",
+        "Antoine Lavoisier",
+        "Marie Curie"
+      ],
+      "es": [
+        "Louis Pasteur",
+        "Claude Bernard",
+        "Antoine Lavoisier",
+        "Marie Curie"
+      ],
+      "pt": [
+        "Louis Pasteur",
+        "Claude Bernard",
+        "Antoine Lavoisier",
+        "Marie Curie"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Il l'administre pour la première fois en 1885 au jeune Joseph Meister.",
+      "en": "He first administered it in 1885 to the boy Joseph Meister.",
+      "es": "La administró por primera vez en 1885 al joven Joseph Meister.",
+      "pt": "Administrou-a pela primeira vez em 1885 ao jovem Joseph Meister."
+    }
+  },
+  {
+    "id": "culture_0367",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Combien de temps met la Terre à tourner sur elle-même, précisément ?",
+      "en": "Precisely how long does Earth take to rotate once on its axis?",
+      "es": "¿Cuánto tarda exactamente la Tierra en girar sobre sí misma?",
+      "pt": "Quanto tempo demora exatamente a Terra a girar sobre si própria?"
+    },
+    "options": {
+      "fr": [
+        "Environ 23 h 56 min",
+        "Exactement 24 h",
+        "Environ 24 h 04 min",
+        "Environ 23 h 30 min"
+      ],
+      "en": [
+        "About 23 h 56 min",
+        "Exactly 24 h",
+        "About 24 h 04 min",
+        "About 23 h 30 min"
+      ],
+      "es": [
+        "Unas 23 h 56 min",
+        "Exactamente 24 h",
+        "Unas 24 h 04 min",
+        "Unas 23 h 30 min"
+      ],
+      "pt": [
+        "Cerca de 23 h 56 min",
+        "Exatamente 24 h",
+        "Cerca de 24 h 04 min",
+        "Cerca de 23 h 30 min"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "C'est le jour sidéral. Les 24 h du jour solaire tiennent compte du déplacement de la Terre autour du Soleil.",
+      "en": "That is the sidereal day. The 24-hour solar day also accounts for Earth's motion around the Sun.",
+      "es": "Es el día sidéreo. Las 24 h del día solar incluyen el movimiento de la Tierra alrededor del Sol.",
+      "pt": "É o dia sideral. As 24 h do dia solar incluem o movimento da Terra à volta do Sol."
+    }
+  },
+  {
+    "id": "culture_0368",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel pays a organisé les Jeux olympiques d'été de 2021 (édition 2020) ?",
+      "en": "Which country hosted the 2021 Summer Olympics (the 2020 edition)?",
+      "es": "¿Qué país organizó los Juegos Olímpicos de verano de 2021 (edición 2020)?",
+      "pt": "Que país organizou os Jogos Olímpicos de verão de 2021 (edição 2020)?"
+    },
+    "options": {
+      "fr": [
+        "Le Japon",
+        "La Chine",
+        "Le Brésil",
+        "La Corée du Sud"
+      ],
+      "en": [
+        "Japan",
+        "China",
+        "Brazil",
+        "South Korea"
+      ],
+      "es": [
+        "Japón",
+        "China",
+        "Brasil",
+        "Corea del Sur"
+      ],
+      "pt": [
+        "O Japão",
+        "A China",
+        "O Brasil",
+        "A Coreia do Sul"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Les Jeux de Tokyo ont été reportés d'un an à cause de la pandémie, tout en gardant le nom « 2020 ».",
+      "en": "The Tokyo Games were postponed by a year because of the pandemic but kept the \"2020\" name.",
+      "es": "Los Juegos de Tokio se aplazaron un año por la pandemia, manteniendo el nombre «2020».",
+      "pt": "Os Jogos de Tóquio foram adiados um ano devido à pandemia, mantendo o nome «2020»."
+    }
+  },
+  {
+    "id": "culture_0369",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle particule élémentaire porte une charge électrique négative dans l'atome ?",
+      "en": "Which elementary particle carries a negative electric charge in the atom?",
+      "es": "¿Qué partícula elemental tiene carga eléctrica negativa en el átomo?",
+      "pt": "Que partícula elementar tem carga elétrica negativa no átomo?"
+    },
+    "options": {
+      "fr": [
+        "L'électron",
+        "Le proton",
+        "Le neutron",
+        "Le photon"
+      ],
+      "en": [
+        "The electron",
+        "The proton",
+        "The neutron",
+        "The photon"
+      ],
+      "es": [
+        "El electrón",
+        "El protón",
+        "El neutrón",
+        "El fotón"
+      ],
+      "pt": [
+        "O eletrão",
+        "O protão",
+        "O neutrão",
+        "O fotão"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le proton est positif, le neutron neutre et le photon n'a pas de charge.",
+      "en": "The proton is positive, the neutron neutral and the photon has no charge.",
+      "es": "El protón es positivo, el neutrón neutro y el fotón no tiene carga.",
+      "pt": "O protão é positivo, o neutrão neutro e o fotão não tem carga."
+    }
+  },
+  {
+    "id": "culture_0370",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel océan borde la côte est du Brésil ?",
+      "en": "Which ocean borders Brazil's eastern coast?",
+      "es": "¿Qué océano baña la costa este de Brasil?",
+      "pt": "Que oceano banha a costa leste do Brasil?"
+    },
+    "options": {
+      "fr": [
+        "L'Atlantique",
+        "Le Pacifique",
+        "L'océan Indien",
+        "L'océan Austral"
+      ],
+      "en": [
+        "The Atlantic",
+        "The Pacific",
+        "The Indian Ocean",
+        "The Southern Ocean"
+      ],
+      "es": [
+        "El Atlántico",
+        "El Pacífico",
+        "El Índico",
+        "El océano Austral"
+      ],
+      "pt": [
+        "O Atlântico",
+        "O Pacífico",
+        "O Índico",
+        "O oceano Antártico"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le Brésil n'a aucun accès au Pacifique, contrairement au Chili ou au Pérou.",
+      "en": "Brazil has no Pacific coastline, unlike Chile or Peru.",
+      "es": "Brasil no tiene salida al Pacífico, a diferencia de Chile o Perú.",
+      "pt": "O Brasil não tem saída para o Pacífico, ao contrário do Chile ou do Peru."
+    }
+  },
+  {
+    "id": "culture_0371",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel mouvement artistique Claude Monet, Renoir et Degas ont-ils porté ?",
+      "en": "Which art movement did Claude Monet, Renoir and Degas belong to?",
+      "es": "¿Qué movimiento artístico impulsaron Monet, Renoir y Degas?",
+      "pt": "Que movimento artístico impulsionaram Monet, Renoir e Degas?"
+    },
+    "options": {
+      "fr": [
+        "L'impressionnisme",
+        "Le cubisme",
+        "Le surréalisme",
+        "Le romantisme"
+      ],
+      "en": [
+        "Impressionism",
+        "Cubism",
+        "Surrealism",
+        "Romanticism"
+      ],
+      "es": [
+        "El impresionismo",
+        "El cubismo",
+        "El surrealismo",
+        "El romanticismo"
+      ],
+      "pt": [
+        "O impressionismo",
+        "O cubismo",
+        "O surrealismo",
+        "O romantismo"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le nom vient d'une critique moqueuse du tableau « Impression, soleil levant » de Monet.",
+      "en": "The name comes from a mocking review of Monet's painting \"Impression, Sunrise\".",
+      "es": "El nombre viene de una crítica burlona al cuadro «Impresión, sol naciente» de Monet.",
+      "pt": "O nome vem de uma crítica trocista ao quadro «Impressão, nascer do sol» de Monet."
+    }
+  },
+  {
+    "id": "culture_0372",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel est le pays d'origine du tango, du dulce de leche et du mate ?",
+      "en": "Which country is the home of tango, dulce de leche and mate?",
+      "es": "¿De qué país son originarios el tango, el dulce de leche y el mate?",
+      "pt": "De que país são originários o tango, o doce de leite e o mate?"
+    },
+    "options": {
+      "fr": [
+        "L'Argentine",
+        "Le Mexique",
+        "Le Chili",
+        "La Colombie"
+      ],
+      "en": [
+        "Argentina",
+        "Mexico",
+        "Chile",
+        "Colombia"
+      ],
+      "es": [
+        "Argentina",
+        "México",
+        "Chile",
+        "Colombia"
+      ],
+      "pt": [
+        "A Argentina",
+        "O México",
+        "O Chile",
+        "A Colômbia"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Ces trois symboles sont partagés avec l'Uruguay voisin, mais restent des emblèmes argentins.",
+      "en": "All three are shared with neighbouring Uruguay but remain Argentine emblems.",
+      "es": "Los tres se comparten con el vecino Uruguay, pero siguen siendo emblemas argentinos.",
+      "pt": "Os três são partilhados com o vizinho Uruguai, mas continuam emblemas argentinos."
+    }
+  },
+  {
+    "id": "culture_0373",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle maladie la vaccination a-t-elle permis d'éradiquer complètement dans le monde ?",
+      "en": "Which disease has vaccination completely eradicated worldwide?",
+      "es": "¿Qué enfermedad ha erradicado por completo la vacunación en el mundo?",
+      "pt": "Que doença foi completamente erradicada no mundo pela vacinação?"
+    },
+    "options": {
+      "fr": [
+        "La variole",
+        "La polio",
+        "La rougeole",
+        "La tuberculose"
+      ],
+      "en": [
+        "Smallpox",
+        "Polio",
+        "Measles",
+        "Tuberculosis"
+      ],
+      "es": [
+        "La viruela",
+        "La polio",
+        "El sarampión",
+        "La tuberculosis"
+      ],
+      "pt": [
+        "A varíola",
+        "A poliomielite",
+        "O sarampo",
+        "A tuberculose"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "L'OMS a déclaré la variole éradiquée en 1980. La polio en est proche mais persiste.",
+      "en": "The WHO declared smallpox eradicated in 1980. Polio is close but still persists.",
+      "es": "La OMS declaró erradicada la viruela en 1980. La polio está cerca, pero persiste.",
+      "pt": "A OMS declarou a varíola erradicada em 1980. A pólio está perto, mas persiste."
+    }
+  },
+  {
+    "id": "culture_0374",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel philosophe a écrit « Je pense, donc je suis » ?",
+      "en": "Which philosopher wrote \"I think, therefore I am\"?",
+      "es": "¿Qué filósofo escribió «Pienso, luego existo»?",
+      "pt": "Que filósofo escreveu «Penso, logo existo»?"
+    },
+    "options": {
+      "fr": [
+        "René Descartes",
+        "Emmanuel Kant",
+        "Baruch Spinoza",
+        "Blaise Pascal"
+      ],
+      "en": [
+        "René Descartes",
+        "Immanuel Kant",
+        "Baruch Spinoza",
+        "Blaise Pascal"
+      ],
+      "es": [
+        "René Descartes",
+        "Immanuel Kant",
+        "Baruch Spinoza",
+        "Blaise Pascal"
+      ],
+      "pt": [
+        "René Descartes",
+        "Immanuel Kant",
+        "Baruch Spinoza",
+        "Blaise Pascal"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La formule apparaît dans le « Discours de la méthode » (1637).",
+      "en": "The phrase appears in the \"Discourse on the Method\" (1637).",
+      "es": "La fórmula aparece en el «Discurso del método» (1637).",
+      "pt": "A fórmula aparece no «Discurso do Método» (1637)."
+    }
+  },
+  {
+    "id": "culture_0375",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quelle est l'unité de base de la quantité de matière dans le système international ?",
+      "en": "What is the SI base unit for amount of substance?",
+      "es": "¿Cuál es la unidad básica de cantidad de sustancia en el SI?",
+      "pt": "Qual é a unidade de base da quantidade de matéria no SI?"
+    },
+    "options": {
+      "fr": [
+        "La mole",
+        "Le gramme",
+        "Le litre",
+        "Le kelvin"
+      ],
+      "en": [
+        "The mole",
+        "The gram",
+        "The litre",
+        "The kelvin"
+      ],
+      "es": [
+        "El mol",
+        "El gramo",
+        "El litro",
+        "El kelvin"
+      ],
+      "pt": [
+        "A mole",
+        "O grama",
+        "O litro",
+        "O kelvin"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Une mole contient environ 6,022 × 10²³ entités : le nombre d'Avogadro.",
+      "en": "One mole contains about 6.022 × 10²³ entities: Avogadro's number.",
+      "es": "Un mol contiene unas 6,022 × 10²³ entidades: el número de Avogadro.",
+      "pt": "Uma mole contém cerca de 6,022 × 10²³ entidades: o número de Avogadro."
+    }
+  },
+  {
+    "id": "culture_0376",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel pays a été le premier à accorder le droit de vote aux femmes au niveau national, en 1893 ?",
+      "en": "Which country first granted women the national vote, in 1893?",
+      "es": "¿Qué país fue el primero en dar el voto nacional a las mujeres, en 1893?",
+      "pt": "Que país foi o primeiro a dar o voto nacional às mulheres, em 1893?"
+    },
+    "options": {
+      "fr": [
+        "La Nouvelle-Zélande",
+        "La Finlande",
+        "La Norvège",
+        "L'Australie"
+      ],
+      "en": [
+        "New Zealand",
+        "Finland",
+        "Norway",
+        "Australia"
+      ],
+      "es": [
+        "Nueva Zelanda",
+        "Finlandia",
+        "Noruega",
+        "Australia"
+      ],
+      "pt": [
+        "A Nova Zelândia",
+        "A Finlândia",
+        "A Noruega",
+        "A Austrália"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "La France ne l'accordera qu'en 1944, après la Finlande (1906) et la Norvège (1913).",
+      "en": "France granted it only in 1944, after Finland (1906) and Norway (1913).",
+      "es": "Francia lo concedió solo en 1944, tras Finlandia (1906) y Noruega (1913).",
+      "pt": "A França concedeu-o só em 1944, depois da Finlândia (1906) e da Noruega (1913)."
+    }
+  },
+  {
+    "id": "culture_0377",
+    "category": "culture-generale",
+    "difficulty": "expert",
+    "question": {
+      "fr": "Quel gaz à effet de serre est principalement responsable du réchauffement lié aux activités humaines ?",
+      "en": "Which greenhouse gas is chiefly responsible for human-driven warming?",
+      "es": "¿Qué gas de efecto invernadero es el principal responsable del calentamiento por actividad humana?",
+      "pt": "Que gás com efeito de estufa é o principal responsável pelo aquecimento de origem humana?"
+    },
+    "options": {
+      "fr": [
+        "Le dioxyde de carbone",
+        "L'oxygène",
+        "L'azote",
+        "L'argon"
+      ],
+      "en": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Argon"
+      ],
+      "es": [
+        "El dióxido de carbono",
+        "El oxígeno",
+        "El nitrógeno",
+        "El argón"
+      ],
+      "pt": [
+        "O dióxido de carbono",
+        "O oxigénio",
+        "O azoto",
+        "O árgon"
+      ]
+    },
+    "correct": 0,
+    "explanation": {
+      "fr": "Le CO₂ domine par son volume ; le méthane réchauffe plus fort mais reste moins longtemps.",
+      "en": "CO₂ dominates by volume; methane warms more strongly but persists for less time.",
+      "es": "El CO₂ domina por volumen; el metano calienta más pero permanece menos tiempo.",
+      "pt": "O CO₂ domina em volume; o metano aquece mais mas permanece menos tempo."
+    }
   }
 ]

@@ -1,19 +1,19 @@
 {
   "cinema-series": {
-    "facile": 163,
-    "expert": 173
+    "facile": 183,
+    "expert": 193
   },
   "code-route": {
     "facile": 249,
     "expert": 251
   },
   "culture-generale": {
-    "facile": 158,
-    "expert": 169
+    "facile": 177,
+    "expert": 189
   },
   "manga-anime": {
-    "facile": 166,
-    "expert": 171
+    "facile": 185,
+    "expert": 190
   },
   "panneaux-quiz": {
     "facile": 62,
