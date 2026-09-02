@@ -2080,3 +2080,34 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .bank-gate-spinner { animation-duration: 3s; }
 }
+
+/* ===== Pages statiques + accueil pré-rendu (scripts/build-pages.mjs) =====
+   Liens du pied de page (a11y : de vrais liens vers les pages À propos/Contact),
+   accroche sous le titre de l'accueil, et cartes-liens de l'accueil sans JS. */
+.footer-links a {
+  color: var(--text-dim);
+  font-size: 0.78rem;
+  padding: 2px 4px;
+}
+.footer-links a:hover {
+  color: var(--text);
+}
+.home-tagline {
+  margin: -10px 0 22px;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  color: var(--text-dim);
+}
+a.cat-card,
+a.hero-card {
+  text-decoration: none;
+}
+.home-links {
+  margin-top: 18px;
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+}
+.home-links a {
+  color: var(--text-dim);
+}

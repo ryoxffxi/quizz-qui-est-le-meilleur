@@ -12,9 +12,13 @@ const CHALLENGE_PLAYABLE = CHALLENGE_MAX_ROUNDS * CHALLENGE_QUESTION_COUNT
 // Catégorie mise en avant en tête de liste (carte « héros »).
 const HERO_CATEGORY = 'code-route'
 
-export default function Home({ onStart }) {
+// Format des nombres de l'accroche (« 2 140 » en français).
+const LOCALES = { fr: 'fr-FR', en: 'en-US', es: 'es-ES', pt: 'pt-PT' }
+
+// `initialTab` = 'panneaux' ouvre directement l'onglet Panneaux (lien profond).
+export default function Home({ onStart, initialTab }) {
   const { t, lang } = useI18n()
-  const [tab, setTab] = useState('quiz')
+  const [tab, setTab] = useState(initialTab === 'panneaux' ? 'panneaux' : 'quiz')
   const [mode, setMode] = useState('solo')
   const [difficulty, setDifficulty] = useState('facile')
 
@@ -22,6 +26,12 @@ export default function Home({ onStart }) {
   const categories = getCategories(lang)
   const hero = categories.find((c) => c.id === HERO_CATEGORY)
   const others = categories.filter((c) => c.id !== HERO_CATEGORY)
+
+  // Total des questions visibles dans cette langue (accroche sous le titre).
+  const totalQuestions = categories.reduce(
+    (n, c) => n + countQuestions(c.id, 'facile') + countQuestions(c.id, 'expert'),
+    0,
+  )
 
   // L'onglet Panneaux (code de la route) n'existe qu'en français.
   const showPanneaux = lang === 'fr'
@@ -47,6 +57,12 @@ export default function Home({ onStart }) {
           <p className="home-title">{t('app_subtitle')}</p>
         </div>
       </header>
+      <p className="home-tagline">
+        {t('home_tagline', {
+          n: totalQuestions.toLocaleString(LOCALES[lang] || 'fr-FR'),
+          k: categories.length,
+        })}
+      </p>
 
       {showPanneaux && (
         <div className="home-tabs" role="tablist">

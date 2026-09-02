@@ -213,4 +213,9 @@ export default {
   bank_loading: 'A carregar as perguntas…',
   bank_error: 'Não foi possível carregar as perguntas. Verifica a tua ligação.',
   bank_retry: 'Tentar de novo',
+
+  // Accroche de l'accueil + liens vers les pages statiques (à-propos, contact)
+  home_tagline: 'Quiz grátis e sem conta: {n} perguntas, {k} temas, sozinho ou em desafio entre amigos.',
+  footer_about: 'Sobre',
+  footer_contact: 'Contato',
 }

@@ -18,11 +18,33 @@ import { getTheme, toggleTheme } from './lib/theme'
 import { sound } from './lib/sound'
 import { useI18n } from './i18n'
 import { IconSwatch, IconSoundOn, IconSoundOff } from './components/icons'
+import { getCategory } from './content'
 import {
   clearChallengeUrl,
   readChallengeFromUrl,
   readResultFromUrl,
 } from './lib/challengeLink'
+
+// Liens profonds depuis les pages statiques (/quiz/…, /panneaux/…) :
+//   /?jouer=<catégorie>&niveau=facile|expert → lance directement la révision solo
+//   /?onglet=panneaux                        → accueil, onglet Panneaux ouvert
+// Consommés une fois au démarrage, puis l'adresse est nettoyée (voir l'effet).
+function readDeepLink() {
+  try {
+    const params = new URLSearchParams(window.location.search)
+    const categoryId = params.get('jouer')
+    if (categoryId && getCategory(categoryId)) {
+      const difficulty = params.get('niveau') === 'expert' ? 'expert' : 'facile'
+      return { screen: 'solo', categoryId, difficulty, deepLink: true }
+    }
+    if (params.get('onglet') === 'panneaux') {
+      return { screen: 'home', tab: 'panneaux', deepLink: true }
+    }
+  } catch {
+    /* adresse illisible : accueil normal */
+  }
+  return null
+}
 
 export default function App() {
   const { t } = useI18n()
@@ -34,7 +56,8 @@ export default function App() {
     const result = readResultFromUrl()
     if (result) return { screen: 'result', result }
     const invite = readChallengeFromUrl()
-    return invite ? { screen: 'invite', invite } : { screen: 'home' }
+    if (invite) return { screen: 'invite', invite }
+    return readDeepLink() || { screen: 'home' }
   })
   const [muted, setMuted] = useState(false)
   const [theme, setThemeState] = useState(getTheme)
@@ -45,6 +68,11 @@ export default function App() {
   useEffect(() => {
     if (route.screen === 'home' && window.location.hash) {
       clearChallengeUrl()
+    }
+    // Lien profond consommé (?jouer=… / ?onglet=…) : adresse nettoyée, pour
+    // qu'un rechargement ou un partage ramène à l'accueil normal.
+    if (route.deepLink) {
+      window.history.replaceState(null, '', '/')
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
@@ -124,7 +152,7 @@ export default function App() {
         </button>
       </div>
 
-      {route.screen === 'home' && <Home onStart={start} />}
+      {route.screen === 'home' && <Home onStart={start} initialTab={route.tab} />}
 
       {/* Les écrans ci-dessous lisent la banque de questions : BankGate la
           charge (chunk séparé) avant de les monter. */}

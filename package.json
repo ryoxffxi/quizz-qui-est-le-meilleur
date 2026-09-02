@@ -5,12 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/build-counts.mjs && vite build",
+    "build": "node scripts/build-counts.mjs && vite build && node scripts/build-pages.mjs",
     "lint": "eslint .",
     "preview": "vite preview",
     "counts": "node scripts/build-counts.mjs",
     "audit": "node scripts/audit-questions.mjs",
-    "i18n": "node scripts/i18n-orphans.mjs"
+    "i18n": "node scripts/i18n-orphans.mjs",
+    "pages": "node scripts/build-pages.mjs"
   },
   "dependencies": {
     "html-to-image": "^1.11.13",

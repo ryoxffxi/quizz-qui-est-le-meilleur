@@ -213,4 +213,9 @@ export default {
   bank_loading: 'Loading questions…',
   bank_error: 'Could not load the questions. Please check your connection.',
   bank_retry: 'Try again',
+
+  // Accroche de l'accueil + liens vers les pages statiques (à-propos, contact)
+  home_tagline: 'Free quiz, no account: {n} questions, {k} themes, solo or as a challenge with friends.',
+  footer_about: 'About',
+  footer_contact: 'Contact',
 }

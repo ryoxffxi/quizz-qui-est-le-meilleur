@@ -90,6 +90,11 @@ export default function Footer() {
         >
           {t('cookie_manage')}
         </button>
+        <span aria-hidden="true">·</span>
+        {/* Pages statiques (voir scripts/build-pages.mjs), en français. */}
+        <a href="/a-propos">{t('footer_about')}</a>
+        <span aria-hidden="true">·</span>
+        <a href="/contact">{t('footer_contact')}</a>
       </nav>
     </footer>
   )

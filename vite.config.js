@@ -1,9 +1,12 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
+import homeShell from './scripts/vite-plugin-home-shell.mjs'
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [react()],
+  // homeShell : pré-remplit <div id="root"> avec un accueil statique lisible
+  // sans JavaScript (robots, examen AdSense). React le remplace au montage.
+  plugins: [react(), homeShell()],
   build: {
     // Les banques de questions sont des chunks À PART, chargés seulement quand
     // on ouvre leur catégorie (voir src/content/index.js). Elles dépassent donc
