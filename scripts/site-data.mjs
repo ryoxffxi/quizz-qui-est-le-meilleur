@@ -13,8 +13,11 @@ export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '
 export const SITE = 'https://ryo-offc.com'
 export const SITE_NAME = 'Quizz - Qui est le meilleur ?'
 export const INSTAGRAM = 'https://www.instagram.com/ryo.offc/'
-// Adresse de contact publique (déjà publique via les commits GitHub du projet).
-export const CONTACT_EMAIL = 'ryoyuuki.fr@gmail.com'
+// Adresse de contact affichée sur /contact. VIDE volontairement (02/09/2026) :
+// Ryo ne veut pas exposer son Gmail personnel. À remplir avec une adresse
+// dédiée (ex. contact@ryo-offc.com via Cloudflare Email Routing). Tant que
+// c'est vide, la page Contact ne propose qu'Instagram.
+export const CONTACT_EMAIL = ''
 export const ADSENSE_CLIENT = 'ca-pub-1164405138212191'
 
 // Catégories dans l'ordre d'affichage de l'accueil (héros Code de la route en

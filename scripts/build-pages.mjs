@@ -421,19 +421,19 @@ function pageContact() {
   const body = `<h1>Contact</h1>
 <p class="lead">Une erreur dans une question, une idée de thème, un bug, une question sur la publicité ou les données ? Voici comment me joindre.</p>
 <ul>
-<li><strong>Email</strong> : <a href="mailto:${CONTACT_EMAIL}">${CONTACT_EMAIL}</a> (réponse sous quelques jours)</li>
-<li><strong>Instagram</strong> : <a href="${INSTAGRAM}" target="_blank" rel="noopener noreferrer">@ryo.offc</a>, en message privé</li>
+${CONTACT_EMAIL ? `<li><strong>Email</strong> : <a href="mailto:${CONTACT_EMAIL}">${CONTACT_EMAIL}</a> (réponse sous quelques jours)</li>` : ''}
+<li><strong>Instagram</strong> : <a href="${INSTAGRAM}" target="_blank" rel="noopener noreferrer">@ryo.offc</a>, en message privé (réponse sous quelques jours)</li>
 </ul>
 <h2>Signaler une question</h2>
 <p>Indique le thème, le niveau et le texte de la question (ou une capture d’écran) : elle sera vérifiée et corrigée si besoin.</p>
 <h2>Données personnelles et cookies</h2>
-<p>Le site fonctionne sans compte et ne stocke tes préférences que dans ton navigateur. Le détail est dans la page <a href="/confidentialite">Confidentialité</a>. Pour exercer tes droits (RGPD), écris à l’adresse ci-dessus.</p>`
+<p>Le site fonctionne sans compte et ne stocke tes préférences que dans ton navigateur. Le détail est dans la page <a href="/confidentialite">Confidentialité</a>. Pour exercer tes droits (RGPD), écris-moi par le canal ci-dessus.</p>`
 
   writePage(
     '/contact',
     layout({
       title: 'Contact : signaler une erreur, proposer un thème',
-      description: 'Pour signaler une erreur dans une question, proposer un thème ou poser une question sur les données : email et Instagram du créateur de Quizz.',
+      description: `Pour signaler une erreur dans une question, proposer un thème ou poser une question sur les données : ${CONTACT_EMAIL ? 'email et Instagram' : 'Instagram'} du créateur de Quizz.`,
       url: '/contact',
       current: '/contact',
       crumbs: [['Contact', '/contact']],
