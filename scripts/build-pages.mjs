@@ -16,6 +16,7 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 'node:fs'
 import path from 'node:path'
 import { FAMILIES, SIGNS, getSign } from '../src/content/panneaux/signs.js'
+import { CONFUSIONS, confusionsBySign } from '../src/content/panneaux/confusions.js'
 import { LEGAL } from '../src/content/legal.js'
 import {
   ADSENSE_CLIENT,
@@ -34,6 +35,10 @@ import {
 } from './site-data.mjs'
 
 const DIST = path.join(ROOT, 'dist')
+
+// Table symétrique des pièges, calculée une fois (elle échoue bruyamment si une
+// paire cite un panneau inexistant).
+const CONFUSION_TABLE = confusionsBySign(SIGNS.map((s) => s.id))
 
 function fail(msg) {
   console.error('build-pages :', msg)
@@ -87,6 +92,20 @@ const PAGE_CSS = `
 .qa ol li{padding:2px 0;font-size:.9rem}
 .qa ol li.ok{color:var(--good);font-weight:700}
 .qa .why{margin:0;font-size:.88rem;color:var(--text-dim)}
+.toc{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 4px}
+.toc a{text-decoration:none;color:var(--text-dim);font-size:.85rem;font-weight:650;padding:7px 12px;border-radius:999px;background:var(--surface);border:1px solid var(--border)}
+.toc a:hover{color:var(--text)}
+.confusion-list{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:12px}
+.confusion{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-sm);padding:14px 16px}
+.confusion-pair{display:flex;align-items:center;justify-content:center;gap:14px;margin-bottom:10px}
+.confusion-pair .sign-image{width:76px}
+.confusion-pair a.sign-card{text-decoration:none;color:inherit;padding:0;background:none;border:0}
+.confusion-vs{font-family:var(--font-display);font-size:1.4rem;color:var(--text-dim)}
+.confusion p{margin:0}
+.faq{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:10px}
+.faq>li{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-sm);padding:12px 16px}
+.faq .q{font-weight:700;margin:0 0 6px}
+.faq p:last-child{margin:0;color:var(--text-dim);font-size:.9rem}
 .cat-links{display:flex;flex-direction:column;gap:10px;margin-top:8px}
 a.cat-card{text-decoration:none}
 .pager{display:flex;justify-content:space-between;gap:10px;margin-top:26px;font-size:.9rem}
@@ -149,9 +168,14 @@ function breadcrumbs(items) {
   return { html: `<nav class="crumbs" aria-label="Fil d’Ariane">${html}</nav>`, ld }
 }
 
-function layout({ title, description, url, body, crumbs = [], current = '' }) {
+// `jsonld` : blocs schema.org supplémentaires (FAQPage sur les fiches panneaux).
+// Ils s'ajoutent au fil d'Ariane, qui reste généré automatiquement.
+function layout({ title, description, url, body, crumbs = [], current = '', jsonld = [] }) {
   const canonical = SITE + url
   const bc = crumbs.length ? breadcrumbs(crumbs) : null
+  const blocs = [...(bc ? [bc.ld] : []), ...jsonld]
+    .map((o) => `<script type="application/ld+json">${JSON.stringify(o)}</script>`)
+    .join('\n')
   return `<!doctype html>
 <html lang="fr" data-theme="volt">
 <head>
@@ -174,7 +198,7 @@ function layout({ title, description, url, body, crumbs = [], current = '' }) {
 <meta property="og:image" content="${SITE}/og-image.png" />
 <meta name="twitter:card" content="summary_large_image" />
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}" crossorigin="anonymous"></script>
-${bc ? `<script type="application/ld+json">${JSON.stringify(bc.ld)}</script>` : ''}
+${blocs}
 </head>
 <body>
 <div class="page">
@@ -270,6 +294,7 @@ function pagePanneauxIndex() {
   const body = `<h1>Les ${SIGNS.length} panneaux du code de la route à connaître</h1>
 <p class="lead">Une fiche par panneau, avec son visuel, son code officiel et sa signification. Révise famille par famille, puis vérifie tes acquis avec le quiz spécial panneaux (${fmt(catTotal(counts, PAN))} questions illustrées).</p>
 <p>Les panneaux routiers français se reconnaissent d’abord à leur forme et à leur couleur : le triangle à bord rouge annonce un danger, le rond cerclé de rouge interdit, le rond bleu oblige, le carré bleu informe, et le panneau barré marque la fin d’une prescription. Deux panneaux de priorité ont une forme unique, reconnaissable même de dos ou sous la neige : le stop (octogone) et le cédez-le-passage (triangle pointe en bas).</p>
+<p><strong>Le plus dur n’est pas d’apprendre les panneaux, c’est de ne pas les intervertir.</strong> Les <a href="/panneaux/pieges">${CONFUSIONS.length} paires les plus confondues</a> sont réunies sur une page, côte à côte.</p>
 ${playButtons('panneaux')}
 ${families}
 <h2>Aller plus loin</h2>
@@ -288,12 +313,69 @@ ${families}
   )
 }
 
+// Bloc « à ne pas confondre » : le panneau jumeau en vis-à-vis, avec la règle
+// qui les sépare. C'est le seul endroit du site où l'on voit deux panneaux côte
+// à côte, or c'est exactement comme ça qu'on les apprend.
+function confusionBloc(s) {
+  const paires = CONFUSION_TABLE[s.id]
+  if (!paires) return { html: '', faq: [] }
+  const cartes = paires
+    .map(({ id, tip }) => {
+      const autre = getSign(id)
+      return `<li class="confusion">
+<div class="confusion-pair">
+<span class="sign-image" role="img" aria-label="Panneau ${esc(s.code)}">${s.svg}</span>
+<span class="confusion-vs" aria-hidden="true">≠</span>
+<a class="sign-card" href="/panneaux/${autre.id}"><span class="sign-image" aria-hidden="true">${autre.svg}</span><span class="sign-code">${esc(autre.code)}</span></a>
+</div>
+<p><b>${esc(s.code)} ou ${esc(autre.code)} ?</b> ${esc(tip)}</p>
+</li>`
+    })
+    .join('')
+  const codes = paires.map((p) => getSign(p.id).code)
+  const html = `<h2 id="confusions">À ne pas confondre</h2>
+<p>${codes.length === 1 ? `Un panneau est régulièrement confondu avec ${s.code}` : `${codes.length} panneaux sont régulièrement confondus avec ${s.code}`} : ${listeFr(codes)}. Voici ce qui les sépare.</p>
+<ul class="confusion-list">${cartes}</ul>
+<p>Toutes les paires piégeuses sont réunies sur la page <a href="/panneaux/pieges">panneaux qui se ressemblent</a>.</p>`
+  // Une question PAR paire, pas une question fourre-tout : c'est la formulation
+  // réellement tapée (« différence entre B15 et C18 ») et chaque paire devient
+  // une entrée distincte dans les résultats enrichis.
+  const faq = paires.map((p) => ({
+    q: `Quelle est la différence entre les panneaux ${s.code} et ${getSign(p.id).code} ?`,
+    a: p.tip,
+  }))
+  return { html, faq }
+}
+
+// « A, B et C » — la virgule sèche fait bâclé dans une phrase de réponse.
+function listeFr(items) {
+  if (items.length <= 1) return items[0] ?? ''
+  return `${items.slice(0, -1).join(', ')} et ${items[items.length - 1]}`
+}
+
 function pageSign(s, i) {
   const fam = FAMILIES.find((f) => f.id === s.family)
   const siblings = SIGNS.filter((x) => x.family === s.family && x.id !== s.id)
   const prev = SIGNS[(i - 1 + SIGNS.length) % SIGNS.length]
   const next = SIGNS[(i + 1) % SIGNS.length]
   const title = `Panneau ${s.code} : ${s.name}`
+  const conf = confusionBloc(s)
+
+  // Les questions reprennent mot pour mot ce qui est écrit plus haut : la FAQ
+  // enrichie de Google exige que la réponse soit visible sur la page, et une
+  // reformulation approximative serait une occasion de plus de se tromper.
+  const faq = [
+    { q: `Que signifie le panneau ${s.code} ?`, a: s.meaning },
+    {
+      q: `Comment reconnaître le panneau ${s.code} ?`,
+      a: `${s.code} appartient à la famille « ${fam.label} », qui compte ${siblings.length + 1} panneaux. ${fam.desc}`,
+    },
+    ...conf.faq,
+  ]
+  const faqHtml = faq
+    .map((f) => `<li><p class="q">${esc(f.q)}</p><p>${esc(f.a)}</p></li>`)
+    .join('')
+
   const body = `<h1>${esc(s.name)}</h1>
 <p><span class="pill">${esc(s.code)}</span><span class="pill">${fam.emoji} ${esc(fam.label)}</span></p>
 <div class="sign-hero"><span class="sign-image" role="img" aria-label="Panneau ${esc(s.code)} : ${esc(s.name)}">${s.svg}</span></div>
@@ -301,9 +383,12 @@ function pageSign(s, i) {
 <p>${esc(s.meaning)}</p>
 <h2>La famille « ${esc(fam.label)} »</h2>
 <p>${esc(fam.desc)} Cette famille compte ${siblings.length + 1} panneaux dans notre révision.</p>
+${conf.html}
 <h2>Dans le quiz</h2>
 <p>Ce panneau fait partie du quiz Panneaux (${fmt(catTotal(counts, PAN))} questions illustrées). En Facile, il faut le reconnaître parmi des panneaux d’autres familles ; en Expert, le distinguer de panneaux proches de la même famille. En révision solo, chaque réponse est corrigée tout de suite ; en défi, un lien permet à un ami de jouer les mêmes questions.</p>
 ${playButtons('panneaux')}
+<h2>Questions fréquentes</h2>
+<ul class="faq">${faqHtml}</ul>
 <h2>Autres panneaux de la famille ${esc(fam.label)}</h2>
 <div class="sign-grid related">${siblings.map((x) => signCard(x, { withName: false })).join('')}</div>
 <nav class="pager" aria-label="Panneau précédent / suivant"><a href="/panneaux/${prev.id}">← ${esc(prev.code)}</a><a href="/panneaux/">Tous les panneaux</a><a href="/panneaux/${next.id}">${esc(next.code)} →</a></nav>`
@@ -318,6 +403,17 @@ ${playButtons('panneaux')}
       crumbs: [
         ['Panneaux', '/panneaux/'],
         [s.code, `/panneaux/${s.id}`],
+      ],
+      jsonld: [
+        {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: faq.map((f) => ({
+            '@type': 'Question',
+            name: f.q,
+            acceptedAnswer: { '@type': 'Answer', text: f.a },
+          })),
+        },
       ],
       body,
     }),
@@ -484,6 +580,75 @@ ${sections.map(([h, p]) => `<section class="legal-section"><h2>${esc(h)}</h2><p>
   )
 }
 
+// Page transversale : les paires qu'on confond, toutes familles mélangées.
+// Les fiches individuelles répondent à « panneau B15 » ; celle-ci répond à
+// « panneaux qui se ressemblent », qui ne vise aucun panneau en particulier et
+// n'a donc nulle part où atterrir sur le site aujourd'hui.
+function pagePieges() {
+  const parFamille = FAMILIES.map((f) => {
+    // Une paire est classée dans la famille de son premier panneau, pour éviter
+    // de la lister deux fois quand elle traverse deux familles.
+    const paires = CONFUSIONS.filter((c) => getSign(c.a).family === f.id)
+    if (!paires.length) return ''
+    const items = paires
+      .map(({ a, b, tip }) => {
+        const sa = getSign(a)
+        const sb = getSign(b)
+        return `<li class="confusion">
+<div class="confusion-pair">
+<a class="sign-card" href="/panneaux/${sa.id}"><span class="sign-image" aria-hidden="true">${sa.svg}</span><span class="sign-code">${esc(sa.code)}</span></a>
+<span class="confusion-vs" aria-hidden="true">≠</span>
+<a class="sign-card" href="/panneaux/${sb.id}"><span class="sign-image" aria-hidden="true">${sb.svg}</span><span class="sign-code">${esc(sb.code)}</span></a>
+</div>
+<p><b>${esc(sa.code)} ou ${esc(sb.code)} ?</b> ${esc(tip)}</p>
+</li>`
+      })
+      .join('')
+    return `<section id="${f.id}"><h2>${f.emoji} ${esc(f.label)} <span class="pill">${paires.length} paire${paires.length > 1 ? 's' : ''}</span></h2><ul class="confusion-list">${items}</ul></section>`
+  }).join('')
+
+  // La page est longue par nature : on donne les raccourcis d'entrée plutôt que
+  // d'obliger à faire défiler six familles pour trouver la bonne.
+  const sommaire = FAMILIES.filter((f) => CONFUSIONS.some((c) => getSign(c.a).family === f.id))
+    .map((f) => `<a href="#${f.id}">${f.emoji} ${esc(f.label)}</a>`)
+    .join('')
+
+  const body = `<h1>Les ${CONFUSIONS.length} paires de panneaux qu’on confond</h1>
+<p class="lead">Perdre un point au code, ce n’est presque jamais ignorer un panneau : c’est en prendre un pour un autre. Voici les paires qui piègent le plus, mises côte à côte, avec la règle qui les sépare en une phrase.</p>
+<p>Un réflexe règle déjà la moitié des cas : <strong>la forme et la couleur annoncent la nature du message avant même le dessin</strong>. Triangle à bord rouge, on vous prévient. Rond cerclé de rouge, on vous interdit. Rond bleu, on vous oblige. Carré bleu, on vous informe. Panneau barré, la règle précédente s’arrête. Deux panneaux au même dessin mais de forme différente ne disent donc jamais la même chose.</p>
+${playButtons('panneaux')}
+<nav class="toc" aria-label="Familles de panneaux">${sommaire}</nav>
+${parFamille}
+<h2>S’entraîner</h2>
+<p>Le mode Expert du <a href="/quiz/panneaux">quiz Panneaux</a> est construit sur ce principe : les mauvaises réponses proposées sont des panneaux proches, pas des panneaux au hasard. C’est là qu’on voit si la distinction est acquise. Les ${SIGNS.length} fiches sont dans <a href="/panneaux/">la liste complète des panneaux</a>.</p>`
+
+  writePage(
+    '/panneaux/pieges',
+    layout({
+      title: `Panneaux qui se ressemblent : les ${CONFUSIONS.length} pièges du code`,
+      description: `B15 ou C18, AB3a ou STOP, B14 ou B33 : les ${CONFUSIONS.length} paires de panneaux les plus confondues au code de la route, côte à côte, avec la règle qui les sépare.`,
+      url: '/panneaux/pieges',
+      current: '/panneaux/',
+      crumbs: [
+        ['Panneaux', '/panneaux/'],
+        ['Pièges', '/panneaux/pieges'],
+      ],
+      jsonld: [
+        {
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          mainEntity: CONFUSIONS.map(({ a, b, tip }) => ({
+            '@type': 'Question',
+            name: `Quelle est la différence entre les panneaux ${getSign(a).code} et ${getSign(b).code} ?`,
+            acceptedAnswer: { '@type': 'Answer', text: tip },
+          })),
+        },
+      ],
+      body,
+    }),
+  )
+}
+
 function writeSitemap() {
   const urls = ['/', ...written.map((w) => w.url)]
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
@@ -498,6 +663,7 @@ ${urls.map((u) => `  <url><loc>${SITE}${u}</loc></url>`).join('\n')}
 // ---------------------------------------------------------------------------
 
 pagePanneauxIndex()
+pagePieges()
 SIGNS.forEach(pageSign)
 CATS.forEach(pageCategory)
 pageAbout()
