@@ -30,3 +30,6 @@ dist-ssr
 .env.*
 .dev.vars
 !.env.example
+
+# Config locale de la session Claude (serveurs de dev)
+.claude/

@@ -5,7 +5,15 @@ import es from './es'
 import pt from './pt'
 import { readChallengeFromUrl, readResultFromUrl } from '../lib/challengeLink'
 
-const DICTS = { fr, en, es, pt }
+// Dictionnaires par fonctionnalité (src/i18n/parts/*.js), fusionnés ici :
+// chaque fichier exporte { fr, en, es, pt } et ne touche pas aux dictionnaires
+// principaux, ce qui évite les conflits quand plusieurs chantiers avancent.
+const PARTS = import.meta.glob('./parts/*.js', { eager: true })
+const DICTS = { fr: { ...fr }, en: { ...en }, es: { ...es }, pt: { ...pt } }
+for (const mod of Object.values(PARTS)) {
+  const part = mod.default || {}
+  for (const code of Object.keys(DICTS)) Object.assign(DICTS[code], part[code] || {})
+}
 const STORAGE_KEY = 'quizzo_lang'
 
 // Langues disponibles (drapeau + libellé), pour le sélecteur.
