@@ -1,13 +1,15 @@
-// Traducciones en español. Los {placeholders} se rellenan con t(clave, vars).
+// Traducciones en español (España). Los {placeholders} se rellenan con t(clave, vars).
+// Sin raya (U+2014): dos puntos, coma o punto.
+// Plurales: tn(clave, n) busca clave_one / clave_other antes de usar clave.
 export default {
   // Identidad del juego
   app_name: 'Quizz',
   app_subtitle: '¿Quién es el mejor?',
   app_title: 'Quizz - ¿Quién es el mejor?',
   cookie_text:
-    'Usamos cookies para que el sitio funcione y, con tu permiso, medir la audiencia. Tú decides.',
+    'Este sitio usa cookies para funcionar. La medición de audiencia (sin cookies, Cloudflare) solo se activa con tu consentimiento.',
   cookie_detail:
-    'Las cookies esenciales hacen funcionar el sitio. Las cookies de medición de audiencia solo se activan con tu consentimiento. Puedes cambiar de opinión cuando quieras en «Cookies», al pie de la página.',
+    'Los anuncios de Google AdSense siguen la elección que hagas en el mensaje de consentimiento de Google, que puedes reabrir desde Privacidad. Puedes cambiar de opinión sobre la medición de audiencia cuando quieras en «Cookies», al pie de la página.',
   cookie_accept: 'Aceptar',
   cookie_reject: 'Rechazar',
   cookie_more: 'Más información',
@@ -15,12 +17,32 @@ export default {
   footer_privacy: 'Privacidad',
   footer_terms: 'Condiciones',
 
+  // Genéricas (botones, estados): reutilízalas antes de crear una clave nueva
+  close: 'Cerrar',
+  back: '← Atrás',
+  home: 'Inicio',
+  share: 'Compartir',
+  copy: 'Copiar',
+  copied: '✓ Copiado',
+  retry: 'Reintentar',
+  cancel: 'Cancelar',
+  confirm: 'Confirmar',
+  continue: 'Continuar',
+  yes: 'Sí',
+  no: 'No',
+  later: 'Más tarde',
+  today: 'Hoy',
+  streak_days: '{n} días seguidos',
+  streak_days_one: '{n} día seguido',
+  best_score: 'Mejor puntuación',
+  new_record: '¡Nuevo récord!',
+
   // Premium / publicidad
   upsell_premium: 'Hazte Premium (sin anuncios)',
   paywall_title: 'Quizz Premium',
   paywall_sub: 'Apoya el juego y disfruta de una experiencia 100 % sin anuncios.',
   paywall_feature_noads: 'Cero anuncios',
-  paywall_feature_all: 'Todo el catálogo de preguntas',
+  paywall_feature_all: 'También en el examen de prueba y el reto del día',
   paywall_feature_support: 'Apoyas al creador 💜',
   plan_monthly_name: 'Mensual',
   plan_monthly_price: '2 €',
@@ -31,9 +53,8 @@ export default {
   plan_lifetime_badge: 'La mejor opción',
   paywall_subscribe: 'Suscribirse',
   paywall_buy: 'Comprar de por vida',
-  paywall_soon: 'Pago disponible muy pronto — ¡gracias por tu paciencia!',
-  paywall_close: 'Cerrar',
-  premium_active: 'Premium activo — ¡gracias! 💜',
+  paywall_soon: 'Pago disponible muy pronto, ¡gracias por tu paciencia!',
+  premium_active: 'Premium activo, ¡gracias! 💜',
   result_ad_label: 'Publicidad',
   promo_noads_text: '¿Cansado de los anuncios?',
   promo_noads_cta: 'Quitar anuncios',
@@ -72,25 +93,19 @@ export default {
   panneaux_quiz_cta: 'Empezar el quiz de señales',
   panneaux_browse: 'Repasar por familia',
   panneaux_count: '{n} señales',
-  sign_close: 'Cerrar',
   sign_prev: 'Señal anterior',
   sign_next: 'Señal siguiente',
 
   // Navegación
   quit: '← Salir',
-  back: '← Atrás',
-  home: 'Inicio',
 
-  // Quiz en solitario — desarrollo
+  // Quiz en solitario: desarrollo
   hint_next: 'Toca en cualquier lugar para pasar a la siguiente.',
   hint_choose: 'Toca una respuesta para elegirla.',
   feedback_correct: '✓ ¡Correcto!',
   feedback_wrong: '✗ ¡Fallaste!',
   next_question: 'Siguiente pregunta',
   see_recap: 'Ver resumen',
-  solo_topbar: 'Grupo {b}/{tb} · {i}/{n}',
-  lot_label: 'Grupo {b} / {tb}',
-  continue_solo: 'Continuar ({n} preguntas nuevas)',
   challenge_a_friend: 'Desafía a un amigo',
 
   // Resumen de errores
@@ -105,7 +120,7 @@ export default {
   personality_good: '¡Nada mal! 👏',
   personality_bad: 'Ay... toca repasar 😅',
 
-  // Desafío — configuración
+  // Desafío: configuración
   challenge_title: 'Desafía a un amigo',
   setup_sub:
     'Juega tu partida y comparte un enlace con un amigo: jugará las mismas preguntas y compararéis vuestras puntuaciones ronda a ronda.',
@@ -116,24 +131,23 @@ export default {
   rounds_help: '{n} rondas · {q} preguntas, todas distintas',
   rounds_help_one: '{n} ronda · {q} preguntas, todas distintas',
   launch_challenge: 'Empezar el desafío',
-  simulate_friend: 'Probar con un amigo simulado',
   default_host: 'Jugador 1',
   default_join: 'Jugador 2',
   default_friend: 'Un amigo',
 
-  // Desafío — invitación
+  // Desafío: invitación
   invite_invalid: 'Enlace de desafío no válido 😕',
   invite_title: '¡{host} te ha desafiado! ⚔️',
   invite_sub:
-    'Acepta el desafío en «{cat}» — {rounds} ({q} preguntas): jugarás exactamente las mismas preguntas y luego compararéis las puntuaciones ronda a ronda.',
+    'Acepta el desafío en «{cat}», {rounds} ({q} preguntas): jugarás exactamente las mismas preguntas y luego compararéis las puntuaciones ronda a ronda.',
   accept_challenge: 'Aceptar el desafío',
 
-  // Desafío — en juego
+  // Desafío: en juego
   challenge_topbar: 'Ronda {r}/{mr} · P{i}/{n}',
   answer_saved: 'Respuesta guardada… 🤫',
   continue_challenge: 'Continuar ({n} preguntas nuevas)',
 
-  // Desafío — resultados (títulos)
+  // Desafío: resultados (títulos)
   result_tie_final: '🤝 ¡Empate perfecto!',
   result_win_final: '🏆 ¡Has ganado!',
   result_lose_final: '😅 Gana {opp}',
@@ -151,19 +165,10 @@ export default {
   share_play_title: 'Comparte este enlace con tu amigo',
   share_play_sub:
     'Jugará exactamente las mismas preguntas y luego compararéis las puntuaciones ronda a ronda.',
-  copy: 'Copiar',
-  copied: '✓ Copiado',
 
-  // Compartir el resultado
+  // Compartir el resultado (el título del compartir nativo es app_title)
   share_result_title: 'Comparte tu resultado',
-  share_copy_link: 'Copiar el enlace del resultado',
-  share_link_copied: '✓ Enlace copiado',
-  share_as_image: 'Compartir como imagen',
   share_generating: 'Generando…',
-  share_downloaded: 'Imagen descargada ✓',
-  share_image_error: 'No se pudo generar la imagen 😕',
-  share_native_title: 'Quizz - ¿Quién es el mejor?',
-  share_native_image_text: 'Mi resultado en Quizz 🎯 ¡Te toca!',
 
   // Vista de resultado (página de conversión del enlace compartido)
   result_invalid: 'Enlace de resultado no válido 😕',
@@ -190,17 +195,17 @@ export default {
   card_round: 'Ronda {i}',
   card_rounds_n: '{n} RONDAS',
   card_rounds_one: '{n} RONDA',
-  card_cta_duel: 'Te toca, ¿lo superas?',
+  card_cta_duel: 'Te toca: ¿lo superas?',
   card_cta_solo: '¿Crees que puedes hacerlo mejor?',
   card_play_cta: 'Juega gratis en',
-  // Design v2 (ambiances + tuiles de stats)
+  // Diseño v2 (ambientes + fichas de estadísticas)
   theme_toggle: 'Cambiar ambiente',
   hero_sub: 'Repasa en serio, o reta a un amigo',
   tile_answered: 'preguntas jugadas',
   tile_correct: 'aciertos',
   tile_precision: 'precisión',
 
-  // Don (soutien)
+  // Donación (apoyo)
   donate_footer: 'Apoyar',
   donate_title: 'Apoya a Quizz 💜',
   donate_sub: 'Una pequeña donación ayuda al juego a crecer (servidores, nuevas preguntas). ¡Gracias!',
@@ -208,13 +213,12 @@ export default {
   donate_cta: 'Donar {n} €',
   donate_thanks: '¡Mil gracias por tu apoyo! El juego crece gracias a ti. 💜',
 
-
-  // Chargement de la banque de questions (chunk séparé)
+  // Carga del banco de preguntas (chunk separado)
   bank_loading: 'Cargando las preguntas…',
   bank_error: 'No se han podido cargar las preguntas. Comprueba tu conexión.',
   bank_retry: 'Reintentar',
 
-  // Accroche de l'accueil + liens vers les pages statiques (à-propos, contact)
+  // Frase de inicio + enlaces a las páginas estáticas (acerca de, contacto)
   home_tagline: 'Quiz gratis y sin cuenta: {n} preguntas, {k} temas, en solitario o en reto entre amigos.',
   footer_about: 'Acerca de',
   footer_contact: 'Contacto',

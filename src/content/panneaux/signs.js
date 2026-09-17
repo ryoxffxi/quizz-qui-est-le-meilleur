@@ -27,6 +27,7 @@ import {
   vitesseMin,
   zone30,
 } from './shapes.js'
+import { DETAILS } from './details.js'
 
 export const FAMILIES = [
   {
@@ -49,7 +50,7 @@ export const FAMILIES = [
   },
   {
     id: 'fin',
-    label: "Fin d'interdiction",
+    label: 'Fin de prescription',
     emoji: '⭕',
     desc: "Rond barré : l'interdiction ou l'obligation prend fin.",
   },
@@ -72,7 +73,7 @@ const ARROW_UP = `<path d="M120 44 L157 98 H134 V180 H106 V98 H83 Z" fill="#fff"
 const arrow = (deg) =>
   deg ? `<g transform="rotate(${deg} 120 120)">${ARROW_UP}</g>` : ARROW_UP
 
-export const SIGNS = [
+const RAW = [
   // ===== Priorité =====
   {
     id: 'ab1',
@@ -176,7 +177,7 @@ export const SIGNS = [
     svg: interdiction('', { fill: BLUE, cross: true }),
   },
 
-  // ===== Fin d'interdiction =====
+  // ===== Fin de prescription =====
   {
     id: 'b31',
     code: 'B31',
@@ -292,7 +293,8 @@ export const SIGNS = [
       `<text x="120" y="156" text-anchor="middle" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="96" font-weight="800" fill="#fff">90</text>`,
     ),
   },
-  // — Panneaux dessinés (générés par gen-signs.mjs) —
+  // ===== Panneaux dessinés à la main dans le repère 240×240 =====
+  // Contrôle visuel : node scripts/panneaux-sheet.mjs <sortie.html>
   {
     id: "a1a",
     code: "A1a",
@@ -339,7 +341,9 @@ export const SIGNS = [
     name: "Descente dangereuse",
     meaning: "Annonce une descente à forte pente (ici 10 %). Ralentissez avant la pente, rétrogradez pour utiliser le frein moteur et sollicitez les freins avec modération.",
     family: "danger",
-    svg: danger(`<polygon points="158,142 158,184 82,184" fill="#14181d"/><g transform="rotate(-27 128 146)"><path d="M102 152 L102 144 L112 142 L118 134 L133 134 L139 142 L150 144 L150 152 Z" fill="#14181d"/><circle cx="112" cy="155" r="6" fill="#14181d"/><circle cx="140" cy="155" r="6" fill="#14181d"/></g><text x="80" y="178" font-size="24" font-weight="bold" fill="#14181d" font-family="Arial, Helvetica, sans-serif">10%</text>`),
+    // Le « 10% » est écrit dans la zone blanche, au-dessus de la pente : sur la
+    // pente noire il était illisible (noir sur noir).
+    svg: danger(`<polygon points="160,150 160,184 80,184" fill="#14181d"/><g transform="translate(134 149) rotate(-23)"><path d="M-22 4 L-22 -4 L-12 -6 L-6 -13 L8 -13 L14 -6 L22 -4 L22 4 Z" fill="#14181d"/><circle cx="-13" cy="7" r="5" fill="#14181d"/><circle cx="13" cy="7" r="5" fill="#14181d"/></g><text x="80" y="146" font-size="20" font-weight="bold" fill="#14181d" font-family="Arial, Helvetica, sans-serif">10%</text>`),
   },
   {
     id: "a13a",
@@ -607,8 +611,50 @@ export const SIGNS = [
   },
 ]
 
-// Les pictogrammes des autres panneaux (danger, véhicules, piétons…) sont
-// ajoutés par familles dans ce même tableau — voir la génération assistée.
+// ===== Tri et enrichissement =====
+// Ordre stable pour la galerie, le pager statique et le générateur de quiz :
+// famille (ordre de FAMILIES) puis code « naturel » (A1a < A1c < A2a < A13a,
+// AB1 < AB2 < B15 < C18). Comparateur maison, sans dépendre d'ICU : le même
+// ordre dans Node (scripts) et dans le navigateur.
+const FAMILY_RANK = new Map(FAMILIES.map((f, i) => [f.id, i]))
+const tokens = (code) => code.match(/[A-Za-z]+|\d+/g) || []
+
+export function compareCodes(a, b) {
+  const ta = tokens(a)
+  const tb = tokens(b)
+  const n = Math.max(ta.length, tb.length)
+  for (let i = 0; i < n; i++) {
+    const x = ta[i]
+    const y = tb[i]
+    if (x === undefined) return -1
+    if (y === undefined) return 1
+    const nx = /^\d+$/.test(x)
+    const ny = /^\d+$/.test(y)
+    if (nx && ny) {
+      if (Number(x) !== Number(y)) return Number(x) - Number(y)
+    } else if (nx !== ny) {
+      return nx ? -1 : 1 // les chiffres passent avant les lettres (A24 < AK5)
+    } else if (x !== y) {
+      return x < y ? -1 : 1
+    }
+  }
+  return 0
+}
+
+function compareSigns(a, b) {
+  const fa = FAMILY_RANK.get(a.family) ?? 99
+  const fb = FAMILY_RANK.get(b.family) ?? 99
+  if (fa !== fb) return fa - fb
+  return compareCodes(a.code, b.code) || (a.id < b.id ? -1 : a.id > b.id ? 1 : 0)
+}
+
+// Chaque panneau reçoit ses champs éditoriaux (details.js : short, alt, detail)
+// par-dessus sa définition. `alt` = description neutre lue par les lecteurs
+// d'écran dans le quiz (forme, couleur, picto, sans donner le nom).
+export const SIGNS = RAW.map((s) => ({ ...s, ...(DETAILS[s.id] || {}) })).sort(
+  compareSigns,
+)
 
 const byId = new Map(SIGNS.map((s) => [s.id, s]))
 export const getSign = (id) => byId.get(id)
+export const familyOf = (id) => byId.get(id)?.family

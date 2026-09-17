@@ -7,11 +7,17 @@
     <!-- Propriété Search Console « https://ryo-offc.com/ » (compte AdSense riyad.mhbub) :
          ne pas retirer, la validation est revérifiée périodiquement. -->
     <meta name="google-site-verification" content="1s-EGyD0MQiosOe-fAPIZIMiBwLap5Gx3scwJm2Ymdg" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover"
-    />
+    <!-- Aucune limite de zoom dans le viewport : le zoom doit rester possible (accessibilité). -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="theme-color" content="#0a0d16" />
+    <!-- PWA : manifeste et icônes produits par le chantier design (public/manifest.webmanifest,
+         public/icons/). Installable sur l'écran d'accueil, plein écran sur iOS. -->
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Quizz" />
+    <meta name="mobile-web-app-capable" content="yes" />
     <!-- Ambiance (volt/crimson) appliquée AVANT le premier rendu : pas de flash. -->
     <script>
       try {
@@ -29,20 +35,22 @@
       type="font/woff2"
       crossorigin
     />
+    <!-- {{TOTAL}} = nombre de questions, remplacé au build par le plugin home-shell
+         (scripts/vite-plugin-home-shell.mjs) depuis src/content/counts.json. -->
     <meta
       name="description"
-      content="Quizz - Qui est le meilleur ? Quiz fun pour tester tes connaissances, seul ou en défi entre potes."
+      content="{{TOTAL}} questions gratuites, sans compte : code de la route avec examen blanc, culture générale, manga, cinéma. Joue seul ou lance un défi entre potes."
     />
-    <title>Quizz - Qui est le meilleur ?</title>
+    <title>Quiz gratuit sans inscription : code de la route, manga, cinéma</title>
     <!-- Open Graph / Twitter : aperçu lors du partage de liens (cœur viral de l'app).
-         Image = /og-image.svg (rendue par WhatsApp/Discord/Telegram). Pour une compat
-         maximale (Facebook/X), exporter en og-image.png 1200x630 et pointer dessus. -->
+         Image = /og-image.png (1200x630, public/og-image.png), lue par WhatsApp,
+         Discord, Telegram, Facebook et X. -->
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Quizz - Qui est le meilleur ?" />
-    <meta property="og:title" content="Quizz - Qui est le meilleur ?" />
+    <meta property="og:site_name" content="Quizz" />
+    <meta property="og:title" content="Quiz gratuit sans inscription : code de la route, culture G, manga, cinéma | Quizz" />
     <meta
       property="og:description"
-      content="Quiz fun pour tester tes connaissances, seul ou en défi entre potes."
+      content="{{TOTAL}} questions gratuites, sans compte : code de la route avec examen blanc, culture générale, manga, cinéma. Joue seul ou lance un défi entre potes."
     />
     <meta property="og:url" content="https://ryo-offc.com/" />
     <meta property="og:image" content="https://ryo-offc.com/og-image.png" />
@@ -50,12 +58,39 @@
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Quizz - Qui est le meilleur ?" />
+    <meta name="twitter:title" content="Quiz gratuit sans inscription : code de la route, culture G, manga, cinéma | Quizz" />
     <meta
       name="twitter:description"
-      content="Quiz fun pour tester tes connaissances, seul ou en défi entre potes."
+      content="{{TOTAL}} questions gratuites, sans compte : code de la route avec examen blanc, culture générale, manga, cinéma. Joue seul ou lance un défi entre potes."
     />
     <meta name="twitter:image" content="https://ryo-offc.com/og-image.png" />
+    <!-- Données structurées : le site et son éditeur (nom de site dans les résultats,
+         lien vers l'Instagram officiel). -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://ryo-offc.com/#website",
+            "url": "https://ryo-offc.com/",
+            "name": "Quizz",
+            "alternateName": "Quizz - Qui est le meilleur ?",
+            "description": "Quiz gratuit sans inscription : {{TOTAL}} questions de code de la route, culture générale, manga et cinéma, en solo, en défi entre potes ou en examen blanc.",
+            "inLanguage": "fr",
+            "publisher": { "@id": "https://ryo-offc.com/#organization" }
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://ryo-offc.com/#organization",
+            "name": "Quizz",
+            "url": "https://ryo-offc.com/",
+            "logo": "https://ryo-offc.com/icons/icon-512.png",
+            "sameAs": ["https://www.instagram.com/ryo.offc/"]
+          }
+        ]
+      }
+    </script>
     <!-- Google AdSense (vérification du site + diffusion). La gestion du
          consentement UE est assurée par le message « Privacy & messaging »
          (CMP certifié) à activer dans le tableau de bord AdSense. -->

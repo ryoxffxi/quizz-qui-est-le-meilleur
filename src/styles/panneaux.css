@@ -1,0 +1,377 @@
+/* ===== Panneaux : galerie, fiche <dialog>, flashcards =====
+   Importé par SignImage.jsx, PanneauxRevision.jsx et Flashcards.jsx.
+   Complète le bloc « Onglet Panneaux » de index.css (classes .sign-*, .fam-*,
+   .pan-* existantes) sans le redéfinir. */
+
+/* Texte réservé aux lecteurs d'écran (description neutre d'un panneau). */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+.sign-image-inner {
+  display: block;
+}
+
+/* ----- Galerie ----- */
+.sign-card-name {
+  font-size: 0.74rem;
+  line-height: 1.25;
+  color: var(--text);
+  text-align: center;
+}
+.pan-tools {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.pan-switch {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 0.86rem;
+  font-weight: 600;
+  color: var(--text-dim);
+  cursor: pointer;
+  user-select: none;
+}
+.pan-switch input {
+  position: absolute;
+  opacity: 0;
+  width: 1px;
+  height: 1px;
+}
+.pan-switch-track {
+  position: relative;
+  flex: 0 0 auto;
+  width: 38px;
+  height: 22px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  transition: background 0.2s var(--ease), border-color 0.2s var(--ease);
+}
+.pan-switch-track::after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--text-dim);
+  transition: transform 0.25s var(--spring), background 0.2s var(--ease);
+}
+.pan-switch input:checked + .pan-switch-track {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+.pan-switch input:checked + .pan-switch-track::after {
+  transform: translateX(16px);
+  background: var(--accent-ink);
+}
+.pan-switch input:focus-visible + .pan-switch-track {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+.fam-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.fam-actions .btn {
+  width: auto;
+  flex: 1 1 auto;
+  padding: 13px 16px;
+  font-size: 0.95rem;
+}
+
+/* Icônes maison dans les boutons de notation des flashcards. */
+.flash-btn-icon {
+  vertical-align: -3px;
+  margin-right: 6px;
+}
+
+/* Entrée vers les flashcards (carte-lien) */
+.pan-flash-entry {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  text-align: left;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  color: var(--text);
+  font: inherit;
+  cursor: pointer;
+  transition: border-color 0.2s var(--ease), transform 0.18s var(--spring);
+}
+.pan-flash-entry:hover {
+  border-color: var(--accent);
+}
+.pan-flash-entry:active {
+  transform: scale(0.98);
+}
+.pan-flash-icon {
+  font-size: 1.6rem;
+  line-height: 1;
+}
+.pan-flash-text {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  flex: 1;
+}
+.pan-flash-text b {
+  font-size: 0.98rem;
+}
+.pan-flash-text span {
+  font-size: 0.8rem;
+  color: var(--text-dim);
+}
+.pan-flash-chevron {
+  color: var(--text-dim);
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+/* ----- Fiche : modale commune <Dialog> (.modal / .modal-card / .modal-x
+   d'index.css) ; la carte est un peu plus étroite et centrée. ----- */
+.modal-sign .modal-card {
+  max-width: 400px;
+  text-align: center;
+}
+.sign-detail {
+  margin: 10px 0 0;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: var(--text-dim);
+}
+.sign-confusions {
+  margin-top: 18px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+  text-align: left;
+}
+.sign-confusions h4 {
+  margin: 0 0 10px;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  color: var(--warn);
+}
+.sign-confusions ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.sign-twin {
+  display: grid;
+  grid-template-columns: 72px 1fr;
+  gap: 12px;
+  align-items: start;
+}
+.sign-twin-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 8px 6px;
+  color: inherit;
+  cursor: pointer;
+  transition: border-color 0.2s var(--ease);
+}
+.sign-twin-card:hover {
+  border-color: var(--accent);
+}
+.sign-twin-tip {
+  margin: 0;
+  font-size: 0.84rem;
+  line-height: 1.45;
+  color: var(--text-dim);
+}
+.sign-twin-tip b {
+  color: var(--text);
+}
+.sign-links {
+  margin-top: 16px;
+}
+.sign-links .btn {
+  display: inline-block;
+  width: auto;
+  padding: 11px 18px;
+  font-size: 0.92rem;
+  text-decoration: none;
+}
+.sign-nav-hint {
+  display: none;
+  margin: 10px 0 0;
+  font-size: 0.74rem;
+  color: var(--text-dim);
+}
+@media (hover: hover) and (pointer: fine) {
+  .sign-nav-hint {
+    display: block;
+  }
+}
+
+/* ----- Flashcards ----- */
+.flash-stage {
+  perspective: 1200px;
+  margin: 8px 0 0;
+}
+.flash-card {
+  position: relative;
+  width: 100%;
+  height: min(460px, 62vh);
+  height: min(460px, 62dvh);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+.flash-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.55s var(--spring);
+}
+.flash-card.flipped .flash-card-inner {
+  transform: rotateY(180deg);
+}
+.flash-face {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 22px 18px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  text-align: center;
+  overflow-y: auto;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+.flash-back {
+  transform: rotateY(180deg);
+  justify-content: flex-start;
+}
+.flash-sign {
+  width: min(220px, 58vw);
+}
+.flash-sign-small {
+  width: 64px;
+  flex: 0 0 auto;
+}
+.flash-hint {
+  font-size: 0.82rem;
+  color: var(--text-dim);
+}
+.flash-name {
+  margin: 4px 0 0;
+  font-size: 1.1rem;
+  line-height: 1.3;
+}
+.flash-meaning {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--text-dim);
+}
+.flash-twin {
+  width: 100%;
+  margin: 0;
+  padding: 10px 12px;
+  border-radius: var(--radius-sm);
+  background: var(--surface-2);
+  font-size: 0.82rem;
+  line-height: 1.45;
+  text-align: left;
+  color: var(--text-dim);
+}
+.flash-twin b {
+  color: var(--warn);
+}
+.flash-box {
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  color: var(--accent-soft);
+}
+.flash-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 14px;
+}
+.flash-actions .btn {
+  flex: 1;
+}
+.flash-btn-no {
+  border-color: color-mix(in srgb, var(--bad) 50%, transparent);
+  color: var(--bad);
+}
+.flash-rate-hint {
+  margin: 10px 0 0;
+  font-size: 0.8rem;
+  text-align: center;
+  color: var(--text-dim);
+}
+.flash-end {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-top: 8vh;
+  text-align: center;
+  animation: fade-up 0.4s var(--ease);
+}
+.flash-end h2 {
+  margin: 0;
+  font-family: var(--font-display);
+}
+.flash-end-score {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1;
+}
+.flash-end-score span {
+  font-size: 1.4rem;
+  color: var(--text-dim);
+}
+.flash-end p {
+  margin: 0;
+  color: var(--text-dim);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .flash-card-inner,
+  .pan-switch-track,
+  .pan-switch-track::after {
+    transition: none;
+  }
+  .flash-end {
+    animation: none;
+  }
+}

@@ -1,13 +1,15 @@
 // English translations. {placeholders} are filled by t(key, vars).
+// No em dash (U+2014): use a colon, a comma or a full stop.
+// Plurals: tn(key, n) looks for key_one / key_other before falling back to key.
 export default {
   // Game identity
   app_name: 'Quizz',
   app_subtitle: 'Who’s the best?',
   app_title: 'Quizz - Who’s the best?',
   cookie_text:
-    'We use cookies to run the site and, with your consent, to measure audience. Your choice.',
+    'This site uses cookies to work. Audience measurement (cookie-free, Cloudflare) is only enabled with your consent.',
   cookie_detail:
-    'Essential cookies keep the site working. Audience-measurement cookies are only enabled with your consent. You can change your mind anytime via “Cookies” at the bottom of the page.',
+    'Google AdSense ads follow the choice you make in Google’s consent message, which you can reopen from Privacy. You can change your mind about audience measurement anytime via “Cookies” at the bottom of the page.',
   cookie_accept: 'Accept',
   cookie_reject: 'Decline',
   cookie_more: 'Learn more',
@@ -15,25 +17,44 @@ export default {
   footer_privacy: 'Privacy',
   footer_terms: 'Terms',
 
+  // Generic (buttons, states): reuse these before adding a dedicated key
+  close: 'Close',
+  back: '← Back',
+  home: 'Home',
+  share: 'Share',
+  copy: 'Copy',
+  copied: '✓ Copied',
+  retry: 'Try again',
+  cancel: 'Cancel',
+  confirm: 'Confirm',
+  continue: 'Continue',
+  yes: 'Yes',
+  no: 'No',
+  later: 'Later',
+  today: 'Today',
+  streak_days: '{n} days in a row',
+  streak_days_one: '{n} day in a row',
+  best_score: 'Best score',
+  new_record: 'New record!',
+
   // Premium / advertising
   upsell_premium: 'Go Premium (ad-free)',
   paywall_title: 'Quizz Premium',
   paywall_sub: 'Support the game and enjoy a 100% ad-free experience.',
   paywall_feature_noads: 'Zero ads',
-  paywall_feature_all: 'The entire question catalogue',
+  paywall_feature_all: 'Even on the mock exam and the daily challenge',
   paywall_feature_support: 'You support the creator 💜',
   plan_monthly_name: 'Monthly',
   plan_monthly_price: '€2',
   plan_monthly_period: '/ month',
   plan_lifetime_name: 'Lifetime',
   plan_lifetime_price: '€9.99',
-  plan_lifetime_period: 'one-time',
+  plan_lifetime_period: 'one-time payment',
   plan_lifetime_badge: 'Best value',
   paywall_subscribe: 'Subscribe',
   paywall_buy: 'Buy lifetime',
-  paywall_soon: 'Payment coming very soon — thanks for your patience!',
-  paywall_close: 'Close',
-  premium_active: 'Premium active — thank you! 💜',
+  paywall_soon: 'Payment coming very soon, thanks for your patience!',
+  premium_active: 'Premium active, thank you! 💜',
   result_ad_label: 'Advertisement',
   promo_noads_text: 'Tired of ads?',
   promo_noads_cta: 'Go ad-free',
@@ -72,25 +93,19 @@ export default {
   panneaux_quiz_cta: 'Start the signs quiz',
   panneaux_browse: 'Review by family',
   panneaux_count: '{n} signs',
-  sign_close: 'Close',
   sign_prev: 'Previous sign',
   sign_next: 'Next sign',
 
   // Navigation
   quit: '← Quit',
-  back: '← Back',
-  home: 'Home',
 
-  // Solo quiz — flow
+  // Solo quiz: flow
   hint_next: 'Tap anywhere to go to the next one.',
   hint_choose: 'Tap an answer to select it.',
   feedback_correct: '✓ Correct!',
   feedback_wrong: '✗ Wrong!',
   next_question: 'Next question',
   see_recap: 'See recap',
-  solo_topbar: 'Set {b}/{tb} · {i}/{n}',
-  lot_label: 'Set {b} / {tb}',
-  continue_solo: 'Continue ({n} new questions)',
   challenge_a_friend: 'Challenge a friend',
 
   // Mistakes recap
@@ -105,7 +120,7 @@ export default {
   personality_good: 'Not bad at all 👏',
   personality_bad: 'Ouch... time to study 😅',
 
-  // Challenge — setup
+  // Challenge: setup
   challenge_title: 'Challenge a friend',
   setup_sub:
     'Play your game, then share a link with a friend: they’ll get the same questions and you’ll compare scores round by round.',
@@ -116,24 +131,23 @@ export default {
   rounds_help: '{n} rounds · {q} questions, all different',
   rounds_help_one: '{n} round · {q} questions, all different',
   launch_challenge: 'Start the challenge',
-  simulate_friend: 'Try with a simulated friend',
   default_host: 'Player 1',
   default_join: 'Player 2',
   default_friend: 'A friend',
 
-  // Challenge — invite
+  // Challenge: invite
   invite_invalid: 'Invalid challenge link 😕',
   invite_title: '{host} challenged you! ⚔️',
   invite_sub:
-    'Take on the challenge on "{cat}" — {rounds} ({q} questions): you’ll play the exact same questions, then compare scores round by round.',
+    'Take on the challenge on “{cat}”, {rounds} ({q} questions): you’ll play the exact same questions, then compare scores round by round.',
   accept_challenge: 'Accept the challenge',
 
-  // Challenge — in game
+  // Challenge: in game
   challenge_topbar: 'Round {r}/{mr} · Q{i}/{n}',
   answer_saved: 'Answer saved… 🤫',
   continue_challenge: 'Continue ({n} new questions)',
 
-  // Challenge — results (titles)
+  // Challenge: results (titles)
   result_tie_final: '🤝 Perfect tie!',
   result_win_final: '🏆 You won!',
   result_lose_final: '😅 {opp} wins',
@@ -151,19 +165,10 @@ export default {
   share_play_title: 'Share this link with your friend',
   share_play_sub:
     'They’ll play the exact same questions, then you’ll compare scores round by round.',
-  copy: 'Copy',
-  copied: '✓ Copied',
 
-  // Result sharing
+  // Result sharing (the native share title is app_title)
   share_result_title: 'Share your result',
-  share_copy_link: 'Copy result link',
-  share_link_copied: '✓ Link copied',
-  share_as_image: 'Share as image',
   share_generating: 'Generating…',
-  share_downloaded: 'Image downloaded ✓',
-  share_image_error: 'Couldn’t generate the image 😕',
-  share_native_title: 'Quizz - Who’s the best?',
-  share_native_image_text: 'My Quizz result 🎯 Your turn!',
 
   // Result view (shared-link conversion page)
   result_invalid: 'Invalid result link 😕',
@@ -173,7 +178,7 @@ export default {
   landing_play: 'Play now',
   concept_title: '💡 What is Quizz?',
   concept_text:
-    'Fun quizzes to test your knowledge — solo or against your friends. Free, no account.',
+    'Fun quizzes to test your knowledge, solo or against your friends. Free, no account.',
   result_duel_win: '🏆 {name} wins!',
   result_duel_tie: '🤝 Perfect tie!',
   rounds_count: '{n} rounds',
@@ -190,31 +195,30 @@ export default {
   card_round: 'Round {i}',
   card_rounds_n: '{n} ROUNDS',
   card_rounds_one: '{n} ROUND',
-  card_cta_duel: 'Your turn — can you beat it?',
+  card_cta_duel: 'Your turn: can you beat it?',
   card_cta_solo: 'Think you can do better?',
   card_play_cta: 'Play free at',
-  // Design v2 (ambiances + tuiles de stats)
+  // Design v2 (themes + stat tiles)
   theme_toggle: 'Switch theme',
   hero_sub: 'Study hard, or challenge a friend',
   tile_answered: 'questions played',
   tile_correct: 'correct answers',
   tile_precision: 'accuracy',
 
-  // Don (soutien)
+  // Donation (support)
   donate_footer: 'Support',
   donate_title: 'Support Quizz 💜',
   donate_sub: 'A small donation helps the game grow (servers, new questions). Thank you!',
   donate_custom: 'Custom amount (€)',
-  donate_cta: 'Donate {n} €',
+  donate_cta: 'Donate €{n}',
   donate_thanks: 'Thank you so much for your support! The game grows thanks to you. 💜',
 
-
-  // Chargement de la banque de questions (chunk séparé)
+  // Question bank loading (separate chunk)
   bank_loading: 'Loading questions…',
   bank_error: 'Could not load the questions. Please check your connection.',
   bank_retry: 'Try again',
 
-  // Accroche de l'accueil + liens vers les pages statiques (à-propos, contact)
+  // Home tagline + links to the static pages (about, contact)
   home_tagline: 'Free quiz, no account: {n} questions, {k} themes, solo or as a challenge with friends.',
   footer_about: 'About',
   footer_contact: 'Contact',

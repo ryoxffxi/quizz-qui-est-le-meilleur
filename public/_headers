@@ -1,0 +1,23 @@
+# En-têtes servis par Cloudflare Workers Static Assets (copié dans dist/ par Vite).
+# Les règles qui correspondent à une même URL se cumulent.
+
+# Fichiers hachés par Vite : immuables, un an de cache.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Manifeste PWA et service worker : toujours revalidés.
+/manifest.webmanifest
+  Cache-Control: no-cache
+
+/sw.js
+  Cache-Control: no-cache
+
+# Sécurité, sur tout le site.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  X-Frame-Options: SAMEORIGIN

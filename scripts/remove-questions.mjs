@@ -2,8 +2,12 @@
 //
 //   node scripts/remove-questions.mjs <categorie> <id> [<id>...] [--dry]
 //
-// Les ids NE SONT PAS réattribués : ils voyagent dans les liens de Défi (la
-// graine rejoue la même sélection) et renuméroter casserait les liens partagés.
+// Les ids NE SONT PAS réattribués : ils sont publics (pages statiques
+// /quiz/<cat>, stats et banque d'erreurs en localStorage) et le tirage des Défis
+// classe les questions par hash(graine + id). Seule la GRAINE voyage dans un
+// lien de Défi, jamais les ids : retirer une question ne change, dans les decks
+// qui la contenaient, que sa propre place (une autre la remplace) ; renuméroter,
+// en revanche, changerait toutes les cartes de tous les liens en circulation.
 // Une banque peut donc avoir des trous dans sa numérotation, c'est normal.
 
 import { readFileSync, writeFileSync } from 'node:fs'

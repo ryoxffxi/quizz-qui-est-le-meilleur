@@ -1,0 +1,243 @@
+# fix-banks-2026-09 : état des banques après réparation (régénéré à chaque exécution, stable)
+# Décisions du 2026-09-07 ; un doublon = même bonne réponse et énoncés qui se recoupent.
+# Avant : culture 506, manga 505, cinéma 505, code de la route 500 (voir l en-tête du script).
+
+## a. Champ `tier` : aucune question ne le porte
+
+## b. Réparations factuelles (id | état | quoi)
+route_0248 | en place | alcool transport en commun : 0,2 g/L (R234-1 II), pas 0 g/L
+cinema_0459 | en place | Dexter est analyste de traces de sang, pas professeur de littérature (aligné sur EN)
+cinema_0466 | en place | Snowfall : épidémie de crack à Los Angeles, pas un groupe de rap (aligné sur EN)
+cinema_0376 | en place | Jane Campion est réalisatrice néo-zélandaise, pas actrice française (aligné sur EN)
+cinema_0341 | en place | The Killing est une série danoise (scandinave), pas allemande ni française (aligné sur EN)
+cinema_0340 | en place | Agnès Varda est cinéaste, pas actrice (les 4 langues)
+cinema_0314 | en place | explication : Marty (1955) cumulait déjà Palme et Oscar ; Parasite est le premier film non anglophone oscarisé
+route_0507 | en place | explication : franchir un passage à niveau fermé est une contravention de 4e classe, pas un délit
+manga_0508 | en place | Inumaki a des yeux : il parle avec des ingrédients d onigiri (aligné sur EN)
+manga_0511 | en place | Anohana et Ano Hi Mita Hana sont la même œuvre : 2e titre remplacé (aligné sur EN)
+manga_0483 | en place | Panda est en deuxième année ; énoncé réécrit sans citer la réponse (les 4 langues)
+manga_0335 | en place | Fruits Basket (2019) est de TMS, pas de A-1 Pictures : remplacé par Erased (A-1 Pictures)
+manga_0335 | en place | ES/PT : guillemets «Erased» sans espaces intérieurs, comme le reste de la phrase
+manga_0504 | en place | Zankyou = Terror in Resonance (deux options identiques) : distracteur remplacé
+manga_0500 | en place | Higurashi date de 2006 : « 2011 » retiré des traductions
+manga_0324 | en place | explication FR reformulée (tournure inversée peu naturelle)
+manga_0477 | en place | explication FR reformulée
+route_0353 | en place | tautologie : la réponse (80 km/h) figurait entre parenthèses dans l énoncé
+route_0415 | en place | tautologie (« par an » dans l énoncé et la réponse) et formulation bancale
+manga_0134 | en place | tautologie : « One Piece » dans l énoncé (les 4 langues)
+manga_0005 | en place | tautologie : « Death Note » dans l énoncé (les 4 langues)
+manga_0007 | en place | tautologie : « Titans » dans le titre cité (les 4 langues)
+manga_0021 | en place | tautologie : « Fairy Tail » dans l énoncé (les 4 langues)
+manga_0234 | en place | tautologie : « Code Geass » dans l énoncé (les 4 langues)
+manga_0268 | en place | tautologie : « Kuroko s Basket » dans l énoncé (les 4 langues, explication déplacée)
+culture_0476 | en place | tautologie : « stade » et « France » dans l énoncé (les 4 langues, explication déplacée)
+culture_0508 | en place | absurde : « quelle plante produit le lin ? → le lin » (les 4 langues)
+cinema_0154 | en place | tautologie : « la Bête » dans le titre cité (les 4 langues)
+cinema_0290 | en place | tautologie : « 1917 » dans l énoncé (les 4 langues)
+cinema_0409 | en place | tautologie : « dictateur » dans l énoncé (les 4 langues)
+cinema_0432 | en place | tautologie : « Guillermo del Toro » et « Pinocchio » dans l énoncé (les 4 langues, explication déplacée)
+culture_0469 | en place | EN : « (10⁹) » retiré (nombre présent en EN seulement)
+cinema_0336 | en place | PT : « 017 » → « 007 » dans le titre de « Dangereusement vôtre »
+
+## c. Vouvoiement (code de la route) : id | état
+route_0206 | en place
+route_0211 | en place
+route_0241 | en place
+route_0245 | en place
+route_0292 | en place
+route_0369 | en place
+
+## d. Tirets longs restants dans les textes affichés : 0
+## e. Options commençant encore par une minuscule (hors casse mixte) : 0
+
+## f. Relabel (id | difficulté)
+culture_0027 | facile
+culture_0029 | facile
+culture_0031 | facile
+culture_0035 | facile
+culture_0036 | facile
+culture_0038 | facile
+culture_0039 | facile
+culture_0044 | facile
+culture_0045 | facile
+culture_0047 | facile
+culture_0048 | facile
+culture_0090 | facile
+culture_0091 | facile
+culture_0092 | facile
+culture_0110 | facile
+culture_0111 | facile
+culture_0129 | facile
+culture_0131 | facile
+culture_0134 | facile
+culture_0150 | facile
+culture_0152 | facile
+culture_0165 | facile
+culture_0183 | facile
+culture_0359 | facile
+culture_0360 | facile
+culture_0361 | facile
+cinema_0041 | facile
+cinema_0043 | facile
+cinema_0044 | facile
+cinema_0048 | facile
+cinema_0050 | facile
+cinema_0090 | facile
+cinema_0091 | facile
+cinema_0093 | facile
+cinema_0108 | facile
+cinema_0109 | facile
+cinema_0127 | facile
+cinema_0130 | facile
+cinema_0144 | facile
+cinema_0148 | facile
+cinema_0151 | facile
+cinema_0164 | facile
+cinema_0166 | facile
+cinema_0167 | facile
+cinema_0186 | facile
+cinema_0368 | facile
+manga_0027 | facile
+manga_0028 | facile
+manga_0032 | facile
+manga_0037 | facile
+manga_0043 | facile
+manga_0046 | facile
+manga_0048 | facile
+manga_0093 | facile
+manga_0095 | facile
+manga_0116 | facile
+manga_0134 | facile
+manga_0147 | facile
+manga_0149 | facile
+manga_0150 | facile
+manga_0165 | facile
+culture_0193 | expert
+culture_0297 | expert
+culture_0310 | expert
+culture_0384 | expert
+culture_0389 | expert
+culture_0427 | expert
+culture_0433 | expert
+culture_0437 | expert
+culture_0439 | expert
+culture_0483 | expert
+cinema_0355 | expert
+cinema_0432 | expert
+manga_0477 | expert
+
+## g. Suppressions (banque | id | gardée à la place | raison | état)
+culture-generale | culture_0022 | culture_0213 | doublon sémantique : le cœur pompe le sang | absente
+culture-generale | culture_0041 | culture_0307 | doublon sémantique : le fémur, os le plus long | absente
+culture-generale | culture_0046 | culture_0220 | doublon sémantique : Darwin et la sélection naturelle | absente
+culture-generale | culture_0050 | culture_0214 | doublon sémantique : le CO2 absorbé par la photosynthèse | absente
+culture-generale | culture_0074 | culture_0251 | doublon sémantique : Fleming et la pénicilline | absente
+culture-generale | culture_0094 | culture_0225 | doublon sémantique : Michel-Ange et la chapelle Sixtine | absente
+culture-generale | culture_0101 | culture_0319 | doublon sémantique : 2, plus petit / seul nombre premier pair | absente
+culture-generale | culture_0112 | culture_0227 | doublon sémantique : Van Gogh et La Nuit étoilée | absente
+culture-generale | culture_0132 | culture_0216 | doublon sémantique : 206 os | absente
+culture-generale | culture_0175 | culture_0057 | doublon sémantique : 6 pattes (coccinelle / insecte) | absente
+culture-generale | culture_0188 | culture_0247 | doublon sémantique : Edison et l ampoule | absente
+culture-generale | culture_0192 | culture_0080 | doublon sémantique : Auguste, premier empereur romain | absente
+culture-generale | culture_0391 | culture_0261 | doublon sémantique : 4 cordes (basse / ukulélé / violon) | absente
+culture-generale | culture_0018 | culture_0215 | doublon sémantique : la baleine bleue, plus grand animal | absente
+culture-generale | culture_0064 | (aucune) | absurde : « Sur quelle planète vivons-nous ? » | absente
+culture-generale | culture_0086 | (aucune) | absurde : table de multiplication (7 × 8) | absente
+culture-generale | culture_0089 | (aucune) | absurde : minutes dans deux heures | absente
+culture-generale | culture_0299 | (aucune) | absurde : calcul de pourcentage (15 % de 200) | absente
+culture-generale | culture_0141 | (aucune) | absurde : jours dans une semaine | absente
+culture-generale | culture_0054 | (aucune) | absurde : minutes dans une heure | absente
+culture-generale | culture_0138 | (aucune) | absurde : secondes dans une minute | absente
+culture-generale | culture_0118 | (aucune) | absurde : minutes dans une demi-heure | absente
+culture-generale | culture_0156 | (aucune) | absurde : doigts sur deux mains | absente
+culture-generale | culture_0011 | (aucune) | absurde : doigts d une main | absente
+culture-generale | culture_0154 | (aucune) | absurde : pattes d un chat | absente
+manga-anime | manga_0118 | manga_0002 | doublon sémantique : Konoha, village de Naruto | absente
+manga-anime | manga_0014 | manga_0224 | doublon sémantique : Usagi Tsukino | absente
+manga-anime | manga_0022 | manga_0211 | doublon sémantique : Miyazaki et Le Voyage de Chihiro | absente
+manga-anime | manga_0098 | manga_0038 | doublon sémantique : Miyazaki et Princesse Mononoké | absente
+manga-anime | manga_0026 | manga_0194 | doublon sémantique : le Gomu Gomu no Mi | absente
+manga-anime | manga_0030 | manga_0254 | doublon sémantique : Ufotable et Demon Slayer | absente
+manga-anime | manga_0071 | manga_0128 | doublon sémantique : le Chidori | absente
+manga-anime | manga_0072 | manga_0405 | doublon sémantique : Bones et FMA Brotherhood | absente
+manga-anime | manga_0080 | manga_0202 | doublon sémantique : les Vikings de Vinland Saga | absente
+manga-anime | manga_0090 | manga_0245 | doublon sémantique : Eiichiro Oda | absente
+manga-anime | manga_0096 | manga_0375 | doublon sémantique : Muzan Kibutsuji | absente
+manga-anime | manga_0109 | manga_0351 | doublon sémantique : l Akatsuki | absente
+manga-anime | manga_0113 | manga_0497 | doublon sémantique : Yusuke Murata | absente
+manga-anime | manga_0132 | manga_0346 | doublon sémantique : Satoru Gojo et son bandeau | absente
+manga-anime | manga_0137 | manga_0381 | doublon sémantique : Inosuke et sa tête de sanglier | absente
+manga-anime | manga_0166 | manga_0281 | doublon sémantique : Makoto Shinkai et Your Name | absente
+manga-anime | manga_0219 | manga_0325 | doublon sémantique : Joe Hisaishi | absente
+manga-anime | manga_0489 | manga_0292 | doublon sémantique : Kyoto Animation (A Silent Voice, cf. aussi manga_0229) | absente
+manga-anime | manga_0378 | manga_0255 | doublon sémantique : doujinshi | absente
+manga-anime | manga_0087 | manga_0048 | doublon sémantique : le lycée U.A. (et « village » erroné) | absente
+manga-anime | manga_0192 | manga_0008 | doublon sémantique : les Alters (VF officielle, pas « Dons ») | absente
+manga-anime | manga_0018 | manga_0193 | doublon sémantique : les Hollows | absente
+manga-anime | manga_0069 | manga_0320 | doublon sémantique : Yoshihiro Togashi | absente
+manga-anime | manga_0073 | manga_0210 | doublon sémantique : Kentaro Miura | absente
+cinema-series | cinema_0115 | cinema_0225 | doublon sémantique : Pixar et Toy Story | absente
+cinema-series | cinema_0007 | cinema_0440 | doublon sémantique : « Vers l infini et au-delà » | absente
+cinema-series | cinema_0010 | cinema_0356 | doublon sémantique : Succession | absente
+cinema-series | cinema_0011 | cinema_0107 | doublon sémantique : Shrek, l ogre vert | absente
+cinema-series | cinema_0016 | cinema_0248 | doublon sémantique : DiCaprio dans Titanic | absente
+cinema-series | cinema_0019 | cinema_0237 | doublon sémantique : le sabre laser | absente
+cinema-series | cinema_0203 | cinema_0237 | doublon sémantique : le sabre laser | absente
+cinema-series | cinema_0021 | cinema_0362 | doublon sémantique : Simba | absente
+cinema-series | cinema_0226 | cinema_0362 | doublon sémantique : Simba | absente
+cinema-series | cinema_0022 | cinema_0186 | doublon sémantique : The Walking Dead | absente
+cinema-series | cinema_0036 | cinema_0230 | doublon sémantique : Vice-versa | absente
+cinema-series | cinema_0038 | cinema_0232 | doublon sémantique : Blanche-Neige, premier long métrage Disney | absente
+cinema-series | cinema_0042 | cinema_0469 | doublon sémantique : Breaking Bad | absente
+cinema-series | cinema_0047 | cinema_0417 | doublon sémantique : Tom Hanks dans Forrest Gump | absente
+cinema-series | cinema_0071 | cinema_0331 | doublon sémantique : Titane, Palme d or 2021 | absente
+cinema-series | cinema_0095 | cinema_0213 | doublon sémantique : Friends à New York | absente
+cinema-series | cinema_0189 | cinema_0242 | doublon sémantique : Hitchcock et Psychose | absente
+cinema-series | cinema_0098 | cinema_0250 | doublon sémantique : Peter Jackson | absente
+cinema-series | cinema_0128 | cinema_0218 | doublon sémantique : La Casa de Papel | absente
+cinema-series | cinema_0199 | cinema_0283 | doublon sémantique : Ennio Morricone | absente
+cinema-series | cinema_0287 | cinema_0355 | doublon sémantique : Persepolis | absente
+cinema-series | cinema_0097 | cinema_0457 | doublon sémantique : Les Évadés | absente
+cinema-series | cinema_0032 | cinema_0505 | doublon sémantique : Coppola et Le Parrain | absente
+cinema-series | cinema_0221 | (aucune) | tautologie : « la série sur rien » de Seinfeld, réponse dans l énoncé | absente
+code-route | route_0002 | route_0365 | doublon sémantique : 50 km/h en agglomération | absente
+code-route | route_0109 | route_0354 | doublon sémantique : 50 km/h sous 50 m de visibilité | absente
+code-route | route_0014 | route_0085 | doublon sémantique : téléphone en main interdit | absente
+code-route | route_0018 | route_0307 | doublon sémantique : panneaux d autoroute bleus | absente
+code-route | route_0073 | route_0399 | doublon sémantique : 110 km/h en permis probatoire | absente
+code-route | route_0044 | route_0503 | doublon sémantique : 1,6 mm de rainure | absente
+code-route | route_0046 | route_0267 | doublon sémantique : panneau cerf, animaux sauvages | absente
+code-route | route_0067 | route_0247 | doublon sémantique : 1 point pour un excès < 20 km/h | absente
+code-route | route_0068 | route_0126 | doublon sémantique : 3 points pour le téléphone en main | absente
+code-route | route_0074 | route_0162 | doublon sémantique : 3 points pour une ligne continue | absente
+code-route | route_0106 | route_0505 | doublon sémantique : 6 points au départ du probatoire | absente
+code-route | route_0076 | route_0164 | doublon sémantique : conduire sans assurance est un délit | absente
+code-route | route_0087 | route_0311 | doublon sémantique : panneau enfants (école) | absente
+code-route | route_0127 | route_0395 | doublon sémantique : distance de freinage × 4 | absente
+code-route | route_0066 | route_0395 | doublon sémantique : distance de freinage × 4 | absente
+code-route | route_0141 | route_0360 | doublon sémantique : clignotant droit pour sortir d un rond-point | absente
+code-route | route_0176 | route_0369 | doublon sémantique : sortie d autoroute ratée | absente
+code-route | route_0187 | route_0352 | doublon sémantique : 110 → 100 km/h sous la pluie | absente
+code-route | route_0255 | route_0335 | doublon sémantique : ligne jaune continue | absente
+code-route | route_0362 | route_0264 | doublon sémantique : on double par la gauche | absente
+code-route | route_0277 | route_0323 | doublon sémantique : vitesse minimale obligatoire (rond bleu) | absente
+code-route | route_0285 | route_0328 | doublon sémantique : losange jaune, route prioritaire | absente
+code-route | route_0490 | route_0185 | doublon sémantique : car scolaire, descente d enfants | absente
+code-route | route_0256 | route_0456 | doublon sémantique : protéger, alerter, secourir | absente
+code-route | route_0131 | route_0501 | doublon sémantique : premier contrôle technique à 4 ans | absente
+code-route | route_0418 | route_0219 | doublon sémantique : permis B à 17 ans | absente
+code-route | route_0036 | route_0504 | doublon sémantique : règle des 2 secondes | absente
+code-route | route_0091 | route_0504 | doublon sémantique : règle des 2 secondes | absente
+code-route | route_0078 | (aucune) | tautologie : « zone 30 » dans l énoncé, réponse 30 km/h | absente
+
+## h. Permutation des options : répartition A/B/C/D de `correct`
+culture-generale | 116/136/116/113
+manga-anime | 106/142/110/123
+cinema-series | 122/125/116/118
+code-route | 121/117/131/102
+
+## Comptes après réparation (total | facile | expert)
+culture-generale | 481 | 240 | 241
+manga-anime | 481 | 253 | 228
+cinema-series | 481 | 253 | 228
+code-route | 471 | 239 | 232

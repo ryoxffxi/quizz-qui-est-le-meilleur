@@ -3,31 +3,61 @@
 //   node scripts/audit-questions.mjs            → toutes les banques
 //   node scripts/audit-questions.mjs manga-anime → une seule
 //
-// Contrôle, pour chaque banque :
-//   · ids uniques et bien formés
-//   · les 4 langues présentes et non vides (question, options, explication)
-//   · exactement 4 options par langue, sans doublon interne
-//   · `correct` entier dans 0-3
-//   · difficulty dans facile|expert
-//   · doublons EXACTS de question (texte FR normalisé)
-//   · quasi-doublons : même question à quelques mots près, ou même jeu de
-//     réponses proposé pour deux questions différentes
+// Les contrôles de fond (doublons, tautologies, statistiques) vivent dans
+// scripts/lib/qa.mjs et sont partagés avec merge-questions.mjs : ce qui bloque
+// une fusion doit aussi apparaître ici, et réciproquement.
 //
-// Sort en code 1 si une ERREUR est trouvée. Les quasi-doublons sont des
-// AVERTISSEMENTS : ils demandent un œil humain, pas un rejet automatique.
+// ERREURS (code de sortie 1) :
+//   · id manquant ou en double ; difficulty hors facile|expert ; correct hors 0-3
+//   · langues attendues absentes ou vides (question, options, explication)
+//   · autre chose que 4 options par langue, ou deux options identiques
+//   · champ inconnu sur une question (ex. l'ancien `tier`) : cf. CLES_CONNUES
+//   · tiret long (U+2014) dans un texte affiché
+//   · réponse contenue dans l'énoncé (tautologie : la question se répond seule)
+//   · doublon EXACT d'énoncé FR (image + difficulté pour la banque à images)
+//
+// AVERTISSEMENTS (demandent un œil humain, pas un rejet automatique) :
+//   · doublons sémantiques : même bonne réponse et énoncés qui se recoupent
+//   · bonne option strictement la plus longue dans plus de 35 % de la banque
+//   · `correct` concentré sur un seul index (plus de 60 % des questions)
+//   · énoncé FR / EN incohérents (nombres ou négations qui diffèrent)
 
 import { readdirSync, readFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import {
+  LANGS,
+  DIFFICULTES,
+  normalise,
+  clesInconnues,
+  tiretLong,
+  reponseDansEnonce,
+  doublonsSemantiques,
+  optionLaPlusLongue,
+  distributionCorrect,
+  incoherenceFrEn,
+} from './lib/qa.mjs'
 
 const CONTENT = join(dirname(fileURLToPath(import.meta.url)), '..', 'src', 'content')
-const LANGS = ['fr', 'en', 'es', 'pt']
-const DIFFICULTIES = ['facile', 'expert']
 
 // Banques volontairement monolingues : le code de la route et les panneaux sont
 // propres à la France (`frOnly` dans content/index.js). Exiger en/es/pt ici
 // signalerait des centaines de fausses erreurs.
 const BANQUES_FR_SEUL = new Set(['code-route', 'panneaux-quiz'])
+
+// Banque à images : l'énoncé est générique (« Que signifie ce panneau ? »), c'est
+// l'IMAGE qui pose la question. Le même panneau existe légitimement en facile et
+// en expert, et les questions « inverses » (« Quel panneau signifie X ? ») ont
+// toutes la même bonne réponse textuelle deux à deux. Le contrôle des doublons
+// sémantiques n'a donc pas de sens ici : seul le doublon exact (image +
+// difficulté + énoncé) est vérifié.
+const BANQUES_IMAGES = new Set(['panneaux-quiz'])
+
+// Au-delà de cette part, la longueur trahit la bonne réponse.
+const SEUIL_PLUS_LONGUE = 0.35
+// Au-delà de cette part sur un seul index, le joueur qui clique toujours au
+// même endroit est récompensé (et les pages statiques affichent « A ✓ » partout).
+const SEUIL_CONCENTRATION = 0.6
 
 const cible = process.argv[2]
 const fichiers = readdirSync(CONTENT)
@@ -40,25 +70,7 @@ if (!fichiers.length) {
   process.exit(1)
 }
 
-function normalise(texte) {
-  return String(texte)
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[̀-ͯ]/g, '')
-    .replace(/[^a-z0-9]+/g, ' ')
-    .trim()
-}
-
-// Similarité par mots communs (Jaccard) : simple, lisible, suffisant pour
-// repérer « Qui a peint la Joconde ? » vs « Qui a peint la Joconde (Mona Lisa) ? ».
-function similarite(a, b) {
-  const A = new Set(normalise(a).split(' '))
-  const B = new Set(normalise(b).split(' '))
-  const commun = [...A].filter((m) => B.has(m)).length
-  return commun / (A.size + B.size - commun)
-}
-
-const SEUIL_PROCHE = 0.8
+const pourcent = (x) => `${Math.round(x * 100)} %`
 
 let totalErreurs = 0
 let totalAvertissements = 0
@@ -67,20 +79,25 @@ for (const fichier of fichiers) {
   const nom = fichier.replace(/\.json$/, '')
   const banque = JSON.parse(readFileSync(join(CONTENT, fichier), 'utf8'))
   const langues = BANQUES_FR_SEUL.has(nom) ? ['fr'] : LANGS
+  const parId = new Map(banque.map((q) => [q.id, q]))
   const erreurs = []
   const avertissements = []
   const ids = new Set()
 
+  // --- contrôles unitaires ---------------------------------------------------
   banque.forEach((q, i) => {
     const ou = `${q.id || `#${i}`}`
     if (!q.id) erreurs.push(`${ou} : id manquant`)
     else if (ids.has(q.id)) erreurs.push(`${ou} : id en double`)
     else ids.add(q.id)
 
-    if (!DIFFICULTIES.includes(q.difficulty))
+    if (!DIFFICULTES.includes(q.difficulty))
       erreurs.push(`${ou} : difficulty « ${q.difficulty} »`)
     if (!Number.isInteger(q.correct) || q.correct < 0 || q.correct > 3)
       erreurs.push(`${ou} : correct = ${q.correct}`)
+
+    const inconnues = clesInconnues(q)
+    if (inconnues.length) erreurs.push(`${ou} : champ(s) inconnu(s) ${inconnues.join(', ')}`)
 
     for (const lang of langues) {
       if (!q.question?.[lang]?.trim()) erreurs.push(`${ou} : question.${lang} vide`)
@@ -95,15 +112,29 @@ for (const fichier of fichiers) {
       if (new Set(options.map(normalise)).size !== 4)
         erreurs.push(`${ou} : options.${lang} contient des doublons`)
     }
+
+    const tirets = tiretLong(q)
+    if (tirets.length) erreurs.push(`${ou} : tiret long dans ${tirets.join(', ')}`)
+
+    if (reponseDansEnonce(q)) {
+      erreurs.push(
+        `${ou} : la réponse est dans l'énoncé\n` +
+          `      · ${q.question.fr}\n` +
+          `      · → ${q.options.fr[q.correct]}`,
+      )
+    }
+
+    const incoherence = incoherenceFrEn(q)
+    if (incoherence) avertissements.push(`${ou} : FR/EN, ${incoherence}`)
   })
 
-  // Doublons exacts. Deux ajustements pour la banque à images (panneaux) :
-  //   · l'énoncé y est volontairement générique (« Que signifie ce panneau ? »)
-  //     — c'est l'IMAGE qui pose la question, donc elle entre dans la clé ;
-  //   · un même panneau existe en facile ET en expert (intrus hors famille vs
-  //     pièges dans la même famille), donc la difficulté aussi.
+  // --- doublons exacts -------------------------------------------------------
+  // Pour la banque à images, l'image et la difficulté entrent dans la clé (voir
+  // BANQUES_IMAGES) ; ailleurs, l'énoncé FR normalisé suffit.
   const cleDe = (q) =>
-    `${q.image || ''}|${q.difficulty}|${normalise(q.question?.fr || '')}`
+    BANQUES_IMAGES.has(nom)
+      ? `${q.image || ''}|${q.difficulty}|${normalise(q.question?.fr || '')}`
+      : normalise(q.question?.fr || '')
   const parTexte = new Map()
   banque.forEach((q) => {
     const cle = cleDe(q)
@@ -114,68 +145,43 @@ for (const fichier of fichiers) {
     if (groupe.length > 1) erreurs.push(`doublon exact : ${groupe.join(' = ')}`)
   }
 
-  // Quasi-doublons. Deux signaux :
-  //   · énoncés très proches mot à mot ;
-  //   · mêmes 4 réponses ET même bonne réponse ET énoncés qui se recoupent.
-  //
-  // Le seul partage des réponses ne suffit PAS : « Qui a réalisé E.T. ? » et
-  // « Qui a réalisé Jurassic Park ? » ont les mêmes choix et la même réponse
-  // (Spielberg) tout en étant deux questions légitimes. De même, toutes les
-  // questions de vitesse du code partagent le quatuor 80/90/110/130. On exige
-  // donc en plus un recoupement des énoncés.
-  const RECOUPEMENT_MIN = 0.5
-  const signes = new Map()
-  const vues = new Set()
-  banque.forEach((q) => {
-    const options = q.options?.fr
-    if (!Array.isArray(options)) return
-    const signe = options.map(normalise).sort().join('|')
-    if (!signes.has(signe)) signes.set(signe, [])
-    signes.get(signe).push(q)
-  })
-  for (const [, groupe] of signes) {
-    if (groupe.length < 2) continue
-    for (let i = 0; i < groupe.length; i++) {
-      for (let j = i + 1; j < groupe.length; j++) {
-        // Comparer le TEXTE de la bonne réponse, pas son index : deux questions
-        // peuvent proposer les mêmes 4 choix dans un ordre différent, auquel cas
-        // des index égaux désignent des réponses différentes.
-        const bonne = (q) => normalise(q.options.fr[q.correct])
-        if (bonne(groupe[i]) !== bonne(groupe[j])) continue
-        const s = similarite(groupe[i].question.fr, groupe[j].question.fr)
-        if (s < RECOUPEMENT_MIN) continue
-        const paire = `${groupe[i].id}/${groupe[j].id}`
-        vues.add(paire)
-        avertissements.push(
-          `doublon probable (mêmes réponses, énoncés à ${Math.round(s * 100)} %) ${paire}\n` +
-            `      · ${groupe[i].question.fr}\n` +
-            `      · ${groupe[j].question.fr}`,
-        )
-      }
+  // --- doublons sémantiques --------------------------------------------------
+  if (!BANQUES_IMAGES.has(nom)) {
+    for (const p of doublonsSemantiques(banque)) {
+      const A = parId.get(p.a)
+      const B = parId.get(p.b)
+      avertissements.push(
+        `doublon sémantique ${p.a} / ${p.b} (${p.raison}, recoupement ${pourcent(p.score)})\n` +
+          `      · ${A.question.fr}\n` +
+          `      · ${B.question.fr}\n` +
+          `      · → ${A.options.fr[A.correct]}`,
+      )
     }
   }
 
-  const textes = banque.map((q) => ({ id: q.id, fr: q.question?.fr || '' }))
-  for (let i = 0; i < textes.length; i++) {
-    for (let j = i + 1; j < textes.length; j++) {
-      if (normalise(textes[i].fr) === normalise(textes[j].fr)) continue // déjà en erreur
-      if (vues.has(`${textes[i].id}/${textes[j].id}`)) continue // déjà signalé ci-dessus
-      const s = similarite(textes[i].fr, textes[j].fr)
-      if (s >= SEUIL_PROCHE) {
-        avertissements.push(
-          `énoncés proches (${Math.round(s * 100)} %) ${textes[i].id} / ${textes[j].id}\n` +
-            `      · ${textes[i].fr}\n` +
-            `      · ${textes[j].fr}`,
-        )
-      }
-    }
+  // --- statistiques de banque ------------------------------------------------
+  const longue = optionLaPlusLongue(banque)
+  if (longue.ratio > SEUIL_PLUS_LONGUE) {
+    avertissements.push(
+      `bonne option strictement la plus longue dans ${longue.plusLongue}/${longue.total} questions ` +
+        `(${pourcent(longue.ratio)}, seuil ${pourcent(SEUIL_PLUS_LONGUE)})`,
+    )
+  }
+  const dist = distributionCorrect(banque)
+  if (dist.partMax > SEUIL_CONCENTRATION) {
+    avertissements.push(
+      `\`correct\` concentré : ${pourcent(dist.partMax)} des bonnes réponses en ${'ABCD'[dist.indexMax]} ` +
+        `(répartition A/B/C/D = ${dist.comptes.join('/')}, seuil ${pourcent(SEUIL_CONCENTRATION)})`,
+    )
   }
 
+  // --- rapport ---------------------------------------------------------------
   const compte = (d) => banque.filter((q) => q.difficulty === d).length
   const etat = erreurs.length ? '❌' : avertissements.length ? '⚠️ ' : '✅'
   console.log(
     `${etat} ${nom.padEnd(18)} ${String(banque.length).padStart(4)} questions ` +
-      `(facile ${compte('facile')}, expert ${compte('expert')})`,
+      `(facile ${compte('facile')}, expert ${compte('expert')}) ` +
+      `· correct A/B/C/D = ${dist.comptes.join('/')} · plus longue ${pourcent(longue.ratio)}`,
   )
   erreurs.forEach((e) => console.log(`    ERREUR  ${e}`))
   avertissements.forEach((a) => console.log(`    ATTENTION ${a}`))
@@ -184,7 +190,5 @@ for (const fichier of fichiers) {
   totalAvertissements += avertissements.length
 }
 
-console.log(
-  `\n${totalErreurs} erreur(s), ${totalAvertissements} avertissement(s).`,
-)
+console.log(`\n${totalErreurs} erreur(s), ${totalAvertissements} avertissement(s).`)
 process.exit(totalErreurs ? 1 : 0)

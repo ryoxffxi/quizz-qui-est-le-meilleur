@@ -1,0 +1,517 @@
+/* ===== Accueil « tableau de bord » (Home, HomeProgress) =====
+   S'appuie sur index.css : .home, .home-head, .selectors, .categories,
+   .hero-card, .cat-card, .cat-ic, .cat-tx, .fam-chips / .fam-chip, .btn.
+   Mobile-first ; la grille 2 colonnes (>= 900 px) vient d'index.css et range
+   les nouveaux blocs directs de .home (progression, duels) dans la colonne de
+   gauche, la carte du jour vit dans .categories (colonne de droite).
+
+   Structure des cartes : le conteneur garde sa classe historique (.hero-card,
+   .cat-card, hauteur réservée par la coquille statique), le bouton principal
+   est .hero-main / .cat-main, et les compléments (.hero-exam, .cat-meta) sont
+   des frères : aucun bouton imbriqué dans un bouton. */
+
+/* --- Titre de section discret (majuscules, comme .field-label) ------------ */
+.home-section-title {
+  margin: 0;
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+
+/* --- Mini-jauge (couverture d'une catégorie, moyenne d'examen) -------------
+   Remplie par transform (pas de relayout) : --fill de 0 à 1 en inline,
+   --cat colore la barre (repli accent). Piste lisible sur toute surface. */
+.cat-gauge {
+  display: block;
+  height: 4px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--text) 12%, transparent);
+  overflow: hidden;
+}
+.cat-gauge-fill {
+  display: block;
+  height: 100%;
+  width: 100%;
+  transform: scaleX(var(--fill, 0));
+  transform-origin: left center;
+  border-radius: 999px;
+  background: var(--cat, var(--accent));
+  transition: transform 0.45s var(--spring);
+}
+.cat-gauge-fill.is-good {
+  background: var(--good);
+}
+
+/* --- « Ta progression » -------------------------------------------------- */
+.home-progress {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  margin: -6px 0 22px;
+}
+/* Avant la première partie : une ligne d'accroche (et le bouton Installer). */
+.home-progress.is-empty {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px 14px;
+}
+.progress-empty {
+  flex: 1 1 200px;
+  margin: 0;
+  font-size: var(--fs-sm);
+  line-height: 1.4;
+  color: var(--text-dim);
+}
+.progress-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.progress-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 32px;
+  padding: 5px 11px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  font-size: var(--fs-sm);
+  font-weight: 650;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+.progress-chip.is-streak svg {
+  color: var(--warn);
+}
+.progress-chip.is-target svg {
+  color: var(--accent);
+}
+.progress-chip.is-best {
+  color: var(--text-dim);
+  font-weight: 600;
+}
+.progress-hint {
+  margin: 0;
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  color: var(--accent-soft);
+}
+.progress-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  gap: 8px;
+}
+/* « Reprendre » : dernière catégorie / niveau, avec sa jauge de couverture. */
+.progress-resume {
+  flex: 1 1 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: var(--tap);
+  padding: 10px 12px;
+  text-align: left;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  color: var(--text);
+  font: inherit;
+  cursor: pointer;
+  transition: transform 0.18s var(--spring), border-color 0.2s var(--ease);
+}
+.progress-resume:active {
+  transform: scale(0.98);
+}
+.progress-resume-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: var(--fs-md);
+  font-weight: 700;
+}
+.progress-resume-head svg {
+  color: var(--accent);
+}
+.progress-resume-sub {
+  font-size: var(--fs-xs);
+  color: var(--text-dim);
+}
+/* « Installer l'app » : discret, pointillé, seulement quand le shell le propose. */
+.progress-install {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-height: var(--tap);
+  padding: 8px 12px;
+  background: none;
+  border: 1px dashed var(--border-strong);
+  border-radius: var(--radius-sm);
+  color: var(--text-dim);
+  font: inherit;
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  cursor: pointer;
+  transition: color 0.2s var(--ease), border-color 0.2s var(--ease);
+}
+
+/* --- « Défi du jour » (au-dessus des catégories, onglet Quiz) ------------- */
+.daily-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+}
+.daily-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 4px 10px;
+}
+.daily-kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-display);
+  font-size: var(--fs-md);
+  font-weight: 700;
+}
+.daily-kicker svg {
+  color: var(--accent);
+}
+.daily-date {
+  font-size: var(--fs-xs);
+  color: var(--text-dim);
+}
+/* Chips de catégorie : rangée défilante bord à bord (base .fam-chips). */
+.daily-chips {
+  margin: 0 -16px;
+  padding: 2px 16px 4px;
+}
+.daily-chip-state {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  margin-left: 7px;
+  padding-left: 7px;
+  border-left: 1px solid color-mix(in srgb, currentColor 30%, transparent);
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+.daily-sub {
+  margin: 0;
+  font-size: var(--fs-sm);
+  line-height: 1.4;
+  color: var(--text-dim);
+}
+.daily-go {
+  margin-top: 2px;
+}
+
+/* --- Carte héros (Code de la route, FR) ------------------------------------ */
+.hero-main {
+  position: relative;
+  z-index: 1;
+  display: block;
+  width: 100%;
+  padding: 0;
+  background: none;
+  border: 0;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+/* Bloc examen blanc : pleine largeur sous le séparateur. */
+.hero-exam {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 14px -16px -16px;
+  padding: 12px 16px 16px;
+  border-top: 1px solid var(--border);
+}
+.hero-exam-sub {
+  margin: 0;
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--text);
+}
+.hero-ready {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.hero-ready-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+  flex-wrap: wrap;
+  font-size: var(--fs-xs);
+}
+.hero-ready-label {
+  font-weight: 600;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+.hero-ready-value {
+  font-weight: 650;
+  color: var(--text-dim);
+  font-variant-numeric: tabular-nums;
+}
+.hero-ready-value.is-good {
+  color: var(--good);
+}
+.hero-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px 12px;
+}
+.hero-actions .btn {
+  flex: 1 1 200px;
+  width: auto;
+  padding: 12px 14px;
+}
+/* Lien texte « Mes erreurs (n) » (même dessin que .link-btn du Défi). */
+.hero-errors {
+  min-height: var(--tap);
+  padding: 8px 4px;
+  background: none;
+  border: 0;
+  color: var(--text-dim);
+  font: inherit;
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+/* Le retour tactile reste sur le bouton principal, pas sur toute la carte. */
+.home .hero-card:active {
+  transform: none;
+}
+.hero-main:active {
+  transform: scale(0.98);
+}
+
+/* --- Cartes de catégorie ---------------------------------------------------- */
+/* Le conteneur passe en colonne : bouton principal, puis métadonnées. */
+.home .cat-card {
+  flex-direction: column;
+  align-items: stretch;
+  gap: 10px;
+}
+.home .cat-card:active {
+  transform: none;
+}
+.cat-main {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  min-height: 46px;
+  padding: 0;
+  background: none;
+  border: 0;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: transform 0.18s var(--spring);
+}
+.cat-main:active {
+  transform: scale(0.98);
+}
+/* Coquille statique : les mêmes classes sur des liens. */
+a.hero-main,
+a.cat-main {
+  text-decoration: none;
+  color: inherit;
+}
+a.daily-go,
+a.hero-exam-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.cat-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.cat-chips {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+}
+.cat-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 9px;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  background: var(--surface-2);
+  color: var(--text-dim);
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+.cat-chip-record svg {
+  color: var(--warn);
+}
+/* Pastille « n erreurs à revoir » : un vrai bouton, zone de tap étendue à 44 px. */
+.cat-chip-errors {
+  position: relative;
+  min-height: 28px;
+  font: inherit;
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  color: var(--bad);
+  background: color-mix(in srgb, var(--bad) 10%, transparent);
+  border-color: color-mix(in srgb, var(--bad) 40%, transparent);
+  cursor: pointer;
+  transition: background 0.2s var(--ease);
+}
+.cat-chip-errors::after {
+  content: '';
+  position: absolute;
+  inset: -8px 0;
+}
+
+/* --- « Mes duels » ---------------------------------------------------------- */
+.home-duels {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 26px;
+}
+.duel-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.duel-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 10px 12px;
+}
+.duel-item .cat-ic {
+  width: 38px;
+  height: 38px;
+  border-radius: 12px;
+}
+.duel-tx {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.duel-line {
+  font-size: var(--fs-sm);
+  font-weight: 650;
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+}
+.duel-sub {
+  font-size: var(--fs-xs);
+  color: var(--text-dim);
+  font-variant-numeric: tabular-nums;
+}
+.duel-status.is-sent {
+  color: var(--warn);
+}
+.duel-status.is-answered {
+  color: var(--good);
+}
+.duel-rematch {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  min-height: var(--tap);
+  padding: 8px 12px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--text);
+  font: inherit;
+  font-size: var(--fs-sm);
+  font-weight: 650;
+  cursor: pointer;
+  transition: transform 0.18s var(--spring), border-color 0.2s var(--ease);
+}
+.duel-rematch:active {
+  transform: scale(0.96);
+}
+
+/* --- Survol (pointeur fin seulement, jamais collant au doigt) --------------- */
+@media (hover: hover) and (pointer: fine) {
+  .progress-resume:hover,
+  .progress-install:hover,
+  .duel-rematch:hover {
+    border-color: var(--border-strong);
+    color: var(--text);
+  }
+  .hero-errors:hover {
+    color: var(--text);
+  }
+  .cat-chip-errors:hover {
+    background: color-mix(in srgb, var(--bad) 18%, transparent);
+  }
+}
+
+/* --- Grand écran (grille 2 colonnes d'index.css) ---------------------------- */
+@media (min-width: 900px) {
+  .home-progress {
+    margin-top: 0;
+  }
+  /* Les contrôles d'en-tête (ambiance, langue, son) flottent en haut à droite
+     de .app : la colonne des catégories démarre sous eux (44 px + marge). */
+  .home .categories {
+    padding-top: 46px;
+  }
+  /* « Mes duels » suit les catégories dans la colonne de droite (rangée 6). */
+  .home .home-duels {
+    grid-column: 2;
+    margin-top: 16px;
+  }
+}
+
+/* --- Mouvement réduit : la jauge se pose sans transition -------------------- */
+@media (prefers-reduced-motion: reduce) {
+  .cat-gauge-fill {
+    transition: none;
+  }
+}

@@ -14,7 +14,7 @@ export const CATEGORIES = [
     bank: 'culture-generale',
     labelKey: 'cat_culture',
     emoji: '🧠',
-    gradient: ['#6366f1', '#8b5cf6'],
+    gradient: ['#8b7cff', '#8b5cf6'],
     load: () => import('./culture-generale.json'),
   },
   {
@@ -22,7 +22,7 @@ export const CATEGORIES = [
     bank: 'manga-anime',
     labelKey: 'cat_manga',
     emoji: '🍥',
-    gradient: ['#ec4899', '#f43f5e'],
+    gradient: ['#ff6b9d', '#f43f5e'],
     load: () => import('./manga-anime.json'),
   },
   {
@@ -30,7 +30,7 @@ export const CATEGORIES = [
     bank: 'code-route',
     labelKey: 'cat_route',
     emoji: '🚦',
-    gradient: ['#f59e0b', '#ef4444'],
+    gradient: ['#ffb020', '#ef4444'],
     load: () => import('./code-route.json'),
     frOnly: true, // le code de la route est spécifique à la France
   },
@@ -39,7 +39,7 @@ export const CATEGORIES = [
     bank: 'panneaux-quiz', // l'id et le fichier diffèrent ici (historique)
     labelKey: 'cat_panneaux',
     emoji: '🚸',
-    gradient: ['#16a34a', '#0d9488'],
+    gradient: ['#2dd4a7', '#0d9488'],
     load: () => import('./panneaux-quiz.json'),
     frOnly: true, // panneaux français (les questions portent une image)
   },
@@ -48,7 +48,7 @@ export const CATEGORIES = [
     bank: 'cinema-series',
     labelKey: 'cat_cinema',
     emoji: '🎬',
-    gradient: ['#06b6d4', '#3b82f6'],
+    gradient: ['#4cc2ff', '#3b82f6'],
     load: () => import('./cinema-series.json'),
   },
 ]

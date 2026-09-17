@@ -1,0 +1,265 @@
+/* ===== Examen blanc (ExamQuiz) =====
+   S'appuie sur les classes communes (.quiz, .quiz-topbar, .timer-track,
+   .option, .result-hero, .setup-card…). Tout est préfixé .exam-quiz pour ne
+   pas déborder sur les autres écrans. Mobile-first. */
+
+/* --- Règles avant de commencer ------------------------------------------- */
+.exam-quiz .exam-rules {
+  list-style: none;
+  margin: 18px 0 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: left;
+}
+.exam-quiz .exam-rules li {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 11px 13px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+.exam-quiz .exam-rules li::before {
+  content: '';
+  flex: none;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 10px var(--accent-glow);
+}
+
+/* --- Confirmation de sortie (fenêtre en ligne) ---------------------------- */
+.exam-quiz .exam-confirm {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--warn);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  margin-bottom: 14px;
+  animation: fade-up 0.25s var(--ease);
+}
+.exam-quiz .exam-confirm-title {
+  margin: 0 0 4px;
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.exam-quiz .exam-confirm-text {
+  margin: 0 0 12px;
+  font-size: 0.88rem;
+  color: var(--text-dim);
+}
+.exam-quiz .exam-confirm-actions {
+  display: flex;
+  gap: 10px;
+}
+.exam-quiz .exam-confirm-actions .btn {
+  padding: 12px;
+  font-size: 0.95rem;
+}
+.exam-quiz .exam-btn-quit {
+  background: var(--bad);
+  color: #fff;
+}
+.exam-quiz .exam-btn-quit:active {
+  transform: scale(0.98);
+}
+
+/* --- Options illustrées (optionImages) : grille 2×2, image au centre -------
+   (.sr-only global d'index.css pour le nom, gardé pour les lecteurs d'écran ;
+   les actions ancrées en bas reprennent .quiz-actions d'index.css). */
+.exam-quiz .options.options-visual {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.exam-quiz .option.option-visual {
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 10px;
+}
+.exam-quiz .option-sign {
+  flex: none;
+  width: min(110px, 30vw);
+}
+
+/* --- Sections du bilan ----------------------------------------------------- */
+.exam-quiz .exam-section {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  margin-bottom: 18px;
+  text-align: left;
+}
+.exam-quiz .exam-section-title {
+  margin: 0 0 12px;
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+.exam-quiz .exam-section .btn {
+  margin-top: 12px;
+}
+
+/* Bilan par thème : barres horizontales, thème le plus faible en avant. */
+.exam-quiz .exam-themes {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.exam-quiz .exam-theme {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 6px 10px;
+  align-items: center;
+  padding: 10px 12px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+}
+.exam-quiz .exam-theme.weak {
+  border-color: var(--warn);
+}
+.exam-quiz .exam-theme-name {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.9rem;
+  font-weight: 650;
+}
+.exam-quiz .exam-theme-badge {
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--warn) 18%, transparent);
+  color: var(--warn);
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+.exam-quiz .exam-theme-score {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text-dim);
+  font-variant-numeric: tabular-nums;
+}
+.exam-quiz .exam-theme-bar {
+  grid-column: 1 / -1;
+  height: 8px;
+  background: var(--bg);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.exam-quiz .exam-theme-fill {
+  height: 100%;
+  background: var(--good);
+  border-radius: 999px;
+  transition: width 0.6s var(--ease);
+}
+.exam-quiz .exam-theme.weak .exam-theme-fill {
+  background: var(--warn);
+}
+
+/* Jauge « Prêt pour l'examen ? » : moyenne des 3 derniers + repère cible. */
+.exam-quiz .exam-ready-track {
+  position: relative;
+  height: 12px;
+  margin: 6px 0 10px;
+  background: var(--surface-2);
+  border-radius: 999px;
+}
+.exam-quiz .exam-ready-fill {
+  height: 100%;
+  background: var(--accent);
+  border-radius: 999px;
+  box-shadow: 0 0 12px var(--accent-glow);
+  transition: width 0.7s var(--ease);
+}
+.exam-quiz .exam-ready-fill.ready {
+  background: var(--good);
+  box-shadow: none;
+}
+.exam-quiz .exam-ready-mark {
+  position: absolute;
+  top: -5px;
+  left: calc(var(--target, 92.5) * 1%);
+  width: 2px;
+  height: 22px;
+  background: var(--text);
+  border-radius: 2px;
+  transform: translateX(-50%);
+}
+.exam-quiz .exam-ready-avg {
+  margin: 0;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+.exam-quiz .exam-ready-verdict {
+  margin: 4px 0 0;
+  font-size: 0.86rem;
+  color: var(--text-dim);
+}
+.exam-quiz .exam-ready-verdict.ready {
+  color: var(--good);
+  font-weight: 650;
+}
+
+/* Historique des derniers examens */
+.exam-quiz .exam-history-title {
+  margin: 14px 0 8px;
+  font-size: 0.78rem;
+  font-weight: 650;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: var(--text-dim);
+}
+.exam-quiz .exam-history {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.exam-quiz .exam-history-chip {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  padding: 7px 12px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+.exam-quiz .exam-history-chip small {
+  font-family: inherit;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-dim);
+}
+.exam-quiz .exam-history-chip.pass {
+  border-color: color-mix(in srgb, var(--good) 55%, transparent);
+  color: var(--good);
+}
+.exam-quiz .exam-history-chip.fail {
+  border-color: color-mix(in srgb, var(--bad) 55%, transparent);
+  color: var(--bad);
+}
+
+/* --- Mouvement réduit ------------------------------------------------------ */
+@media (prefers-reduced-motion: reduce) {
+  .exam-quiz .exam-confirm {
+    animation: none;
+  }
+  .exam-quiz .exam-theme-fill,
+  .exam-quiz .exam-ready-fill {
+    transition: none;
+  }
+}

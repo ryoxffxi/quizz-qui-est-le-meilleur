@@ -8,20 +8,27 @@ const KEY = 'quizz_cookie_consent'
 // page : on peut continuer à utiliser le quiz derrière. Par défaut, seuls les
 // cookies essentiels sont actifs ; la mesure d'audience ne se charge qu'après
 // un clic sur « Accepter ». Le choix est mémorisé dans localStorage.
+// Cibles tactiles : .cookie-btn et .cookie-more font 44 px de haut (index.css).
+function readChoice() {
+  try {
+    return localStorage.getItem(KEY)
+  } catch {
+    return null // localStorage indisponible
+  }
+}
+
 export default function CookieConsent() {
   const { t } = useI18n()
-  const [visible, setVisible] = useState(false)
+  // Visible tant qu'aucun choix n'est mémorisé (lecture pure à l'initialisation,
+  // pas de setState dans l'effet : StrictMode rejoue l'initialiseur sans effet).
+  const [visible, setVisible] = useState(() => {
+    const choice = readChoice()
+    return choice !== 'accepted' && choice !== 'rejected'
+  })
   const [expanded, setExpanded] = useState(false)
 
   useEffect(() => {
-    let choice = null
-    try {
-      choice = localStorage.getItem(KEY)
-    } catch {
-      /* localStorage indisponible */
-    }
-    if (choice === 'accepted') loadNonEssential()
-    if (choice !== 'accepted' && choice !== 'rejected') setVisible(true)
+    if (readChoice() === 'accepted') loadNonEssential() // idempotent
 
     // Rouvrir le bandeau depuis le lien « Cookies » du pied de page.
     const open = () => {
@@ -72,6 +79,7 @@ export default function CookieConsent() {
       <button
         type="button"
         className="cookie-more"
+        aria-expanded={expanded}
         onClick={() => setExpanded((v) => !v)}
       >
         {t('cookie_more')}

@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <!-- Logo « Q » Quizz : pastille volt + lettre (police système grasse,
-       cohérente avec la marque Space Grotesk affichée dans l'app). -->
+  <!-- Logo « Q » Quizz : pastille volt + Q géométrique tracé en chemins
+       (aucune police à charger : un favicon ne peut pas embarquer Space Grotesk).
+       Les icônes PNG (public/icons/, scripts/make-icons.mjs) utilisent la vraie lettre. -->
   <rect width="64" height="64" rx="15" fill="#d8ff3d"/>
-  <text x="32" y="45" text-anchor="middle" font-family="'Space Grotesk','Avenir Next','Helvetica Neue',Arial,sans-serif" font-size="40" font-weight="700" fill="#10140a">Q</text>
+  <path fill="#10140a" fill-rule="evenodd" d="M32 12.5a17.5 17.5 0 1 0 0 35 17.5 17.5 0 0 0 0-35zm0 7.6a9.9 9.9 0 1 1 0 19.8 9.9 9.9 0 0 1 0-19.8z"/>
+  <path d="M38 36.5 48 47" fill="none" stroke="#10140a" stroke-width="7.6" stroke-linecap="round"/>
 </svg>

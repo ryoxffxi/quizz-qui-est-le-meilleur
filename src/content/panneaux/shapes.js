@@ -48,7 +48,7 @@ export function interdiction(
   )
 }
 
-// Rond bleu (obligation) — picto blanc.
+// Rond bleu (obligation) : picto blanc.
 export function obligation(picto = '') {
   return wrap(
     `<circle cx="120" cy="120" r="106" fill="#fff"/><circle cx="120" cy="120" r="100" fill="${BLUE}"/>${picto}`,
@@ -64,7 +64,7 @@ export function finObligation(picto = '') {
   )
 }
 
-// Carré bleu à coins arrondis (indication) — picto blanc.
+// Carré bleu à coins arrondis (indication) : picto blanc.
 export function indication(picto = '') {
   return wrap(
     `<rect x="12" y="12" width="216" height="216" rx="22" fill="#fff"/><rect x="20" y="20" width="200" height="200" rx="16" fill="${BLUE}"/>${picto}`,
@@ -73,14 +73,14 @@ export function indication(picto = '') {
 
 // ===== Panneaux « géométriques » construits ici =====
 
-// AB3a — Cédez le passage (triangle inversé, sans picto).
+// AB3a : cédez le passage (triangle inversé, sans picto).
 export function cedez() {
   return wrap(
     `<path d="M120 216 L16 36 L224 36 Z" fill="#fff" stroke="${RED}" stroke-width="22" stroke-linejoin="round"/>`,
   )
 }
 
-// AB4 — Stop (octogone rouge, liseré blanc).
+// AB4 : stop (octogone rouge, liseré blanc).
 export function stop() {
   const pts = []
   for (let i = 0; i < 8; i++) {
@@ -92,14 +92,14 @@ export function stop() {
   )
 }
 
-// B1 — Sens interdit (disque rouge, barre blanche).
+// B1 : sens interdit (disque rouge, barre blanche).
 export function sensInterdit() {
   return wrap(
     `<circle cx="120" cy="120" r="106" fill="#fff"/><circle cx="120" cy="120" r="99" fill="${RED}"/><rect x="48" y="105" width="144" height="30" rx="8" fill="#fff"/>`,
   )
 }
 
-// B14 — Limitation de vitesse.
+// B14 : limitation de vitesse.
 export function vitesse(n) {
   const s = String(n)
   const size = s.length >= 3 ? 84 : 104
@@ -109,7 +109,7 @@ export function vitesse(n) {
   )
 }
 
-// B25 — Vitesse minimale obligatoire (rond bleu, chiffre blanc).
+// B25 : vitesse minimale obligatoire (rond bleu, chiffre blanc).
 export function vitesseMin(n) {
   return wrap(
     `<circle cx="120" cy="120" r="106" fill="#fff"/><circle cx="120" cy="120" r="100" fill="${BLUE}"/><text x="120" y="156" text-anchor="middle" font-family="${FONT}" font-size="104" font-weight="800" fill="#fff">${n}</text>`,
@@ -121,12 +121,12 @@ function finBase(inner = '') {
   return `<circle cx="120" cy="120" r="103" fill="#fff" stroke="${INK}" stroke-width="4"/>${inner}`
 }
 
-// B31 — Fin de toutes les interdictions.
+// B31 : fin de toutes les interdictions.
 export function finTout() {
   return wrap(finBase(endBand()))
 }
 
-// B33 — Fin de limitation de vitesse (chiffre gris + bande).
+// B33 : fin de limitation de vitesse (chiffre gris + bande).
 export function finVitesse(n) {
   const s = String(n)
   const size = s.length >= 3 ? 80 : 100
@@ -142,7 +142,7 @@ export function finPicto(pictoGris = '') {
   return wrap(finBase(`${pictoGris}${endBand()}`))
 }
 
-// AB6 — Route prioritaire (losange jaune) ; AB7 — fin (bande noire).
+// AB6 : route prioritaire (losange jaune) ; AB7 : fin (bande noire).
 export function prioritaire({ fin = false } = {}) {
   return wrap(
     `<g transform="rotate(45 120 120)"><rect x="46" y="46" width="148" height="148" rx="14" fill="#fff" stroke="#c9ced4" stroke-width="2"/><rect x="76" y="76" width="88" height="88" rx="8" fill="${YELLOW}"/></g>${
@@ -151,21 +151,23 @@ export function prioritaire({ fin = false } = {}) {
   )
 }
 
-// AB1 — Intersection à priorité à droite (croix en X).
+// AB1 : intersection à priorité à droite (croix de Saint-André, un vrai X à
+// 45°). Les deux branches sont tracées directement en diagonale, sans rotate :
+// une rotation appliquée à un « + » dessiné en biais donnait un X penché.
 export function ab1() {
   return danger(
-    `<path d="M96 108 L144 172 M144 108 L96 172" stroke="${INK}" stroke-width="17" stroke-linecap="round" fill="none" transform="rotate(45 120 140)"/>`,
+    `<path d="M90 118 L150 178 M150 118 L90 178" stroke="${INK}" stroke-width="17" stroke-linecap="round" fill="none"/>`,
   )
 }
 
-// AB2 — Intersection avec route non prioritaire (trait vertical épais + fin).
+// AB2 : intersection avec route non prioritaire (trait vertical épais + fin).
 export function ab2() {
   return danger(
     `<rect x="111" y="102" width="18" height="86" fill="${INK}"/><rect x="82" y="128" width="76" height="9" fill="${INK}"/>`,
   )
 }
 
-// B30 / B51 — Entrée et sortie de zone 30.
+// B30 / B51 : entrée et sortie de zone 30.
 export function zone30() {
   return wrap(
     `<rect x="12" y="12" width="216" height="216" rx="18" fill="#fff" stroke="#c9ced4" stroke-width="3"/><circle cx="120" cy="96" r="62" fill="#fff" stroke="${RED}" stroke-width="15"/><text x="120" y="120" text-anchor="middle" font-family="${FONT}" font-size="66" font-weight="800" fill="${INK}">30</text><text x="120" y="205" text-anchor="middle" font-family="${FONT}" font-size="46" font-weight="800" fill="${INK}">ZONE</text>`,
@@ -178,14 +180,14 @@ export function finZone30() {
   )
 }
 
-// C1 — Parking.
+// C1 : parking.
 export function parking() {
   return indication(
     `<text x="120" y="172" text-anchor="middle" font-family="${FONT}" font-size="150" font-weight="800" fill="#fff">P</text>`,
   )
 }
 
-// C13a — Impasse.
+// C13a : impasse.
 export function impasse() {
   return indication(
     `<rect x="108" y="92" width="24" height="106" fill="#fff"/><rect x="62" y="52" width="116" height="26" rx="4" fill="${RED}"/>`,
