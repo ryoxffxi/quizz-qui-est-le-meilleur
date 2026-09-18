@@ -5873,16 +5873,17 @@
     },
     "options": {
       "fr": [
-        "Voie sans issue",
         "Carrefour à sens giratoire",
-        "Demi-tour autorisé",
-        "Sens unique"
+        "Carrefour à priorité à droite",
+        "Rétrécissement de la chaussée",
+        "Sens unique obligatoire"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "Le panneau A25 annonce l'approche d'un carrefour à sens giratoire (rond-point)."
-    }
+      "fr": "Le panneau A25, triangulaire avec trois flèches courbes, annonce l'approche d'un carrefour à sens giratoire."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0314",
@@ -5913,16 +5914,17 @@
     },
     "options": {
       "fr": [
-        "Attention camions",
         "Accès interdit aux poids lourds",
-        "Voie réservée aux camions",
-        "Aire de stationnement camions"
+        "Limitation de tonnage à 3,5 t",
+        "Stationnement interdit aux camions",
+        "Dépassement interdit aux camions"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "Ce panneau d'interdiction (B8) interdit l'accès aux véhicules de transport de marchandises."
-    }
+      "fr": "Le panneau B8, rond à bordure rouge avec un camion, interdit l'accès aux véhicules de transport de marchandises de plus de 3,5 tonnes."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0316",
@@ -5933,16 +5935,17 @@
     },
     "options": {
       "fr": [
-        "Il indique une amende",
         "Il complète ou précise le panneau",
-        "Il annule le panneau",
-        "Il remplace le panneau"
+        "Il annule le panneau qu'il accompagne",
+        "Il remplace entièrement le panneau",
+        "Il indique le montant d'une amende"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "Le panonceau apporte une précision (distance, étendue, catégorie de véhicules, etc.) au panneau au-dessus."
-    }
+      "fr": "Un panonceau, plus petit, est fixé sous un panneau pour en préciser la portée : distance, catégorie de véhicules ou horaires concernés."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0317",
@@ -5953,16 +5956,17 @@
     },
     "options": {
       "fr": [
-        "Feux en panne",
-        "Stop à venir",
-        "Carrefour dangereux",
-        "Annonce de feux tricolores"
+        "Annonce de feux tricolores",
+        "Annonce d'un radar fixe",
+        "Annonce d'un péage proche",
+        "Zone scolaire proche"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "Le panneau A17 annonce l'approche de feux de signalisation tricolores."
-    }
+      "fr": "Le panneau A17 annonce l'approche de feux tricolores mal visibles ou situés après un point dangereux, invitant à ralentir."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0318",
@@ -5973,16 +5977,17 @@
     },
     "options": {
       "fr": [
-        "Double sens de circulation",
-        "Demi-tour autorisé",
-        "Fin de voie",
-        "Contournement obligatoire des deux côtés"
+        "Contournement obligatoire des deux côtés",
+        "Contournement obligatoire par la droite uniquement",
+        "Double sens de circulation temporaire",
+        "Demi-tour interdit à cet endroit"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "Ce panneau d'obligation indique un contournement possible par la droite ou par la gauche d'un obstacle."
-    }
+      "fr": "Ce panneau rond bleu, avec deux flèches contournant un obstacle, autorise le passage indifféremment par la droite ou par la gauche."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0319",
@@ -5994,15 +5999,16 @@
     "options": {
       "fr": [
         "Traversée possible d'avions à basse altitude",
-        "Aéroport interdit",
-        "Parking aéroport",
-        "Aérodrome touristique"
+        "Proximité d'un aérodrome ou d'une piste",
+        "Interdiction totale de survol à basse altitude",
+        "Terrain d'aviation militaire fermé au public"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Le panneau A23 signale une zone où des avions peuvent voler à très basse altitude."
-    }
+      "fr": "Le panneau A23 signale une zone où des avions ou des planeurs peuvent voler à très basse altitude, près d'un aérodrome."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0320",
@@ -6014,15 +6020,16 @@
     "options": {
       "fr": [
         "Pont mobile (pont basculant)",
-        "Quai ou berge",
-        "Pont étroit",
-        "Passage à gué"
+        "Pont étroit à sens alterné",
+        "Passage à gué praticable",
+        "Quai ou berge en bord de route"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Le panneau A6 annonce un pont mobile qui peut s'ouvrir au passage des bateaux."
-    }
+      "fr": "Le panneau A6 annonce un pont mobile pouvant s'ouvrir ou pivoter pour laisser passer les bateaux, imposant la prudence à l'approche."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0321",
@@ -6033,16 +6040,17 @@
     },
     "options": {
       "fr": [
-        "Risque d'inondation",
-        "Passage à niveau",
         "Débouché sur un quai ou une berge",
-        "Pont étroit"
+        "Risque d'inondation de la chaussée",
+        "Passage à niveau non gardé",
+        "Pont étroit sans visibilité"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "Le panneau A19 prévient d'un débouché sur un quai ou une berge, avec risque de chute dans l'eau."
-    }
+      "fr": "Le panneau A19 prévient d'un débouché direct sur un quai ou une berge, avec un risque de chute du véhicule dans l'eau."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0322",
@@ -6053,16 +6061,17 @@
     },
     "options": {
       "fr": [
-        "Zone de silence touristique",
-        "Fin de zone bruyante",
         "Usage du klaxon interdit",
-        "Klaxon obligatoire"
+        "Usage du klaxon toléré la nuit",
+        "Interdiction de rouler au ralenti",
+        "Zone à vitesse limitée à 30 km/h"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "Ce panneau d'interdiction (B16) interdit l'usage des avertisseurs sonores."
-    }
+      "fr": "Ce panneau d'interdiction interdit l'usage des avertisseurs sonores, sauf danger immédiat justifiant un signal d'alerte."
+    },
+    "theme": "environnement"
   },
   {
     "id": "route_0323",
@@ -6074,15 +6083,16 @@
     "options": {
       "fr": [
         "Vitesse minimale obligatoire",
-        "Fin de limitation",
-        "Distance entre véhicules",
-        "Vitesse maximale"
+        "Vitesse maximale conseillée",
+        "Distance minimale entre véhicules",
+        "Fin de toute limitation de vitesse"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Ce panneau d'obligation (B25) impose une vitesse minimale à respecter."
-    }
+      "fr": "Un disque bleu avec un nombre impose une vitesse minimale à respecter, par exemple sur une voie rapide ou dans un tunnel."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0324",
@@ -6095,14 +6105,15 @@
       "fr": [
         "Restaurant à proximité",
         "Aire de pique-nique",
-        "Station-service",
-        "Hôtel"
+        "Café-bar à proximité",
+        "Camping à proximité"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Ce panneau de service (CE) signale un restaurant à proximité."
-    }
+      "fr": "Ce panneau de service, une fourchette et un couteau sur fond bleu, signale un restaurant accessible depuis la route."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0325",
@@ -6114,15 +6125,16 @@
     "options": {
       "fr": [
         "Station-service (poste de carburant)",
-        "Borne de recharge interdite",
-        "Parking payant",
-        "Garage interdit"
+        "Station de recharge électrique pour véhicules",
+        "Aire de repos avec parking",
+        "Garage de réparation agréé"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Ce panneau de service indique la présence d'un poste de distribution de carburant."
-    }
+      "fr": "Ce panneau de service à la pompe à essence indique un poste de distribution de carburant accessible à proximité immédiate."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0326",
@@ -6133,16 +6145,17 @@
     },
     "options": {
       "fr": [
-        "Une fin de chantier",
-        "Un danger permanent renforcé",
-        "Une déviation définitive",
-        "Un danger lié à un chantier ou un événement temporaire"
+        "Un danger lié à un chantier ou un événement temporaire",
+        "Une fin de chantier définitive et permanente",
+        "Un danger permanent, inscrit durablement au règlement de voirie",
+        "Une déviation permanente de la circulation"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "La signalisation temporaire (chantiers, événements) est à fond jaune et prime sur la signalisation permanente."
-    }
+      "fr": "La signalisation temporaire, à fond jaune, prévient d'un danger ponctuel lié à des travaux ou un évènement, et prime sur les panneaux permanents."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0327",
@@ -6153,16 +6166,17 @@
     },
     "options": {
       "fr": [
-        "Fin de chantier",
-        "Fin d'autoroute",
-        "Fin de priorité",
-        "Fin de toutes les interdictions précédentes"
+        "Fin de toutes les interdictions précédentes",
+        "Fin de la seule limitation de vitesse imposée",
+        "Fin du stationnement réglementé",
+        "Fin de la zone de danger signalée"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "Le panneau B31 marque la fin de toutes les interdictions imposées par les panneaux d'interdiction précédents."
-    }
+      "fr": "Le panneau B31, un cercle barré d'obliques, met fin à toutes les interdictions précédemment imposées par les panneaux de la série B."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0328",
@@ -6173,16 +6187,17 @@
     },
     "options": {
       "fr": [
-        "Cédez le passage",
         "Route prioritaire",
-        "Intersection dangereuse",
-        "Fin de route prioritaire"
+        "Cédez le passage",
+        "Fin de priorité",
+        "Carrefour dangereux"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "Le panneau AB6 (losange jaune) indique le caractère prioritaire de la route empruntée."
-    }
+      "fr": "Le panneau AB6, un losange jaune à bordure blanche, indique que la route empruntée est prioritaire aux intersections suivantes."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0329",
@@ -6193,16 +6208,17 @@
     },
     "options": {
       "fr": [
-        "La distance de sécurité à respecter",
+        "La distance restant à parcourir avant la sortie",
         "La longueur de la voie de décélération",
-        "La distance jusqu'à la prochaine aire",
-        "La distance restant à parcourir avant la sortie"
+        "La distance de sécurité minimale à respecter",
+        "La distance jusqu'à la prochaine aire de repos"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "Les panneaux de présignalisation de sortie sont généralement implantés à 1000 m, 500 m puis 300 m de la sortie."
-    }
+      "fr": "Ces panneaux de présignalisation, placés à 1000 m, 500 m puis 300 m avant la sortie, indiquent la distance restante à parcourir."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0330",
@@ -6215,14 +6231,15 @@
       "fr": [
         "L'interdiction ne s'applique pas aux riverains",
         "L'accès est réservé aux riverains uniquement",
-        "Les riverains doivent ralentir",
-        "L'interdiction est renforcée"
+        "Les riverains doivent circuler au pas",
+        "L'interdiction est fortement renforcée pour les riverains"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Le panonceau « SAUF RIVERAINS » exempte les riverains de l'interdiction indiquée par le panneau."
-    }
+      "fr": "Le panonceau « sauf riverains » exempte les habitants et ayants droit du secteur de l'interdiction indiquée par le panneau principal."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0331",
@@ -6233,16 +6250,17 @@
     },
     "options": {
       "fr": [
-        "Une catégorie de véhicules",
         "L'étendue de la section concernée par le panneau",
-        "La distance avant le danger",
-        "La direction à suivre"
+        "La catégorie de véhicules concernés",
+        "La distance restant à parcourir avant le danger signalé",
+        "La direction obligatoire à suivre ensuite"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "Le panonceau d'étendue (M3) précise la longueur de la section sur laquelle s'applique l'indication."
-    }
+      "fr": "Le panonceau M3, une flèche horizontale, précise la longueur de la section de route sur laquelle s'applique le panneau au-dessus."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0332",
@@ -6274,15 +6292,16 @@
     "options": {
       "fr": [
         "L'obligation de quitter sa voie et de se rabattre",
-        "Un changement de direction conseillé",
-        "Une voie d'accélération",
-        "Une fin de zone de dépassement"
+        "Un simple changement de direction conseillé",
+        "Une voie d'accélération sur l'autoroute",
+        "Une fin de zone de dépassement autorisé"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Les flèches de rabattement indiquent que la voie va disparaître et qu'il faut se rabattre sur la voie adjacente."
-    }
+      "fr": "Les flèches obliques peintes au sol annoncent la fin d'une voie et imposent de s'y engager pour se rabattre sur la voie voisine."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0334",
@@ -6295,14 +6314,15 @@
       "fr": [
         "Un poste d'appel d'urgence",
         "Une cabine de péage",
-        "Une bande d'arrêt d'urgence",
-        "Une aire de repos"
+        "Une simple aire de repos",
+        "Une bande d'arrêt proche"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Ce panneau signale un poste d'appel d'urgence permettant de joindre les secours autoroutiers."
-    }
+      "fr": "Ce panneau, avec le pictogramme d'un téléphone, signale un poste d'appel d'urgence relié aux services de secours autoroutiers."
+    },
+    "theme": "secours"
   },
   {
     "id": "route_0335",
@@ -6314,15 +6334,16 @@
     "options": {
       "fr": [
         "Arrêt et stationnement interdits",
-        "Délimitation de piste cyclable",
-        "Stationnement interdit mais arrêt autorisé",
-        "Voie réservée aux bus"
+        "Délimitation d'une piste cyclable",
+        "Stationnement toléré, arrêt interdit",
+        "Voie réservée aux transports en commun"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Une ligne jaune continue au bord de la chaussée interdit l'arrêt et le stationnement."
-    }
+      "fr": "Une ligne jaune continue tracée en bordure de chaussée interdit à la fois l'arrêt et le stationnement du véhicule, même bref."
+    },
+    "theme": "vehicule_prendre_quitter"
   },
   {
     "id": "route_0336",
@@ -6333,16 +6354,17 @@
     },
     "options": {
       "fr": [
-        "Arrêt et stationnement interdits",
-        "Zone de livraison",
-        "Stationnement payant",
-        "Stationnement interdit (arrêt toléré)"
+        "Stationnement interdit (arrêt toléré)",
+        "Arrêt et stationnement tous deux interdits",
+        "Stationnement payant à horodateur",
+        "Zone réservée aux livraisons uniquement"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "La ligne jaune discontinue en bordure interdit le stationnement mais autorise l'arrêt momentané."
-    }
+      "fr": "La ligne jaune discontinue en bordure de trottoir interdit le stationnement mais tolère un arrêt bref, le temps de charger ou décharger."
+    },
+    "theme": "vehicule_prendre_quitter"
   },
   {
     "id": "route_0337",
@@ -6353,16 +6375,17 @@
     },
     "options": {
       "fr": [
-        "Attention cyclistes",
-        "Piste cyclable obligatoire",
         "Accès interdit aux cycles",
-        "Fin de piste cyclable"
+        "Piste cyclable obligatoire ici",
+        "Fin de la piste cyclable",
+        "Attention, cyclistes nombreux"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "Ce panneau d'interdiction (B9b) interdit l'accès aux cycles."
-    }
+      "fr": "Ce panneau d'interdiction, un cycle barré sur fond blanc bordé de rouge, interdit l'accès de la voie aux cycles."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0338",
@@ -6373,16 +6396,17 @@
     },
     "options": {
       "fr": [
-        "Début d'autoroute",
-        "Autoroute interdite",
         "Fin d'autoroute",
-        "Aire d'autoroute"
+        "Début d'autoroute",
+        "Aire d'autoroute",
+        "Autoroute à péage"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "Ce panneau (EF2/fin) signale la fin de l'autoroute et donc des règles spécifiques qui s'y appliquent."
-    }
+      "fr": "Ce panneau bleu, pictogramme barré d'une diagonale rouge, marque la fin de l'autoroute et donc de ses règles de circulation spécifiques."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0339",
@@ -6393,16 +6417,17 @@
     },
     "options": {
       "fr": [
-        "Sens unique",
         "Annonce d'une circulation à double sens",
-        "Fin de chaussée séparée",
-        "Voie réservée"
+        "Annonce d'un prochain sens unique obligatoire",
+        "Fin d'une chaussée à sens unique",
+        "Annonce d'une voie réservée aux bus"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "Le panneau A18 prévient du passage à une circulation à double sens, par exemple en fin de chaussées séparées."
-    }
+      "fr": "Le panneau A18, avec deux flèches verticales opposées, prévient d'un passage prochain à une circulation à double sens."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0340",
@@ -6433,16 +6458,17 @@
     },
     "options": {
       "fr": [
-        "Feu hors service à ignorer",
         "Passage autorisé avec prudence en respectant la priorité",
-        "Priorité à celui qui passe",
-        "Arrêt absolu obligatoire"
+        "Un arrêt complet et absolu est obligatoire",
+        "Un feu tricolore considéré comme hors service",
+        "La priorité absolue et systématique au véhicule qui passe en premier"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "Le feu jaune clignotant invite à franchir le carrefour avec prudence en respectant la règle de priorité applicable."
-    }
+      "fr": "Un feu jaune clignotant isolé invite à franchir le carrefour avec prudence, en respectant la règle de priorité habituelle."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0342",
@@ -6453,16 +6479,17 @@
     },
     "options": {
       "fr": [
-        "Tous les véhicules passent",
-        "Cyclistes prioritaires sur les piétons",
-        "Piste cyclable fermée",
-        "Les cyclistes peuvent passer"
+        "Les cyclistes peuvent passer",
+        "Le feu ne concerne personne",
+        "La piste cyclable est fermée",
+        "Les cyclistes stoppent ici"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "Les feux dotés d'une silhouette de cycle ne s'adressent qu'aux cyclistes; vert = passage autorisé pour eux."
-    }
+      "fr": "Un feu doté d'une silhouette de cycle s'adresse uniquement aux cyclistes : le vert les autorise à s'engager dans le carrefour."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0343",
@@ -6494,15 +6521,16 @@
     "options": {
       "fr": [
         "La voie est fermée à la circulation",
-        "Ralentir et garder sa voie",
+        "Il faut impérativement ralentir et garder sa voie",
         "La voie est réservée aux camions",
-        "Fin de limitation de vitesse"
+        "La limitation de vitesse est levée"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "La croix rouge sur panneau à message variable signifie que la voie concernée est interdite à la circulation."
-    }
+      "fr": "Une croix rouge en X, allumée au-dessus d'une voie, interdit formellement d'y circuler ; il faut changer de voie sans tarder."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0345",
@@ -6513,16 +6541,17 @@
     },
     "options": {
       "fr": [
-        "Route prioritaire",
-        "Aire de chantier",
-        "Zone d'accident",
-        "Itinéraire de déviation conseillé (jalonnement)"
+        "Itinéraire de déviation conseillé (jalonnement)",
+        "Une large zone de chantier temporaire déjà signalée",
+        "Une route bénéficiant de la priorité",
+        "Une zone d'accident fréquent recensée"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "Le jalonnement temporaire de déviation utilise des panneaux jaunes guidant les usagers le long d'un itinéraire de substitution."
-    }
+      "fr": "Le jalonnement temporaire, en panneaux jaunes, guide les usagers le long d'un itinéraire de déviation conseillé pendant les travaux."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0346",
@@ -6533,16 +6562,17 @@
     },
     "options": {
       "fr": [
-        "Aquaplaning interdit",
-        "Verglas obligatoire",
-        "Route mouillée interdite",
-        "Chaussée particulièrement glissante"
+        "Chaussée particulièrement glissante",
+        "Chaussée rétrécie par des travaux",
+        "Chaussée déformée par endroits",
+        "Chaussée mouillée par la pluie"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "Le panneau A4 annonce une chaussée glissante (verglas, gravillons, pluie), invitant à la prudence."
-    }
+      "fr": "Le panneau A4, une voiture patinant avec des traces de pneus, annonce une chaussée particulièrement glissante : verglas, gravillons ou pluie."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0347",
@@ -6553,16 +6583,17 @@
     },
     "options": {
       "fr": [
-        "Une zone de stockage",
-        "Une route en travaux fermée",
         "Un danger lié à des projections de gravillons",
-        "Une fin de revêtement"
+        "Une vaste zone de stockage de matériaux",
+        "Une route totalement fermée pour cause de travaux",
+        "La fin d'un revêtement routier récent"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "Le panneau A14 (autres dangers) complété d'un panonceau précise la nature du risque, ici des gravillons projetés."
-    }
+      "fr": "Le panneau de danger complété d'un panonceau « gravillons » signale un risque de projections de gravillons sur la chaussée récente."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0348",
@@ -6573,16 +6604,17 @@
     },
     "options": {
       "fr": [
-        "Début de l'agglomération et des règles afférentes (50 km/h, etc.)",
-        "Sortie d'agglomération",
-        "Simple panneau touristique",
-        "Limite départementale"
+        "Début de l'agglomération, vitesse limitée à 50 km/h",
+        "Sortie d'agglomération, fin des règles urbaines",
+        "Un simple panneau d'indication touristique",
+        "Limite administrative entre deux départements"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Le panneau EB10 marque l'entrée en agglomération: la vitesse y est limitée à 50 km/h sauf indication contraire."
-    }
+      "fr": "Le panneau d'entrée d'agglomération, nom de ville encadré de rouge, marque le début des règles urbaines : 50 km/h sauf indication contraire."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0349",
@@ -6593,16 +6625,17 @@
     },
     "options": {
       "fr": [
-        "Zone 30",
-        "Entrée d'agglomération",
         "Sortie d'agglomération",
-        "Ville interdite aux poids lourds"
+        "Entrée en agglomération proche",
+        "Ville interdite aux poids lourds",
+        "Zone 30 permanente"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "Le panneau EB20 (nom barré) indique la sortie d'agglomération; les règles d'agglomération cessent de s'appliquer."
-    }
+      "fr": "Le même panneau barré d'une diagonale rouge marque la sortie de l'agglomération : les règles et limitations urbaines cessent de s'appliquer."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0350",
@@ -6614,15 +6647,16 @@
     "options": {
       "fr": [
         "L'obligation de céder le passage",
-        "Une zone piétonne",
-        "Un passage surélevé",
-        "Un arrêt de bus"
+        "Une zone strictement piétonne",
+        "Un passage piéton surélevé",
+        "Un arrêt de bus signalé au sol"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Les triangles blancs au sol (dents de requin) renforcent l'obligation de céder le passage à l'intersection."
-    }
+      "fr": "Les larges triangles blancs peints au sol, dits dents de requin, renforcent au marquage l'obligation de céder le passage à l'intersection."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0352",
@@ -6641,8 +6675,9 @@
     },
     "correct": 3,
     "explanation": {
-      "fr": "Par temps de pluie, la limite passe de 110 à 100 km/h sur ce type de route."
-    }
+      "fr": "Sur une route à chaussées séparées par un terre-plein central, la vitesse maximale passe de 110 à 100 km/h dès que la chaussée est mouillée."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0353",
@@ -6661,8 +6696,9 @@
     },
     "correct": 0,
     "explanation": {
-      "fr": "La limite de 80 km/h n'est pas réduite par la pluie ; elle reste la même."
-    }
+      "fr": "Sur une route bidirectionnelle sans séparateur central, la limite reste fixée à 80 km/h par temps de pluie, sans réduction supplémentaire."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0354",
@@ -6674,15 +6710,16 @@
     "options": {
       "fr": [
         "30 km/h",
-        "80 km/h",
         "50 km/h",
-        "70 km/h"
+        "70 km/h",
+        "80 km/h"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "fr": "Quelle que soit la route, la vitesse est limitée à 50 km/h si la visibilité tombe sous 50 mètres."
-    }
+      "fr": "Dès que la visibilité tombe sous 50 m (brouillard, pluie ou neige), la vitesse est limitée à 50 km/h sur tous les réseaux, autoroute comprise, quelle que soit la limite habituelle."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0355",
@@ -6694,15 +6731,16 @@
     "options": {
       "fr": [
         "Réduire fortement sa vitesse et augmenter les distances",
-        "Accélérer pour ne pas rester bloqué",
-        "Rouler à la vitesse maximale autorisée",
-        "Garder la même vitesse qu'au sec"
+        "Rouler à la même vitesse qu'au sec en freinant plus tôt",
+        "Garder une allure soutenue pour ne pas perdre son élan",
+        "Respecter simplement la vitesse maximale autorisée sur la route"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Sur neige, l'adhérence chute : il faut ralentir nettement et allonger les distances de sécurité."
-    }
+      "fr": "Sur la neige, l'adhérence chute fortement : on ralentit nettement, on allonge les distances de sécurité et on agit en douceur sur les freins, le volant et l'accélérateur."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0356",
@@ -6713,16 +6751,17 @@
     },
     "options": {
       "fr": [
+        "Elle reste la même qu'au sec",
         "Elle est divisée par deux",
         "Elle augmente fortement",
-        "Elle reste identique",
-        "Elle diminue"
+        "Elle ne varie qu'à haute vitesse"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
-      "fr": "La chaussée mouillée réduit l'adhérence, ce qui allonge nettement la distance de freinage."
-    }
+      "fr": "Sur chaussée mouillée, les pneus adhèrent moins : la distance de freinage peut presque doubler par rapport au sol sec, d'où l'intérêt de ralentir et d'allonger les distances."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0357",
@@ -6733,16 +6772,17 @@
     },
     "options": {
       "fr": [
-        "De la vitesse multipliée par le poids",
-        "Uniquement de la distance de réaction",
         "De la distance de réaction et de la distance de freinage",
-        "Uniquement de la distance de freinage"
+        "De la distance de freinage et de la distance de sécurité",
+        "Uniquement de la distance parcourue pendant le temps de réaction",
+        "Uniquement de la distance de freinage, du coup de frein à l'arrêt"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "La distance d'arrêt = distance parcourue pendant le temps de réaction + distance de freinage."
-    }
+      "fr": "La distance d'arrêt additionne la distance parcourue pendant le temps de réaction (environ 1 seconde) et la distance de freinage proprement dite ; les deux s'allongent avec la vitesse."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0358",
@@ -6753,16 +6793,17 @@
     },
     "options": {
       "fr": [
-        "Indifféremment l'une ou l'autre",
-        "La voie de gauche",
         "La voie de droite",
-        "La voie centrale"
+        "La voie de gauche",
+        "Celle de son choix",
+        "La voie la plus dégagée"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "On circule normalement sur la voie de droite ; la gauche est réservée au dépassement."
-    }
+      "fr": "En circulation normale, on se tient sur la voie la plus à droite ; la voie de gauche sert à dépasser, puis on se rabat dès que possible sans gêner le véhicule doublé."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0359",
@@ -6793,16 +6834,17 @@
     },
     "options": {
       "fr": [
-        "Le clignotant gauche",
-        "Le clignotant droit",
-        "Les feux de détresse",
-        "Aucun clignotant"
+        "Le clignotant droit, juste avant la sortie choisie",
+        "Le clignotant gauche, juste avant la sortie choisie",
+        "Aucun clignotant si l'on prend la première sortie",
+        "Le clignotant droit dès l'entrée, quelle que soit la sortie"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "On met le clignotant droit juste avant la sortie que l'on veut emprunter."
-    }
+      "fr": "On annonce toujours sa sortie avec le clignotant droit, actionné après avoir dépassé la sortie qui précède celle que l'on veut prendre, pour prévenir ceux qui attendent pour s'engager."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0361",
@@ -6814,15 +6856,16 @@
     "options": {
       "fr": [
         "Accélérer pour atteindre la vitesse du trafic et s'intercaler",
-        "Ralentir et s'arrêter avant de s'insérer",
-        "Rouler le plus lentement possible",
-        "Forcer le passage en imposant la priorité"
+        "Ralentir en bout de voie pour laisser passer tout le trafic",
+        "S'insérer dès le début de la voie, les autres devant s'écarter",
+        "Rouler sur la bande d'arrêt d'urgence jusqu'à trouver un espace"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "On utilise la voie d'accélération pour se mettre à la vitesse du trafic et s'insérer en douceur."
-    }
+      "fr": "La voie d'accélération sert à prendre la vitesse des véhicules déjà sur l'autoroute, qui restent prioritaires ; on s'intercale ensuite dans un espace suffisant, sans forcer ni s'arrêter."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0363",
@@ -6833,16 +6876,17 @@
     },
     "options": {
       "fr": [
-        "Rouler plus vite car il y a moins de trafic",
-        "Éteindre les feux pour mieux voir",
         "Réduire sa vitesse car la visibilité est réduite",
-        "Garder la même vitesse qu'en journée"
+        "Conserver son allure, les feux de croisement suffisant",
+        "Rouler un peu plus vite, le trafic étant plus fluide",
+        "Rouler en feux de route en permanence pour voir plus loin"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "De nuit la distance de visibilité diminue : il faut ralentir et rester vigilant."
-    }
+      "fr": "De nuit, on ne voit que ce que les feux éclairent (environ 30 m en croisement) : on réduit sa vitesse pour pouvoir s'arrêter dans la zone éclairée et on redouble de vigilance."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0364",
@@ -6853,16 +6897,17 @@
     },
     "options": {
       "fr": [
-        "Klaxonner pour prévenir",
-        "Se rabattre tout de suite",
-        "Vérifier qu'aucun véhicule n'arrive en face ou ne double déjà, et mettre son clignotant",
-        "Accélérer immédiatement sans regarder"
+        "Vérifier que rien n'arrive en face ni ne double déjà, puis mettre son clignotant",
+        "Mettre son clignotant, puis déboîter aussitôt : les autres doivent ralentir",
+        "Se rapprocher au plus près du véhicule à doubler pour raccourcir la manœuvre",
+        "Déboîter d'abord, puis contrôler les rétroviseurs une fois à gauche"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "Avant de doubler, on contrôle les rétroviseurs, l'angle mort, le trafic en face et on signale sa manœuvre."
-    }
+      "fr": "Avant de doubler, on contrôle rétroviseurs et angle mort, on s'assure que la voie est libre en face sur toute la distance nécessaire et que personne n'a déjà entamé un dépassement, puis on met le clignotant gauche."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0365",
@@ -6881,8 +6926,9 @@
     },
     "correct": 1,
     "explanation": {
-      "fr": "La limite par défaut en agglomération est de 50 km/h, sauf indication particulière."
-    }
+      "fr": "En agglomération, la vitesse est limitée à 50 km/h dès le panneau d'entrée, sauf signalisation particulière : zone 30, zone de rencontre à 20 km/h ou section relevée à 70 km/h."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0366",
@@ -6893,16 +6939,17 @@
     },
     "options": {
       "fr": [
-        "Accélérer dans les côtes",
         "Ralentir, éviter les manœuvres brusques et augmenter les distances",
-        "Rouler vite pour traverser rapidement",
-        "Freiner fort à chaque virage"
+        "Freiner par petits coups secs pour tester l'adhérence dans les virages",
+        "Accélérer légèrement dans les côtes pour ne pas perdre de motricité",
+        "Rouler au plus près du véhicule qui précède pour profiter de ses traces"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "Sur verglas, l'adhérence est très faible : tous les gestes doivent être doux et progressifs."
-    }
+      "fr": "Sur verglas, l'adhérence est presque nulle : on ralentit fortement, on agit avec douceur sur le volant, les freins et l'accélérateur, et on allonge nettement les distances de sécurité."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0367",
@@ -6913,16 +6960,17 @@
     },
     "options": {
       "fr": [
-        "Les feux de route (pleins phares)",
-        "Aucun feu de jour",
-        "Uniquement les feux de position",
-        "Les feux de croisement (et feux de brouillard si besoin)"
+        "Les feux de croisement, avec les feux de brouillard si besoin",
+        "Les feux de route, pour éclairer le plus loin possible",
+        "Les feux de position seuls, afin de ne pas éblouir les autres usagers",
+        "Les feux de route avec les feux de brouillard arrière"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "Dans le brouillard, on utilise les feux de croisement ; les pleins phares éblouiraient en renvoyant la lumière."
-    }
+      "fr": "Par brouillard, les feux de croisement sont obligatoires, complétés au besoin par les feux de brouillard avant et arrière ; les feux de route se réfléchissent sur les gouttelettes et éblouissent."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0368",
@@ -6933,16 +6981,17 @@
     },
     "options": {
       "fr": [
-        "Coller le véhicule de devant",
-        "Compter 2 secondes entre le passage du véhicule devant et le sien à un repère fixe",
-        "Se fier uniquement au compteur",
-        "Garder 1 mètre quelle que soit la vitesse"
+        "Compter 2 secondes entre le passage du véhicule de devant à un repère fixe et le sien",
+        "Garder environ deux longueurs de voiture, quelle que soit la vitesse",
+        "Compter 2 secondes à partir du moment où l'on voit les feux stop du véhicule de devant",
+        "Rester à 10 mètres du véhicule qui précède, en ville comme sur autoroute"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "La règle des 2 secondes : on doit mettre au moins 2 s pour atteindre le repère que vient de dépasser le véhicule précédent."
-    }
+      "fr": "On choisit un repère fixe (panneau, pont) : quand le véhicule qui précède le dépasse, on compte « un, deux ». Si l'on atteint le repère avant la fin du compte, on est trop près."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0369",
@@ -6953,16 +7002,17 @@
     },
     "options": {
       "fr": [
-        "Faire demi-tour",
-        "Reculer doucement jusqu'à la sortie",
-        "Faire marche arrière sur la bande d'arrêt d'urgence",
-        "Continuer jusqu'à la sortie suivante"
+        "Continuer normalement jusqu'à la prochaine sortie",
+        "Reculer prudemment sur la bande d'arrêt d'urgence",
+        "Faire demi-tour par une ouverture du terre-plein central",
+        "S'arrêter sur la bande d'arrêt d'urgence pour consulter le GPS"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "Marche arrière et demi-tour sont interdits et dangereux sur autoroute : on poursuit jusqu'à la sortie suivante."
-    }
+      "fr": "Sur autoroute, la marche arrière, le demi-tour et l'arrêt sur la bande d'arrêt d'urgence hors urgence sont interdits : on continue jusqu'à la sortie suivante, même si le détour est long."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0370",
@@ -6973,16 +7023,17 @@
     },
     "options": {
       "fr": [
-        "À la circulation des poids lourds",
-        "À rouler lentement",
-        "Au dépassement",
-        "Au stationnement"
+        "Au dépassement, avant de se rabattre à droite",
+        "À la circulation des véhicules rapides",
+        "À la circulation normale des voitures",
+        "Aux poids lourds, pour libérer la voie de droite"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "La voie de gauche sert à dépasser ; on se rabat ensuite à droite."
-    }
+      "fr": "Hors agglomération, on circule sur la voie de droite ; la voie de gauche sert uniquement à dépasser et on se rabat dès que le dépassement est terminé, sans gêner le véhicule doublé."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0371",
@@ -6993,16 +7044,17 @@
     },
     "options": {
       "fr": [
-        "Parce que les freins sont plus efficaces",
         "Parce que la distance de freinage augmente sur sol mouillé",
-        "Parce que la voiture roule plus vite",
-        "Ce n'est pas nécessaire"
+        "Parce que le temps de réaction du conducteur double sous la pluie",
+        "Parce que l'ABS ne fonctionne pas sur chaussée mouillée",
+        "Parce que la vitesse maximale est abaissée par temps de pluie"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "Le sol mouillé réduit l'adhérence et allonge le freinage : il faut donc plus d'espace devant soi."
-    }
+      "fr": "Sur sol mouillé, l'adhérence diminue et la distance de freinage s'allonge nettement : il faut donc plus d'espace devant soi pour pouvoir s'arrêter à temps si le véhicule qui précède freine."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0372",
@@ -7013,16 +7065,17 @@
     },
     "options": {
       "fr": [
-        "Le premier arrivé",
         "Le véhicule venant de la droite",
         "Le véhicule venant de la gauche",
-        "Le plus rapide"
+        "Le véhicule arrivé le premier",
+        "Le véhicule qui va tout droit"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "En l'absence de panneau ou de feu, c'est la priorité à droite qui s'applique."
-    }
+      "fr": "Sans panneau ni feu, la priorité à droite s'applique : on cède le passage à tout véhicule qui arrive par la droite, même s'il vient d'une route plus étroite ou moins fréquentée."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0373",
@@ -7034,15 +7087,16 @@
     "options": {
       "fr": [
         "Se rabattre à droite sans gêner le véhicule doublé",
-        "Ralentir brusquement devant lui",
-        "Rester sur la voie de gauche",
-        "Continuer à accélérer sur la gauche"
+        "Se rabattre dès que l'avant du véhicule doublé est dépassé",
+        "Rester sur la voie de gauche tant que la route est dégagée",
+        "Freiner pour se rabattre juste devant le véhicule doublé"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Après dépassement, on se rabat à droite progressivement une fois qu'on voit le véhicule doublé dans son rétroviseur."
-    }
+      "fr": "On se rabat progressivement, clignotant droit allumé, seulement quand on voit le véhicule doublé en entier dans le rétroviseur intérieur, sans le forcer à ralentir."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0374",
@@ -7053,16 +7107,17 @@
     },
     "options": {
       "fr": [
-        "La voie de droite",
-        "N'importe quelle voie",
-        "La voie la plus à gauche s'il y en a trois",
-        "La voie de gauche"
+        "La voie la plus à droite",
+        "La voie du milieu sur 3 voies",
+        "La voie de gauche, plus rapide",
+        "N'importe laquelle, au choix"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Les poids lourds circulent sur la voie de droite et ne peuvent pas utiliser la voie la plus à gauche sur une autoroute à trois voies."
-    }
+      "fr": "Comme tout usager, un poids lourd circule normalement sur la voie de droite ; sur une autoroute à trois voies ou plus, la voie la plus à gauche est même interdite aux véhicules de plus de 3,5 t."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0375",
@@ -7073,16 +7128,17 @@
     },
     "options": {
       "fr": [
-        "Ne jamais freiner",
         "Freiner progressivement et anticiper davantage",
-        "Freiner uniquement avec le frein à main",
-        "Freiner brutalement à la dernière seconde"
+        "Freiner fort et tard, l'ABS empêchant tout blocage des roues",
+        "Freiner uniquement avec le frein moteur en rétrogradant",
+        "Freiner d'un coup sec pour s'arrêter au plus court"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "Sur sol mouillé, le freinage doit être doux et anticipé pour éviter de bloquer les roues ou de glisser."
-    }
+      "fr": "Sur chaussée mouillée, un freinage brutal peut bloquer les roues ou provoquer une glissade : on freine tôt et en douceur, en anticipant davantage et en gardant des distances plus grandes."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0376",
@@ -7113,16 +7169,17 @@
     },
     "options": {
       "fr": [
-        "Toujours 110 km/h",
-        "Toujours 130 km/h",
-        "90 km/h en toutes circonstances",
-        "130 km/h si l'ensemble reste sous 3,5 t, mais réduite si le poids est élevé"
+        "130 km/h tant que l'ensemble ne dépasse pas 3,5 t, moins au-delà",
+        "110 km/h, quel que soit le poids total de l'ensemble attelé",
+        "90 km/h dès qu'une remorque est attelée, comme les poids lourds",
+        "130 km/h dans tous les cas, le poids de la remorque n'entrant pas en compte"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "Un ensemble léger (≤ 3,5 t) garde 130 km/h ; au-delà, les limites baissent (110 puis 90 km/h selon le poids)."
-    }
+      "fr": "Un ensemble voiture + remorque de 3,5 t au plus (poids total autorisé) garde les limites d'une voiture, dont 130 km/h ; entre 3,5 et 12 t, il passe à 110 km/h sur autoroute, 100 sur voie rapide et 80 sur route."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0378",
@@ -7133,16 +7190,17 @@
     },
     "options": {
       "fr": [
-        "100 km/h",
         "90 km/h",
+        "100 km/h",
         "110 km/h",
         "130 km/h"
       ]
     },
     "correct": 2,
     "explanation": {
-      "fr": "Entre 3,5 et 12 t, l'ensemble est limité à 110 km/h sur autoroute (90 km/h s'il dépasse 12 t)."
-    }
+      "fr": "Un ensemble dont le poids total autorisé dépasse 3,5 t sans excéder 12 t est limité à 110 km/h sur autoroute, 100 km/h sur route à chaussées séparées et 80 km/h sur les autres routes."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0379",
@@ -7154,15 +7212,16 @@
     "options": {
       "fr": [
         "Environ 9 mètres",
-        "Environ 50 mètres",
         "Environ 15 mètres",
-        "Environ 25 mètres"
+        "Environ 25 mètres",
+        "Environ 50 mètres"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "fr": "À 90 km/h on parcourt 25 m/s ; en une seconde de réaction on avance donc d'environ 25 mètres avant même de freiner."
-    }
+      "fr": "À 90 km/h, on parcourt 25 m par seconde (90 ÷ 3,6). Pendant la seconde de réaction, la voiture avance donc d'environ 25 m avant que le freinage ne commence ; 50 m correspondent aux 2 secondes de sécurité."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0380",
@@ -7193,16 +7252,17 @@
     },
     "options": {
       "fr": [
-        "Uniquement pour les motos",
-        "Uniquement la nuit",
-        "Sur les sections décidées par le département avec dépassement sécurisé",
-        "Jamais, c'est toujours 80"
+        "Sur les sections relevées par le département, après étude d'accidentalité",
+        "Sur toute route bidirectionnelle dès qu'elle comporte une ligne médiane discontinue",
+        "Sur les routes à chaussées séparées par un terre-plein central",
+        "Uniquement pour les motos et les voitures, quelle que soit la route"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "Depuis 2019, les départements peuvent relever certaines routes à 90 km/h ; à défaut, la limite reste 80 km/h."
-    }
+      "fr": "Depuis la loi mobilités de 2019, le département (ou la commune) peut relever à 90 km/h certaines sections de routes bidirectionnelles, après avis de la commission de sécurité routière ; ailleurs, la limite reste 80 km/h."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0382",
@@ -7214,15 +7274,16 @@
     "options": {
       "fr": [
         "La lumière est renvoyée par les gouttelettes et réduit encore la visibilité",
-        "Ils n'éclairent pas assez loin",
-        "Ils consomment trop d'énergie",
-        "Ils sont interdits la nuit"
+        "Leur faisceau passe au-dessus du brouillard et n'éclaire pas la chaussée",
+        "Ils éblouissent seulement les autres usagers, sans gêner le conducteur",
+        "Ils sont interdits dès que la visibilité tombe sous 50 m"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Les pleins phares se réfléchissent sur le brouillard et créent un « mur blanc » éblouissant : on utilise les feux de croisement."
-    }
+      "fr": "Le faisceau des feux de route se réfléchit sur les gouttelettes en suspension et forme un « mur blanc » qui éblouit le conducteur lui-même : dans le brouillard, on roule en feux de croisement."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0383",
@@ -7253,16 +7314,17 @@
     },
     "options": {
       "fr": [
-        "Le plus petit véhicule recule",
-        "Le conducteur qui descend cède le passage à celui qui monte",
-        "Le premier arrivé passe",
-        "Celui qui monte recule toujours"
+        "Le conducteur qui descend s'arrête ou recule pour laisser passer celui qui monte",
+        "Le conducteur qui monte s'arrête et recule toujours, quelle que soit la difficulté",
+        "Le premier arrivé à l'endroit étroit passe, l'autre attend ou recule",
+        "Le véhicule le plus rapide garde sa trajectoire, l'autre se range"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "En montagne, le véhicule descendant doit s'effacer (reculer ou se ranger) car la manœuvre en montée est plus délicate."
-    }
+      "fr": "En montagne, si le croisement est difficile, le véhicule qui descend s'arrête le premier et recule au besoin, car repartir en montée est plus délicat. Entre catégories différentes, c'est le plus léger qui recule."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0385",
@@ -7273,16 +7335,17 @@
     },
     "options": {
       "fr": [
-        "Les freins surchauffent",
-        "Le moteur cale dans une flaque",
-        "Les vitres s'embuent",
-        "Les pneus perdent contact avec la route à cause d'un film d'eau"
+        "Les pneus perdent contact avec la route à cause d'un film d'eau",
+        "L'eau s'infiltre dans les freins et les rend momentanément inefficaces",
+        "Les pneus glissent sur une chaussée verglacée en apparence sèche",
+        "Le pare-brise se couvre d'eau plus vite que les essuie-glaces ne l'évacuent"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "À vitesse élevée sur sol détrempé, une pellicule d'eau soulève le pneu : le véhicule glisse et ne répond plus correctement."
-    }
+      "fr": "À vitesse élevée sur sol détrempé, les pneus n'évacuent plus assez d'eau : une pellicule se forme entre la gomme et la route, la voiture flotte et ne répond plus au volant ni aux freins."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0386",
@@ -7293,16 +7356,17 @@
     },
     "options": {
       "fr": [
-        "Accélérer pour reprendre de l'adhérence",
         "Lever le pied sans freiner brusquement et tenir le volant droit",
-        "Donner un grand coup de volant",
-        "Freiner fort immédiatement"
+        "Freiner fort pour chasser l'eau sous les pneus et retrouver le contact",
+        "Accélérer franchement pour retrouver de la motricité sur la chaussée",
+        "Braquer fermement dans le sens opposé à la glissade"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "On relâche l'accélérateur en douceur, sans freiner ni braquer, jusqu'à ce que les pneus retrouvent le contact."
-    }
+      "fr": "On relâche l'accélérateur en douceur, sans freiner ni braquer, et on maintient le volant droit jusqu'à ce que les pneus retrouvent le contact avec la chaussée ; on freine ensuite progressivement si nécessaire."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0387",
@@ -7313,16 +7377,17 @@
     },
     "options": {
       "fr": [
-        "Moins de 50 km/h",
-        "Tout véhicule incapable de rouler à au moins 80 km/h par bonne visibilité",
-        "Moins de 110 km/h",
-        "Il n'existe aucune règle"
+        "En dessous de 80 km/h sur la voie la plus à gauche, par bonne visibilité",
+        "En dessous de 50 km/h, quelle que soit la voie empruntée",
+        "En dessous de 110 km/h, quelle que soit la voie utilisée",
+        "Aucun seuil chiffré : seule la vitesse maximale est réglementée sur autoroute"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "Les véhicules ne pouvant pas atteindre 80 km/h sur le plat n'ont en principe pas leur place sur l'autoroute."
-    }
+      "fr": "Le code ne fixe pas de minimum général sur autoroute mais interdit de gêner les autres par une allure anormalement réduite ; sur la voie la plus à gauche, par visibilité normale, on ne descend pas sous 80 km/h."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0388",
@@ -7333,16 +7398,17 @@
     },
     "options": {
       "fr": [
-        "1 mètre",
-        "Aucune, on roule au pas",
-        "5 mètres fixes",
-        "Au moins 2 secondes, comme sur route"
+        "Au moins 2 secondes, comme sur route",
+        "50 m, quelle que soit la vitesse",
+        "Une longueur de véhicule, environ 5 m",
+        "150 m, dans tous les tunnels sans exception"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "En tunnel on garde au moins la distance des 2 secondes en roulant ; à l'arrêt on laisse au moins 5 m."
-    }
+      "fr": "Sauf prescription particulière (certains tunnels imposent 100 ou 150 m, matérialisés par des repères bleus), la règle des 2 secondes s'applique en tunnel ; on la conserve même à l'arrêt pour laisser passer les secours."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0389",
@@ -7353,16 +7419,17 @@
     },
     "options": {
       "fr": [
-        "Uniquement les poids lourds",
-        "Uniquement les motos",
-        "Tous les véhicules en permanence",
-        "Les véhicules de moins de 3,5 t pour dépasser ou tourner à gauche"
+        "Les véhicules légers (3,5 t au plus), pour dépasser ou tourner à gauche",
+        "Tous les véhicules, à condition de rouler à la vitesse maximale",
+        "Uniquement les véhicules prioritaires en intervention et les motos",
+        "Les poids lourds, pour dépasser les véhicules lents de la voie centrale"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "La voie de gauche est réservée aux véhicules légers pour dépasser ; les poids lourds n'y ont pas accès sur 3 voies."
-    }
+      "fr": "Sur une chaussée à trois voies ou plus dans le même sens, la voie de gauche est interdite aux véhicules de plus de 3,5 t ou de plus de 7 m ; les autres y dépassent ou y préparent un virage à gauche, jamais en continu."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0390",
@@ -7373,16 +7440,17 @@
     },
     "options": {
       "fr": [
-        "C'est autorisé partout",
-        "Le carburant se consomme plus vite",
-        "On ne voit pas si un véhicule arrive en face",
-        "Le moteur manque de puissance"
+        "On ne peut pas voir si un véhicule arrive en face",
+        "Les véhicules qui descendent y sont prioritaires",
+        "La vitesse y est automatiquement limitée à 50 km/h",
+        "La distance de freinage y est doublée par la pente"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "Sans visibilité suffisante (sommet de côte, virage), on ne peut pas s'assurer que la voie est libre : le dépassement est interdit."
-    }
+      "fr": "Un dépassement n'est permis que si l'on peut voir assez loin pour s'assurer que la voie est libre. Au sommet d'une côte ou dans un virage sans visibilité, un véhicule peut surgir en face : le dépassement y est interdit."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0391",
@@ -7393,16 +7461,17 @@
     },
     "options": {
       "fr": [
-        "Se déporter à gauche pour bloquer",
-        "Klaxonner et forcer le passage",
-        "Accélérer pour doubler en premier",
-        "Renoncer à son dépassement et laisser passer l'autre"
+        "Renoncer à son dépassement et laisser passer l'autre",
+        "Accélérer pour terminer son propre dépassement en premier",
+        "Mettre son clignotant gauche pour signaler qu'il a la priorité",
+        "Se déporter légèrement à gauche pour l'empêcher de doubler"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "Quand on est sur le point d'être dépassé, on ne doit pas entamer son propre dépassement : on laisse faire l'autre."
-    }
+      "fr": "Avant de doubler, on vérifie qu'aucun véhicule n'a déjà entamé un dépassement derrière soi. Si c'est le cas, on renonce, on reste à droite sans accélérer et on laisse la manœuvre se terminer."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0392",
@@ -7413,16 +7482,17 @@
     },
     "options": {
       "fr": [
-        "S'adapter au trafic, quitte à attendre une ouverture en fin de voie d'accélération",
-        "Rouler sur la bande d'arrêt d'urgence",
-        "S'insérer en imposant la priorité",
-        "S'arrêter net en bout de voie"
+        "Adapter sa vitesse au trafic et attendre une ouverture, jusqu'en fin de voie d'accélération",
+        "Poursuivre sur la bande d'arrêt d'urgence jusqu'à ce qu'un espace se libère",
+        "S'insérer malgré tout, les véhicules déjà engagés devant faciliter le passage",
+        "S'arrêter dès le début de la voie d'accélération pour observer le trafic"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Le véhicule qui s'insère n'est pas prioritaire : il ajuste sa vitesse et profite d'un espace, sans forcer ni s'arrêter brutalement."
-    }
+      "fr": "Le conducteur qui s'insère n'est pas prioritaire : il règle sa vitesse sur le trafic et s'engage dans un espace suffisant. Si aucun ne se présente, il ralentit et attend en fin de voie plutôt que de forcer le passage."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0393",
@@ -7433,16 +7503,17 @@
     },
     "options": {
       "fr": [
-        "10 mètres quelle que soit la vitesse",
-        "Une longueur de voiture",
-        "La distance parcourue pendant au moins 2 secondes",
-        "Toujours 50 mètres"
+        "La distance parcourue en au moins 2 secondes",
+        "La distance parcourue en au moins 1 seconde",
+        "Une distance fixe de 50 m, quelle que soit la vitesse",
+        "Deux longueurs de véhicule, soit environ 10 mètres"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "L'intervalle de sécurité correspond à la distance parcourue en au moins 2 secondes à la vitesse considérée."
-    }
+      "fr": "Le code impose un intervalle correspondant à au moins 2 secondes de parcours à la vitesse du moment : environ 50 m à 90 km/h, 72 m à 130 km/h. Hors agglomération, les poids lourds gardent au moins 50 m."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0394",
@@ -7453,16 +7524,17 @@
     },
     "options": {
       "fr": [
-        "Rester à droite",
-        "Se mettre sur la voie de sens inverse",
-        "Rouler au milieu des deux voies",
-        "Se serrer vers l'axe médian de la chaussée"
+        "Se serrer à gauche, près de l'axe médian de la chaussée",
+        "Rester à droite de sa voie, comme pour aller tout droit",
+        "Se placer sur la voie de sens inverse pour préparer le virage",
+        "Se placer au milieu de la chaussée, à cheval sur l'axe médian"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "Pour tourner à gauche, on se rapproche de l'axe central après avoir signalé, sans empiéter sur la voie opposée."
-    }
+      "fr": "Pour tourner à gauche sur une chaussée à double sens, on se rapproche de l'axe médian après avoir signalé, sans empiéter sur la voie inverse, afin de laisser passer à droite ceux qui continuent tout droit."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0395",
@@ -7474,15 +7546,16 @@
     "options": {
       "fr": [
         "Elle est multipliée par trois",
-        "Elle reste identique",
+        "Elle est seulement multipliée par deux",
         "Elle est multipliée par quatre",
-        "Elle est multipliée par deux"
+        "Elle est multipliée par huit"
       ]
     },
     "correct": 2,
     "explanation": {
-      "fr": "La distance de freinage varie avec le carré de la vitesse : doubler la vitesse la multiplie par environ quatre."
-    }
+      "fr": "La distance de freinage varie avec le carré de la vitesse : à 100 km/h au lieu de 50, elle est quadruplée, alors que la distance parcourue pendant le temps de réaction, elle, ne fait que doubler."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0396",
@@ -7493,16 +7566,17 @@
     },
     "options": {
       "fr": [
-        "N'importe quelle voie",
-        "La voie extérieure (de droite), clignotant droit",
-        "Le centre de l'anneau",
-        "La voie intérieure (de gauche)"
+        "La voie intérieure, à gauche, puis se rabattre à droite",
+        "La voie extérieure, à droite, avec le clignotant droit",
+        "La voie centrale, en gardant le clignotant gauche",
+        "N'importe quelle voie, le clignotant n'étant pas obligatoire"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "Pour une sortie proche, on reste sur la voie extérieure droite avec le clignotant droit ; on évite la voie intérieure."
-    }
+      "fr": "Pour la première sortie, on aborde l'anneau par la voie extérieure (de droite) et on met le clignotant droit ; la voie intérieure sert aux sorties plus lointaines, avec un changement de voie avant de sortir."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0397",
@@ -7513,16 +7587,17 @@
     },
     "options": {
       "fr": [
-        "Le conducteur déjà engagé dans l'anneau",
+        "Le conducteur qui circule déjà dans l'anneau",
         "Le conducteur qui entre dans le giratoire",
-        "Les véhicules au centre",
-        "Personne, c'est la priorité à droite"
+        "Le conducteur qui s'apprête à sortir de l'anneau",
+        "Personne en particulier, la priorité à droite s'applique"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "Le panneau « cédez le passage » oblige l'entrant à laisser passer ceux qui circulent déjà dans l'anneau."
-    }
+      "fr": "Le panneau « cédez le passage » placé à l'entrée oblige l'entrant à laisser passer les véhicules déjà engagés ; la priorité à droite ne vaut que sur un rond-point dépourvu de ce panneau."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0398",
@@ -7533,16 +7608,17 @@
     },
     "options": {
       "fr": [
-        "Les freins fonctionnent mal la nuit",
-        "La distance vue par les phares est limitée et le temps de réaction augmente",
-        "Les pneus sont moins adhérents la nuit",
-        "La voiture roule plus vite la nuit"
+        "La chaussée est systématiquement plus glissante une fois la nuit tombée",
+        "La portée des feux est limitée et le temps de réaction s'allonge",
+        "La vitesse maximale autorisée est abaissée de 20 km/h la nuit",
+        "Les distances de sécurité réglementaires doublent entre 22 h et 6 h"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "De nuit, on ne voit que la zone éclairée par les feux ; il faut pouvoir s'arrêter dans cette distance, donc ralentir."
-    }
+      "fr": "De nuit, on ne voit que la zone éclairée (environ 30 m en feux de croisement, 100 m en feux de route) et la fatigue allonge le temps de réaction : il faut pouvoir s'arrêter dans la distance éclairée."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0399",
@@ -7553,16 +7629,17 @@
     },
     "options": {
       "fr": [
+        "100 km/h",
         "110 km/h",
-        "130 km/h",
-        "90 km/h",
-        "100 km/h"
+        "120 km/h",
+        "130 km/h"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
-      "fr": "En période probatoire, la vitesse sur autoroute est plafonnée à 110 km/h au lieu de 130."
-    }
+      "fr": "Pendant toute la période probatoire (3 ans, ou 2 ans après conduite accompagnée), la vitesse sur autoroute est limitée à 110 km/h au lieu de 130, comme pour tous par temps de pluie."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0400",
@@ -7573,16 +7650,17 @@
     },
     "options": {
       "fr": [
-        "Freiner pour le ralentir",
-        "Rester à gauche jusqu'à la sortie",
-        "Se rabattre dès qu'on l'a dépassé sans regarder",
-        "Le voir dans le rétroviseur intérieur, mettre le clignotant droit puis se rabattre en douceur"
+        "Attendre d'avoir pris au moins 50 m d'avance, puis se rabattre sans clignotant",
+        "Se rabattre dès que son avant dépasse le véhicule doublé, en accélérant franchement",
+        "Le voir dans le rétroviseur intérieur, signaler à droite et se rabattre en douceur",
+        "Vérifier uniquement le rétroviseur extérieur droit, sans avoir à signaler la manœuvre"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "fr": "On ne se rabat qu'après avoir vu le véhicule doublé dans le rétroviseur intérieur, en signalant la manœuvre."
-    }
+      "fr": "On ne se rabat qu'une fois le véhicule doublé entièrement visible dans le rétroviseur intérieur, après avoir mis le clignotant droit, sans le serrer ni l'obliger à freiner."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0401",
@@ -7593,16 +7671,17 @@
     },
     "options": {
       "fr": [
-        "La catégorie autorisant la conduite des autocars",
-        "La catégorie autorisant la conduite des voitures",
+        "La catégorie autorisant la conduite des transports en commun",
+        "La catégorie autorisant la conduite des voitures particulières",
         "La catégorie autorisant la conduite des motocyclettes",
         "La catégorie autorisant la conduite des poids lourds"
       ]
     },
     "correct": 2,
     "explanation": {
-      "fr": "La catégorie A du permis de conduire correspond aux motocyclettes (motos)."
-    }
+      "fr": "Sur le permis, A désigne les motocyclettes (A1, A2, A), B les voitures, C les poids lourds et D les transports en commun ; AM couvre les cyclomoteurs et les voiturettes."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0402",
@@ -7613,16 +7692,17 @@
     },
     "options": {
       "fr": [
-        "À récupérer des points sur son permis",
-        "À supprimer définitivement une amende",
-        "À prolonger la validité du permis",
-        "À changer de catégorie de permis"
+        "À récupérer jusqu'à 4 points sur son permis",
+        "À annuler une suspension de permis en cours",
+        "À effacer une infraction du dossier du conducteur",
+        "À réduire la durée de la période probatoire"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Le stage permet de récupérer jusqu'à 4 points sur le permis de conduire."
-    }
+      "fr": "Le stage de sensibilisation (2 jours) permet de récupérer jusqu'à 4 points, dans la limite des 12, une fois par an ; il n'efface ni l'infraction ni la sanction déjà prononcée."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0403",
@@ -7633,16 +7713,17 @@
     },
     "options": {
       "fr": [
-        "Oui, uniquement le week-end",
-        "Oui, sans aucune condition",
-        "Non, c'est totalement interdit",
-        "Non, une formation de 7 heures est requise"
+        "Oui, dès 2 ans de permis B, sans autre condition",
+        "Non, sauf à suivre une formation pratique de 7 heures",
+        "Non, il faut obligatoirement passer le permis A1",
+        "Oui, à condition que la moto ne dépasse pas 11 kW de puissance"
       ]
     },
-    "correct": 3,
+    "correct": 1,
     "explanation": {
-      "fr": "Avec le permis B, conduire une 125 cm³ exige une formation pratique de 7 heures (sauf antériorité)."
-    }
+      "fr": "Avec au moins 2 ans de permis B, une 125 cm³ (11 kW maximum) peut être conduite après une formation pratique de 7 heures en moto-école, sauf dispense liée à une pratique antérieure."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0404",
@@ -7653,16 +7734,17 @@
     },
     "options": {
       "fr": [
-        "Oui, mais seulement pour les voitures neuves",
-        "Non, elle est facultative",
-        "Oui, au minimum la responsabilité civile",
-        "Non, sauf sur autoroute"
+        "Oui, mais seulement pour les véhicules de moins de 10 ans",
+        "Oui, au minimum en responsabilité civile (au tiers)",
+        "Oui, mais uniquement sous la forme d'une assurance tous risques",
+        "Non, elle est facultative pour un conducteur expérimenté"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "fr": "Tout véhicule terrestre à moteur doit être assuré au minimum en responsabilité civile (au tiers)."
-    }
+      "fr": "Tout véhicule terrestre à moteur doit être assuré au moins en responsabilité civile (« au tiers »), qui couvre les dommages causés aux autres ; les garanties tous risques restent facultatives."
+    },
+    "theme": "notions"
   },
   {
     "id": "route_0405",
@@ -7673,16 +7755,17 @@
     },
     "options": {
       "fr": [
-        "Une amende et la confiscation possible du véhicule",
-        "Rien si l'on roule prudemment",
-        "Seulement un retrait de 1 point",
-        "Un simple avertissement oral"
+        "Un simple rappel à la loi lors du premier contrôle",
+        "Une forte amende et la confiscation possible du véhicule",
+        "Une contravention de 4e classe assortie d'un retrait de 3 points",
+        "Un retrait de 6 points, sans amende ni autre sanction"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
-      "fr": "Le défaut d'assurance est un délit pouvant entraîner une lourde amende et la confiscation du véhicule."
-    }
+      "fr": "Conduire sans assurance est un délit : amende forfaitaire de 500 € (jusqu'à 3 750 € devant le tribunal), avec suspension du permis et confiscation du véhicule possibles, sans retrait de points."
+    },
+    "theme": "notions"
   },
   {
     "id": "route_0406",
@@ -7693,16 +7776,17 @@
     },
     "options": {
       "fr": [
-        "La carte grise",
-        "Le permis de circuler",
-        "Le bon de route",
-        "La vignette véhicule"
+        "La carte verte d'assurance",
+        "La carte grise du véhicule",
+        "Le certificat de cession",
+        "La vignette Crit'Air"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
-      "fr": "Le certificat d'immatriculation est couramment appelé « carte grise »."
-    }
+      "fr": "Le certificat d'immatriculation, toujours surnommé « carte grise », identifie le véhicule et son titulaire ; la carte verte était l'ancien justificatif d'assurance, supprimé en 2024."
+    },
+    "theme": "notions"
   },
   {
     "id": "route_0407",
@@ -7713,16 +7797,17 @@
     },
     "options": {
       "fr": [
-        "5 ans",
-        "3 ans",
+        "1 an",
         "2 ans",
-        "1 an"
+        "3 ans",
+        "4 ans"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "fr": "Après le premier contrôle, la visite technique d'une voiture particulière est valable 2 ans."
-    }
+      "fr": "Le premier contrôle technique a lieu dans les 6 mois précédant le 4e anniversaire de la mise en circulation, puis il se renouvelle tous les 2 ans (contre-visite sous 2 mois en cas de défaillance majeure)."
+    },
+    "theme": "notions"
   },
   {
     "id": "route_0408",
@@ -7733,16 +7818,17 @@
     },
     "options": {
       "fr": [
+        "À reconnaître officiellement sa responsabilité devant l'assureur",
         "À décrire les circonstances de l'accident pour les assureurs",
-        "À payer immédiatement les dégâts",
-        "À retirer des points à l'autre conducteur",
-        "À obtenir un nouveau permis"
+        "À déposer plainte contre l'autre conducteur auprès de la police",
+        "À obtenir sur place le remboursement des dégâts par l'autre conducteur"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
-      "fr": "Le constat amiable décrit les circonstances de l'accident pour permettre aux assureurs de l'instruire."
-    }
+      "fr": "Le constat amiable, signé par les deux conducteurs, décrit les faits (croquis, cases cochées) pour que les assureurs déterminent les responsabilités ; il s'envoie sous 5 jours ouvrés."
+    },
+    "theme": "notions"
   },
   {
     "id": "route_0409",
@@ -7753,16 +7839,17 @@
     },
     "options": {
       "fr": [
-        "Permis B avec une remorque lourde",
-        "Permis pour les bateaux",
-        "Permis pour les engins de chantier",
-        "Permis pour les bus"
+        "La conduite d'une voiture avec une remorque lourde",
+        "La conduite des engins agricoles et de chantier",
+        "La conduite des camions de moins de 7,5 tonnes",
+        "La conduite des seuls véhicules à moteur électrique"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Le permis BE autorise la conduite d'un véhicule de catégorie B attelé d'une remorque dépassant les limites du permis B."
-    }
+      "fr": "Le permis BE permet d'atteler à une voiture (catégorie B) une remorque de plus de 750 kg quand l'ensemble dépasse 4 250 kg ; entre 3 500 et 4 250 kg, la formation B96 de 7 heures suffit."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0410",
@@ -7773,16 +7860,17 @@
     },
     "options": {
       "fr": [
-        "Les voitures sans permis",
-        "Les motos légères jusqu'à 125 cm³",
-        "Les poids lourds",
-        "Les tracteurs agricoles"
+        "Les cyclomoteurs de 50 cm³ maximum",
+        "Les motos légères de 125 cm³ maximum",
+        "Les motos de puissance intermédiaire (35 kW)",
+        "Les quadricycles lourds à moteur (quads)"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "Le permis A1 autorise la conduite des motocyclettes légères jusqu'à 125 cm³ (et 11 kW maximum)."
-    }
+      "fr": "Le permis A1 (dès 16 ans) couvre les motocyclettes légères : 125 cm³ et 11 kW au maximum, avec un rapport puissance/poids limité à 0,1 kW/kg ; le 50 cm³ relève du permis AM."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0411",
@@ -7793,16 +7881,17 @@
     },
     "options": {
       "fr": [
-        "Un délit puni par la loi",
-        "Toléré hors agglomération",
-        "Une simple contravention sans gravité",
-        "Autorisé en faible quantité"
+        "Une contravention de 4e classe, sauf en cas d'accident",
+        "Un délit, quelle que soit la quantité consommée",
+        "Un délit seulement au-delà d'un seuil légal, comme l'alcool",
+        "Interdit uniquement pendant la période probatoire"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
-      "fr": "La conduite après usage de stupéfiants est un délit, quelle que soit la quantité détectée."
-    }
+      "fr": "Contrairement à l'alcool, aucun seuil n'est toléré : toute trace de stupéfiant constitue un délit (2 ans de prison, 4 500 € d'amende, 6 points en moins), même sans accident."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0412",
@@ -7813,16 +7902,17 @@
     },
     "options": {
       "fr": [
-        "Seulement à l'hôpital",
-        "Par un test salivaire",
-        "Uniquement par radiographie",
-        "Par un simple examen visuel"
+        "Par l'éthylotest, qui détecte aussi le cannabis",
+        "Par un test salivaire au bord de la route",
+        "Uniquement par une prise de sang à l'hôpital",
+        "Par un simple examen des pupilles par l'agent"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "Les forces de l'ordre utilisent un test salivaire pour le dépistage des stupéfiants au volant."
-    }
+      "fr": "Les forces de l'ordre pratiquent un test salivaire sur place ; s'il est positif, un second prélèvement salivaire ou sanguin est analysé en laboratoire pour confirmer l'infraction."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0413",
@@ -7833,16 +7923,17 @@
     },
     "options": {
       "fr": [
-        "Un policier",
-        "Un accompagnateur titulaire du permis B depuis au moins 5 ans",
-        "N'importe quel passager majeur",
-        "Uniquement un moniteur d'auto-école"
+        "Un accompagnateur titulaire du permis B depuis 3 ans au moins",
+        "Un enseignant de la conduite diplômé, à chaque sortie",
+        "Un accompagnateur titulaire du permis B depuis 5 ans au moins",
+        "Un parent ou un proche, quelle que soit son ancienneté de permis"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
-      "fr": "L'accompagnateur doit détenir le permis B depuis au moins 5 ans sans interruption."
-    }
+      "fr": "L'accompagnateur doit détenir le permis B depuis au moins 5 ans sans interruption et figurer au contrat d'assurance ; ce peut être un parent ou un proche, sans être enseignant de la conduite."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0414",
@@ -7853,16 +7944,17 @@
     },
     "options": {
       "fr": [
-        "Le permis est invalidé",
-        "Les points se rechargent automatiquement",
-        "On perd seulement la catégorie B",
-        "On reçoit simplement un avertissement"
+        "Le permis est invalidé, il faut le repasser",
+        "Le permis est suspendu 6 mois, puis restitué",
+        "Un stage de récupération de points devient obligatoire",
+        "Le permis repasse automatiquement en période probatoire"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Lorsque le solde atteint zéro, le permis est invalidé et il faut le repasser."
-    }
+      "fr": "À zéro point, le permis est invalidé (lettre 48SI) : après 6 mois d'interdiction et un contrôle médical et psychotechnique, il faut repasser le code, et la conduite si le permis avait moins de 3 ans."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0415",
@@ -7873,16 +7965,17 @@
     },
     "options": {
       "fr": [
-        "Une fois tous les 5 ans",
-        "Autant de fois qu'on veut",
-        "Trois fois par an",
-        "Une fois par an"
+        "Une fois tous les 2 ans",
+        "Une fois par an",
+        "Deux fois par an",
+        "Une fois tous les 3 ans"
       ]
     },
-    "correct": 3,
+    "correct": 1,
     "explanation": {
-      "fr": "On ne peut récupérer des points par stage qu'une seule fois par an (délai d'un an et un jour entre deux)."
-    }
+      "fr": "Un stage de récupération de points ne peut être suivi qu'une fois par an (un an et un jour entre deux stages), pour regagner jusqu'à 4 points sans dépasser 12."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0416",
@@ -7893,16 +7986,17 @@
     },
     "options": {
       "fr": [
-        "Un poids lourd",
-        "Une voiture classique",
-        "Un cyclomoteur ou un quadricycle léger",
-        "Une moto de 600 cm³"
+        "Un scooter de 125 cm³ à partir de 16 ans",
+        "Un cyclomoteur ou un quadricycle léger à moteur",
+        "Une moto de 35 kW maximum dès 18 ans",
+        "Une voiturette ou un quad léger, mais pas un cyclomoteur"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "fr": "Le permis AM autorise la conduite des cyclomoteurs (50 cm³) et des quadricycles légers à moteur."
-    }
+      "fr": "Le permis AM (ex-BSR), accessible dès 14 ans, autorise les cyclomoteurs de 50 cm³ (45 km/h maximum) et les quadricycles légers à moteur comme les voiturettes ; la 125 cm³ exige le permis A1."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0417",
@@ -7913,16 +8007,17 @@
     },
     "options": {
       "fr": [
-        "Repasser tout de suite le permis",
-        "Suivre un stage obligatoire de sensibilisation",
-        "Rendre sa carte grise",
-        "Payer une amende doublée"
+        "Repasser l'épreuve théorique du code sous 4 mois",
+        "Suivre un stage de sensibilisation dans les 4 mois",
+        "Recommencer une période probatoire complète de 3 ans",
+        "Passer une visite médicale auprès d'un médecin agréé"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "En période probatoire, une perte d'au moins 3 points impose un stage obligatoire dans un délai imparti."
-    }
+      "fr": "En période probatoire, une perte de 3 points ou plus en une seule infraction déclenche la lettre 48N : stage de sensibilisation obligatoire dans les 4 mois, sous peine d'amende et de suspension du permis."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0419",
@@ -7933,16 +8028,17 @@
     },
     "options": {
       "fr": [
-        "1 an",
+        "2 mois",
         "6 mois",
-        "1 mois",
-        "2 ans"
+        "3 mois",
+        "1 an"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "Pour vendre un véhicule de plus de 4 ans, le contrôle technique doit dater de moins de 6 mois."
-    }
+      "fr": "Pour vendre une voiture de plus de 4 ans à un particulier, le contrôle technique doit dater de moins de 6 mois (2 mois seulement si une contre-visite a été prescrite)."
+    },
+    "theme": "notions"
   },
   {
     "id": "route_0420",
@@ -7953,16 +8049,17 @@
     },
     "options": {
       "fr": [
-        "Ne rien faire si l'autre conducteur est absent",
-        "Attendre 24 heures avant d'agir",
-        "Continuer sa route s'il n'est pas blessé",
-        "S'arrêter et remplir un constat amiable"
+        "Appeler obligatoirement la police pour faire constater les dégâts",
+        "S'arrêter et établir un constat amiable avec l'autre conducteur",
+        "Prévenir son assureur sous 24 heures avant de quitter les lieux",
+        "Poursuivre sa route s'il n'y a pas de blessé, l'assurance réglant tout"
       ]
     },
-    "correct": 3,
+    "correct": 1,
     "explanation": {
-      "fr": "Il faut s'arrêter et établir un constat amiable ; quitter les lieux constitue un délit de fuite."
-    }
+      "fr": "Tout conducteur impliqué doit s'arrêter, se faire connaître et remplir un constat amiable ; quitter les lieux sans laisser ses coordonnées est un délit de fuite (3 ans de prison, 6 points)."
+    },
+    "theme": "notions"
   },
   {
     "id": "route_0421",
@@ -7973,16 +8070,17 @@
     },
     "options": {
       "fr": [
-        "Oui, à titre conservatoire après certaines infractions",
-        "Non, seul un juge peut le suspendre",
-        "Oui, mais uniquement pour les poids lourds",
-        "Non, jamais"
+        "Non, seul un tribunal peut prononcer une suspension du permis",
+        "Oui, à titre conservatoire après certaines infractions graves",
+        "Oui, mais seulement pour une durée maximale de 72 heures",
+        "Oui, mais uniquement pour les conducteurs professionnels"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
-      "fr": "Le préfet peut prononcer une suspension administrative à titre conservatoire, par exemple après une grande vitesse ou une alcoolémie."
-    }
+      "fr": "Après la rétention du permis par les forces de l'ordre (alcool, stupéfiants, grand excès de vitesse), le préfet peut le suspendre jusqu'à 6 mois (1 an pour l'alcool ou les stupéfiants), sans attendre le jugement."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0422",
@@ -7993,16 +8091,17 @@
     },
     "options": {
       "fr": [
-        "État d'alcoolémie déclaré",
-        "Évaluation administrative du dossier",
         "Éthylotest anti-démarrage",
-        "Examen d'aptitude à la conduite"
+        "Éthylomètre agréé de dépistage",
+        "Examen d'aptitude à la conduite",
+        "État d'alcoolémie déclaré"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "L'EAD est l'éthylotest anti-démarrage, qui empêche de démarrer si l'on a bu."
-    }
+      "fr": "L'éthylotest anti-démarrage (EAD) bloque le démarrage si le souffle du conducteur révèle de l'alcool ; le préfet ou le juge peut imposer de ne conduire qu'un véhicule équipé, à la place d'une suspension."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0423",
@@ -8013,16 +8112,17 @@
     },
     "options": {
       "fr": [
-        "Sans aucune leçon de conduite",
-        "De moins de 15 ans",
-        "Uniquement titulaires d'un permis moto",
-        "Ayant déjà au moins 18 ans et un certain niveau de formation"
+        "Âgées de 15 ans au moins, comme pour la conduite accompagnée",
+        "Majeures et ayant déjà atteint un certain niveau de formation",
+        "Titulaires du permis depuis moins de 3 ans (période probatoire)",
+        "N'ayant encore jamais pris de leçon de conduite en auto-école"
       ]
     },
-    "correct": 3,
+    "correct": 1,
     "explanation": {
-      "fr": "La conduite supervisée est ouverte aux candidats majeurs ayant validé un certain niveau de formation en auto-école."
-    }
+      "fr": "La conduite supervisée est réservée aux candidats d'au moins 18 ans ayant réussi le code et obtenu une évaluation favorable après la formation initiale (ou après un échec à l'épreuve pratique)."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0424",
@@ -8053,16 +8153,17 @@
     },
     "options": {
       "fr": [
-        "La perte de tous les points",
-        "L'invalidation immédiate du permis",
-        "La confiscation du véhicule",
-        "Une amende, sauf à le présenter dans le délai légal"
+        "Un retrait immédiat de 3 points sur le permis",
+        "Une amende, plus lourde s'il n'est pas présenté sous 5 jours",
+        "La suspension du permis jusqu'à sa présentation en commissariat",
+        "L'immobilisation du véhicule jusqu'à présentation du permis"
       ]
     },
-    "correct": 3,
+    "correct": 1,
     "explanation": {
-      "fr": "Ne pas présenter son permis est sanctionné par une amende, sauf si on le produit dans le délai légal prévu."
-    }
+      "fr": "Ne pas pouvoir montrer son permis coûte une amende de 1re classe (11 €) ; il faut ensuite le présenter sous 5 jours au commissariat ou à la gendarmerie, sinon l'amende passe en 4e classe (135 €)."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0426",
@@ -8113,16 +8214,17 @@
     },
     "options": {
       "fr": [
+        "3 ans de permis A2 et une formation de 7 heures",
         "2 ans de permis A2 et une formation de 7 heures",
-        "3 ans et un nouveau code",
-        "1 an et un examen complet",
-        "5 ans sans formation"
+        "2 ans de permis A2 et un nouvel examen pratique complet",
+        "Dès 24 ans, sans délai ni formation (accès direct)"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
-      "fr": "Le passage de A2 à A nécessite 2 ans d'expérience en A2 et une formation complémentaire de 7 heures."
-    }
+      "fr": "Depuis 2016, le permis A s'obtient uniquement après 2 ans de permis A2 et une formation de 7 heures en moto-école, sans nouvel examen ; l'accès direct dès 24 ans n'existe plus."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0429",
@@ -8133,16 +8235,17 @@
     },
     "options": {
       "fr": [
+        "11 kW",
         "25 kW",
-        "50 kW",
-        "35 kW (environ 47,5 ch)",
-        "11 kW"
+        "35 kW",
+        "70 kW"
       ]
     },
     "correct": 2,
     "explanation": {
-      "fr": "Le permis A2 limite la puissance à 35 kW, avec un rapport puissance/poids ne dépassant pas 0,2 kW/kg."
-    }
+      "fr": "Le permis A2 limite la moto à 35 kW (47,5 ch) et à 0,2 kW/kg, sans bridage d'une machine de plus de 70 kW d'origine ; 11 kW est la limite du A1, 25 kW celle de l'ancien A restreint."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0430",
@@ -8161,8 +8264,9 @@
     },
     "correct": 2,
     "explanation": {
-      "fr": "0,8 g/L de sang correspond à 0,40 mg/L d'air expiré, seuil du délit d'alcoolémie."
-    }
+      "fr": "Le taux dans l'air expiré vaut la moitié du taux sanguin : 0,25 mg/L correspond à 0,5 g/L (contravention), 0,40 mg/L à 0,8 g/L, seuil du délit (2 ans de prison, 4 500 € d'amende, 6 points)."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0431",
@@ -8173,16 +8277,17 @@
     },
     "options": {
       "fr": [
-        "135 euros (amende de 4e classe)",
-        "750 euros",
-        "1500 euros",
-        "45 euros"
+        "68 €, amende forfaitaire de 3e classe",
+        "135 €, amende forfaitaire de 4e classe",
+        "750 €, amende forfaitaire de 5e classe",
+        "4 500 €, comme pour le délit d'alcoolémie"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
-      "fr": "Une alcoolémie entre 0,5 et 0,8 g/L est une contravention de 4e classe, amende forfaitaire de 135 euros, plus retrait de 6 points."
-    }
+      "fr": "Entre 0,5 et 0,8 g/L de sang (0,25 à 0,40 mg/L d'air expiré), c'est une contravention de 4e classe : 135 € d'amende forfaitaire, 6 points en moins et suspension possible jusqu'à 3 ans."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0432",
@@ -8193,16 +8298,17 @@
     },
     "options": {
       "fr": [
-        "8 points",
+        "4 points",
         "6 points",
-        "12 points",
-        "4 points"
+        "8 points",
+        "12 points"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "Une seule infraction ne peut retirer au maximum que 6 points."
-    }
+      "fr": "Une même infraction ne peut retirer que 6 points au maximum, soit la moitié du capital : c'est le cas des délits (alcool, stupéfiants, délit de fuite) et du grand excès de vitesse de 50 km/h ou plus."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0433",
@@ -8213,16 +8319,17 @@
     },
     "options": {
       "fr": [
-        "12 points",
-        "10 points",
         "6 points",
-        "8 points"
+        "8 points",
+        "10 points",
+        "12 points"
       ]
     },
-    "correct": 3,
+    "correct": 1,
     "explanation": {
-      "fr": "Lorsque plusieurs infractions sont constatées en même temps, le retrait total est plafonné à 8 points."
-    }
+      "fr": "Quand plusieurs infractions sont constatées en même temps, les retraits se cumulent dans la limite des deux tiers du capital maximal, soit 8 points (contre 6 pour une seule infraction)."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0434",
@@ -8236,13 +8343,14 @@
         "6 mois",
         "1 an",
         "3 ans",
-        "10 ans"
+        "5 ans"
       ]
     },
     "correct": 2,
     "explanation": {
-      "fr": "Le juge peut prononcer une suspension du permis jusqu'à 3 ans pour ce délit."
-    }
+      "fr": "Pour le délit d'alcoolémie (0,8 g/L ou plus), le tribunal peut suspendre le permis jusqu'à 3 ans ; la suspension administrative du préfet, elle, est limitée à 1 an pour l'alcool."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0435",
@@ -8253,16 +8361,17 @@
     },
     "options": {
       "fr": [
-        "12 points",
+        "6 points",
         "8 points",
         "9 points",
-        "6 points"
+        "12 points"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "Le probatoire classique débute à 6 points et gagne 2 points par an sans infraction : 8 points après un an."
-    }
+      "fr": "Le permis probatoire démarre à 6 points et en gagne 2 par an sans infraction (6, 8, 10 puis 12 au bout de 3 ans) ; en conduite accompagnée, il gagne 3 points par an (6, 9, 12 en 2 ans)."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0436",
@@ -8275,14 +8384,15 @@
       "fr": [
         "1 point par an",
         "2 points par an",
-        "3 points par an",
-        "4 points par an"
+        "4 points par an",
+        "3 points par an"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
-      "fr": "La période probatoire après AAC dure 2 ans, avec un gain de 3 points par an (6 puis 9, puis 12)."
-    }
+      "fr": "Après une conduite accompagnée, la période probatoire ne dure que 2 ans : le capital passe de 6 à 9 points, puis à 12, soit 3 points gagnés par année sans infraction (2 points par an en filière classique)."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0437",
@@ -8293,16 +8403,17 @@
     },
     "options": {
       "fr": [
-        "2 mois",
-        "4 mois",
-        "6 mois",
-        "1 mois"
+        "Dans un délai de 2 mois",
+        "Dans un délai de 3 mois",
+        "Dans un délai de 4 mois",
+        "Dans un délai de 6 mois"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
-      "fr": "Le titulaire d'un permis probatoire dispose de 4 mois à compter de la notification (lettre 48N) pour réaliser le stage obligatoire."
-    }
+      "fr": "En permis probatoire, une perte d'au moins 3 points déclenche l'envoi de la lettre 48N : le stage de sensibilisation devient obligatoire et doit être suivi dans les 4 mois suivant sa réception."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0438",
@@ -8313,16 +8424,17 @@
     },
     "options": {
       "fr": [
+        "La lettre 48",
         "La lettre 48M",
         "La lettre 48N",
-        "La lettre 48SI",
-        "La lettre 44"
+        "La lettre 48SI"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
-      "fr": "La lettre référence 48SI notifie l'invalidation du permis pour solde de points nul."
-    }
+      "fr": "Quand le solde atteint 0 point, le ministère de l'Intérieur envoie la lettre 48SI en recommandé : elle notifie l'invalidation du permis, à restituer en préfecture dans les 10 jours."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0439",
@@ -8353,16 +8465,17 @@
     },
     "options": {
       "fr": [
-        "3 mois",
-        "2 ans",
-        "6 mois",
-        "1 an et 1 jour"
+        "6 mois et 1 jour",
+        "3 mois et 1 jour",
+        "1 an et 1 jour",
+        "2 ans et 1 jour"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "fr": "Deux stages rémunérateurs en points doivent être espacés d'au moins 1 an et 1 jour."
-    }
+      "fr": "Un stage de sensibilisation ne permet de récupérer des points (4 au maximum) qu'une fois par an : deux stages doivent donc être espacés d'au moins 1 an et 1 jour."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0441",
@@ -8373,16 +8486,17 @@
     },
     "options": {
       "fr": [
-        "La pression des pneus",
-        "L'opacité des fumées (particules)",
-        "Le niveau de l'huile moteur",
-        "La couleur des phares"
+        "L'opacité des fumées d'échappement (particules)",
+        "Le taux de monoxyde de carbone (CO) à l'échappement",
+        "Le niveau sonore émis à l'échappement",
+        "La consommation de carburant au ralenti"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "fr": "Le contrôle technique mesure l'opacité des fumées d'échappement des moteurs diesel, avec un seuil renforcé depuis 2019."
-    }
+      "fr": "Depuis le 1er juillet 2019, le contrôle technique mesure l'opacité des fumées des moteurs diesel avec un seuil plus sévère, afin de détecter un filtre à particules défaillant ou retiré."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0442",
@@ -8393,16 +8507,17 @@
     },
     "options": {
       "fr": [
-        "2 mois",
-        "1 mois",
-        "6 mois",
-        "15 jours"
+        "Dans un délai de 15 jours",
+        "Dans un délai de 1 mois",
+        "Dans un délai de 6 mois",
+        "Dans un délai de 2 mois"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
-      "fr": "En cas de défaillances majeures, la contre-visite doit être effectuée dans un délai de 2 mois."
-    }
+      "fr": "Après un contrôle technique révélant une défaillance majeure, le véhicule peut encore circuler, mais la contre-visite doit être faite dans les 2 mois ; passé ce délai, un contrôle complet est à refaire."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0443",
@@ -8415,14 +8530,15 @@
       "fr": [
         "Au-delà de 2 tonnes",
         "Au-delà de 3,5 tonnes",
-        "Au-delà de 7,5 tonnes",
-        "Au-delà de 5 tonnes"
+        "Au-delà de 5 tonnes",
+        "Au-delà de 7,5 tonnes"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "Le permis B est limité à 3,5 tonnes de PTAC ; au-delà, il faut le permis C (poids lourd)."
-    }
+      "fr": "Le permis B couvre les véhicules dont le PTAC ne dépasse pas 3,5 tonnes (9 places au plus). Au-delà, il faut un permis de la catégorie C : C1 jusqu'à 7,5 tonnes, C sans limite de poids."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0444",
@@ -8433,16 +8549,17 @@
     },
     "options": {
       "fr": [
-        "0,00 mg/L d'air expiré",
-        "0,40 mg/L d'air expiré",
         "0,25 mg/L d'air expiré",
+        "0,40 mg/L d'air expiré",
+        "0,20 mg/L d'air expiré",
         "0,10 mg/L d'air expiré"
       ]
     },
     "correct": 3,
     "explanation": {
-      "fr": "Le seuil de 0,2 g/L de sang pour les novices correspond à 0,10 mg/L d'air expiré."
-    }
+      "fr": "En permis probatoire, la limite est de 0,2 g/L de sang, soit 0,10 mg/L d'air expiré, contre 0,5 g/L et 0,25 mg/L pour les autres conducteurs ; le seuil du délit reste 0,8 g/L."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0445",
@@ -8453,16 +8570,17 @@
     },
     "options": {
       "fr": [
-        "6 mois d'emprisonnement",
         "1 an d'emprisonnement",
         "2 ans d'emprisonnement",
+        "3 ans d'emprisonnement",
         "5 ans d'emprisonnement"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "fr": "La conduite après usage de stupéfiants est punie de 2 ans d'emprisonnement et 4 500 euros d'amende."
-    }
+      "fr": "Conduire après usage de stupéfiants est un délit puni de 2 ans de prison et 4 500 € d'amende, avec retrait de 6 points ; la peine monte à 3 ans et 9 000 € si de l'alcool est aussi en cause."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0446",
@@ -8474,15 +8592,16 @@
     "options": {
       "fr": [
         "Jusqu'à 750 euros",
-        "Jusqu'à 135 euros",
+        "Jusqu'à 1 500 euros",
         "Jusqu'à 3 750 euros",
-        "Jusqu'à 15 000 euros"
+        "Jusqu'à 4 500 euros"
       ]
     },
     "correct": 2,
     "explanation": {
-      "fr": "Le défaut d'assurance est un délit puni d'une amende pouvant atteindre 3 750 euros."
-    }
+      "fr": "Circuler sans assurance est un délit (art. L324-2) puni d'une amende pouvant atteindre 3 750 €, avec suspension du permis et confiscation du véhicule possibles en peines complémentaires."
+    },
+    "theme": "notions"
   },
   {
     "id": "route_0447",
@@ -8493,16 +8612,17 @@
     },
     "options": {
       "fr": [
-        "Le permis D",
-        "Le permis BE",
-        "Le permis C",
-        "Le permis B96"
+        "Le permis D, transport de personnes",
+        "Le permis C, transport de marchandises",
+        "Le permis B, si le PTAC reste sous 3,5 t",
+        "Le permis C1, véhicules jusqu'à 7,5 t"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Le transport de plus de 8 passagers nécessite le permis D (transport en commun de personnes)."
-    }
+      "fr": "Le permis B est limité à 8 passagers en plus du conducteur. Au-delà, le transport en commun de personnes relève de la catégorie D (D1 jusqu'à 16 passagers, D sans limite)."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0448",
@@ -8513,16 +8633,17 @@
     },
     "options": {
       "fr": [
-        "Un permis pour motos puissantes",
-        "Un permis valable seulement 96 jours",
+        "Un permis B autorisant un attelage jusqu'à 7 000 kg sans passer le BE",
+        "Un permis B limité aux véhicules à boîte de vitesses automatique",
         "Un permis B autorisant un attelage jusqu'à 4 250 kg sans passer le BE",
-        "Un permis pour conduire des bus"
+        "Un permis B obtenu à l'issue de la conduite accompagnée (AAC)"
       ]
     },
     "correct": 2,
     "explanation": {
-      "fr": "La mention B96, obtenue après formation de 7 heures, autorise un ensemble véhicule + remorque jusqu'à 4 250 kg."
-    }
+      "fr": "La mention B96 s'obtient après une formation de 7 heures, sans examen : elle autorise un ensemble voiture + remorque dont la somme des PTAC est comprise entre 3 500 et 4 250 kg."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0449",
@@ -8533,16 +8654,17 @@
     },
     "options": {
       "fr": [
+        "3 mois",
         "1 an",
-        "6 mois",
         "2 ans",
-        "3 mois"
+        "6 mois"
       ]
     },
-    "correct": 1,
+    "correct": 3,
     "explanation": {
-      "fr": "Après invalidation, le délai d'interdiction est généralement de 6 mois (porté à 1 an en cas de nouvelle invalidation dans les 5 ans)."
-    }
+      "fr": "Après une invalidation pour solde nul, l'interdiction de repasser le permis dure 6 mois (1 an en cas de nouvelle invalidation dans les 5 ans) ; avec plus de 3 ans de permis, seul le code est à repasser."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0450",
@@ -8553,16 +8675,17 @@
     },
     "options": {
       "fr": [
-        "Le procès-verbal",
+        "Le rapport d'expertise",
         "Le croquis de l'accident",
-        "Le relevé d'information",
-        "La carte verte"
+        "La déclaration de sinistre",
+        "L'attestation d'assurance"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "Le constat amiable comporte un croquis (schéma) représentant la position et la trajectoire des véhicules lors du choc."
-    }
+      "fr": "Le constat amiable comporte un croquis à compléter : position des véhicules au moment du choc, sens de circulation, marquage au sol et signalisation. Avec les cases cochées, il sert à établir les responsabilités."
+    },
+    "theme": "notions"
   },
   {
     "id": "route_0451",
@@ -8573,16 +8696,17 @@
     },
     "options": {
       "fr": [
-        "À nettoyer le pare-brise",
-        "À lubrifier les pistons",
-        "À éviter la surchauffe du moteur",
-        "À nettoyer les bougies"
+        "À lubrifier les pièces du moteur",
+        "À alimenter le circuit de freinage",
+        "À faciliter le démarrage à froid",
+        "À éviter la surchauffe du moteur"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
-      "fr": "Le liquide de refroidissement évacue la chaleur du moteur pour l'empêcher de surchauffer."
-    }
+      "fr": "Le liquide de refroidissement circule entre le moteur et le radiateur pour évacuer la chaleur ; son niveau se vérifie à froid, dans le vase d'expansion, entre les repères mini et maxi."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0452",
@@ -8593,16 +8717,17 @@
     },
     "options": {
       "fr": [
-        "À refroidir les freins",
-        "À alimenter les phares",
-        "À gonfler les pneus",
-        "À lubrifier les pièces mobiles du moteur"
+        "À lubrifier les pièces mobiles du moteur",
+        "À transmettre la pression de freinage",
+        "À empêcher le gel du circuit de refroidissement",
+        "À alimenter la direction assistée hydraulique"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "fr": "L'huile moteur lubrifie les pièces en mouvement et réduit l'usure et les frottements."
-    }
+      "fr": "L'huile moteur lubrifie les pièces en mouvement pour limiter frottements et usure ; le niveau se contrôle avec la jauge, moteur froid et véhicule sur sol plat, entre les repères mini et maxi."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0453",
@@ -8613,16 +8738,17 @@
     },
     "options": {
       "fr": [
-        "Le mettre debout à l'arrière",
-        "L'installer sur un rehausseur",
-        "Le tenir sur les genoux d'un adulte",
-        "Le laisser sans ceinture"
+        "L'attacher avec la ceinture seule, à l'arrière",
+        "L'installer à l'avant, dos à la route",
+        "L'installer sur un rehausseur homologué",
+        "Utiliser un coussin ordinaire sous la ceinture"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
-      "fr": "Le rehausseur place la ceinture à la bonne hauteur sur le corps de l'enfant jusqu'à environ 1,35 m ou 10 ans."
-    }
+      "fr": "Jusqu'à 10 ans, l'enfant doit voyager dans un dispositif de retenue homologué adapté à sa taille : le rehausseur relève la ceinture pour qu'elle passe sur le bassin et l'épaule, pas sur le cou."
+    },
+    "theme": "securite"
   },
   {
     "id": "route_0454",
@@ -8634,15 +8760,16 @@
     "options": {
       "fr": [
         "Face à la route",
-        "Peu importe le sens",
         "Dos à la route",
+        "Indifféremment",
         "Sur le côté"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "fr": "Le très jeune enfant doit voyager dos à la route, position qui protège mieux la nuque en cas de choc."
-    }
+      "fr": "Un nourrisson voyage dos à la route (obligatoire jusqu'à 15 mois avec la norme i-Size) : en cas de choc frontal, le siège retient la tête et protège la nuque, encore fragile."
+    },
+    "theme": "securite"
   },
   {
     "id": "route_0455",
@@ -8653,16 +8780,17 @@
     },
     "options": {
       "fr": [
-        "Une simple casquette",
-        "Un bonnet",
-        "Un casque homologué attaché",
-        "Rien de particulier"
+        "Un blouson renforcé certifié CE",
+        "Un gilet fluorescent en permanence",
+        "Des bottes montantes homologuées",
+        "Un casque homologué et attaché"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
-      "fr": "Le port d'un casque homologué et correctement attaché est obligatoire pour tout deux-roues motorisé."
-    }
+      "fr": "Le casque homologué, jugulaire attachée, est obligatoire à moto comme à cyclomoteur, tout comme des gants certifiés CE ; le blouson et les bottes sont seulement recommandés."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0456",
@@ -8673,16 +8801,17 @@
     },
     "options": {
       "fr": [
+        "Alerter, protéger, secourir",
+        "Secourir, protéger, alerter",
         "Protéger, alerter, secourir",
-        "Prendre des photos d'abord",
-        "Déplacer tout de suite les blessés",
-        "Continuer sa route"
+        "Alerter, secourir, protéger"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
-      "fr": "La conduite à tenir est : protéger la zone, alerter les secours, puis secourir les victimes."
-    }
+      "fr": "L'ordre compte : protéger d'abord (feux de détresse, gilet, triangle à 30 m, éviter le suraccident), alerter ensuite les secours (112, 15, 18), puis secourir sans déplacer les blessés."
+    },
+    "theme": "secours"
   },
   {
     "id": "route_0457",
@@ -8694,15 +8823,16 @@
     "options": {
       "fr": [
         "Non, sauf danger immédiat (incendie, etc.)",
-        "Oui, pour le faire marcher",
-        "Oui, toujours, pour le mettre en sécurité",
-        "Oui, pour l'asseoir dans la voiture"
+        "Oui, dès que les secours sont prévenus",
+        "Oui, pour dégager la chaussée au plus vite",
+        "Oui, s'il est conscient et se plaint"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "On ne déplace un blessé que s'il court un danger immédiat, car le déplacer peut aggraver ses blessures."
-    }
+      "fr": "Un blessé ne doit pas être déplacé : un mouvement peut aggraver une lésion de la colonne vertébrale. On ne le dégage qu'en cas de danger immédiat, comme un incendie ou un risque de suraccident."
+    },
+    "theme": "secours"
   },
   {
     "id": "route_0458",
@@ -8713,16 +8843,17 @@
     },
     "options": {
       "fr": [
-        "La consommation de carburant et la pollution",
-        "Le nombre de passagers",
-        "La durée de vie des pneus uniquement",
-        "La taille du réservoir"
+        "La durée du trajet et le nombre d'arrêts",
+        "Le coût de l'assurance et du contrôle technique",
+        "La distance de freinage sur sol mouillé",
+        "La consommation de carburant et la pollution"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
-      "fr": "L'éco-conduite (souplesse, anticipation) diminue la consommation de carburant et les émissions polluantes."
-    }
+      "fr": "L'éco-conduite (anticipation, passage rapide des rapports, vitesse stabilisée) réduit la consommation de carburant d'environ 10 à 15 %, et donc les émissions de CO2 et de polluants."
+    },
+    "theme": "environnement"
   },
   {
     "id": "route_0459",
@@ -8733,16 +8864,17 @@
     },
     "options": {
       "fr": [
-        "En roulant au régime maximal",
-        "De façon souple, en anticipant",
-        "En freinant brusquement",
-        "En accélérant fort à chaque feu"
+        "En restant sur les rapports les plus bas",
+        "En roulant au point mort dans les descentes",
+        "De façon souple, en anticipant le trafic",
+        "En maintenant un régime moteur élevé"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
-      "fr": "Une conduite souple et anticipée évite les accélérations et freinages inutiles, gros consommateurs de carburant."
-    }
+      "fr": "Anticiper évite freinages et accélérations inutiles ; on passe les rapports tôt (vers 2 000 tr/min en diesel, 2 500 en essence) et on utilise le frein moteur plutôt que le point mort."
+    },
+    "theme": "environnement"
   },
   {
     "id": "route_0460",
@@ -8753,16 +8885,17 @@
     },
     "options": {
       "fr": [
-        "Parce que c'est interdit aux voitures",
-        "Sans aucune raison valable",
         "Pour éviter un obstacle ou une portière",
-        "Pour gêner les voitures"
+        "Pour être dépassé plus facilement",
+        "Parce qu'il est prioritaire sur la voie",
+        "Pour rouler à hauteur des voitures"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "fr": "Le cycliste s'écarte pour éviter les obstacles, nids-de-poule ou l'ouverture d'une portière de véhicule stationné."
-    }
+      "fr": "Le cycliste peut s'écarter du bord droit pour éviter une bouche d'égout, un nid-de-poule ou l'ouverture d'une portière ; le conducteur qui le suit doit l'anticiper et garder ses distances."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0461",
@@ -8773,16 +8906,17 @@
     },
     "options": {
       "fr": [
-        "Il roule trop vite",
-        "Ses rétroviseurs sont interdits",
-        "Il n'a pas de vitres",
+        "Ses rétroviseurs sont trop petits pour sa longueur",
+        "Sa cabine est trop basse pour voir la route",
+        "Sa vitesse réduite gêne l'observation",
         "Sa taille empêche le conducteur de tout voir"
       ]
     },
     "correct": 3,
     "explanation": {
-      "fr": "La hauteur et la longueur d'un poids lourd créent de larges zones invisibles, notamment à droite et à l'avant."
-    }
+      "fr": "La hauteur de la cabine et la longueur du véhicule créent de larges angles morts, surtout juste devant, à droite et derrière : si vous ne voyez pas le chauffeur dans son rétroviseur, il ne vous voit pas."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0462",
@@ -8793,16 +8927,17 @@
     },
     "options": {
       "fr": [
-        "Le serrer pour passer vite",
-        "Le doubler par la droite",
-        "S'assurer de pouvoir laisser une distance latérale suffisante",
-        "Klaxonner pour le faire accélérer"
+        "Le dépasser par la droite s'il circule au milieu de la voie",
+        "S'assurer de pouvoir laisser un espace latéral suffisant",
+        "Se rapprocher au maximum de lui pour raccourcir la manœuvre",
+        "Actionner les feux de détresse pour prévenir les autres usagers"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "fr": "On ne double un cycliste qu'en pouvant garantir une distance latérale de sécurité, sinon on patiente."
-    }
+      "fr": "Pour dépasser un cycliste, il faut pouvoir laisser au moins 1 m d'écart en agglomération et 1,50 m hors agglomération, quitte à chevaucher une ligne continue si la visibilité le permet ; sinon, on patiente."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0463",
@@ -8813,16 +8948,17 @@
     },
     "options": {
       "fr": [
-        "Sur une place de parking libre",
+        "Sur une place de stationnement payante",
+        "Le long du trottoir d'une rue à sens unique",
         "Devant une sortie de véhicules de secours",
-        "Dans un parking souterrain",
-        "Sur une aire de repos"
+        "Sur une aire de repos d'autoroute"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
-      "fr": "Il est interdit de bloquer les accès des services de secours (pompiers, etc.), c'est un stationnement gênant."
-    }
+      "fr": "Il est interdit de s'arrêter devant une sortie de pompiers ou d'ambulances, comme devant une entrée carrossable : c'est un arrêt gênant, passible d'une amende et d'une mise en fourrière."
+    },
+    "theme": "vehicule_prendre_quitter"
   },
   {
     "id": "route_0464",
@@ -8833,16 +8969,17 @@
     },
     "options": {
       "fr": [
-        "L'arrêt est de courte durée, conducteur prêt à repartir",
-        "L'arrêt dure plus longtemps",
-        "Il n'y a aucune différence",
-        "Le stationnement se fait moteur tournant"
+        "L'arrêt est bref, le conducteur restant prêt à repartir",
+        "L'arrêt se fait moteur tournant, le stationnement moteur coupé",
+        "L'arrêt est limité à 5 minutes, le stationnement à 24 heures",
+        "L'arrêt est toujours gratuit, le stationnement toujours payant"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "L'arrêt est momentané (montée/descente, chargement) avec le conducteur à proximité ; le stationnement est immobilisation prolongée."
-    }
+      "fr": "L'arrêt est une immobilisation momentanée, le temps de charger ou de laisser monter quelqu'un, le conducteur restant à proximité ; le stationnement est une immobilisation prolongée, même moteur tournant."
+    },
+    "theme": "vehicule_prendre_quitter"
   },
   {
     "id": "route_0465",
@@ -8853,16 +8990,17 @@
     },
     "options": {
       "fr": [
-        "La pression d'air",
+        "La pression du circuit lave-glace",
         "Le niveau du liquide lave-glace",
-        "La charge de la batterie",
-        "Le niveau d'huile"
+        "La température du liquide lave-glace",
+        "La couleur du liquide lave-glace"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "Un niveau de lave-glace suffisant garantit une bonne visibilité en nettoyant le pare-brise."
-    }
+      "fr": "Un réservoir de lave-glace vide empêche de nettoyer le pare-brise en roulant, donc de bien voir ; on le remplit avec un produit adapté (antigel en hiver), jamais avec de l'eau seule, qui gèle."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0466",
@@ -8873,16 +9011,17 @@
     },
     "options": {
       "fr": [
-        "À empêcher de dormir",
-        "À rester confortable",
-        "À tenir les bagages",
+        "À déclencher l'airbag au moment de l'impact",
+        "À protéger la nuque grâce à l'appui-tête",
+        "À bloquer les portières pendant la collision",
         "À retenir le corps et éviter d'être projeté"
       ]
     },
     "correct": 3,
     "explanation": {
-      "fr": "La ceinture retient le corps lors d'un choc et évite la projection contre l'habitacle ou hors du véhicule."
-    }
+      "fr": "Lors d'un choc à 50 km/h, un occupant non attaché est projeté avec une force de plus d'une tonne ; la ceinture, obligatoire à toutes les places, le maintient sur son siège et permet à l'airbag d'agir."
+    },
+    "theme": "securite"
   },
   {
     "id": "route_0467",
@@ -8893,16 +9032,17 @@
     },
     "options": {
       "fr": [
-        "À remplacer la ceinture",
-        "À klaxonner",
-        "À gonfler les pneus",
-        "À amortir le choc, en complément de la ceinture"
+        "À remplacer la ceinture sur les trajets courts",
+        "À se déclencher à chaque freinage d'urgence",
+        "À amortir le choc, en complément de la ceinture",
+        "À protéger uniquement le conducteur, jamais le passager"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "fr": "L'airbag amortit l'impact lors d'un choc mais n'est efficace qu'avec la ceinture attachée."
-    }
+      "fr": "L'airbag se gonfle en quelques millisecondes lors d'un choc violent pour amortir l'impact de la tête et du thorax ; sans ceinture, il peut blesser gravement au lieu de protéger."
+    },
+    "theme": "securite"
   },
   {
     "id": "route_0468",
@@ -8914,15 +9054,16 @@
     "options": {
       "fr": [
         "Une anomalie du moteur à faire contrôler",
-        "Que le plein est fait",
-        "Que le moteur est neuf",
-        "Que les phares sont allumés"
+        "Que la révision périodique est à programmer",
+        "Que le niveau d'huile moteur est insuffisant",
+        "Que le moteur a atteint sa température normale"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Le voyant moteur orange signale une anomalie ; il faut faire vérifier le véhicule rapidement."
-    }
+      "fr": "Ce voyant orange en forme de moteur signale un défaut détecté par le calculateur (injection, antipollution) : on peut rouler prudemment, mais il faut faire contrôler le véhicule sans tarder."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0469",
@@ -8933,16 +9074,17 @@
     },
     "options": {
       "fr": [
-        "Traverser en diagonale",
-        "Courir le plus vite possible",
+        "Courir pour traverser plus vite",
+        "Se fier seulement au feu piéton vert",
         "Regarder à gauche et à droite",
-        "Fermer les yeux"
+        "Faire signe aux véhicules d'arrêter"
       ]
     },
     "correct": 2,
     "explanation": {
-      "fr": "Le piéton doit s'assurer qu'aucun véhicule n'arrive avant de s'engager, même sur un passage protégé."
-    }
+      "fr": "Même sur un passage protégé ou au feu vert piéton, il faut s'assurer qu'aucun véhicule n'arrive : regarder à gauche, à droite, puis de nouveau à gauche, et traverser sans courir."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0470",
@@ -8953,16 +9095,17 @@
     },
     "options": {
       "fr": [
-        "Rouler sans éclairage",
-        "Rouler sur le trottoir",
-        "Tenir une lampe de poche à la main",
+        "Allumer ses feux et porter un gilet réfléchissant en agglomération seulement",
+        "Porter un gilet réfléchissant, les feux n'étant obligatoires qu'en ville",
+        "Allumer uniquement son feu arrière rouge, le feu avant restant facultatif",
         "Allumer ses feux et porter un gilet réfléchissant hors agglomération"
       ]
     },
     "correct": 3,
     "explanation": {
-      "fr": "Le cycliste doit avoir feux avant et arrière allumés, et porter un gilet rétroréfléchissant la nuit hors agglomération."
-    }
+      "fr": "La nuit, un vélo doit rouler avec un feu avant blanc ou jaune et un feu arrière rouge, plus ses catadioptres ; hors agglomération, le gilet rétroréfléchissant est en plus obligatoire de nuit ou par mauvaise visibilité."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0471",
@@ -8973,16 +9116,17 @@
     },
     "options": {
       "fr": [
-        "Allumer les feux de route",
-        "Éteindre tous les feux",
-        "Klaxonner sans arrêt",
-        "Allumer les feux de détresse"
+        "Allumer les feux de brouillard",
+        "Allumer les feux de détresse",
+        "Allumer les feux de position",
+        "Allumer les feux de croisement"
       ]
     },
-    "correct": 3,
+    "correct": 1,
     "explanation": {
-      "fr": "Les feux de détresse signalent un véhicule arrêté ou en difficulté aux autres usagers."
-    }
+      "fr": "Les feux de détresse (warning) signalent un véhicule en panne ou à l'arrêt gênant ; on enfile ensuite le gilet avant de sortir et on place le triangle à environ 30 m en arrière, sauf sur autoroute."
+    },
+    "theme": "secours"
   },
   {
     "id": "route_0472",
@@ -8993,16 +9137,17 @@
     },
     "options": {
       "fr": [
-        "À l'avant",
-        "Au milieu",
-        "À l'arrière",
-        "Sur le toit"
+        "Sur l'essieu avant",
+        "Sur l'essieu arrière",
+        "Sur les quatre roues",
+        "Sur l'essieu le plus chargé"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Une traction transmet la puissance aux roues avant, à la différence d'une propulsion (roues arrière)."
-    }
+      "fr": "Sur une traction, le moteur entraîne les roues avant, qui dirigent et tirent le véhicule ; sur une propulsion, ce sont les roues arrière ; une transmission intégrale entraîne les quatre roues."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0473",
@@ -9013,16 +9158,17 @@
     },
     "options": {
       "fr": [
-        "Pour économiser du carburant",
-        "Pour le pousser",
-        "Pour aspirer son sillage",
-        "Pour mieux voir la route et être vu du chauffeur"
+        "Pour profiter de son aspiration et consommer moins",
+        "Parce que la loi impose 100 m derrière tout poids lourd",
+        "Pour mieux voir la route et être vu du chauffeur",
+        "Pour réduire le bruit perçu dans l'habitacle"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "fr": "En reculant, on améliore sa visibilité de la route devant le camion et on reste visible dans ses rétroviseurs."
-    }
+      "fr": "En reculant derrière un poids lourd, on voit la route au-delà de lui, on reste visible dans ses rétroviseurs et on conserve la distance de sécurité de 2 secondes, à augmenter par temps de pluie."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0474",
@@ -9033,16 +9179,17 @@
     },
     "options": {
       "fr": [
+        "Les répartir sur la plage arrière",
         "Les arrimer ou les placer dans le coffre",
-        "Les laisser sur les genoux",
-        "Les poser sur la plage arrière",
-        "Les mettre sur le tableau de bord"
+        "Les poser sur la banquette arrière",
+        "Les tenir sur les genoux du passager avant"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
-      "fr": "Un objet lourd non arrimé devient un projectile dangereux en cas de freinage ou de choc."
-    }
+      "fr": "Lors d'un choc à 50 km/h, un objet de 10 kg non arrimé se transforme en projectile de plusieurs centaines de kilos : les charges lourdes vont dans le coffre, calées au plus bas et contre le dossier."
+    },
+    "theme": "securite"
   },
   {
     "id": "route_0475",
@@ -9053,16 +9200,17 @@
     },
     "options": {
       "fr": [
-        "Appeler son assurance",
-        "Réserver une dépanneuse",
-        "Connaître la météo",
+        "Joindre le SAMU uniquement, en France",
+        "Joindre les urgences par SMS (personnes sourdes)",
+        "Joindre les sapeurs-pompiers uniquement",
         "Appeler les secours d'urgence partout en Europe"
       ]
     },
     "correct": 3,
     "explanation": {
-      "fr": "Le 112 est le numéro d'urgence unique européen, joignable gratuitement depuis tout téléphone."
-    }
+      "fr": "Le 112 est le numéro d'urgence commun à toute l'Union européenne, gratuit et joignable depuis un fixe ou un portable, même verrouillé ; en France, le 15 (SAMU), le 18 (pompiers) et le 114 (SMS) restent valables."
+    },
+    "theme": "secours"
   },
   {
     "id": "route_0476",
@@ -9073,16 +9221,17 @@
     },
     "options": {
       "fr": [
-        "Il reste gonflé plusieurs minutes",
-        "Il se gonfle lentement",
+        "Il reste gonflé jusqu'à l'arrivée des secours",
+        "Il se gonfle progressivement pendant plusieurs secondes",
         "Il se gonfle puis se dégonfle en une fraction de seconde",
-        "Il ne se dégonfle jamais"
+        "Il se gonfle seulement si la ceinture n'est pas bouclée"
       ]
     },
     "correct": 2,
     "explanation": {
-      "fr": "L'airbag se déploie en quelques millisecondes puis se dégonfle aussitôt pour amortir et libérer l'occupant."
-    }
+      "fr": "L'airbag se déploie en quelques millisecondes puis se dégonfle aussitôt : il amortit le choc de la tête et du thorax, en complément de la ceinture, jamais à sa place."
+    },
+    "theme": "securite"
   },
   {
     "id": "route_0477",
@@ -9093,16 +9242,17 @@
     },
     "options": {
       "fr": [
-        "Si un adulte est assis devant",
-        "Si la vitre est ouverte",
+        "Si un enfant de moins de 10 ans y est assis",
         "Si un siège bébé dos à la route y est installé",
-        "Si le véhicule est neuf"
+        "Si un siège enfant face à la route y est installé",
+        "Si une femme enceinte occupe la place avant"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "fr": "Un airbag passager actif peut blesser gravement un bébé placé dos à la route ; il faut le neutraliser."
-    }
+      "fr": "L'airbag se déploie vers le dossier d'un siège dos à la route et peut tuer le bébé : il faut le désactiver (clé ou menu du véhicule) avant d'installer une coque à l'avant."
+    },
+    "theme": "securite"
   },
   {
     "id": "route_0478",
@@ -9113,16 +9263,17 @@
     },
     "options": {
       "fr": [
-        "La vitesse maximale autorisée",
-        "L'âge du pneu",
+        "La pression de gonflage recommandée pour ce pneu",
         "La charge maximale que le pneu peut supporter",
-        "La pression de gonflage"
+        "La vitesse maximale admise pour ce pneu",
+        "La largeur du pneu exprimée en millimètres"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "fr": "L'indice de charge correspond au poids maximal supporté par un pneu à la pression recommandée."
-    }
+      "fr": "L'indice de charge (par exemple 91 = 615 kg) est le poids maximal que le pneu peut porter à la pression prévue ; la lettre qui le suit est l'indice de vitesse."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0479",
@@ -9133,16 +9284,17 @@
     },
     "options": {
       "fr": [
-        "Le diamètre de la jante",
-        "La marque du pneu",
+        "La catégorie de saison du pneu (été, hiver)",
+        "La classe d'efficacité énergétique du pneu",
         "L'indice de vitesse maximale du pneu",
-        "L'année de fabrication"
+        "Le type de structure de la carcasse du pneu"
       ]
     },
     "correct": 2,
     "explanation": {
-      "fr": "Cette lettre est l'indice de vitesse, qui indique la vitesse maximale supportée par le pneu."
-    }
+      "fr": "La lettre est l'indice de vitesse : V signifie que le pneu supporte 240 km/h au maximum. Il doit être au moins égal à celui prévu par le constructeur du véhicule."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0480",
@@ -9154,15 +9306,16 @@
     "options": {
       "fr": [
         "Il chauffe, s'use vite et peut éclater",
-        "Il rend la voiture plus rapide",
-        "Il réduit la consommation",
-        "Il améliore le freinage"
+        "Il s'use au centre de la bande de roulement",
+        "Il durcit et perd son adhérence sur sol sec",
+        "Il rend la direction trop légère et imprécise"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Le sous-gonflage augmente l'échauffement et l'usure du pneu, et accroît le risque d'éclatement."
-    }
+      "fr": "Sous-gonflé, le flanc du pneu se déforme à chaque tour de roue : il chauffe, s'use sur les bords et peut éclater. Vérifiez la pression à froid environ une fois par mois."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0481",
@@ -9173,16 +9326,17 @@
     },
     "options": {
       "fr": [
-        "À couper le moteur",
-        "À gonfler les pneus",
-        "À augmenter la vitesse en virage",
-        "À corriger un début de dérapage en freinant des roues"
+        "À empêcher le blocage des roues lors d'un freinage",
+        "À éviter le patinage des roues motrices au démarrage",
+        "À corriger un début de dérapage en freinant des roues",
+        "À maintenir la vitesse choisie sans toucher l'accélérateur"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "fr": "L'ESP détecte une perte de contrôle et freine sélectivement certaines roues pour stabiliser le véhicule."
-    }
+      "fr": "L'ESP compare la trajectoire demandée au volant et la trajectoire réelle ; en cas d'écart, il freine une ou plusieurs roues pour remettre la voiture dans la bonne direction. L'ABS, lui, évite le blocage des roues."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0482",
@@ -9193,16 +9347,17 @@
     },
     "options": {
       "fr": [
+        "Les replier dans leur logement après refroidissement",
+        "Attendre le prochain contrôle technique pour les vérifier",
         "Faire remplacer les airbags par un professionnel",
-        "Les recoudre",
-        "Continuer à rouler normalement",
-        "Les replier soi-même"
+        "Rouler normalement, ils se réarment automatiquement"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
-      "fr": "Un airbag déployé est à usage unique ; il doit être remplacé par un professionnel avant de reprendre la route en sécurité."
-    }
+      "fr": "Un airbag déployé est à usage unique : il faut faire remplacer le module, les prétensionneurs de ceinture et les capteurs par un professionnel avant de reprendre la route."
+    },
+    "theme": "securite"
   },
   {
     "id": "route_0483",
@@ -9213,16 +9368,17 @@
     },
     "options": {
       "fr": [
-        "La faire asseoir",
-        "L'allonger sur le ventre",
+        "L'allonger sur le dos, la tête légèrement relevée",
         "La mettre en position latérale de sécurité",
-        "Lui donner à boire"
+        "L'asseoir contre un support et la couvrir",
+        "Pratiquer un massage cardiaque sans attendre"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "fr": "La position latérale de sécurité (PLS) libère les voies respiratoires et évite l'étouffement chez la personne inconsciente qui respire."
-    }
+      "fr": "Inconsciente mais respirant, la victime risque de s'étouffer avec sa langue ou des vomissements : la PLS garde ses voies aériennes libres en attendant les secours (15, 18 ou 112)."
+    },
+    "theme": "secours"
   },
   {
     "id": "route_0484",
@@ -9233,16 +9389,17 @@
     },
     "options": {
       "fr": [
-        "Non, sauf nécessité vitale comme une PLS impossible autrement",
-        "Oui, pour vérifier son identité",
-        "Oui, pour le mettre à l'aise",
-        "Oui, immédiatement et systématiquement"
+        "Non, sauf urgence vitale, par exemple s'il ne respire plus",
+        "Oui, sans attendre, pour dégager son visage et vérifier ses blessures",
+        "Oui, mais seulement après l'avoir mis en position assise",
+        "Non, jamais, même s'il est en arrêt respiratoire"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Retirer le casque peut aggraver une lésion cervicale ; on ne le retire qu'en cas de nécessité vitale, avec précaution."
-    }
+      "fr": "Un témoin non formé ne retire pas le casque : le geste peut aggraver une lésion de la colonne cervicale. Seule une urgence vitale (arrêt respiratoire, vomissements) le justifie, avec précaution."
+    },
+    "theme": "secours"
   },
   {
     "id": "route_0485",
@@ -9254,15 +9411,16 @@
     "options": {
       "fr": [
         "À améliorer l'adhérence en conditions hivernales",
-        "À réduire le bruit uniquement",
-        "À rouler plus vite l'été",
-        "À économiser le carburant l'été"
+        "À remplacer les chaînes dans toutes les situations",
+        "À réduire la consommation par temps froid",
+        "À supporter des charges plus lourdes sur route enneigée"
       ]
     },
     "correct": 0,
     "explanation": {
-      "fr": "Le marquage 3PMSF (flocon) certifie des pneus adaptés à la neige et au froid, conformes à la loi Montagne."
-    }
+      "fr": "Le marquage 3PMSF (flocon dans une montagne) certifie un pneu efficace sur neige et par grand froid ; la loi Montagne l'impose du 1er novembre au 31 mars dans certains massifs, à défaut de chaînes à bord."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0486",
@@ -9273,16 +9431,17 @@
     },
     "options": {
       "fr": [
-        "Il fait consommer plus",
+        "Il recharge la batterie plus vite",
         "Il évite la surchauffe des freins",
-        "Il augmente la vitesse",
-        "Il use plus vite les plaquettes"
+        "Il réduit l'usure des pneus avant",
+        "Il maintient le moteur à bonne température"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "En descente, le frein moteur (rapport bas) limite la sollicitation des freins et prévient leur surchauffe et leur perte d'efficacité."
-    }
+      "fr": "En longue descente, des freins sollicités en continu chauffent et perdent leur efficacité. Rétrograder sur un rapport bas fait ralentir le moteur et ménage les freins."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0487",
@@ -9293,16 +9452,17 @@
     },
     "options": {
       "fr": [
-        "Il coupe les phares",
-        "Il bloque le démarrage à froid",
+        "Il démarre le moteur à distance pour le préchauffer",
         "Il coupe le moteur à l'arrêt pour économiser du carburant",
-        "Il limite la vitesse"
+        "Il bloque le démarrage tant que la ceinture n'est pas bouclée",
+        "Il limite le régime moteur tant qu'il n'est pas chaud"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "fr": "Le start & stop arrête automatiquement le moteur à l'arrêt et le redémarre au départ, réduisant consommation et pollution."
-    }
+      "fr": "Le start & stop arrête le moteur quand la voiture est immobilisée (feu, bouchon) et le relance dès que l'on repart : moins de carburant consommé et moins de CO2 rejeté en ville."
+    },
+    "theme": "environnement"
   },
   {
     "id": "route_0488",
@@ -9313,16 +9473,17 @@
     },
     "options": {
       "fr": [
+        "Le filtre à particules se colmate immédiatement",
+        "La pompe à injection perd sa pression",
         "Le moteur risque de surchauffer et de casser",
-        "Les freins se bloqueraient",
-        "Les phares s'éteindraient",
-        "Le moteur consommerait moins"
+        "Le niveau d'huile moteur chute rapidement"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
-      "fr": "Sans refroidissement, le moteur surchauffe rapidement, ce qui peut entraîner des dommages graves et irréversibles."
-    }
+      "fr": "Sans liquide de refroidissement, la température monte en quelques minutes : joint de culasse, culasse ou pistons peuvent être détruits. Voyant rouge allumé, on s'arrête et on coupe le moteur."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0489",
@@ -9333,16 +9494,17 @@
     },
     "options": {
       "fr": [
-        "À couper le moteur",
-        "À accélérer automatiquement",
-        "À klaxonner",
-        "À maintenir le frein quelques secondes pour éviter de reculer"
+        "À passer automatiquement le premier rapport en montée",
+        "À augmenter le régime moteur dès que la pente dépasse 10 %",
+        "À maintenir le frein quelques secondes pour éviter de reculer",
+        "À bloquer le différentiel pour améliorer la motricité"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "fr": "Ce système maintient la pression de freinage le temps de passer du frein à l'accélérateur, évitant de reculer en côte."
-    }
+      "fr": "Au démarrage en pente, le système garde la pression de freinage une à deux secondes après que l'on a lâché la pédale, le temps de passer sur l'accélérateur sans reculer."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0491",
@@ -9353,16 +9515,17 @@
     },
     "options": {
       "fr": [
-        "Parce qu'il n'a pas de freins",
-        "C'est toujours autorisé partout",
+        "Les cyclistes ne sont pas concernés par les feux tricolores",
         "Un panneau cédez-le-passage cycliste l'y autorise",
-        "Parce que le vélo est prioritaire sur tout"
+        "Il bénéficie d'une tolérance dès que la voie est dégagée",
+        "Le feu rouge ne s'applique qu'aux véhicules à moteur"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "fr": "Un panonceau spécifique (vélo + flèche) autorise le cycliste à franchir le feu rouge en cédant le passage aux autres usagers."
-    }
+      "fr": "Le panonceau M12 (vélo et flèche) placé sous le feu autorise le cycliste à passer au rouge dans la direction indiquée, en cédant le passage aux piétons et aux autres usagers. Sans panonceau, il s'arrête."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0492",
@@ -9373,16 +9536,17 @@
     },
     "options": {
       "fr": [
-        "Le suivre de très près",
-        "Klaxonner longuement",
+        "Le dépasser sans ralentir si la voie de gauche est libre",
+        "S'arrêter obligatoirement derrière lui jusqu'à son départ",
         "Ralentir car des piétons peuvent traverser devant",
-        "Accélérer pour le dépasser"
+        "Se rabattre au plus près pour passer avant les piétons"
       ]
     },
     "correct": 2,
     "explanation": {
-      "fr": "Un bus à l'arrêt masque la vue ; des piétons peuvent traverser juste devant ou derrière, d'où la nécessité de ralentir."
-    }
+      "fr": "Un bus ou un car à l'arrêt cache les piétons qui descendent et peuvent traverser juste devant ou derrière lui : on ralentit fortement, prêt à s'arrêter, et on garde un écart latéral."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0493",
@@ -9393,16 +9557,17 @@
     },
     "options": {
       "fr": [
-        "Le camion est prioritaire à gauche",
-        "Le camion va reculer",
-        "On le gêne dans son virage à gauche",
+        "Sa remorque se déporte vers la gauche et bloque la voie",
+        "Il doit s'arrêter complètement avant de tourner à droite",
+        "Son conducteur ne peut pas freiner pendant la manœuvre",
         "On se trouve dans son angle mort et risque d'être écrasé"
       ]
     },
     "correct": 3,
     "explanation": {
-      "fr": "Lorsqu'un camion braque à droite, l'avant se déporte et l'arrière balaie l'espace de droite : se placer là est très dangereux."
-    }
+      "fr": "Un camion qui tourne à droite ne voit pas ce qui se trouve à sa droite (angle mort) et ses roues arrière coupent la trajectoire : rester derrière lui, jamais à sa hauteur."
+    },
+    "theme": "usagers"
   },
   {
     "id": "route_0494",
@@ -9413,16 +9578,17 @@
     },
     "options": {
       "fr": [
-        "La batterie est pleine",
+        "L'alternateur tourne plus vite pour recharger la batterie à froid",
         "Le mélange est enrichi tant que le moteur n'est pas chaud",
-        "L'huile est trop chaude",
-        "Les pneus sont sous-gonflés"
+        "Le turbo ne fonctionne pas tant que l'huile est froide",
+        "Le catalyseur consomme du carburant pour se réchauffer"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "À froid, le moteur reçoit un mélange plus riche en carburant, ce qui explique la surconsommation des premiers kilomètres."
-    }
+      "fr": "Tant que le moteur est froid, le calculateur injecte plus de carburant et l'huile épaisse freine les pièces : les premiers kilomètres consomment beaucoup plus, d'où l'intérêt de limiter les trajets très courts."
+    },
+    "theme": "environnement"
   },
   {
     "id": "route_0495",
@@ -9433,16 +9599,17 @@
     },
     "options": {
       "fr": [
-        "Refroidir les pneus",
+        "Laisser refroidir le turbo avant de repartir",
         "Réduire la consommation et la pollution",
-        "Augmenter la pression d'huile",
-        "Recharger plus vite la batterie"
+        "Préserver la batterie et l'alternateur",
+        "Éviter l'encrassement du filtre à particules"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "Laisser tourner le moteur à l'arrêt consomme inutilement du carburant et pollue ; il vaut mieux le couper."
-    }
+      "fr": "Un moteur qui tourne au ralenti consomme du carburant et rejette des polluants pour rien ; au-delà de quelques dizaines de secondes d'arrêt, le couper est toujours plus économique et plus propre."
+    },
+    "theme": "environnement"
   },
   {
     "id": "route_0496",
@@ -9453,16 +9620,17 @@
     },
     "options": {
       "fr": [
-        "Ouvrir sans regarder",
+        "Allumer les feux de détresse avant d'ouvrir la portière",
         "Ouvrir la portière avec la main opposée pour se retourner",
-        "Klaxonner avant d'ouvrir",
-        "Ouvrir vivement la portière"
+        "Entrouvrir la portière d'un coup sec pour signaler sa présence",
+        "Descendre uniquement lorsque la circulation est totalement arrêtée"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "La technique dite « néerlandaise » oblige à se retourner et à voir arriver un cycliste avant d'ouvrir la portière."
-    }
+      "fr": "Saisir la poignée avec la main la plus éloignée de la portière oblige le buste à pivoter : on regarde dans le rétroviseur et par-dessus l'épaule si un cycliste arrive avant d'ouvrir."
+    },
+    "theme": "vehicule_prendre_quitter"
   },
   {
     "id": "route_0497",
@@ -9473,16 +9641,17 @@
     },
     "options": {
       "fr": [
-        "La voiture est plus légère",
-        "Le temps de réaction baisse",
-        "Les freins fonctionnent mieux",
-        "L'adhérence des pneus diminue"
+        "Le temps de réaction double",
+        "Les disques de frein se dilatent",
+        "L'adhérence des pneus diminue",
+        "La masse du véhicule augmente"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "fr": "Sur sol mouillé, l'adhérence chute et la distance de freinage augmente nettement par rapport au sec."
-    }
+      "fr": "Sur sol mouillé, le film d'eau réduit l'adhérence : la distance de freinage s'allonge nettement, alors que le temps de réaction (environ 1 seconde) ne change pas."
+    },
+    "theme": "route"
   },
   {
     "id": "route_0498",
@@ -9493,16 +9662,17 @@
     },
     "options": {
       "fr": [
-        "La pression exacte",
-        "La couleur du flanc",
+        "Que la profondeur des sculptures dépasse encore 3 mm",
+        "Que les témoins sont bien alignés sur toute la bande",
         "Que la gomme n'arrive pas au niveau des témoins",
-        "L'année de fabrication"
+        "Que la date de fabrication est inférieure à cinq ans"
       ]
     },
     "correct": 2,
     "explanation": {
-      "fr": "Les témoins d'usure sont des bossages dans les rainures ; quand la gomme les atteint, le pneu est trop usé (1,6 mm)."
-    }
+      "fr": "Les témoins d'usure sont des bossages de 1,6 mm au fond des rainures : quand la bande de roulement les atteint, le pneu est à la limite légale et doit être remplacé."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0499",
@@ -9513,16 +9683,17 @@
     },
     "options": {
       "fr": [
-        "Pour économiser la batterie seulement",
-        "Éviter brûlures et risques liés aux pièces en mouvement",
-        "Pour gonfler les pneus",
-        "Pour recharger le moteur"
+        "Pour permettre au calculateur d'enregistrer les défauts",
+        "Pour éviter les brûlures et les pièces en mouvement",
+        "Pour faire retomber la pression d'huile dans le circuit",
+        "Pour éviter de décharger la batterie pendant le contrôle"
       ]
     },
     "correct": 1,
     "explanation": {
-      "fr": "Moteur coupé, on évite le contact avec des organes en rotation et on limite les risques de brûlure et d'accident."
-    }
+      "fr": "Moteur tournant, le ventilateur peut se déclencher seul et les courroies happer une main ; le liquide de refroidissement chaud est sous pression. Contact coupé, on attend que le moteur refroidisse."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0500",
@@ -9533,16 +9704,17 @@
     },
     "options": {
       "fr": [
-        "Le laver simplement",
-        "Le réutiliser tel quel",
+        "Le faire contrôler au prochain contrôle technique",
+        "Le conserver s'il ne présente aucune fissure",
         "Le remplacer même sans dommage visible",
-        "Le réparer soi-même"
+        "Le réserver aux trajets courts en agglomération"
       ]
     },
     "correct": 2,
     "explanation": {
-      "fr": "Un choc peut fragiliser la structure du siège de façon invisible ; il doit être remplacé pour garantir la sécurité."
-    }
+      "fr": "Un choc violent peut fissurer la coque ou fragiliser le harnais sans trace visible : le siège ne protégerait plus l'enfant lors d'un second accident. Il doit être remplacé."
+    },
+    "theme": "securite"
   },
   {
     "id": "route_0501",
@@ -9554,15 +9726,16 @@
     "options": {
       "fr": [
         "2 ans",
+        "3 ans",
         "4 ans",
-        "6 ans",
         "5 ans"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
-      "fr": "Le premier contrôle technique a lieu dans les 6 mois avant les 4 ans du véhicule, puis tous les 2 ans."
-    }
+      "fr": "Le premier contrôle technique se fait dans les 6 mois qui précèdent le 4e anniversaire de la première mise en circulation, puis tous les 2 ans."
+    },
+    "theme": "notions"
   },
   {
     "id": "route_0502",
@@ -9573,16 +9746,17 @@
     },
     "options": {
       "fr": [
+        "Les véhicules qui arrivent par la droite",
         "Les véhicules déjà engagés dans l'anneau",
-        "Le véhicule le plus lourd",
-        "Celui qui arrive par la droite",
-        "Les véhicules qui entrent"
+        "Les véhicules qui s'apprêtent à entrer",
+        "Les véhicules qui sortent de l'anneau"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
-      "fr": "Le panneau « cédez le passage » à l'entrée impose de laisser passer ceux qui circulent déjà dans l'anneau."
-    }
+      "fr": "À l'entrée d'un carrefour à sens giratoire, le panneau « cédez le passage » impose de laisser passer les véhicules qui circulent déjà dans l'anneau. Dans un simple rond-point sans panneau, c'est la priorité à droite."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0503",
@@ -9593,16 +9767,17 @@
     },
     "options": {
       "fr": [
-        "3 mm",
         "1 mm",
+        "1,6 mm",
         "2,5 mm",
-        "1,6 mm"
+        "3 mm"
       ]
     },
-    "correct": 3,
+    "correct": 1,
     "explanation": {
-      "fr": "En dessous de 1,6 mm, le pneu est lisse au sens de la loi : amende de 4e classe et immobilisation possible."
-    }
+      "fr": "La loi impose au moins 1,6 mm de profondeur sur toute la bande de roulement ; en dessous, le pneu est considéré comme lisse : amende de 4e classe (135 €) et immobilisation possible."
+    },
+    "theme": "mecanique"
   },
   {
     "id": "route_0504",
@@ -9613,16 +9788,17 @@
     },
     "options": {
       "fr": [
-        "Au moins 2 secondes",
-        "Une longueur de voiture",
         "Au moins 1 seconde",
-        "Au moins 5 secondes"
+        "Au moins 2 secondes",
+        "Au moins 3 secondes",
+        "Au moins 50 mètres"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
-      "fr": "La règle des 2 secondes : repérez un point fixe et comptez. Doublez le temps par temps de pluie."
-    }
+      "fr": "Règle des 2 secondes : quand le véhicule qui précède passe un repère fixe, on doit compter au moins deux secondes avant de l'atteindre. On augmente l'intervalle par temps de pluie ou de nuit."
+    },
+    "theme": "circulation"
   },
   {
     "id": "route_0505",
@@ -9633,16 +9809,17 @@
     },
     "options": {
       "fr": [
-        "8 points",
-        "12 points",
+        "4 points",
         "6 points",
-        "10 points"
+        "8 points",
+        "12 points"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "fr": "Le permis probatoire démarre à 6 points, puis gagne 2 points par an sans infraction (3 après conduite accompagnée)."
-    }
+      "fr": "Le permis probatoire démarre avec 6 points ; sans infraction, il gagne 2 points par an (3 après conduite accompagnée) jusqu'à atteindre 12 points au bout de 3 ans (2 ans en AAC)."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0506",
@@ -9653,16 +9830,17 @@
     },
     "options": {
       "fr": [
-        "Il est valable à vie",
-        "Exactement 5 ans",
-        "Un mois après l'achat",
-        "Celle indiquée sur l'emballage (date de péremption)"
+        "Deux ans à compter de la date d'achat, sans exception",
+        "Illimitée tant que l'emballage n'est pas ouvert",
+        "Celle indiquée sur l'emballage (date de péremption)",
+        "Six mois après l'achat, ensuite il faut le remplacer"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "fr": "Le réactif chimique se dégrade : un éthylotest périmé n'a plus aucune valeur, la date figure sur l'emballage."
-    }
+      "fr": "Le réactif chimique du tube se dégrade avec le temps : la date limite figure sur l'emballage (souvent 1 à 2 ans). Périmé, l'éthylotest ne donne plus aucune mesure fiable."
+    },
+    "theme": "conducteur"
   },
   {
     "id": "route_0507",
@@ -9673,15 +9851,16 @@
     },
     "options": {
       "fr": [
-        "Klaxonner pour signaler sa présence",
-        "Accélérer pour passer avant la fermeture",
-        "Contourner les barrières par la gauche",
-        "S'arrêter avant le passage et attendre la réouverture"
+        "Passer vite si aucun train n'est encore visible",
+        "S'engager tant que la barrière n'a pas touché le sol",
+        "S'arrêter avant le passage et attendre la réouverture",
+        "Franchir la voie au pas en regardant des deux côtés"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "fr": "Franchir un passage à niveau dont les barrières sont fermées ou en mouvement est une contravention de 4e classe : 135 € d'amende et retrait de 4 points."
-    }
+      "fr": "Barrières en mouvement, feux rouges clignotants ou sonnerie : arrêt absolu avant la ligne. Franchir un passage à niveau fermé est une contravention de 4e classe (135 €, 4 points)."
+    },
+    "theme": "circulation"
   }
 ]
