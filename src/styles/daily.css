@@ -1,0 +1,85 @@
+/* ===== Défi du jour (DailyQuiz) =====
+   S'appuie sur les classes communes (.quiz, .option, .feedback, .result-hero,
+   .stat-tiles…). Tout est préfixé .daily-quiz. Mobile-first. */
+
+/* Accroche sous la pastille de catégorie, première question seulement. */
+.daily-quiz .daily-sub {
+  margin: 10px 0 0;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+}
+
+/* --- Options illustrées (optionImages) : grille 2×2, image au centre -------
+   (.sr-only global d'index.css pour le nom ; actions ancrées = .quiz-actions). */
+.daily-quiz .options.options-visual {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.daily-quiz .option.option-visual {
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 10px;
+}
+.daily-quiz .option-sign {
+  flex: none;
+  width: min(110px, 30vw);
+}
+
+/* --- Résultat --------------------------------------------------------------- */
+/* Déjà joué aujourd'hui : rappel discret sous la carte de score. */
+.daily-quiz .daily-played {
+  background: var(--accent-tint);
+  border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+  margin-bottom: 14px;
+  text-align: center;
+}
+.daily-quiz .daily-played strong {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+}
+.daily-quiz .daily-played p {
+  margin: 4px 0 0;
+  font-size: 0.86rem;
+  color: var(--text-dim);
+}
+
+/* Grille emoji façon Wordle (retours à la ligne conservés). */
+.daily-quiz .daily-grid {
+  margin: 4px 0 14px;
+  text-align: center;
+  font-size: 1.45rem;
+  line-height: 1.35;
+  letter-spacing: 3px;
+  white-space: pre-line;
+  animation: pop-in 0.45s var(--spring);
+}
+
+/* Compte à rebours vers le prochain défi. */
+.daily-quiz .daily-countdown {
+  margin: 0 0 14px;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: 650;
+  color: var(--text-dim);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Partage texte (Wordle) au-dessus du partage lien/image. */
+.daily-quiz .daily-share {
+  margin-bottom: 18px;
+}
+.daily-quiz .daily-share .resultshare-msg {
+  margin: 8px 0 0;
+  text-align: center;
+}
+
+/* --- Mouvement réduit ------------------------------------------------------ */
+@media (prefers-reduced-motion: reduce) {
+  .daily-quiz .daily-grid {
+    animation: none;
+  }
+}

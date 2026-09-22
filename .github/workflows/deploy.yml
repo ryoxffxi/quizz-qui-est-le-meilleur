@@ -1,12 +1,20 @@
 name: Deploy to Cloudflare Workers
 
-# Déploie le site à chaque push sur main : build Vite puis `wrangler deploy`.
+# Déploie le site à chaque push sur main : lint, tests, build (compteurs, Vite,
+# pages statiques, garde-fou de taille) puis `wrangler deploy`.
 # Le token Cloudflare (scopé Workers Scripts:Edit) est stocké en secret GitHub.
 
 on:
   push:
     branches: [main]
   workflow_dispatch: {}
+
+# Un seul déploiement à la fois ; un push pendant un déploiement attend son tour
+# (pas d'annulation : un déploiement interrompu à moitié est pire qu'un
+# déploiement en retard).
+concurrency:
+  group: deploy-prod
+  cancel-in-progress: false
 
 jobs:
   deploy:
@@ -17,13 +25,23 @@ jobs:
       contents: read
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Historique complet : build-pages lit la date du dernier commit de
+          # chaque fichier source pour le <lastmod> du sitemap.
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
-          node-version: 22
+          # Même version que la prod (fichier .nvmrc à la racine).
+          node-version-file: .nvmrc
+          cache: npm
       - run: npm ci
+      - run: npm run lint
+      - run: npm test
       - run: npm run build
       - name: Deploy with Wrangler
-        run: npx wrangler@4 deploy
+        # wrangler est une devDependency épinglée (package-lock) : pas de
+        # version flottante tirée du registre au moment du déploiement.
+        run: npx wrangler deploy
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

@@ -1,0 +1,175 @@
+/* ===== Défi entre potes + partage (chantier defi-share) =====
+   Complète index.css (.quiz, .option, .share, .resultshare, .result-actions…)
+   avec les tokens du design v2. Aucune règle ici ne redéfinit une classe de
+   index.css. */
+
+/* Lien texte discret sous le bouton principal (« Tester seul »). */
+.link-btn {
+  background: none;
+  border: none;
+  padding: 8px 4px;
+  color: var(--text-dim);
+  font-size: 0.86rem;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+  align-self: center;
+}
+.link-btn:hover {
+  color: var(--text);
+}
+
+/* Écran d'information (lien invalide, banque trop petite, défi sans question). */
+.defi-notice {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 26px 20px;
+  text-align: center;
+  margin-bottom: 18px;
+}
+.defi-notice-title {
+  margin: 0 0 6px;
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+.defi-notice-text {
+  margin: 0 0 18px;
+  color: var(--text-dim);
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+/* Bandeau « revanche » / adversaire mémorisé, sur la carte de configuration. */
+.defi-rival {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 10px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: var(--accent-tint);
+  color: var(--accent-soft);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+/* Points de l'hôte sur l'écran d'invitation. */
+.defi-host-points {
+  margin: 14px 0 0;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--accent-soft);
+  text-align: center;
+}
+
+/* Image de panneau dans un bouton d'option (questions à réponses visuelles). */
+.option-sign {
+  display: inline-flex;
+  width: 64px;
+  min-width: 64px;
+  height: 64px;
+  align-items: center;
+  justify-content: center;
+}
+.option-sign svg {
+  width: 100%;
+  height: 100%;
+}
+.options.with-images {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.options.with-images .option {
+  justify-content: center;
+  padding: 14px 10px;
+}
+
+/* Grille d'emoji (résultat façon Wordle). */
+.defi-grid {
+  margin: 10px auto 0;
+  font-family: inherit;
+  font-size: 1.05rem;
+  line-height: 1.35;
+  letter-spacing: 1px;
+  white-space: pre;
+  text-align: center;
+}
+
+/* Partage : lien lisible sous le bouton principal, message d'état. */
+.share .btn {
+  margin-bottom: 10px;
+}
+.share-status {
+  margin: 8px 0 0;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+}
+.share-status.bad {
+  color: var(--bad);
+}
+
+/* Miniature de la carte image : la carte 1080×1920 rendue réduite (180 px),
+   même nœud que celui capturé (pas de double rendu). */
+.sharecard-thumb {
+  width: 180px;
+  height: 320px;
+  margin: 0 auto 12px;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: #0a0d16;
+  pointer-events: none;
+}
+.sharecard-scale {
+  width: 1080px;
+  height: 1920px;
+  transform: scale(0.16667);
+  transform-origin: top left;
+}
+
+/* Bouton d'option verrouillé : on fige, sans révéler la bonne réponse. Le
+   verrou est posé en aria-disabled (le focus clavier reste sur l'option) :
+   même rendu qu'un bouton désactivé, sans retour tactile. */
+.option.chosen.locked {
+  box-shadow: 0 0 0 3px var(--accent-tint);
+}
+.option[aria-disabled='true'] {
+  cursor: default;
+}
+.option[aria-disabled='true']:active {
+  transform: none;
+}
+
+/* Étoile du score de manche dans la barre du haut (remplace l'emoji). */
+.quiz-score-icon {
+  vertical-align: -2px;
+  margin-right: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .option.chosen.locked {
+    box-shadow: none;
+    outline: 2px solid var(--accent);
+  }
+}
+
+/* Lien discret désactivé (banque trop petite). */
+.link-btn:disabled {
+  opacity: 0.45;
+  cursor: default;
+  text-decoration: none;
+}
+.defi-notice-text:last-child {
+  margin-bottom: 0;
+}
+
+/* Sous-titre du bloc de partage (« Renvoie ton score à … »). */
+.resultshare-sub {
+  margin: -6px 0 14px;
+  font-size: 0.9rem;
+  color: var(--text-dim);
+  line-height: 1.4;
+}

@@ -1,0 +1,64 @@
+/* ===== Coquille de l'App (chantier shell-app) =====
+   Toasts (mise à jour PWA, lien invalide, rechargement) et boutons des écrans
+   d'attente/erreur (BankGate, ScreenBoundary). Tokens et classes : design/DESIGN.md. */
+
+/* Bandeau bref en bas de l'écran, au-dessus du bandeau cookies (60) et sous
+   les modales (80). Largeur de la colonne .app, zones sûres iOS. */
+.app-toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(var(--space-4) + var(--safe-bottom));
+  transform: translateX(-50%);
+  z-index: 70;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+  width: min(560px, calc(100% - 2 * var(--space-4)));
+  padding: var(--space-3) var(--space-4);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm);
+  background: var(--surface-2);
+  color: var(--text);
+  font-size: var(--fs-sm);
+  line-height: 1.4;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+  animation: app-toast-in 0.28s var(--ease) both;
+}
+.app-toast-warn {
+  border-color: var(--warn);
+}
+.app-toast-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.app-toast-btn {
+  flex: 0 0 auto;
+  min-height: 40px;
+  padding: 8px 16px;
+}
+@keyframes app-toast-in {
+  from {
+    opacity: 0;
+    transform: translate(-50%, 12px);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+}
+
+/* Boutons des écrans d'attente et d'erreur (Réessayer + Accueil). */
+.bank-gate-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-3);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .app-toast {
+    animation: none;
+  }
+}

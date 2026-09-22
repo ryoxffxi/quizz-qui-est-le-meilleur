@@ -5,6 +5,7 @@
 // Tant que Stripe est en mode TEST (compte non activé pour encaisser), on masque
 // l'entrée du Premium : une vraie carte serait refusée sur le Checkout de test.
 // Passer à true au go-live réel (clés live posées + compte Stripe activé).
+// Ligne modifiée par go-live-stripe.sh --live : ne pas la reformuler.
 export const PREMIUM_LIVE = false
 
 const KEY = 'quizz_premium'
@@ -65,6 +66,30 @@ export async function startCheckout(plan) {
   return false
 }
 
+// Ouvre le portail client Stripe (gérer ou annuler l'abonnement, factures,
+// moyen de paiement). Le jeton prouve l'email ; le Worker retrouve le client
+// Stripe en D1. Renvoie true si la redirection est partie, false sinon (pas de
+// jeton, aucun client Stripe connu, backend hors ligne). Retour sur /?portail=retour.
+export async function openPortal() {
+  const token = getToken()
+  if (!token) return false
+  try {
+    const res = await fetch('/api/portal', {
+      method: 'POST',
+      headers: { authorization: `Bearer ${token}` },
+    })
+    if (!res.ok) return false
+    const data = await res.json()
+    if (data && data.url) {
+      window.location.href = data.url
+      return true
+    }
+  } catch {
+    /* backend hors ligne */
+  }
+  return false
+}
+
 // Relit l'entitlement côté serveur (source de vérité) et aligne le cache.
 async function syncEntitlement() {
   const token = getToken()
@@ -84,7 +109,7 @@ async function syncEntitlement() {
 // contre un jeton de session, et débloque le premium.
 // Renvoie 'ok' si la réponse a été traitée (payé ou non), 'retry' en cas d'échec
 // TRANSITOIRE (réseau coupé / 5xx). L'appelant garde alors le session_id dans
-// l'URL pour qu'un rechargement réessaie, au lieu de coincer un acheteur payé (corr-7).
+// l'URL pour qu'un rechargement réessaie, au lieu de coincer un acheteur payé.
 async function confirmCheckout(sessionId) {
   try {
     const res = await fetch(`/api/confirm?session_id=${encodeURIComponent(sessionId)}`)
@@ -98,8 +123,9 @@ async function confirmCheckout(sessionId) {
   }
 }
 
-// À appeler au démarrage : traite le retour de paiement, sinon revalide le statut.
-// Sans jeton valide -> premium retiré (empêche un cache localStorage falsifié).
+// À appeler au démarrage : traite le retour de paiement, sinon revalide le statut
+// (y compris au retour du portail client : /?portail=retour, où un abonnement a pu
+// être annulé). Sans jeton valide -> premium retiré (empêche un cache falsifié).
 export async function bootstrapEntitlement() {
   let url
   try {
@@ -109,6 +135,7 @@ export async function bootstrapEntitlement() {
   }
   const status = url.searchParams.get('premium')
   const sid = url.searchParams.get('session_id')
+  const portal = url.searchParams.get('portail')
   let confirmResult = 'ok'
   if (status === 'success' && sid) {
     confirmResult = await confirmCheckout(sid)
@@ -119,9 +146,10 @@ export async function bootstrapEntitlement() {
   }
   // On nettoie l'URL SAUF si la confirmation a échoué de façon transitoire :
   // garder session_id permet de réessayer (au rechargement) sans perdre un achat payé.
-  if ((status || sid) && confirmResult !== 'retry') {
+  if ((status || sid || portal) && confirmResult !== 'retry') {
     url.searchParams.delete('premium')
     url.searchParams.delete('session_id')
+    url.searchParams.delete('portail')
     window.history.replaceState(null, '', url.pathname + url.search + url.hash)
   }
 }

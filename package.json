@@ -5,16 +5,23 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/build-counts.mjs && vite build && node scripts/build-pages.mjs",
+    "build": "node scripts/i18n-check.mjs --quiet && npm run panneaux && node scripts/build-counts.mjs && vite build && node scripts/build-pages.mjs && node scripts/check-bundle-size.mjs",
     "lint": "eslint .",
     "preview": "vite preview",
     "counts": "node scripts/build-counts.mjs",
+    "panneaux": "node scripts/build-panneaux-quiz.mjs",
     "audit": "node scripts/audit-questions.mjs",
-    "i18n": "node scripts/i18n-orphans.mjs",
+    "qa": "node scripts/audit-questions.mjs && vitest run scripts/qa.test.mjs scripts/fix-banks-2026-09.test.mjs",
+    "fix-banks": "node scripts/fix-banks-2026-09.mjs",
+    "i18n": "node scripts/i18n-check.mjs",
+    "icons": "node scripts/make-icons.mjs",
+    "contrast": "node scripts/check-contrast.mjs",
+    "size": "node scripts/check-bundle-size.mjs",
+    "events": "node scripts/events-report.mjs",
     "pages": "node scripts/build-pages.mjs",
     "test": "vitest run",
     "test:watch": "vitest",
-    "check": "npm run lint && npm run test && npm run audit"
+    "check": "npm run lint && npm run i18n && npm run test && npm run audit && npm run contrast"
   },
   "dependencies": {
     "html-to-image": "^1.11.13",

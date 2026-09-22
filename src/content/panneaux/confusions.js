@@ -4,7 +4,7 @@
 // Une fiche qui répète la définition officielle n'apprend rien à personne et
 // n'apporte rien à Google : la définition est déjà partout. Ce qui manque
 // vraiment à quelqu'un qui révise, c'est le tri entre deux panneaux qui se
-// ressemblent — c'est là que se perdent les points à l'examen. C'est aussi la
+// ressemblent : c'est là que se perdent les points à l'examen. C'est aussi la
 // requête réellement tapée (« différence entre B15 et C18 »).
 //
 // CONVENTION : une paire est déclarée UNE SEULE FOIS. Le build la symétrise, donc
@@ -73,7 +73,7 @@ export const CONFUSIONS = [
   {
     a: 'ab1',
     b: 'ab2',
-    tip: "AB1 (croix) : intersection ordinaire, la priorité à droite s'applique et c'est vous qui cédez. AB2 : la même intersection, mais c'est vous qui avez la priorité.",
+    tip: "AB1 (croix) : intersection ordinaire, la priorité à droite s'applique et vous cédez à ceux qui arrivent de votre droite. AB2 : la même intersection, mais c'est vous qui avez la priorité.",
   },
   {
     a: 'ab6',
@@ -120,7 +120,7 @@ export const CONFUSIONS = [
   {
     a: 'b14_50',
     b: 'b30',
-    tip: "B14 limite la vitesse jusqu'au prochain panneau ou à la prochaine intersection. B30 ouvre une ZONE 30 : la limite vaut sur toutes les rues de la zone jusqu'au panneau de sortie B51, et les piétons y traversent partout.",
+    tip: "B14 limite la vitesse jusqu'au prochain panneau ou à la prochaine intersection. B30 ouvre une ZONE 30 : la limite vaut sur toutes les rues de la zone jusqu'au panneau de sortie B51, et les passages piétons n'y sont généralement pas matérialisés.",
   },
   {
     a: 'b14_50',
@@ -158,7 +158,7 @@ export const CONFUSIONS = [
     tip: "B8 barre un camion : ce sont les véhicules de transport de marchandises qui sont exclus, quelle que soit leur taille. B12 affiche une hauteur : c'est le gabarit qui décide, un camping-car trop haut est concerné aussi.",
   },
 
-  // ── Fin d'interdiction ───────────────────────────────────────────────────
+  // ── Fin de prescription ──────────────────────────────────────────────────
   {
     a: 'b31',
     b: 'b33_50',

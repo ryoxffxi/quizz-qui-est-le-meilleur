@@ -1,7 +1,8 @@
 {
-  // Configuration Cloudflare Workers : assets statiques (build Vite) + Worker premium.
-  // Le Worker (worker/index.js) gère /api/* (Stripe Checkout, webhook, entitlement) et
-  // délègue tout le reste aux assets via le binding ASSETS (SPA fallback conservé).
+  // Configuration Cloudflare Workers : assets statiques (build Vite + pages
+  // générées) + Worker (worker/index.js) qui gère /api/* (Stripe Checkout,
+  // webhook, entitlement, portail client, compteurs d'usage) et délègue tout
+  // le reste aux assets via le binding ASSETS.
   // Doit correspondre au Worker qui porte le domaine ryo-offc.com,
   // sinon le déploiement Git mettrait à jour un autre Worker.
   "name": "quizz-qui-est-le-meilleur",
@@ -12,17 +13,23 @@
   "main": "worker/index.js",
   "assets": {
     "directory": "./dist",
-    // Toute route inconnue renvoie index.html (SPA) — équivalent du _redirects.
-    "not_found_handling": "single-page-application",
+    // Adresse sans fichier -> dist/404.html en statut 404 (vraie page 404 pour
+    // les robots et les liens morts). Les routes de l'App sans fichier physique
+    // (/jouer/..., /examen, /quotidien, ...) sont rattrapées par le Worker, qui
+    // sert index.html en 200 (voir worker/routes.js).
+    "not_found_handling": "404-page",
     "binding": "ASSETS"
   },
+  // Journaux et traces des requêtes dans le tableau de bord Workers (erreurs
+  // console.error du Worker, webhooks en échec) : indispensable en prod.
+  "observability": { "enabled": true },
   // IDs publics des tarifs Stripe (les secrets, eux, passent par `wrangler secret put`).
   // Compte Stripe acct_1U5P2PRuYsvpBRHd (recréé le 2026-08-17), lookup_keys quizz_monthly / quizz_lifetime.
   "vars": {
     "PRICE_MONTHLY": "price_1U5P8XRuYsvpBRHdbbyRTjBY",
     "PRICE_LIFETIME": "price_1U5P8YRuYsvpBRHdukbFsjDL"
   },
-  // Base D1 des entitlements premium (créée le 2026-08-17, région WEUR).
+  // Base D1 des entitlements premium et des compteurs d'usage (créée le 2026-08-17, région WEUR).
   "d1_databases": [
     { "binding": "DB", "database_name": "quizz-premium", "database_id": "a5c5423f-859f-48b9-9926-461b22f4d703" }
   ]

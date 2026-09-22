@@ -1,0 +1,266 @@
+/* ===== Mode Solo : compteur de session, résultat animé, bilan, erreurs =====
+   Complète index.css (tokens et classes .quiz, .option, .result-hero...) sans
+   rien y redéfinir. Importé par SoloQuiz, ResultHero et ErrorRecap. */
+
+/* (.sr-only vit dans index.css.) */
+
+/* ---- Topbar : compteur de session « 25 · 84 % » ---- */
+.solo-session-pill {
+  flex: none;
+  font-size: 0.78rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--accent);
+  background: var(--accent-tint);
+  border-radius: 999px;
+  padding: 4px 9px;
+  white-space: nowrap;
+}
+
+/* Conteneur aria-live du feedback (toujours présent, sans style propre). */
+.feedback-live:empty {
+  display: none;
+}
+
+/* ---- Options illustrées (panneau dans le bouton, nom masqué) ---- */
+.option.has-sign {
+  gap: 16px;
+  padding: 12px 16px;
+}
+.option-sign {
+  flex: 0 0 68px;
+  width: 68px;
+}
+.option-sign svg {
+  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3));
+}
+.option.dim .option-sign {
+  filter: grayscale(0.6);
+}
+.option-letter svg {
+  display: block;
+}
+
+/* ---- Anneau de score : remplissage animé (--p transitionnable) ---- */
+@property --p {
+  syntax: '<number>';
+  inherits: false;
+  initial-value: 0;
+}
+.score-ring {
+  transition: --p 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* Pastille de verdict (examen : reçu / recalé) au-dessus de l'anneau. */
+.hero-verdict {
+  display: inline-block;
+  margin: 14px auto 0;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-family: var(--font-display);
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+  color: #08130b;
+  background: var(--good);
+}
+.hero-verdict.bad {
+  color: #fff;
+  background: var(--bad);
+}
+.hero-verdict.warn {
+  color: #1a1204;
+  background: var(--warn);
+}
+
+/* ---- Confettis CSS (sans-faute) : 20 particules, 1,2 s ---- */
+.result-hero {
+  position: relative;
+  overflow: hidden;
+}
+.confetti {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 2;
+}
+.confetti i {
+  position: absolute;
+  top: -12px;
+  left: var(--x);
+  width: calc(5px + var(--s) * 2px);
+  height: calc(9px + var(--s) * 3px);
+  border-radius: 2px;
+  background: hsl(var(--h) 90% 62%);
+  opacity: 0;
+  transform: translateY(0) rotate(var(--r));
+  animation: confetti-fall 1.2s cubic-bezier(0.2, 0.7, 0.4, 1) var(--d) forwards;
+}
+@keyframes confetti-fall {
+  0% {
+    opacity: 0;
+    transform: translateY(0) rotate(var(--r));
+  }
+  10% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(260px) rotate(calc(var(--r) + 300deg));
+  }
+}
+
+/* ---- Révélation différée du bouton principal de l'écran de résultat ---- */
+.reveal {
+  animation: reveal-in 0.45s var(--spring) 0.75s both;
+}
+@keyframes reveal-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* ---- Citation : teintes des deux paliers ajoutés ---- */
+.result-quote.great {
+  color: var(--good);
+}
+.result-quote.meh {
+  color: var(--warn);
+}
+
+/* ---- Record, évolution, série : rangée de puces sous la citation ---- */
+.solo-meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin: 0 0 16px;
+}
+.solo-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  font-size: 0.82rem;
+  font-weight: 650;
+  color: var(--text-dim);
+  font-variant-numeric: tabular-nums;
+}
+.solo-chip b {
+  font-weight: 750;
+  color: var(--accent);
+}
+.solo-chip.new {
+  border-color: color-mix(in srgb, var(--accent) 55%, transparent);
+  background: var(--accent-tint);
+  color: var(--text);
+}
+.solo-chip.up {
+  color: var(--good);
+}
+.solo-chip.down {
+  color: var(--bad);
+}
+.solo-chip.streak {
+  color: var(--warn);
+}
+.solo-chip.streak svg {
+  color: var(--warn);
+}
+
+/* ---- Bilan de session ---- */
+.session-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 16px 6px;
+  margin: 4px 0 18px;
+  text-align: left;
+}
+.session-title {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin: 0 0 6px;
+}
+.session-line {
+  margin: 0 0 8px;
+  font-size: 0.95rem;
+  color: var(--text-dim);
+}
+.session-line b {
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+.session-note {
+  margin: 0 0 10px;
+  font-size: 0.9rem;
+  color: var(--good);
+  font-weight: 600;
+}
+.session-card .recap {
+  margin-bottom: 4px;
+}
+
+/* ---- Mini image de panneau dans une ligne du récap ---- */
+.recap-mini-sign {
+  display: inline-block;
+  width: 28px;
+  vertical-align: middle;
+  margin: -4px 6px 0 0;
+}
+.recap-mini-sign svg {
+  filter: none;
+}
+
+/* ---- Mode erreurs : plus rien à revoir ---- */
+.errors-empty {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  min-height: 46vh;
+  justify-content: center;
+  text-align: center;
+  padding: 0 8px;
+}
+.errors-empty-title {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0;
+}
+.errors-empty-sub {
+  margin: 0 0 10px;
+  color: var(--text-dim);
+  max-width: 34ch;
+  line-height: 1.45;
+}
+.errors-empty .btn {
+  max-width: 260px;
+}
+
+/* ---- Animations réduites : tout est affiché d'emblée ---- */
+@media (prefers-reduced-motion: reduce) {
+  .score-ring {
+    transition: none;
+  }
+  .confetti {
+    display: none;
+  }
+  .reveal {
+    animation: none;
+  }
+  .option-sign svg {
+    transition: none;
+  }
+}

@@ -1,19 +1,22 @@
 import { useEffect, useRef } from 'react'
 import { useI18n } from '../i18n'
 import { usePremium } from '../lib/usePremium'
+import { PREMIUM_LIVE } from '../lib/premium'
 import { adsConfigured, ADSENSE_CLIENT, ADSENSE_SLOT_RESULT } from '../lib/ads'
+import { IconCrown } from './icons'
 
 // Bloc affiché sur l'écran de résultat :
-// - Premium  -> rien (expérience sans pub)
-// - AdSense configuré (client + slot) -> une vraie publicité ; le consentement
-//   UE est géré par le CMP certifié de Google.
-// - sinon -> un encart promo discret invitant au Premium
+// - Premium (ou AdSense non configuré) -> rien ;
+// - sinon une publicité AdSense (le script vient du <head>, le consentement UE
+//   du CMP Google), suivie, quand les paiements sont ouverts (PREMIUM_LIVE),
+//   de l'encart « sans pub » qui ouvre le paywall.
 export default function ResultAd() {
   const { t } = useI18n()
   const premium = usePremium()
   const pushed = useRef(false)
   const showAd = adsConfigured()
 
+  // Un seul push par montage (StrictMode rejoue l'effet : le ref le neutralise).
   useEffect(() => {
     if (premium || !showAd || pushed.current) return
     pushed.current = true
@@ -24,10 +27,10 @@ export default function ResultAd() {
     }
   }, [premium, showAd])
 
-  if (premium) return null
+  if (premium || !showAd) return null
 
-  if (showAd) {
-    return (
+  return (
+    <>
       <div className="result-ad">
         <span className="result-ad-label">{t('result_ad_label')}</span>
         <ins
@@ -39,18 +42,19 @@ export default function ResultAd() {
           data-full-width-responsive="true"
         />
       </div>
-    )
-  }
-
-  // Repli : encart promo "sans pub".
-  return (
-    <button
-      type="button"
-      className="noads-promo"
-      onClick={() => window.dispatchEvent(new CustomEvent('quizz:open-paywall'))}
-    >
-      <span className="noads-promo-text">👑 {t('promo_noads_text')}</span>
-      <span className="noads-promo-cta">{t('promo_noads_cta')}</span>
-    </button>
+      {PREMIUM_LIVE && (
+        <button
+          type="button"
+          className="noads-promo"
+          onClick={() => window.dispatchEvent(new CustomEvent('quizz:open-paywall'))}
+        >
+          <span className="noads-promo-text">
+            <IconCrown size={18} />
+            {t('promo_noads_text')}
+          </span>
+          <span className="noads-promo-cta">{t('promo_noads_cta')}</span>
+        </button>
+      )}
+    </>
   )
 }

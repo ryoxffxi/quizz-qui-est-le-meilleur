@@ -34,7 +34,7 @@ const total = Object.values(counts).reduce(
   (n, d) => n + Object.values(d).reduce((a, b) => a + b, 0),
   0,
 )
-console.log(`counts.json écrit — ${banks.length} banques, ${total} questions`)
+console.log(`counts.json écrit : ${banks.length} banques, ${total} questions`)
 for (const [id, d] of Object.entries(counts)) {
   const detail = Object.entries(d)
     .map(([k, v]) => `${k} ${v}`)

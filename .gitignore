@@ -1,6 +1,8 @@
 # Logs
 logs
 *.log
+# … sauf le journal des suppressions de questions (état final, à versionner)
+!scripts/fix-banks-2026-09.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -10,6 +12,8 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+# Service worker de développement (vite-plugin-pwa, devOptions)
+dev-dist
 *.local
 
 # Editor directories and files

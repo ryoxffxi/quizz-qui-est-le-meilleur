@@ -1,7 +1,23 @@
 import { useI18n } from '../i18n'
 import { PREMIUM_LIVE } from '../lib/premium'
+import { IconHeart } from './icons'
 
-// Pied de page centré : lien vers l'Instagram du créateur (@ryo.offc).
+// « Cookies » : rouvre le bandeau maison (événement écouté par CookieConsent)
+// ET le message de consentement Google (CMP AdSense) quand il est chargé ;
+// sans erreur si googlefc est absent (consentement refusé, bloqueur, dev).
+function reopenCookies() {
+  window.dispatchEvent(new CustomEvent('quizz:open-cookies'))
+  try {
+    const fc = window.googlefc
+    fc?.callbackQueue?.push({ CONSENT_DATA_READY: () => fc.showRevocationMessage() })
+  } catch {
+    /* CMP indisponible : le bandeau maison suffit */
+  }
+}
+
+// Pied de page centré : lien vers l'Instagram du créateur (@ryo.offc), bouton
+// de soutien (quand les paiements sont ouverts) et liens légaux. Toutes les
+// cibles font 44 px de haut (voir .insta-link, .footer-donate, .footer-links).
 export default function Footer() {
   const { t } = useI18n()
   return (
@@ -56,7 +72,8 @@ export default function Footer() {
           className="footer-donate"
           onClick={() => window.dispatchEvent(new CustomEvent('quizz:open-donate'))}
         >
-          💜 {t('donate_footer')}
+          <IconHeart size={16} />
+          <span>{t('donate_footer')}</span>
         </button>
       )}
       <nav className="footer-links">
@@ -82,12 +99,7 @@ export default function Footer() {
           {t('footer_terms')}
         </button>
         <span aria-hidden="true">·</span>
-        <button
-          type="button"
-          onClick={() =>
-            window.dispatchEvent(new CustomEvent('quizz:open-cookies'))
-          }
-        >
+        <button type="button" onClick={reopenCookies}>
           {t('cookie_manage')}
         </button>
         <span aria-hidden="true">·</span>
